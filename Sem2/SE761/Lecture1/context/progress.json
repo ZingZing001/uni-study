@@ -4,8 +4,8 @@
   "title": null,
   "status": "not_started",
   "resources_seen": {
-    "slides": [],
-    "transcript": "[405-422]_SOFTENG_761_Lecture_2_-_Wed_22_Jul_10_00_AM_(NZT)_Captions_English_(United_Kingdom).txt",
+    "slides": ["00-Agile_Course_Introduction.pdf"],
+    "transcript": "[423-348]_SOFTENG_761_L01C_SOFTENG_761_L02C_-_Mon_20_Jul_02_00_PM_(NZT)_Captions_English_(United_Kingdom) (1).txt",
     "transcript_quality": null
   },
   "last_session": null,
