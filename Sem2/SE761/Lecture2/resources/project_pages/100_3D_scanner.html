@@ -1,0 +1,152 @@
+
+
+
+
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <meta name="theme-color" content="#373a3c">
+        <title>Project Portal Management System</title>
+        <link rel="icon" type="image/x-icon" href="https://www.auckland.ac.nz/favicon.ico" />
+        <link href="https://cdn.foe.auckland.ac.nz/static/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet"
+              integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB"
+              crossorigin="anonymous">
+        <link href="https://cdn.foe.auckland.ac.nz/static/foe/1.6.1/css/base-template.css" rel="stylesheet">
+        <link href="https://cdn.foe.auckland.ac.nz/static/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+        
+        <link href="/static/common/css/p4p_bootstrap4.f34df4b06a9f.css" rel="stylesheet">
+    </head>
+
+    <body>
+    
+        <div class="uoa-header">
+            <a href="http://engineering.auckland.ac.nz">
+                <img src="https://cdn.foe.auckland.ac.nz/static/foe/1.6.1/img/uoa-eng.jpg" class="img-fluid" alt="The University of Auckland">
+            </a>
+        </div>
+    
+    <nav class="navbar navbar-expand-md navbar-light bg-light mb-3">
+        
+    <a class="navbar-brand" href="">project Portal System</a>
+
+    </nav>
+
+    <div class="container-fluid">
+        
+
+        
+
+        
+
+    <div class="d-md-flex pb-2">
+        <h3 class="mr-auto pr-2">Project #100: 3D scanner</h3>
+        <div>
+            <a href="/home/projects/ece/2024/"
+               class="btn btn-primary btn-lg btn-block" role="button"><i class="fa fa-arrow-left"></i> Back</a>
+        </div>
+    </div>
+
+    <div class="break-word">
+        <h4>Description:</h4>
+            <p><p>Your mission in this project is to construct an indoor 3D scanner using a robot arm (<a href="https://www.universal-robots.com/in/blog/robotic-arm/" target="_blank">link</a>). You will experiment with two camera systems: a calibrated stereo pair and a structured lighting Zivid (<a href="https://zivid.com/" target="_blank">link</a>).</p>
+<p>Note that coming into the project, you will be provided with all the software you need to control the arm and the cameras. Concerning the stereo camera system, you will be given a means to calibrate the cameras and generate 2.5D images of the scanned object. The robot arm software you are provided with should also give you accurate (sub-millimetre) pose estimates, allowing you to determine the relative positions of each 2.5D image captured to assemble a full 3D reconstruction.</p>
+<p>Your primary focus will be on combining individual frames into a cohesive 3D model, which can be tricky. Typically, a significant overlap exists between frames, which leads to considerable data redundancy. Measurement noise (along with minor changes in lighting and shadows) is another issue that can produce noticeable data inconsistencies. Your challenge in this project is to find ways to combine individual point clouds into a single cohesive model with an appropriately sized data footprint, appropriate noise filtering, and sufficient interpolation between frames to minimize "seam" artefacts as optimally as possible.</p>
+<p>Concerning theory, older techniques such as marching cubes, Poisson surface reconstruction and ball pivoting lack robustness and require high-quality raw point clouds. Volumetric approaches are promising, and it is worth looking at Kinfu libraries in OpenCV's "contrib" modules - although this approach is limited in resolution. Modern machine learning-based approaches are currently leading the way [1,2].</p>
+<p>Note that you will have access to a 3D printer that might be a helpful tool for assessing models.</p>
+<p>Your research will be done in the context of the CARES (<a href="https://www.auckland.ac.nz/en/engineering/our-research/discover/research-areas-and-facilities/cares.html" target="_blank">link</a>) robotics faculty centre, and your work could contribute to ground-truthing robotic vision systems. Note that in this context, there will likely be a focus on 3D reconstruction for agricultural applications.</p>
+<p>&nbsp;</p>
+<p>[1] Wang, Fangjinhua, et al. "Patchmatchnet: Learned multi-view patchmatch stereo."&nbsp;Proceedings of the IEEE/CVF conference on computer vision and pattern recognition. 2021.</p>
+<p>[2]&nbsp;Azinović, Dejan, et al. "Neural rgb-d surface reconstruction."&nbsp;Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2022.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p></p>
+
+        <h4>Type:</h4>
+            
+                <p>Undergraduate</p>
+            
+
+        <h4>Outcome:</h4>
+            <p><p>The outcomes of this project should be as follows:</p>
+<ul>
+<li>Become familiar with using the existing infrastructure (which will be ROS-based [<a href="https://www.ros.org/" target="_blank">link</a>]).</li>
+<li>Generate a set of point cloud scans of various objects.</li>
+<li>Investigate different approaches to merging these scans into 3D models.</li>
+<li>Design experiments to measure your solutions for robustness, quality, and accuracy.</li>
+<li>Document your research, culminating in a final report of your work.</li>
+<li>Follow a structured research methodology in which you hypothesis, test and iterate.</li>
+</ul>
+<p>&nbsp;</p></p>
+
+        <h4>Prerequisites</h4>
+            <p><p>Students should be competent Python programmers, as well as have a workable understanding of linear algebra.</p></p>
+
+        <h4>Specialisations</h4>
+            <ul>
+                <li>Software Engineering</li>
+            </ul>
+
+        <h4>Categories</h4>
+            <ul>
+                <li>AI &amp; Machine learning</li><li>Image &amp; Voice Processing</li>
+            </ul>
+
+        <h4>Supervisor</h4>
+            <ul><li>Trevor Gee</li></ul>
+
+        
+        
+            <h4>Co-supervisor</h4>
+            <ul><li>Henry Williams</li></ul>
+        
+
+        
+
+        <h4>Team</h4>
+                
+                    <ul>
+                        <li>Manav Lal</li><li>Josef Santos</li>
+                    </ul>
+
+                
+
+        <h4>Lab</h4>
+            
+                
+                    <p>Robotics (405.652, Lab)</p>
+                
+            
+    </div>
+
+
+    </div>
+
+    <footer class="footer text-white">
+        <div class="d-flex justify-content-between">
+            <div class="pl-3 uoa-overflow-text">Project Portal Management System</div>
+            <div class="px-3 uoa-overflow-text"><a href="https://askit.auckland.ac.nz" target="_blank"
+                                                   class="text-white font-weight-bold">Report a bug</a></div>
+            <div class="d-none d-md-inline pr-3 uoa-overflow-text">Copyright &copy; 2024 The University of Auckland
+            </div>
+        </div>
+    </footer>
+
+    <script src="https://cdn.foe.auckland.ac.nz/static/jquery/3.3.1/jquery-3.3.1.slim.min.js" type="text/javascript"
+            integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+            crossorigin="anonymous"></script>
+    <script src="https://cdn.foe.auckland.ac.nz/static/popper/1.14.3/umd/popper.min.js"
+            integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
+            crossorigin="anonymous"></script>
+    <script src="https://cdn.foe.auckland.ac.nz/static/bootstrap/4.1.1/js/bootstrap.min.js" type="text/javascript"
+            integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T"
+            crossorigin="anonymous"></script>
+
+    
+    
+    <script src="/static/common/js/p4p.9356cae8b91e.js" type="text/javascript"></script>
+    </body>
+    </html>
+
+

@@ -1,0 +1,146 @@
+
+
+
+
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <meta name="theme-color" content="#373a3c">
+        <title>Project Portal Management System</title>
+        <link rel="icon" type="image/x-icon" href="https://www.auckland.ac.nz/favicon.ico" />
+        <link href="https://cdn.foe.auckland.ac.nz/static/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet"
+              integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB"
+              crossorigin="anonymous">
+        <link href="https://cdn.foe.auckland.ac.nz/static/foe/1.6.1/css/base-template.css" rel="stylesheet">
+        <link href="https://cdn.foe.auckland.ac.nz/static/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+        
+        <link href="/static/common/css/p4p_bootstrap4.f34df4b06a9f.css" rel="stylesheet">
+    </head>
+
+    <body>
+    
+        <div class="uoa-header">
+            <a href="http://engineering.auckland.ac.nz">
+                <img src="https://cdn.foe.auckland.ac.nz/static/foe/1.6.1/img/uoa-eng.jpg" class="img-fluid" alt="The University of Auckland">
+            </a>
+        </div>
+    
+    <nav class="navbar navbar-expand-md navbar-light bg-light mb-3">
+        
+    <a class="navbar-brand" href="">project Portal System</a>
+
+    </nav>
+
+    <div class="container-fluid">
+        
+
+        
+
+        
+
+    <div class="d-md-flex pb-2">
+        <h3 class="mr-auto pr-2">Project #76: Computer Vision Support for Reinforcement Learning Overtaking Maneuvering of a Formula SAE CAR</h3>
+        <div>
+            <a href="/home/projects/ece/2024/"
+               class="btn btn-primary btn-lg btn-block" role="button"><i class="fa fa-arrow-left"></i> Back</a>
+        </div>
+    </div>
+
+    <div class="break-word">
+        <h4>Description:</h4>
+            <p><p>The Formula SAE competition is introducing an autonomous vehicle category. To meet this challenge, we aim to develop a fully autonomous control system that enables the car to learn to drive itself through Reinforcement Learning. Reinforcement Learning is a machine learning approach that seeks to allow a robot to learn to operate based on its interaction with the environment without human input or control.</p>
+<p>While RL has demonstrable capability at "learning" to extract relevant information from images directly through the auto-encoder paradigm, this approach adds complexity to the problem due to the non-trivial encoding of information within images. To assess how much of an impact this has, it is possible to compare the performance of RL systems that use images directly with systems that use a custom image data extraction layer using computer vision techniques.</p>
+<p>This project proposes doing precisely this. Your mission is to create a computer vision layer for detecting and localising a slower-moving opponent vehicle on the track to support overtaking manoeuvres based on control logic learned through RL. In its simplest form, you will use images from an RGB-D active depth camera to (1) determine the position of the target vehicle in the image and (2) the vehicle's location (and orientation) in 3D space. Repeated measurements should give you speed and acceleration estimates (relative to your vehicle) and a set of historical waypoints that would allow you to interpolate a trajectory of the opponent vehicle indexed by time (also from your vehicle's frame of reference). Ambitious students may even try their hand at future trajectory extrapolation. Once the data extraction problems have been solved, the next challenge will be to design a logical structure for presenting this information to an RL algorithm. You will also need to design and develop real-world experiments (not in simulation) to verify the accuracy of your solution.</p>
+<p>Time permitting, the project's final goal will be to compare your computer vision approach's RL training times and performance against a purely image-based RL solution (most likely in a simulated environment). This will be done with the collaboration and support of other teams and members within CARES (https://cares.blogs.auckland.ac.nz/). Note that much of the hardware and RL infrastructure for this project was developed within CARES by Henry and his team, and you will work with them on the RL side of the project while Trevor will provide support on the computer vision side.&nbsp;</p></p>
+
+        <h4>Type:</h4>
+            
+                <p>Undergraduate</p>
+            
+
+        <h4>Outcome:</h4>
+            <p><p>The outcomes of this project should be:</p>
+<ul>
+<li>Develop a system for real-time detection of a Formula SAE opponent in RGB-D images.</li>
+<li>Develop a system for real-time estimation of 3D space occupancy of an opponent Formula SAE vehicle relative to your own Formula SAE vehicle.</li>
+<li>Develop a system for estimating the directional velocity of acceleration of an opponent Formula SAE vehicle relative to your own.</li>
+<li>Optionally develop a trivial trajectory forecasting system.</li>
+<li>Develop sound real-world evaluation strategies for your algorithms and iterate to solve problems.</li>
+<li>If time permits, collaborate with the RL team to test an RL algorithm that uses your vision system against an RL algorithm that directly uses images as input.</li>
+<li>All work should be well documented, culminating in a final research report.</li>
+</ul>
+<p>High-quality work could potentially lead to a publication at an international conference.</p></p>
+
+        <h4>Prerequisites</h4>
+            <p><p>Students should be competent Python programmers, able to come to the Lab to work with cameras and equipment, and comfortable with Linear Algebra (computer vision mathematics).</p></p>
+
+        <h4>Specialisations</h4>
+            <ul>
+                <li>Software Engineering</li>
+            </ul>
+
+        <h4>Categories</h4>
+            <ul>
+                <li>AI &amp; Machine learning</li><li>Image &amp; Voice Processing</li><li>Robotics</li>
+            </ul>
+
+        <h4>Supervisor</h4>
+            <ul><li>Trevor Gee</li></ul>
+
+        
+        
+            <h4>Co-supervisor</h4>
+            <ul><li>Henry Williams</li></ul>
+        
+
+        
+
+        <h4>Team</h4>
+                
+                    <ul>
+                        <li>Tony Lu</li><li>Raymond Luo</li>
+                    </ul>
+
+                
+
+        <h4>Lab</h4>
+            
+                
+                    <p>Robotics (405.652, Lab)</p>
+                
+            
+    </div>
+
+
+    </div>
+
+    <footer class="footer text-white">
+        <div class="d-flex justify-content-between">
+            <div class="pl-3 uoa-overflow-text">Project Portal Management System</div>
+            <div class="px-3 uoa-overflow-text"><a href="https://askit.auckland.ac.nz" target="_blank"
+                                                   class="text-white font-weight-bold">Report a bug</a></div>
+            <div class="d-none d-md-inline pr-3 uoa-overflow-text">Copyright &copy; 2024 The University of Auckland
+            </div>
+        </div>
+    </footer>
+
+    <script src="https://cdn.foe.auckland.ac.nz/static/jquery/3.3.1/jquery-3.3.1.slim.min.js" type="text/javascript"
+            integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+            crossorigin="anonymous"></script>
+    <script src="https://cdn.foe.auckland.ac.nz/static/popper/1.14.3/umd/popper.min.js"
+            integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
+            crossorigin="anonymous"></script>
+    <script src="https://cdn.foe.auckland.ac.nz/static/bootstrap/4.1.1/js/bootstrap.min.js" type="text/javascript"
+            integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T"
+            crossorigin="anonymous"></script>
+
+    
+    
+    <script src="/static/common/js/p4p.9356cae8b91e.js" type="text/javascript"></script>
+    </body>
+    </html>
+
+

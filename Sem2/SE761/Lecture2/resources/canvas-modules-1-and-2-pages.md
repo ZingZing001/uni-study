@@ -78,11 +78,34 @@ The real need also includes:
 
 ---
 
-## Items under Modules 1 & 2 NOT captured here
+## Attachment: project_pages.zip
+
+Downloaded by the user, 412 KB, now committed alongside this file. Contents: **134 HTML pages** from the Part IV "Project Portal Management System" — the catalogue of candidate projects.
+
+Parsed into `project-index.csv` in this folder (columns: Num, Title, Type, Specialisations, Categories, Supervisor, Prerequisites, Summary, File) so it can be filtered without opening 134 files.
+
+Breakdown by specialisation:
+
+| Specialisation combination | Projects |
+|---|---|
+| Software Engineering | 50 |
+| Computer Systems Engineering | 21 |
+| Computer Systems Engineering + Software Engineering | 21 |
+| Electrical and Electronic Engineering | 19 |
+| CSE + EEE + SE | 13 |
+| Computer Systems Engineering + EEE | 8 |
+| EEE + Software Engineering | 2 |
+
+**⚠ This is project-selection reference material, not lecture content.** Per CLAUDE.md §3.2 it is not quizzable — no concept IDs are drawn from it.
+
+**⚠ Possible stale year.** Project #1 states "This project is new for 2024" and the page footer reads "Copyright © 2024 The University of Auckland". Worth confirming with the course whether this catalogue is the current year's list of biddable projects or an example set from a previous year — it matters if you're choosing from it.
+
+**Note:** project numbers **29, 85 and 92** are absent from the zip. 134 files, numbered 1–137 with those three gaps.
+
+## Other items under Modules 1 & 2 NOT captured here
 
 | Item | Type | Why not captured |
 |---|---|---|
-| `project_pages.zip` (412 KB) | Attachment | Not downloaded — awaiting your go-ahead. Source: `canvas.auckland.ac.nz/courses/142808/files/18194269` |
 | Client Says, Wants, and Needs in Software Development | **Quiz** | Deliberately not opened. Clicking into a Canvas quiz can start a timed attempt; that's yours to trigger. |
 | Wed 22 Jul Lecture Recording — Project Rationale | External URL | Video. Per repo policy no lecture recordings are committed; the 22 Jul transcript is already in this folder. |
 
