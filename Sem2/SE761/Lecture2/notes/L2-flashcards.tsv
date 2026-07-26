@@ -1,0 +1,57 @@
+What is the project description you receive called, in the lecture's terms?	Just an idea, or "one seed" - a starting point, not a specification.
+From the project description, in which direction do you build the rationale?	Upwards, to the bigger picture.
+From the project description, in which direction do you build the justification?	Downwards, to available resources and feasibility.
+Which of the three artefacts sits closest to the client's own description?	The purpose.
+What is the rule about deciding the product?	Do not directly jump to what needs to be built; stay at the rationale level until fully convinced.
+Define rationale (Canvas wording).	The broader context and underlying need that gives rise to the project.
+What two questions generate a rationale?	"So what?" and "Who cares?"
+What does the "So what?" question ask?	What difference is it going to make, and why is it important to build this project.
+What does the "Who cares?" question ask?	Who the project will help or affect - the ultimate beneficiaries.
+Give four categories of beneficiary named in the lecture.	Environment, people, community, and industry.
+Can "so what" and "who cares" points be separated into fixed positions in the list?	No. They can be placed at any position; there is no definite position for either.
+What must a high-level rationale bullet point never mention?	The product or the solution.
+How must rationale bullet points be ordered?	High level to low level, with each point feeding into the next.
+How long should each rationale bullet point be?	One sentence, roughly one line.
+Roughly how many rationale bullet points were suggested?	Around 8 to 10.
+In the ice-cap melting example, what was the top of the rationale ladder?	The planet and climate change, with global warming as a cause.
+What proved the read-out rationale example was written correctly?	The product description was never revealed, yet the ladder still worked - it never touched the product.
+Define purpose (Canvas wording).	The specific goal or intent of the project within that larger context.
+What relationship does the purpose assert?	The relationship between the high-level rationale (the why) and the product the client wants built.
+Why can't a purpose claim to solve the high-level problem?	Because the product contributes only a small part; it cannot be a large-scale solution to the whole problem.
+What two components make up a well-formed purpose statement?	What is built, plus what it contributes to.
+Define justification (Canvas wording).	Why this solution is feasible and valuable, often referring to evidence, demand, or practicality.
+What is justification assessed against?	Available resources - team, budget, time - in communication with the client.
+What is justification also known as?	The business case for the project.
+Can competitor products serve as justification evidence?	Yes. If a similar solution has worked for competitors, that supports feasibility.
+Define what a client "says".	Their literal words or the written description - vague and under-specified.
+Define what a client "wants".	Their initial expectation: what they are picturing but have not fully explained.
+Define what a client "needs".	The real business requirement, once resources, cost and limitations are applied.
+Why do says, wants and needs differ?	Unclear communication, evolving understanding, and unspoken assumptions.
+What does the endpoint of the says-to-needs journey become in Scrum?	The product backlog.
+When can says, wants and needs coincide?	When the client is technical enough.
+If says, wants and needs coincide, what do you still do?	Carry out the discussions anyway, to confirm rather than assume.
+In the fitness studio example, what did the client say?	"We need a calendar where users can book a class with one click."
+Name two operational needs in the fitness studio example that the client never mentioned.	Preventing double bookings and managing class capacity (also payment integration, waitlisting).
+What is the diagnostic tell for a "says" statement?	It is quoted, or is a description of the solution in vague terms.
+What is the diagnostic tell for a "wants" statement?	Language like "envision" or "imagine" - what they picture after discussion.
+What is the diagnostic tell for a "needs" statement?	It emerges from analysis or user research, not from what was stated.
+What is "the first core question" to ask a client?	Why - why does this matter, and who are the affected parties.
+What are the two benefits of asking the client "why"?	It gives you more detail about the project, and it signals to the client that you are more interested in developing it.
+What must you do before meeting the client?	Your homework: infer and write down a candidate rationale, and prepare a sequence of questions.
+Is research required for the initial project rationale?	No. It must be based on current knowledge and team discussion only.
+What learning analogy was used to justify questioning the client?	A class where students who do not ask questions do not learn; you are now on the other side of that.
+Where do non-technical clients' project descriptions usually come from?	A reference software product they have seen - a competitor's or a colleague's.
+What question exposes a reference-product origin?	"Is this description your own idea, or is it coming from somewhere else?"
+What conflict arises from a reference-product description?	The inherited technology stack may not suit the core functionalities requested.
+What do you do when the client's suggested technology doesn't fit the functionality?	Counter-question: put it to the client that those technologies are not the best for implementing those functionalities.
+What does a product owner do?	Acts as a representative of the client, monitoring project development and carrying communication between client and team.
+In this course's projects, what is the relationship between client and product owner?	They are the same person.
+What test applies to words like "scalable" and "accessible"?	Each and every word must have a meaning clear in your mind for this specific project.
+What does "scalable" mean in the food-sharing justification?	That it can scale in future if there are more users.
+What were the three faults in the first AI-generated rationale?	Not in bullet points, not one-liners, and it talked about the project or solution.
+Which rationale fault persisted even after the AI was told to skip implementation detail?	It still talked about the project itself, just not the implementation.
+What happened to the AI rationale when "proper flow" was enforced?	The top of the ladder rose from "pollinators like bees are vital" to "a healthy planet depends on stability of ecosystems and biodiversity".
+What does the flow correction teach about checking your own rationale?	Enforcing flow reveals whether your top point is genuinely the highest level, or whether there is a level above it.
+What is the ownership rule for AI-assisted work?	You must own what you submit; you cannot attribute it to the AI and disclaim responsibility.
+How do you satisfy the ownership rule in practice?	Read the output fully and justify it in your own mind before submitting.
+Which two Canvas module topics were NOT covered in this lecture?	Agile, and Scrum and Kanban - both deferred to the following week.

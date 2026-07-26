@@ -1,17 +1,35 @@
 {
   "course": "SE761",
   "lecture": 2,
-  "title": null,
-  "status": "not_started",
+  "title": "From Idea to Rationale - Rationale, Purpose, Justification; Says vs Wants vs Needs",
+  "status": "notes_written_untested",
   "resources_seen": {
     "slides": [],
+    "slides_note": "NO SLIDE DECK EXISTS for this lecture (confirmed by user). Delivered as a walkthrough of Canvas Modules 1 & 2 pages plus a live Gen AI demo. Transcript is the primary source; Canvas pages carry precise wording.",
     "transcript": "[405-422]_SOFTENG_761_Lecture_2_-_Wed_22_Jul_10_00_AM_(NZT)_Captions_English_(United_Kingdom) (1).txt",
-    "transcript_quality": null
+    "transcript_quality": "fair - auto-generated, garbles several proper nouns and at least one key term",
+    "supplementary": ["canvas-modules-1-and-2-pages.md", "project_pages.zip / project_pages/ (project catalogue - reference only, not quizzable)"]
   },
-  "last_session": null,
-  "sessions_count": 0,
-  "concepts": [],
+  "last_session": "2026-07-27T00:00:00+12:00",
+  "sessions_count": 1,
+  "concepts": [
+    { "id": "L2-C01", "name": "Pipeline: idea -> rationale -> purpose -> justification", "source": "transcript - opening and rationale sections; Canvas 'Contents of Module 1 and 2'", "priority": "high", "bloom_reached": null, "confidence": null, "attempts": 0, "correct": 0, "last_reviewed": null, "next_review": "2026-07-28", "interval_days": 1, "note": "Untested. Direction of travel (up to rationale, down to justification) is the assessable core." },
+    { "id": "L2-C02", "name": "Rationale: So what? + Who cares?, with three constraints", "source": "transcript - rationale section; Canvas 'Example: Project Rationale, Purpose and Justification'", "priority": "high", "bloom_reached": null, "confidence": null, "attempts": 0, "correct": 0, "last_reviewed": null, "next_review": "2026-07-28", "interval_days": 1, "note": "Untested. This IS Assignment 1. No-product constraint is the most commonly violated." },
+    { "id": "L2-C03", "name": "Purpose: links rationale to product, proportionally", "source": "transcript - purpose section; Canvas example page", "priority": "high", "bloom_reached": null, "confidence": null, "attempts": 0, "correct": 0, "last_reviewed": null, "next_review": "2026-07-28", "interval_days": 1, "note": "Untested. Watch for overclaiming (solving vs contributing)." },
+    { "id": "L2-C04", "name": "Justification: feasibility against resources; the business case", "source": "transcript - justification section; Canvas example page", "priority": "medium", "bloom_reached": null, "confidence": null, "attempts": 0, "correct": 0, "last_reviewed": null, "next_review": "2026-07-28", "interval_days": 1, "note": "Untested. 'Business case' is the alternative term to memorise." },
+    { "id": "L2-C05", "name": "Says vs Wants vs Needs; endpoint is the product backlog", "source": "transcript - says/wants/needs section; Canvas 'Decoding what a client says vs wants vs needs'", "priority": "high", "bloom_reached": null, "confidence": null, "attempts": 0, "correct": 0, "last_reviewed": null, "next_review": "2026-07-28", "interval_days": 1, "note": "Untested. Formative Canvas quiz exists on exactly this. Diagnostic tells: quoted=says, envision/imagine=wants, emerges from analysis=needs." },
+    { "id": "L2-C06", "name": "Ask WHY first; homework before the client meeting", "source": "transcript - questioning section", "priority": "medium", "bloom_reached": null, "confidence": null, "attempts": 0, "correct": 0, "last_reviewed": null, "next_review": "2026-07-28", "interval_days": 1, "note": "Untested. Dual benefit (detail + signalling interest) is the part usually missed." },
+    { "id": "L2-C07", "name": "Reference-product origin of descriptions and the technology conflict", "source": "transcript - client questioning section", "priority": "medium", "bloom_reached": null, "confidence": null, "attempts": 0, "correct": 0, "last_reviewed": null, "next_review": "2026-07-28", "interval_days": 1, "note": "Untested. Default case here since course clients are mostly non-technical." },
+    { "id": "L2-C08", "name": "Client, product owner and user", "source": "transcript - Q&A after says/wants/needs", "priority": "low", "bloom_reached": null, "confidence": null, "attempts": 0, "correct": 0, "last_reviewed": null, "next_review": "2026-07-28", "interval_days": 1, "note": "Untested. Preliminary - full Scrum roles come next lecture. Revisit and merge then." },
+    { "id": "L2-C09", "name": "Every word must have a meaning clear in your mind", "source": "transcript - justification section", "priority": "low", "bloom_reached": null, "confidence": null, "attempts": 0, "correct": 0, "last_reviewed": null, "next_review": "2026-07-28", "interval_days": 1, "note": "Untested. Applies directly to marking criteria on language." },
+    { "id": "L2-C10", "name": "Gen AI rationale drafting: the correction sequence and the ownership rule", "source": "transcript - Gen AI demo section", "priority": "medium", "bloom_reached": null, "confidence": null, "attempts": 0, "correct": 0, "last_reviewed": null, "next_review": "2026-07-28", "interval_days": 1, "note": "Untested. The five corrections map 1:1 onto the C02 rules - good integrative quiz material." }
+  ],
   "misconceptions": [],
-  "open_questions": [],
-  "next_action": "Not yet ingested. Run Mode A for SE761 Lecture 2."
+  "open_questions": [
+    "Term check: transcript says 'speed rationales'; 'seed rationales' also plausible given the 'one seed' framing. Confirm before using in writing.",
+    "Assignment 1 rubric arithmetic: 12 content + 2 Gen AI reflection against a stated total of 15.",
+    "Staff name handling project organisation is garbled across the transcript (Razer/Reza/Risa/Arisa).",
+    "SE761 Lecture 1 has an Agile intro deck and its own transcript, not yet ingested."
+  ],
+  "next_action": "Notes written for all 10 concepts, none tested. Run a Mode B quiz round. Then ingest SE761 Lecture 1 (deck + transcript available) and expect Agile/Scrum/Kanban in Lecture 3."
 }

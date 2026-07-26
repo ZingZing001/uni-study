@@ -1,4 +1,4 @@
-# SE761 Lecture 1 - Quiz history
+# SOFTENG 761 Lecture 2 - Quiz history
 
 APPEND-ONLY. New rounds at the bottom. Never edit or reflow earlier rounds.
 
@@ -7,4 +7,3 @@ Format per round: date, concepts covered, per-question grade (Correct / Partial 
 ---
 
 *No rounds yet.*
-
