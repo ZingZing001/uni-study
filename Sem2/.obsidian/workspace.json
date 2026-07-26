@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f18824d63f2acd18",
+        "id": "267260145aa969ae",
         "type": "tabs",
         "children": [
           {
-            "id": "bbad6439585fc328",
+            "id": "998c067e8b336ea3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "SE761/Lecture2/notes/L2-notes.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "L2-notes"
             }
           }
         ]
@@ -189,17 +193,32 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "bbad6439585fc328",
+  "active": "998c067e8b336ea3",
   "lastOpenFiles": [
-    "ENGGEN403/Lecture1/notes/L1-summary.md",
     "ENGGEN403/Lecture1/notes/L1-notes.md",
+    "ENGGEN403/Lecture1/notes/L1-summary.md",
+    "ENGGEN403/Lecture1/notes/L1-notes.md.tmp.19592.b0142db41bef",
+    "ENGGEN403/Lecture1/context/quiz-history.md",
+    "ENGGEN403/Lecture1/context/session-log.md",
     "ENGGEN403/Lecture1/context/admin-and-dates.md",
+    "ENGGEN403/course-context/syllabus-map.md",
+    "ENGGEN403/course-context/weak-spots.md",
+    "SE761/Lecture2/notes/L2-notes.md",
+    "ENGGEN403/Lecture1/notes/figures/L1-p24-success-curve.png",
+    "ENGGEN403/Lecture1/notes/figures/L1-p22-grow-your-grit.png",
+    "ENGGEN403/Lecture1/notes/figures/L1-p19-mindset-heads.png",
+    "ENGGEN403/Lecture1/notes/figures/L1-p18-honeycomb-weeks.png",
+    "ENGGEN403/Lecture1/notes/figures/L1-p17-honeycomb.png",
+    "ENGGEN403/Lecture1/notes/figures/L1-p15-t-shaped.png",
+    "ENGGEN403/Lecture1/notes/figures/L1-p22-grow-your-grit-22.png",
+    "ENGGEN403/Lecture1/notes/figures/L1-p24-success-curve-24.png",
+    "ENGGEN403/Lecture1/notes/figures/L1-p15-t-shaped-15.png",
+    "ENGGEN403/Lecture1/notes/figures/L1-p17-honeycomb-17.png",
+    "ENGGEN403/Lecture1/notes/figures",
+    "SE761/Lecture2/notes/L2-summary.md",
     "SE761/Lecture2/notes/L2-flashcards.tsv",
     "SE761/Lecture2/notes/L2-flashcards.tsv.tmp.19592.201fe1bdbdcc",
-    "SE761/Lecture2/notes/L2-summary.md",
     "SE761/Lecture2/notes/L2-summary.md.tmp.19592.fe5b008cb451",
-    "未命名.base",
-    "SE761/Lecture2/notes/L2-notes.md",
-    "ENGGEN403/course-context/syllabus-map.md"
+    "未命名.base"
   ]
 }

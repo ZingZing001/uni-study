@@ -70,6 +70,10 @@ ls /tmp/page-*.jpg    # filename zero-padding varies — don't guess it
 
 Read those images. Rasterising is ~1,600 tokens/page, so be selective — but never skip a diagram to save tokens. If `pdffonts` comes back empty, the deck is scanned: skip `pdftotext` entirely and rasterise.
 
+> **Poppler on this Windows machine** lives in a conda environment and is *not* on `PATH`:
+> `C:\Users\johns\.conda\envs\environment\Library\bin\` (v25.07.0 — `pdfinfo`, `pdffonts`, `pdftotext`, `pdftoppm` all present).
+> Call the binaries by full path. The bare `pdftotext` on `PATH` is a stripped copy shipped with Git for Windows — it works, but the rest of the toolchain isn't there. Don't conclude Poppler is missing just because `pdftoppm` isn't on `PATH`.
+
 When slides and transcript disagree, they're telling you different things: the slides carry the precise wording I'll be marked against; the spoken transcript carries the reasoning, the emphasis, and the "why". Record both. If they actually conflict, flag it in `context/admin-and-dates.md` as a question for the lecturer.
 
 If the transcript is missing, proceed anyway. Set `"transcript": "missing"` in `progress.json` and mark any concept you could only infer from a bullet point with `⚠ thin — slides only`. Don't silently invent the explanation the lecturer would have given.
@@ -156,6 +160,49 @@ Also write:
 
 - `notes/L4-summary.md` — one page, dense, no examples. For the night before an exam.
 - `notes/L4-flashcards.tsv` — `question<TAB>answer`, one per line, no header. Atomic cards: one fact or one relationship each. Never a card whose answer is a list of six things — split it.
+
+### 3.3a Visuals — extract them from the slides, don't describe them
+
+**Every note file must carry the actual images from the deck.** A diagram described in prose is a diagram I can't revise from. If the lecturer drew it, I want to see it.
+
+Export figures into `notes/figures/` and embed them inline at the point the concept is explained:
+
+```bash
+pdftoppm -png -r 150 -f 17 -l 17 slides.pdf notes/figures/L4-p17-honeycomb
+```
+
+Name them `L<N>-p<page>-<slug>.png` so the source page is always recoverable. Embed with a plain relative path and a real alt text:
+
+```markdown
+![Honeycomb of twelve course components, Systems Week highlighted](figures/L4-p17-honeycomb.png)
+```
+
+Rules:
+
+- **Prefer the slide's own image over anything you generate.** That's the thing I'll be marked against. Only build a mermaid diagram when the slides have no figure for that relationship, or when the relationship is genuinely yours (a concept map across concepts, a process you inferred).
+- **Export any slide carrying a figure, table, equation, graph, framework, or quote laid out visually** — not just the ones that look "important". Cheap to export, expensive to miss.
+- **Zoom into dense slides rather than skipping them.** If a slide has four panels of small text, crop and read each one:
+  ```bash
+  pdftoppm -png -r 260 -f 22 -l 22 -x 130 -y 130 -W 700 -H 620 slides.pdf /tmp/panel
+  ```
+  Text extraction routinely drops content embedded in images — equations, quote attributions, panel bodies. If a page's extracted text looks thinner than the page area suggests, that content exists and you haven't found it yet.
+- **Always read the rendered image yourself before writing about it.** Never infer a diagram's content from surrounding text.
+- **If a figure can't be exported**, say so at the top of the note with the page number and what's missing. Never quietly omit it.
+- Skip pure chrome: title slides, "Questions?", agenda slides, blank video placeholders.
+
+### 3.3b Format for Obsidian — I read these in a vault, not a terminal
+
+Notes are read in Obsidian. Write for that renderer:
+
+- **YAML frontmatter** on every note: `course`, `lecture`, `title`, `date`, `concepts`, `tags`.
+- **Callouts instead of bold paragraphs.** `> [!abstract]` for why-it-matters, `> [!question]` for cue questions, `> [!quote]` for verbatim slide/lecturer wording, `> [!example]` for worked examples, `> [!warning]` for common traps, `> [!important]` for the load-bearing idea, `> [!bug]` for thin or unverified content.
+- **Collapse long reference material** with `> [!quote]-` (the trailing `-` starts it folded) — verbatim quote lists, full self-test question sets, per-pillar detail. Keep the page skimmable; expand on demand.
+- **Internal links between concepts**: `[[#🧠 L1-C03 Fixed mindset vs growth mindset|C03]]`. Link every cross-reference rather than naming it in prose.
+- **Tables for any two-way contrast.** Fixed vs growth, says vs wants vs needs, before vs after — a table beats parallel bullet lists every time.
+- **Emoji in concept headings** as visual anchors for scanning. One per heading, semantically chosen, not decorative.
+- **LaTeX for equations**: `$$\text{Effort} \times \text{Talent} = \text{Skill}$$`.
+- **Mermaid** for process chains and dependency graphs.
+- Horizontal rules between concepts. Never a wall of unbroken prose.
 
 ### 3.4 Interleave the quizzing — don't save it all for the end
 
