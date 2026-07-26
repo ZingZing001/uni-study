@@ -1,17 +1,158 @@
 {
   "course": "ENGGEN403",
   "lecture": 2,
-  "title": null,
-  "status": "not_started",
+  "title": "An introduction to systems thinking",
+  "status": "notes_written_untested",
   "resources_seen": {
-    "slides": ["ENGGEN_403_Lecture_02_2026_final.pdf"],
+    "slides": [
+      "ENGGEN_403_Lecture_02_2026_final.pdf"
+    ],
+    "slide_pages": 26,
+    "slide_text_layer": true,
     "transcript": "ENGGEN_403_[23_July]_Lecture_2_An_introduction_to_systems_thinking_in_ENGGEN_403_Captions_English_(United_Kingdom).txt",
-    "transcript_quality": null
+    "transcript_quality": "good",
+    "figures_extracted": [
+      "L2-p16-wicked-problems.png",
+      "L2-p17-system-examples.png",
+      "L2-p20-system-boundary.png",
+      "L2-p21-portland-state-map.png",
+      "L2-p23-systems-methodology.png"
+    ]
   },
-  "last_session": null,
-  "sessions_count": 0,
-  "concepts": [],
+  "last_session": "2026-07-27T00:00:00+12:00",
+  "sessions_count": 1,
+  "concepts": [
+    {
+      "id": "L2-C01",
+      "name": "Wicked vs complex vs long problems",
+      "source": "slide 16; transcript - wicked problems section",
+      "priority": "high",
+      "bloom_reached": null,
+      "confidence": null,
+      "attempts": 0,
+      "correct": 0,
+      "last_reviewed": null,
+      "next_review": "2026-07-28",
+      "interval_days": 1,
+      "note": "Untested."
+    },
+    {
+      "id": "L2-C02",
+      "name": "Amelioration, not solution",
+      "source": "slide 16; transcript",
+      "priority": "high",
+      "bloom_reached": null,
+      "confidence": null,
+      "attempts": 0,
+      "correct": 0,
+      "last_reviewed": null,
+      "next_review": "2026-07-28",
+      "interval_days": 1,
+      "note": "Untested."
+    },
+    {
+      "id": "L2-C03",
+      "name": "Why systems thinking; context, language, tools; Portland State map",
+      "source": "slides 19,21-24; transcript - definitions",
+      "priority": "high",
+      "bloom_reached": null,
+      "confidence": null,
+      "attempts": 0,
+      "correct": 0,
+      "last_reviewed": null,
+      "next_review": "2026-07-28",
+      "interval_days": 1,
+      "note": "Untested."
+    },
+    {
+      "id": "L2-C04",
+      "name": "What makes something a system: elements, interconnections, purpose",
+      "source": "slide 20; transcript",
+      "priority": "high",
+      "bloom_reached": null,
+      "confidence": null,
+      "attempts": 0,
+      "correct": 0,
+      "last_reviewed": null,
+      "next_review": "2026-07-28",
+      "interval_days": 1,
+      "note": "Untested."
+    },
+    {
+      "id": "L2-C05",
+      "name": "The boundary problem",
+      "source": "slide 20; transcript - boundary section",
+      "priority": "high",
+      "bloom_reached": null,
+      "confidence": null,
+      "attempts": 0,
+      "correct": 0,
+      "last_reviewed": null,
+      "next_review": "2026-07-28",
+      "interval_days": 1,
+      "note": "Untested."
+    },
+    {
+      "id": "L2-C06",
+      "name": "Emergence and purpose are the same idea",
+      "source": "slide 17; transcript - examples section",
+      "priority": "high",
+      "bloom_reached": null,
+      "confidence": null,
+      "attempts": 0,
+      "correct": 0,
+      "last_reviewed": null,
+      "next_review": "2026-07-28",
+      "interval_days": 1,
+      "note": "Untested."
+    },
+    {
+      "id": "L2-C07",
+      "name": "The purpose of a system drifts over time",
+      "source": "transcript - purpose section",
+      "priority": "medium",
+      "bloom_reached": null,
+      "confidence": null,
+      "attempts": 0,
+      "correct": 0,
+      "last_reviewed": null,
+      "next_review": "2026-07-28",
+      "interval_days": 1,
+      "note": "Untested."
+    },
+    {
+      "id": "L2-C08",
+      "name": "Elements vs interconnections is a modelling choice",
+      "source": "transcript - metabolic map section",
+      "priority": "medium",
+      "bloom_reached": null,
+      "confidence": null,
+      "attempts": 0,
+      "correct": 0,
+      "last_reviewed": null,
+      "next_review": "2026-07-28",
+      "interval_days": 1,
+      "note": "Untested."
+    },
+    {
+      "id": "L2-C09",
+      "name": "Stakeholders widen; power dynamics decide landing",
+      "source": "slides 18-19; transcript",
+      "priority": "high",
+      "bloom_reached": null,
+      "confidence": null,
+      "attempts": 0,
+      "correct": 0,
+      "last_reviewed": null,
+      "next_review": "2026-07-28",
+      "interval_days": 1,
+      "note": "Untested."
+    }
+  ],
   "misconceptions": [],
-  "open_questions": [],
-  "next_action": "Not yet ingested. Run Mode A for ENGGEN403 Lecture 2."
+  "open_questions": [
+    "Wicked problems citation: transcript says \"Writtel and Webb\" 1973; standard citation is Rittel and Webber. Lecturer offered to post the reference on Canvas - retrieve it, since the ten characteristics were not covered.",
+    "Slide 22 third definition (\"Systems Thinking is Soft Operations Research\") has its attribution cut off in the PDF text layer."
+  ],
+  "next_action": "Notes written for 9 concepts, none tested. Tools (intervention points, causal mapping) are deferred to Lecture 8 - expect to revisit. Required reading: Thinking in Systems, first two chapters."
 }

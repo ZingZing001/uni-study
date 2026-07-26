@@ -99,6 +99,78 @@
       "name": "The honeycomb - course architecture",
       "priority": "medium",
       "status": "never_tested"
+    },
+    {
+      "date": "2026-07-28",
+      "lecture": 2,
+      "concept": "L2-C01",
+      "name": "Wicked vs complex vs long",
+      "priority": "high",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-07-28",
+      "lecture": 2,
+      "concept": "L2-C02",
+      "name": "Amelioration not solution",
+      "priority": "high",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-07-28",
+      "lecture": 2,
+      "concept": "L2-C03",
+      "name": "Systems thinking: context, language, tools",
+      "priority": "high",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-07-28",
+      "lecture": 2,
+      "concept": "L2-C04",
+      "name": "What makes something a system",
+      "priority": "high",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-07-28",
+      "lecture": 2,
+      "concept": "L2-C05",
+      "name": "The boundary problem",
+      "priority": "high",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-07-28",
+      "lecture": 2,
+      "concept": "L2-C06",
+      "name": "Emergence and purpose",
+      "priority": "high",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-07-28",
+      "lecture": 2,
+      "concept": "L2-C07",
+      "name": "Purpose drifts over time",
+      "priority": "medium",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-07-28",
+      "lecture": 2,
+      "concept": "L2-C08",
+      "name": "Elements vs interconnections is a choice",
+      "priority": "medium",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-07-28",
+      "lecture": 2,
+      "concept": "L2-C09",
+      "name": "Stakeholders and power dynamics",
+      "priority": "high",
+      "status": "never_tested"
     }
   ]
 }

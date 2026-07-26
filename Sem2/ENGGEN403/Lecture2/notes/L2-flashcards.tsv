@@ -1,0 +1,60 @@
+Give the five adjectives the slide applies to wicked problems.	Unsolvable, undefinable, unverifiable, unique, uncertain.
+Define a wicked problem.	An issue that resists a complete or simple solution; it can be ameliorated but not solved, and amelioration may create new problems.
+Who originated the term "wicked problem", and when?	Rittel and Webber, 1973.
+How many characteristics of wicked problems did the original paper set out?	Ten.
+What distinguishes a complex problem from a wicked one?	A complex problem is hard but may have an optimal solution; a wicked one resists complete solution.
+What defines a "long" problem?	Its timeframe.
+Give the lecture's example of a complex but not wicked problem.	The City Rail Link - testing air conditioning, alarms, capacity and passenger flow optimisation.
+Why is Western society said to struggle with long problems?	It is set up to solve short-term problems; long problems outlast governments and quarterly business reporting.
+Are most ENGGEN403 problems wicked, complex or long?	Both complex and long, as well as wicked.
+Give the renewables example of a wicked problem.	Shifting from fossil fuels to renewables creates job losses, weather-dependent supply, battery storage problems, lithium toxicity, recycling difficulty and critical-mineral supply-chain issues.
+What is the "wicked signature" shown by the renewables example?	The fix worked and still generated an entirely new problem set.
+Why is recovering critical minerals from batteries a problem?	Components are muddled together, and it costs more to extract them than to mine them from the ground.
+What replaces "solve" as the goal for a wicked problem?	Ameliorate - shift the system in the right direction even without a complete solution.
+What shape should a systems recommendation take?	We understand the system well enough to predict its behaviour; do this, and it will shift the system to there.
+What three things does systems thinking provide?	Context, language and tools.
+In the Portland State map, what are the two overlapping circles?	Systems research and systems practice.
+What sits in the overlap of the Portland State map?	Systems methodology - containing systems thinking, and computer modelling and simulation.
+Name three items on the systems research side of the Portland State map.	Complexity theory, chaos theory, fractals (also complex adaptive systems and computational intelligence).
+Name three items on the systems practice side of the Portland State map.	Systems engineering, systems analysis, systems management (also systems approach to problem solving).
+Define systems methodology.	A process that uses a diverse group with systems thinking tools to get from initial chaos to an agreed preliminary definition of the problem, then takes steps to develop an improvement.
+What comes before improving the problem, in systems methodology?	Agreeing a preliminary definition of what the problem actually is.
+How does Morganelli (2024) frame systems thinking?	As a mindset more than a prescribed practice.
+How does Michael Goodman frame systems thinking?	As more than a collection of tools and methods - an underlying philosophy.
+What is meant by "Systems Thinking is Soft Operations Research"?	It is about how you are going to get things done.
+Give Arnold and Wade's definition of systems thinking.	A set of synergistic analytic skills used to improve the capability of identifying and understanding systems, predicting their behaviours, and devising modifications to produce desired effects.
+What three capabilities does the Arnold and Wade definition name in order?	Identify and understand systems, predict their behaviour, devise modifications.
+State the lecturer's preferred definition of a system.	A set of connected parts that together form a cohesive whole.
+Give the Hall and Fagen (1956) definition of a system.	A set of objects together with relationships between the objects and between their attributes.
+What is the "environment" in Hall and Fagen's definition?	The set of all objects whose attribute changes affect the system, and those whose attributes are changed by the system's behaviour.
+Why is the clunky Hall and Fagen definition still useful?	As a scoping checklist: what is in the system, what is out, and what is in the environment.
+Name the three common features every system has.	Elements, interconnections, and purpose.
+What check tells you that you have over-simplified a system?	Ask whether you still have definable elements, interconnected, whose interconnections change the properties, with an overall purpose. If not, it is no longer a system.
+What is described as "always" the key issue in systems work?	The boundary - deciding what to consider and what to leave out.
+What is the project-management synonym for the system boundary?	In scope versus out of scope.
+Name the three labels on the boundary diagram.	Surroundings, boundary, and system.
+Give the metabolic map boundary dilemma.	Whether to draw the boundary around lysine biosynthesis, amino acid biosynthesis, glucose metabolism, or the Krebs cycle.
+What are New Zealand's "three waters", and why is the boundary hard?	Fresh water, wastewater and stormwater - three separate systems that all connect, and near an estuary seawater connects too.
+What is the practical constraint on how wide you draw a boundary?	How big a problem you can actually keep in your heads and still move forward.
+Define an emergent property.	A property of the whole system that could not have been predicted from the individual components.
+What do emergent properties depend on besides the components?	The relationships between components, and to an extent the inputs and outputs.
+What are the two names used for the same idea about a system's overall behaviour?	Emergent property, and purpose.
+Give three different purposes for the musculoskeletal system.	A biologist sees movement and motion; a physiotherapist sees running faster; a coach sees which muscle to strengthen and which ligament not to snap.
+What does the musculoskeletal example show about purpose?	Purpose is assigned by the framing and the observer, not discovered in the parts.
+What does it mean that systems nest?	The cardiovascular system is self-contained but sits inside the body, and zooming down reveals the metabolic map.
+Give the example of a system's purpose drifting over time.	Research institutes set up to break down silos eventually shift to keeping their funding, and become silos themselves.
+What is the scoping warning that follows from purpose drift?	The purpose you think a system was set up for may not be the purpose it ended up with; read purpose off current behaviour.
+Describe the metabolic map inversion.	Elements and interconnections were swapped: enzymes became the elements and molecules became the interconnections, treated as signals.
+Why was the metabolic map conventionally drawn with molecules as elements?	Historical accident - molecules were discovered before enzymes.
+What did the metabolic map inversion achieve?	Complexity shrank: enzymes clustered together and only a few signals were needed to understand it.
+What general move does the metabolic map inversion suggest?	If a system map is unmanageably tangled, try swapping what you treat as elements and what you treat as interconnections.
+How does the stakeholder set differ between ENGGEN303 and ENGGEN403?	303 was a business and its customers or suppliers; 403 adds the public, local and central government, NGOs, iwi and immigrant communities.
+Why is stakeholder disagreement diagnostic?	If all stakeholders wanted the same thing it would be a simple problem, not a wicked one.
+Name three kinds of power operating in a government-level system.	Structural power (ministers, mayors), influence without formal power (lobbyists, media), and affected communities with little power.
+Why do power dynamics decide whether your recommendations work?	They determine whether recommendations move the problem forward or get caught up in a fight when they land.
+What is said about engineers' skill set for wicked problems?	It is a useful skill set, but not the only one; these problems need collaboration across disciplines.
+What should a team do about fast thinkers who jump to a solution?	Take a breath and also listen to the quieter deep thinkers who come in later.
+What should teams expect about their own progress on a systems problem?	To make progress, then find a fundamental flaw in their thinking, and have to reset.
+What is the warning about time-boxing the chaos?	Do not spend the whole week arguing about how to frame the problem statement.
+What is the calibration test for whether you are thinking hard enough?	If it is not making your head hurt, you are not thinking about it hard enough.
+What is the required reading, and how much?	Thinking in Systems - at least the first two chapters, ahead of Lecture 8.
