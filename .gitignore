@@ -1,0 +1,24 @@
+# OS noise
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# Large lecture media — transcripts only, never the recording (see CLAUDE.md §7)
+*.mp4
+*.mov
+*.mkv
+*.avi
+*.wmv
+*.mp3
+*.m4a
+*.wav
+*.flac
+
+# Scratch / derived
+*.tmp
+/tmp/

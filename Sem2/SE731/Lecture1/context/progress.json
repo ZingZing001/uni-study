@@ -1,0 +1,17 @@
+{
+  "course": "SE731",
+  "lecture": 1,
+  "title": null,
+  "status": "not_started",
+  "resources_seen": {
+    "slides": [],
+    "transcript": "missing",
+    "transcript_quality": null
+  },
+  "last_session": null,
+  "sessions_count": 0,
+  "concepts": [],
+  "misconceptions": [],
+  "open_questions": [],
+  "next_action": "Drop the Lecture 1 slides (and transcript if you have it) into Sem2/SE731/Lecture1/resources/, then say \"Start SE731 Lecture 1\"."
+}
