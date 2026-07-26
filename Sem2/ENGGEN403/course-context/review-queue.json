@@ -171,6 +171,86 @@
       "name": "Stakeholders and power dynamics",
       "priority": "high",
       "status": "never_tested"
+    },
+    {
+      "date": "2026-07-28",
+      "lecture": 3,
+      "concept": "L3-C01",
+      "name": "PMCSA role",
+      "priority": "medium",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-07-28",
+      "lecture": 3,
+      "concept": "L3-C02",
+      "name": "Evidence, policy, politics",
+      "priority": "high",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-07-28",
+      "lecture": 3,
+      "concept": "L3-C03",
+      "name": "Three types of advice",
+      "priority": "medium",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-07-28",
+      "lecture": 3,
+      "concept": "L3-C04",
+      "name": "Plastics as a wicked problem",
+      "priority": "high",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-07-28",
+      "lecture": 3,
+      "concept": "L3-C05",
+      "name": "Data is the perennial gap",
+      "priority": "high",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-07-28",
+      "lecture": 3,
+      "concept": "L3-C06",
+      "name": "Emergencies and risk communication",
+      "priority": "medium",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-07-28",
+      "lecture": 3,
+      "concept": "L3-C07",
+      "name": "AI in healthcare",
+      "priority": "high",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-07-28",
+      "lecture": 3,
+      "concept": "L3-C08",
+      "name": "Used well, misused, or ignored",
+      "priority": "high",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-07-28",
+      "lecture": 3,
+      "concept": "L3-C09",
+      "name": "The consensus quadrant",
+      "priority": "high",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-07-28",
+      "lecture": 3,
+      "concept": "L3-C10",
+      "name": "Positions move on the quadrant",
+      "priority": "high",
+      "status": "never_tested"
     }
   ]
 }

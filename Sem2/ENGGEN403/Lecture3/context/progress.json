@@ -1,17 +1,173 @@
 {
   "course": "ENGGEN403",
   "lecture": 3,
-  "title": null,
-  "status": "not_started",
+  "title": "Interface of science, engineering and government - some real world examples",
+  "status": "notes_written_untested",
   "resources_seen": {
-    "slides": ["ENGGEN_403_Lecture_03_2026_final (1).pdf"],
+    "slides": [
+      "ENGGEN_403_Lecture_03_2026_final (1).pdf"
+    ],
+    "slide_pages": 38,
+    "slide_text_layer": true,
     "transcript": "ENGGEN_403_[24_July]_Lecture_3_Interface_of_science__engineering__and_government_-_some_real_world_examples_Captions_English_(United_Kingdom) (1).txt",
-    "transcript_quality": null
+    "transcript_quality": "good",
+    "figures_extracted": [
+      "L3-p25-ai-health-eight-themes.png",
+      "L3-p34-quadrant-archetypes.png",
+      "L3-p35-quadrant-populated.png",
+      "L3-p36-covid-social-licence.png",
+      "L3-p37-emerging-tech-window.png"
+    ]
   },
-  "last_session": null,
-  "sessions_count": 0,
-  "concepts": [],
+  "last_session": "2026-07-27T00:00:00+12:00",
+  "sessions_count": 1,
+  "concepts": [
+    {
+      "id": "L3-C01",
+      "name": "The PMCSA role and the network of Chief Science Advisors",
+      "source": "slides 5-6; transcript",
+      "priority": "medium",
+      "bloom_reached": null,
+      "confidence": null,
+      "attempts": 0,
+      "correct": 0,
+      "last_reviewed": null,
+      "next_review": "2026-07-28",
+      "interval_days": 1,
+      "note": "Untested."
+    },
+    {
+      "id": "L3-C02",
+      "name": "Evidence, policy, politics - what science can and cannot do",
+      "source": "slide 7; transcript",
+      "priority": "high",
+      "bloom_reached": null,
+      "confidence": null,
+      "attempts": 0,
+      "correct": 0,
+      "last_reviewed": null,
+      "next_review": "2026-07-28",
+      "interval_days": 1,
+      "note": "Untested."
+    },
+    {
+      "id": "L3-C03",
+      "name": "Three types of advice",
+      "source": "slide 8; transcript",
+      "priority": "medium",
+      "bloom_reached": null,
+      "confidence": null,
+      "attempts": 0,
+      "correct": 0,
+      "last_reviewed": null,
+      "next_review": "2026-07-28",
+      "interval_days": 1,
+      "note": "Untested."
+    },
+    {
+      "id": "L3-C04",
+      "name": "Case 1: Rethinking Plastics as a wicked problem",
+      "source": "slides 9-14; transcript",
+      "priority": "high",
+      "bloom_reached": null,
+      "confidence": null,
+      "attempts": 0,
+      "correct": 0,
+      "last_reviewed": null,
+      "next_review": "2026-07-28",
+      "interval_days": 1,
+      "note": "Untested."
+    },
+    {
+      "id": "L3-C05",
+      "name": "Data collection is the perennial under-funded recommendation",
+      "source": "transcript - plastics data section",
+      "priority": "high",
+      "bloom_reached": null,
+      "confidence": null,
+      "attempts": 0,
+      "correct": 0,
+      "last_reviewed": null,
+      "next_review": "2026-07-28",
+      "interval_days": 1,
+      "note": "Untested."
+    },
+    {
+      "id": "L3-C06",
+      "name": "Case 2: emergencies and risk communication",
+      "source": "slides 15-20; transcript",
+      "priority": "medium",
+      "bloom_reached": null,
+      "confidence": null,
+      "attempts": 0,
+      "correct": 0,
+      "last_reviewed": null,
+      "next_review": "2026-07-28",
+      "interval_days": 1,
+      "note": "Untested."
+    },
+    {
+      "id": "L3-C07",
+      "name": "Case 3: AI in healthcare, evaluation and error decorrelation",
+      "source": "slides 21-28; transcript",
+      "priority": "high",
+      "bloom_reached": null,
+      "confidence": null,
+      "attempts": 0,
+      "correct": 0,
+      "last_reviewed": null,
+      "next_review": "2026-07-28",
+      "interval_days": 1,
+      "note": "Untested."
+    },
+    {
+      "id": "L3-C08",
+      "name": "Advice may be used well, misused, or ignored - the gangs report",
+      "source": "slide 29; transcript",
+      "priority": "high",
+      "bloom_reached": null,
+      "confidence": null,
+      "attempts": 0,
+      "correct": 0,
+      "last_reviewed": null,
+      "next_review": "2026-07-28",
+      "interval_days": 1,
+      "note": "Untested."
+    },
+    {
+      "id": "L3-C09",
+      "name": "The consensus quadrant",
+      "source": "slides 30-35; transcript",
+      "priority": "high",
+      "bloom_reached": null,
+      "confidence": null,
+      "attempts": 0,
+      "correct": 0,
+      "last_reviewed": null,
+      "next_review": "2026-07-28",
+      "interval_days": 1,
+      "note": "Untested."
+    },
+    {
+      "id": "L3-C10",
+      "name": "Positions move on the quadrant: COVID and emerging tech",
+      "source": "slides 36-37; transcript",
+      "priority": "high",
+      "bloom_reached": null,
+      "confidence": null,
+      "attempts": 0,
+      "correct": 0,
+      "last_reviewed": null,
+      "next_review": "2026-07-28",
+      "interval_days": 1,
+      "note": "Untested."
+    }
+  ],
   "misconceptions": [],
-  "open_questions": [],
-  "next_action": "Not yet ingested. Run Mode A for ENGGEN403 Lecture 3."
+  "open_questions": [
+    "Cornwall Brunton poll (plastic as top social/environmental concern pre-COVID) - exact citation not given.",
+    "The 8.3 billion tonnes plastic figure was current at report time, not now. Check whether an updated figure is expected.",
+    "Commercial fishing is flagged as the hardest consensus-quadrant case and is deferred to a later lecture - revisit C09 then."
+  ],
+  "next_action": "Notes written for 10 concepts, none tested. C09 (consensus quadrant) is a named learning outcome and the most portable tool so far - prioritise it. Expect commercial fishing to extend C09 later in the course."
 }
