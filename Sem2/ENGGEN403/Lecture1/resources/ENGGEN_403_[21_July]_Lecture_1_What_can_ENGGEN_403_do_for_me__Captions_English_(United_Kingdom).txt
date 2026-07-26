@@ -1,0 +1,755 @@
+[Auto-generated transcript. Edits may have been applied for clarity.]
+Plenty of room at the front. While everybody's filing in.
+
+Give me a wave if you can hear me at the back. Thanks.
+
+Okay. Your settings. Fine. What? What's wrong here?
+
+I think it's just the background noise. Okay.
+
+Welcome, everybody. let's make a start. Plenty of seats down the front for those running in.
+
+Kyoto. Kato. And welcome to engine 403.
+
+And we read all the course evaluations for previous years carefully.
+
+And we know that there is sometimes a little scepticism about what the engine courses might be useful for.
+
+So I thought this year we would start by really focusing on what engine 403 can do for you guys and explain a little bit,
+
+not just about the structure of the course, but how we are going to teach you the skills that we think are useful for you in this course.
+
+So my name is Juliet Gerrard. You won't have met me before.
+
+I'll introduce my co teachers shortly, and we'll just pause a little minute so people can call in and get a seat.
+
+Hopefully the overflow is also working and there's some people in there.
+
+So engine 403 will build on engine 303 and your previous courses.
+
+Um, but it'll do so in a way that takes a big step up from what you've learnt previously.
+
+So most of you are in your last semester of your engineering course now, and when you leave this lovely place,
+
+you will end up in the real world where there are real problems to solve.
+
+And one of the things that distinguishes the problems you'll be solving is they haven't
+
+been nicely framed and put into an assessment format that gives you a challenge.
+
+That's a solvable problem. Some problems just can't be solved.
+
+Some things are just really hard, but nevertheless,
+
+you will all be put in situations where you are trying to solve real world things and you will be using your engineering skills to do that,
+
+but you'll need a lot of other skills too.
+
+And I'm just going to spend a little bit of time today going through some of those, and how this course might help you get equipped to do that.
+
+So you'll have learnt some things about working in small teams, about project management, um, about communication,
+
+and how you interact with people in different disciplines as you've gone through your engine stream.
+
+But in 403, that'll really be on steroids. So we're really going to test a lot of those skills.
+
+And some of you are going to love that, and some of you are going to find it really uncomfortable.
+
+But what I'm going to try and convince you of today is that when you're feeling uncomfortable learning those skills,
+
+that's when you're actually learning the most.
+
+And that when you enter the workplace and find yourself in a tricky situation, you might just think back and go, oh, that's why they did that.
+
+This is actually quite useful because that's the feedback we get from students who've done the course before.
+
+so we'll be building essential workplace skills. And these will complement your technical knowledge.
+
+So we're assuming you're all smart. You've all got technical knowledge from your main subject.
+
+And these are the extra skills you're going to need to make those skills useful in real life in the workplace.
+
+So we're going to be thinking about big problems. Anyone feel like talking to me?
+
+Can you think of a big problem New Zealand's got at the moment? Yeah.
+
+Unemployment, unemployment huge massive system problem that we need to solve.
+
+Anyone got any others? Yeah. AI reliability of AI.
+
+It's hallucinating all over the place. We're all relying on it to make decisions.
+
+That's a big problem. Hard to wrap up into a neat assessment, but a big problem we're going to need to solve anywhere else.
+
+Let's have one more. Yeah. Energy problems.
+
+Yeah. Massive.
+
+Especially in the world of data centres and AI pulling more and more demand on the global energy systems, which is going to raise prices.
+
+Make the cost of living higher. Back to unemployment. So just with those three, you're all aware of these really huge problems.
+
+And engineers will play a role in solving those problems.
+
+But engineering alone is not going to solve all those. So to make this real and relevant, we're not just going to make up problems.
+
+We are going to phone a friend. We're going to call people in government,
+
+and your assessments are going to be guided by actual people in government working on some of these real world problems, more of which later.
+
+So this is not a drill. You will be working on actual challenges that the government currently faces.
+
+So this will help you in the workplace. It'll also help you with interviews.
+
+So a lot of you are probably starting to think, oh, I'm going to need a job.
+
+What am I going to apply for? How am I going to prepare for the interview?
+
+One of the most common questions in interviews is do you prefer working individually or in a team?
+
+Hands up for individually. Be honest, this is not the interview and hands up in a team.
+
+Yeah, so there's a bit of both. Some jobs working individually will be great and some jobs working in a team will be great.
+
+And then the next question will be, can you give us some examples of experiences you've had where you're working in a team?
+
+They will ask for good examples, bad examples, and what role you played in the team.
+
+If you've never really thought about that, those interview questions are really hard.
+
+The first time somebody asked me, I had no idea what to say and the guy leant over and gave me the answer for next time.
+
+Not a good look, but you will be able to draw on the experience in this course and really dig into some of those tricky interview questions.
+
+So here's the teaching team. My name is Juliet. I'm not an engineer.
+
+Full disclosure, I'm a professor in science, and I come over to engineering to do this course.
+
+And the reason I'm here is for six years, from 2018 to 2024, I was lucky enough to be the Prime Minister's chief science adviser.
+
+So I advised Jacinda Ardern, Chris Hipkins and Chris Luxon and I'll draw on that experience in the examples I give you in this course.
+
+So I understand what it's like to take technical knowledge and try and get it into government to influence government decisions.
+
+I trained in chemistry originally, I drifted horribly. My home department is biology and I know a lot about proteins.
+
+None of that helped me in the Chief science advisor role.
+
+What helped me was all the soft skills that we're going to be teaching you in this course.
+
+If we go anti-clockwise, you probably all know Amanda, who's going to give us a wave.
+
+Amanda has been running this course for a long time. She knows everything.
+
+She runs an amazing ship. She makes sure all the assessments are fair.
+
+She makes sure that all the peer reviews are done well, and that all the team assessments come across as fairly as they possibly can.
+
+So thanks Amanda, and most of you will know Mark too. He's our other course coordinator.
+
+You'll see a lot of Mark next week.
+
+He's bringing you a different background with his, um, B.Com side and will really be able to give you some expert advice on business cases,
+
+cost benefit analysis, and all the things you're going to end up doing in your big group assessment.
+
+The special mystery guest contributors I'm not revealing now because they're to do with the assessments.
+
+There are government collaborators for the projects. And Peter, Raquel, you probably recognised from earlier courses.
+
+He will also be around not necessarily lecturing but helping around the edges with the team building and their projects.
+
+So you'll notice we bring a variety of different lenses, a variety of different perspectives, and that's a good role model for you and your teams.
+
+We need to work out who's good at what, who knows what, and all bring a different perspective to solve the problem.
+
+In our case, teaching 800 people the skills they need for the workplace and systems thinking.
+
+So I'm not going to go through all the course admin side today.
+
+It's all on canvas if you want to have a look, and we'll dedicate a bit of time tomorrow for that.
+
+So Amanda will go through the nuts and bolts, make sure you're on top of all the assessments and when and where to submit them.
+
+What I want to just highlight today is this number here. Who's happy that 75% of this course is group assessment?
+
+No hope someone's happy. Anyone unhappy? If I were sitting where you were sitting, how old am I?
+
+40 years ago, I would be going, oh my God. Um, that is generally not a popular number with talented students.
+
+And you're all talented students. The reason we're doing it is to make this course relevant, and to give you that real taste of working in a team.
+
+So we'll put that there up front. You'll be working in big teams. There'll be teams of 30.
+
+When you get to the real world, that will happen to you too. And this is a good practice.
+
+So you'll all have heard of Smart goals either at school or earlier in your, um,
+
+engineering degrees to get you thinking about what you're going to get out of this course.
+
+We are setting you an early assignment.
+
+It's due next week, and that is setting yourself individual goals for what you are going to achieve in this course.
+
+So you all probably know by now that people like to set Smart goals so they're specific.
+
+You can measure them. They're achievable. They're relevant and they're time bound.
+
+So, you know you'd do something by Friday. Or by the end of the course, you won't leave it open ended.
+
+I'm also going to encourage you to make them hard. I'm thinking of putting an H there to make them Smart goals,
+
+because what this lecture is all about is trying to persuade you to push yourself to do really stretchy, ambitious goals.
+
+So we are not going to mark you on whether you achieve your goals.
+
+We are going to look at how you set the goals, how you engage with the goals in the course and how you reflected on them.
+
+So at the end of the course, you might say, you know what? Those were not the right goals to have set and that's fine.
+
+You can get full marks for that. Or you might say, I set a really stretchy goal and I learned a lot, but I didn't quite meet it.
+
+That's also fine. Or you might say I said this goal, but I'd met it by week four.
+
+It was too easy, so I set myself another one. All that's fine. Um, It's just a way of getting you to think.
+
+At the end of this lecture, how you think you might grow through the course and what you might be able to learn,
+
+just you, because you're different from all your peers. So today we're just going to tell you a little bit about the why.
+
+So why we are teaching the course, how we are teaching the course.
+
+Um, and I'm basing that on what the students said last year.
+
+Don't take my word for it. We've got Caleb, who is a real live last year student who is going to come and chat to you a
+
+little bit about his experience of the course and what you might get out of it.
+
+And a huge thanks to Caleb, because he was only asked this morning because the person we had lined up, um, was sick this morning.
+
+So big thanks to Caleb that showed a grit and growth mindset.
+
+Yeah. And then we're going to talk a little bit about T-shaped engineers,
+
+which is a way of framing the skills that we're trying to add on to your engineering degree.
+
+And we're going to talk about growth mindsets and grit.
+
+More of which later. So we read all the course surveys.
+
+And this is what last year's engine four of three students said about this course.
+
+They were generally pretty happy that we were working on real world problems, like actual problems from the government.
+
+So we've increased that element and really emphasising that when we do the big assessments, more of which later, it's hard.
+
+You're working in these big teams that you've never worked in before.
+
+You're solving a problem that doesn't necessarily have a solution.
+
+You're making recommendations to government agencies who you don't necessarily understand, and so you need a lot of support.
+
+So what we did last year, and we'll do this year because it seemed to be popular, was we will run what we call the clinic.
+
+So the three of us will be in a room and then 9 to 5 at least open for questions.
+
+So if you're stuck either on the content, you don't understand it.
+
+Your team's having a meltdown. Three members of your team have disappeared.
+
+Somebody is having a nervous breakdown. The team leader is sick, and you need a new one.
+
+We're there to help you with all those things. And that's because we are asking you to do a very challenging thing.
+
+And that support is useful and all part of the learning curve.
+
+People really like the real life case studies that we included in the lecture, so we've scattered those throughout the course.
+
+People did not like the quizzes. Um, there was some pushback on the quizzes and how useful they were.
+
+So we have tried to make the goal of the quizzes a bit clearer, and we've decreased the weighting.
+
+We've left them in there because it's really important that you engage with the lecture material, because it will help you with your assessment.
+
+And we think that people that engage with the lecture material should get some marks.
+
+So they're there, but we've adjusted them a bit to try and take on board that feedback.
+
+And a few people got grumpy because my lectures in particular talked about politics because we are looking at the government interface.
+
+So especially because it's election year, I want to emphasise, I'm not here to tell you who to vote for.
+
+I don't think I even know who to vote for. And what we'll be looking at is the role of not just politicians, but policy makers.
+
+How you can use evidence to influence government decisions, which ultimately will be up to the politicians.
+
+But that's not the interface we're looking at.
+
+So there's a whole lecture on the machinery of government, which will explain the difference between the policy makers,
+
+the politicians and where you as engineers might fit into that system.
+
+And I've also stopped talking about Covid 19 because everyone gets very twitchy about that.
+
+But if anyone would like to know about Covid 19, I did advise on that.
+
+So very happy to tell you in a smaller group.
+
+At the end of the course, we give you an opportunity to reflect on what you've learned.
+
+I read all of those and it's marked generously.
+
+So like I say, we just want you to think about what you've learned and to give some reflections on the content.
+
+I've just pulled out some quotes which are typical of the sort of thing that many people said.
+
+Um, so this person commented that they noticed that they were growing professionally in the discomfort zone, and I love that term they've used.
+
+So if something's easy and you do it, you don't learn anything. If something's hard, you can't do it.
+
+So it's hard to learn anything when it's just hard enough but not too hard.
+
+That's when you can actually start to learn. And so that's the way we hope the big assessments set, so that you are really growing and learning.
+
+And like many of the reflections that I read, this person is commenting on the need for communication, leadership, collaboration.
+
+They are critical. You can have the brainiest 30 people in your team, but if they don't talk to each other, you won't get a good result.
+
+And so figuring out how it is that you think and communicate how other people think and communicate will make a big difference to success.
+
+Here's another one.
+
+This is someone that has had an aha moment, and they've worked out that they were part of the problem because of their communication style.
+
+So everybody communicates in different ways.
+
+You will as you get to know your team, figure out how best to communicate with different people in your team.
+
+Not everybody thinks like you think. And people have very different ways of working, especially under pressure.
+
+This one was really clear. Coherence beats cleverness. So we do two assessments.
+
+The first one is a warm up for the second one and lots of people in the first project,
+
+the team project figure out that talking to each other and making sure all the bits of the project are coherent and tell the
+
+same story is much more important for nailing those good grades than have each individual bit be brilliant in its own right.
+
+So it's a team sport.
+
+You have to find ways to make sure that your piece of the puzzle gives an overall jigsaw that makes sense to the reader, in this case, the government.
+
+And this one I've put up because it made me very sad when I read it.
+
+And quite a few people said this, um. This was the most extreme example.
+
+But it's true that a lot of you guys communicate first by text and actual in-person contact can be much more successful.
+
+So I thought it was really sad that someone had got all the way to the end of their four years before they'd worked that out,
+
+and I really hope that was a Covid generation thing. And you guys are going to be much more sociable.
+
+But actually talking to people is good, and I see you all doing it now.
+
+So that's a good step, right?
+
+I'll hand over. Thank you. Caleb. Hello everyone I'm Caleb.
+
+That's me third from the left up there. Um, last year I was sitting where all of you were sitting.
+
+I did for three last year. Um, I've finished the engineering science portion of my degree,
+
+and I've moved on to the computer science, which is why you might see me a bit around campus.
+
+I might finally have classes in the engineering building, which will be great.
+
+Um, and if anyone has any questions at any time, feel free to put your hand up.
+
+I'm more than happy to answer any questions. Engineering 4 or 3 was one of my favourite courses.
+
+Um, I learned a lot. Some of you may have laughed there, but, um, but 4 or 3 was a truly amazing experience, especially Systems Week.
+
+It's completely different to normal learning here at the uni, a completely different experience, and I found it so valuable.
+
+I learned a lot of things during this class. Uh, during Systems week.
+
+During Mini Systems week, which might be the team project, I learned project management skills.
+
+Uh, since I was the team leader, I probably did a bit more project management than the other people.
+
+But I made sure that during my, uh, my projects that my team put a heavy emphasis on attacking the critical path of the tasks,
+
+attacking that, and trying to work through the hardest parts. Um, and that was, you know, that was pretty.
+
+That was pretty good. Um, also learned a lot of time management skills.
+
+Um, as a team leader, I probably spent the most amount of time on the project.
+
+Um, but I was only, like, probably like 10% more than the rest of the team.
+
+But don't be too scared if you want to be the team leader. It's actually so much fun.
+
+During mini systems, I tried to attend as many of the team projects as possible.
+
+Um, just was just so that everyone could stay on the same page and um, because during the mini systems,
+
+not all the groups are working at the same time, like the systems week.
+
+But, um, even even though I did end up spending, um, extra time, I would say that the true legends were my team-mates.
+
+They did a lot of work, especially during systems week. The team leader floats around quite a bit during our systems.
+
+However, the team mates are the ones who do like the actual work.
+
+They're the ones knuckle down. They're doing more deep work than me. And for that I have to say thank you to my team-mates from then.
+
+So we had a pretty, um, it was wasn't strict, but we had a pretty semi strict policy of attending in person for systems week.
+
+This, um, was so that we could facilitate conversation better and stuff like that.
+
+We still had like if someone was sick they could stay home. Don't want to like, contaminate everyone else, but we just wanted to get everyone in.
+
+And this ended up developing like really vibey subcultures within the team.
+
+Some of the teams like they weren't beefing, but it was it was just like loads of fun.
+
+And they had like, you know, some like internal sub team like, um, culture going on, which was really cool to see.
+
+This also means that if you're in person, everyone ends up developing like a lot of everyone ends up being able to share their voice much easier.
+
+You know, when you're all sitting down at a table, it's much easier than sitting muted on discord.
+
+Um, so when everyone's, you know, in person, uh, everyone gets the chance to talk more and like,
+
+conversate and like, really come up with better ideas than if you'd been, like, virtual from home.
+
+This was, like particularly important for me as a team leader because I'm like quite social.
+
+I like to talk a lot. So I had to take a step back. You need to like, give everyone the chance to share their opinions.
+
+Um, give everyone the chance to to grow everyone the chance to get in their discomfort zone and get the chance to speak.
+
+Um, yeah. I'm not trying to glaze for three too much, but it was really amazing.
+
+I did learn a lot. Um, you guys are all going to love it. Um, also, uh, quick shout out to Angela Duckworth, who wrote the book grit.
+
+That was amazing. Read. If anyone wants to read that in this time, I would recommend it.
+
+Um, yeah. Not sure if there's any questions. If anyone puts their hand up right now, are more than happy to answer a question.
+
+Uh, but I'll stay around afterwards as well. All right.
+
+Thanks for listening through my discomfort zone. Thanks, Caleb.
+
+Right. So we'll distil all that. Top tips, come to lectures.
+
+It's great you all here. I have it on good authority that there's a data guru in this year that charts lecture attendance.
+
+I would love that data. So if that could get sent to the team, I'll put it up every lecture,
+
+because we would really like to make these valuable spaces for you to attend in person.
+
+They're nice sociable hours this year. So the more you come, the more you talk to people.
+
+The more you get to know your team, the better you will do in your assignments.
+
+The other thing that you do when you turn up in person is you make a network.
+
+So you probably haven't thought about being old yet, but I still rely on people that I was doing my undergraduate with.
+
+So the sort of people that you're sitting with now are smart people. They're going to go off and do great things.
+
+And then ten, 20, 30 years, you're going to go, oh, I know that guy was in my 403 class.
+
+I'm going to give him a call and see if he can help me with this project. It's really useful.
+
+So today, what I hope you get out of the next piece of this lecture is to describe and apply the
+
+key concepts of this thing we're calling growth mindset that I'll explain in a minute.
+
+Caleb just mentioned grit and the Angela Duckworth bit.
+
+And I'll give you a little preview to that to see if that's something that you might be interested in and you might as you set your goals.
+
+Think how growth mindset and grit can be useful in your life and your career.
+
+And we're going to really emphasise this difference between a fixed mindset and a growth mindset.
+
+So what we're trying to do is build on that disciplinary knowledge that you've got and turn you into T-shaped thinkers.
+
+So everybody goes off into the workplace, into the real world,
+
+knowing what they know with their experiences, their skills and their discipline knowledge.
+
+And then they have to learn how to interact with other people.
+
+So one way of framing that, and thinking about what makes for successful professionals and engineers in particular,
+
+is to construct this idea of T-shaped people who can not only draw on their deep disciplinary knowledge, but also innovate.
+
+Collaborate. Know when to step forward. When to step back. Know whose ideas to rely on when in a team setting.
+
+And this has got embedded into all professional degrees around the world.
+
+So this guy, Richard Miller is quoted here talking about why we're doing this.
+
+So just teaching more engineering does not make more effective engineers.
+
+It might make them smarter, more detailed, more able to publish a research paper,
+
+but what we really need is engineers who can go out and solve problems with other people, and that needs skillset and mindset.
+
+So Engineering New Zealand is part of the Washington Accord.
+
+All these skills are a critical path. Part of you being signed off as professional engineers.
+
+And this is how we're going to go about it. So you will have heard about Systems Week,
+
+which is the crazy sounding assessment that the year above you will have talked about where
+
+you have this team of 30 people and you have one type week to solve this massive problem.
+
+And when I tell other people what we're doing, they think it's crazy too.
+
+But because it's so hard and so challenging, that's why you get to learn a lot.
+
+And we don't just send you in at the deep end. We give you a practice.
+
+So there will be a Systems Week project. You'll hear more about tomorrow. There's a warm up.
+
+There'll be a team project. You'll get to know your team. You'll see how you work.
+
+You'll see how they work. You'll see who's really annoying. You'll see who's really useful.
+
+You'll see just how to get things done in that group of people.
+
+And then all around those big assessments, you have got the building blocks that you need to allow you to complete the project.
+
+So today we're talking about mindset and grit. We'll talk about systems thinking.
+
+And then as the lectures progress, you will slowly piece together all the jigsaw pieces that you need to complete that assessment.
+
+So the whole course is about preparing you to do a really hard thing that will teach you a lot.
+
+So I mentioned growth mindset and fixed mindset.
+
+These are not either or. This is a continuum.
+
+So a fixed mindset tends to be where a lot of people start.
+
+So by now in your careers you've decided you're pretty good at this.
+
+You're pretty bad at that. You know what you're good at.
+
+You know what you find really challenging, and then you've got a kind of choice which will stay with you for the rest of your life.
+
+You can either just keep doing the things you find easy and do them well, and then go to the pub.
+
+Or you can keep challenging yourself to learn new things.
+
+And there's a lot of research done in business and economics and behavioural science to look at where
+
+people sit on the spectrum of having a fixed mindset or a growth mindset or somewhere in between,
+
+and how that correlates with how successful they are.
+
+So I'm going to show you a little video so you can hear it from the horse's mouth.
+
+Researcher and professor Carol Dweck uses the term mindset to describe the way people think about ability and talent.
+
+Dweck delineates between two different mindsets that exist on a continuum.
+
+The first is the fixed mindset, which suggests that your abilities are innate and unchangeable.
+
+The second is a growth mindset, which views it as something you can improve through practice.
+
+In a fixed mindset, you view failure as permanent, but with a growth mindset, you see failure as a chance to learn and even pivot.
+
+Those with a fixed mindset are more likely to view critical feedback as a personal attack,
+
+while those with a growth mindset will see it as a chance to improve where they can develop new systems.
+
+With a fixed mindset, you're more likely to choose easier tasks and put in minimal effort.
+
+After all, if talent is fixed, why bother improving? Why even try?
+
+But with the growth mindset,
+
+you're more likely to embrace challenging tasks and work hard to improve those with a fixed mindset are likely to give up when they face an obstacle.
+
+Meanwhile, those with a growth mindset will new obstacles as a chance to experiment and solve problems in a fixed mindset.
+
+The focus is on measurable accomplishments, but with a growth mindset, the focus is more on a journey of continual improvement.
+
+With a fixed mindset, you are less likely to take creative risks.
+
+But with a growth mindset, creative risks are simply a way to innovate and improve.
+
+Ultimately, your mindset influences everything from creative risk taking to how you leave feedback, to whether or not you finish difficult tasks.
+
+And in the end, it's one of the greatest factors in determining whether or not you grow and improve in your abilities.
+
+So that's come out of Um. Business research.
+
+Behavioural science research, like I said. It's also got a biological basis.
+
+So the more we learn about how the brain works. And I come from a school of biological sciences.
+
+So I hear a lot about this in my department. There's actually a physical basis for new things making you more successful.
+
+So if you force yourself to learn new things, especially as you get older, you actually make new neural pathways.
+
+So there's something called neuroplasticity. You might have heard about if you know anyone who's had a stroke, who's slowly recovered.
+
+That's happening in healthy brains all the time. So if you try and do new things, your brain gets more resilient and more useful.
+
+Now it's a bit self-help guide, cheesy in places.
+
+Some of the stuff that you read about with growth mindset and there is obviously a limit.
+
+So for example, when I was 14, I bought myself a pair of figure skates and I really wanted to be a figure skater.
+
+I am possibly the most uncoordinated person I know and I never managed to achieve that.
+
+So there is a physical limit to some of these growth mindset things.
+
+But I'm sure I did my brain good trying and failing. And on the other hand, when I was finishing my PhD, I hated public speaking.
+
+I couldn't think of anything worse than doing exactly what I'm doing now.
+
+So I decided I didn't want to have an academic career. I wanted to go and do something else, and I went and did something else.
+
+I realised that I really missed being at the university, that I really did want an academic career,
+
+and that the public speaking thing was something I was just going to have to get over, and I did.
+
+Hopefully I did, because I'm standing up talking to all you guys now.
+
+And so it's not some one size fits all try and manifest the future self-help guide.
+
+It's actually got a biological basis,
+
+and people who've studied who is successful in their careers come back again and again and again to people who can take feedback,
+
+learn new things, and try and improve things beyond their core skill set.
+
+To do that, you need some grit. And this is the book that Caleb mentioned.
+
+So there's a few things that you need. If you are going to teach yourself to do things that you find really hard.
+
+It's interesting that talented people don't necessarily have more grit.
+
+In fact, in some studies it's inversely related, probably because talented people have always found things easy and they haven't learnt to fail,
+
+and they haven't come up with the kind of perseverance tools to make themselves try and do something that's difficult.
+
+Um, so just because you're talented doesn't mean you have grit,
+
+and some less talented people are likely to have more grit, but it's something that you can really work on.
+
+So it's all about having passion, perseverance,
+
+deciding what you're going to do and going for it even when it's hard and it's going to take a sustained period of time.
+
+So Angela Duckworth has looked at this in a lot of detail in all sorts of different professional contexts,
+
+and there's some videos on the web if you are interested and don't want to read the whole book,
+
+but there's basically four key pillars that she's identified, and these are quite useful for you going forward.
+
+So one is passion and interest. It's really hard to be determined about something that you are not interested in.
+
+So as you go out of here into your career, you might want to get rich.
+
+That might be your goal,
+
+but you might want to get rich doing something that you're really passionate about that's really interesting to you day to day.
+
+And then it's more likely that you're going to be able to deliver. You're going to need to practice whatever it is.
+
+That's hard. You won't be able to do it first time. You need that patience, that resilience, that determination to keep doing it.
+
+For many, having a sense of purpose makes a difference.
+
+So even if the thing that you are doing day to day, you don't enjoy.
+
+If you can see that you're moving towards a greater goal, then that might increase your grit.
+
+And finally, a sense of hope and optimism. Sometimes things seem so hard you think you're not going to be able to get to the end of them.
+
+But if you've got that resilience and that optimism, then you may well be able to overcome and achieve your goal anyway.
+
+And certainly in Systems Week, we see a bit of that hope curve.
+
+So people come in all excited and ready to go by about Wednesday afternoon.
+
+There's a little bit of despair creeping in, and you can really start to see who's got more grit,
+
+who's got less grit to really rally through when everyone's tired and they've missed a lot of sleep and they need to get to the end.
+
+So there's a bit more detail on this slide about those four pillars.
+
+Be interested in it. Keep practising. Have that sense of purpose and that sense of hope.
+
+And the other aspect of that is how you view failure.
+
+So for many people, failure is upsetting, damaging to their self-esteem, something that they'd rather forget about and not reflect on,
+
+but actually thinking about why you fail and when you fail can be one of the best ways to get better professionally.
+
+So when I first decided I wanted to go back to the university and applied for a lectureship, I failed.
+
+I failed three times. I got it on the fourth time, and each time I learnt from the experience,
+
+I could see where my weak spots were and I tried harder to fill those gaps and get the academic position in the end.
+
+So wherever you picked your sales career wise, you probably won't get there first time.
+
+And in fact, the earlier you fail, the more resilient you might end up being in the long term.
+
+I know people who hit their first failure at kind of 45, 50, 55,
+
+and they find it much harder than people that set ambitious goals and failed a bit earlier and bounced back.
+
+So here's some punch lines. Perseverance. Resilience, mental toughness.
+
+Determination will be helpful. Think about those when you're setting your goals for the course.
+
+There's a lot of work that shows that people who can delay instant gratification in favour of long term success will succeed more.
+
+Some of you might have heard of the Dunedin study, which looks at kids who were born.
+
+I think it's 52 years ago now, and they've looked at them every year of their lives to see what predicted success.
+
+One of the biggest predictions for that cohort was something called the marshmallow test,
+
+where you take a four year old and you put them in a room with the marshmallow.
+
+And there's a camera they don't know there's a camera there.
+
+And the person talking to the four year old says, if you don't eat the marshmallow until I come back, you can have two.
+
+Um, that was one of the best predictors of overall career success later in life.
+
+Um, also a predictor of people who don't like marshmallows. But all tests have they their flaws.
+
+Um, and it's a measure of that impulse control, that willingness to really strive for a bigger goal.
+
+So people with high levels of grit will find solutions when challenges arrive.
+
+And your grit test is definitely Systems Week.
+
+So this is my last slide just to show you what I've been trying to say today.
+
+That's your career along the x axis. How successful you are going to be along the y axis.
+
+You're all smart cookies. You're all going to have a great career.
+
+And what we're going to do in this course is just provide you with that development opportunity
+
+to see if you can aim higher and to learn some extra skills so you are even more successful.
+
+And I've left a few minutes so that there's lots of times for questions, either out loud now, or we'll stay around at the end.
+
+And remember that first assignment is due on Monday. Thank you. There's a You actually count to ten.
+

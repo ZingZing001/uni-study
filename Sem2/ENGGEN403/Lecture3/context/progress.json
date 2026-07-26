@@ -1,0 +1,17 @@
+{
+  "course": "ENGGEN403",
+  "lecture": 3,
+  "title": null,
+  "status": "not_started",
+  "resources_seen": {
+    "slides": ["ENGGEN_403_Lecture_03_2026_final (1).pdf"],
+    "transcript": "ENGGEN_403_[24_July]_Lecture_3_Interface_of_science__engineering__and_government_-_some_real_world_examples_Captions_English_(United_Kingdom) (1).txt",
+    "transcript_quality": null
+  },
+  "last_session": null,
+  "sessions_count": 0,
+  "concepts": [],
+  "misconceptions": [],
+  "open_questions": [],
+  "next_action": "Not yet ingested. Run Mode A for ENGGEN403 Lecture 3."
+}

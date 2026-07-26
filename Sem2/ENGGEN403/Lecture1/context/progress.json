@@ -1,0 +1,17 @@
+{
+  "course": "ENGGEN403",
+  "lecture": 1,
+  "title": null,
+  "status": "not_started",
+  "resources_seen": {
+    "slides": ["ENGGEN403_Lecture_01_2026.pdf"],
+    "transcript": "ENGGEN_403_[21_July]_Lecture_1_What_can_ENGGEN_403_do_for_me__Captions_English_(United_Kingdom).txt",
+    "transcript_quality": null
+  },
+  "last_session": null,
+  "sessions_count": 0,
+  "concepts": [],
+  "misconceptions": [],
+  "open_questions": [],
+  "next_action": "Not yet ingested. Run Mode A for ENGGEN403 Lecture 1."
+}

@@ -1,0 +1,7 @@
+{
+  "course": "ENGGEN403",
+  "description": "Cross-lecture spaced-repetition schedule. Mirrors next_review from each Lecture<N>/context/progress.json so review rounds can interleave across lectures. Intervals: 1 -> 3 -> 7 -> 16 -> 35 -> 90 days.",
+  "last_updated": "2026-07-26",
+  "due": [],
+  "scheduled": []
+}

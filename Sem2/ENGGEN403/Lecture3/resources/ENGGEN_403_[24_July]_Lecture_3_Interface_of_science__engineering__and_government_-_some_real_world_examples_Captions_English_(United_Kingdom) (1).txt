@@ -1,0 +1,931 @@
+[Auto-generated transcript. Edits may have been applied for clarity.]
+All right. Excuse me. Welcome, everyone.
+
+Before we get started, we have Rainbow Club here.
+
+It's wonderful. Hey, guys, I'm Tara, and this is Stephen, and we're from Rainbow Engineering.
+
+Um, if you missed out on the Stein last night because you were doing pop,
+
+or because the theme was football, and that's not as good as intergalactic disco.
+
+Or if you went to the Stein and you want to go to another Stein, we're having our third annual Rainbow Stein with all of the rainbow clubs next week.
+
+Uh, yeah. Hey, it's on Thursday. Um, in case that's important for you.
+
+And we have hella drag queens this year. We have three in total. It's going to be delightful.
+
+Uh, it's at Family Bar. That's $5 entry.
+
+Yeah. That's all. Thank you. Oh.
+
+Thank you. Hi, everyone.
+
+Thanks for coming. So today we're going to put some examples around some of the things we've been talking about in quite an abstract way.
+
+And I'm going to share with you a few examples of putting technical advice into government to try and shift policy.
+
+So a few more stories from my time as Prime Minister's Chief Science advisor.
+
+I'm going to use the word science because I was a science advisor,
+
+but I'll say upfront that that's used in a completely inclusive way to include any kind of evidence set,
+
+Any data definitely includes engineering, so you don't feel excluded.
+
+The role is just defined as science as a catch all really broad term.
+
+So we've had a look at mindset and grit. This week you've had your introduction to systems thinking.
+
+And what this lecture should do is start to provide some information on the government context
+
+that we've been talking about at national level issue that we're going to be addressing.
+
+And it should also be helpful when you're thinking about your strategic case, when you hit your team projects and Systems Week projects.
+
+So by the end of this session, importantly,
+
+I'm not expecting you to understand or go into or regurgitate the details of the case studies that I'm going into.
+
+They're there to give you some colour and to get you to think about the different types of Situation you might find yourself in.
+
+If you're trying to input technical information into a wicked problem, so don't think it's all going to be in the quiz.
+
+We're not going to put detailed content of these case studies.
+
+What we will do is get you to think about what you can learn from the different case studies,
+
+and how you might apply that to the assignments that you get.
+
+And in particular, at the end, I'll introduce you to a tool called the Consensus Quadrant.
+
+And the aim of this tool is to get you to pull apart what technical information can support and what it can't.
+
+So in particular values a lot of decisions at the national level are informed by values way more than any technical insight.
+
+And that plays out differently in different topics, which is a theme across the case studies that I'll talk about today.
+
+So I'll give you a very quick overview of how technical insight might influence government decision making.
+
+We'll go into a lot more detail about the machinery of government and the mechanics of that process in a later lecture.
+
+So this is just a taster, and we'll look at both business as usual examples and also how that information input might change in a crisis.
+
+So governments have two modes business as usual where everything is slow and careful.
+
+And there's lots of accountability, lots of cross checks, lots of committees.
+
+And things move quite slowly. But if there's a state of emergency, everything moves much faster.
+
+The upside of that is you can respond quickly to a crisis situation.
+
+And the downside of that is that the checks and balances are relaxed.
+
+So if the crisis lasts too long, a government can change things faster and perhaps more inappropriately than you might like.
+
+So the three real life examples I'll give you are a project on rethinking plastics.
+
+What happened during the Faculty White Island eruption and the immediate aftermath,
+
+which was obviously an emergency context, and finally less of a less of a threat.
+
+More of an opportunity. I'll talk you through a project we did on artificial intelligence and healthcare.
+
+And then in the last ten minutes or so, I'll reflect on those three examples in the context of the consensus quadrant to see
+
+if that's a useful tool for you to separate your values from your technical insight.
+
+And so I don't forget all this information's online. But if you happen to be interested in what the written reports look like,
+
+I still have lots of spare ones in my office and I'm decluttering, so come and grab one at the end.
+
+If you're interested in AI or plastics. So just to emphasise, when I was the Prime Minister's Chief Science advisor, that's not a political role.
+
+So the chief science adviser is there to provide independent advice to the Prime minister right across science.
+
+And it doesn't matter who the Prime Minister is.
+
+So I served under three prime ministers, Jacinda Ardern and the two crises.
+
+They all had very different styles, but they all commissioned evidence to inform policy.
+
+Jacinda is a detailed person. She liked the detailed level reports. Some of them were big thesis length.
+
+Um. Chris Luxon prefers headline messages with all the key points in a short format and absolute assurance that his advisors have checked the details.
+
+And Chris Hipkins is somewhere in between.
+
+So there's, um, there's a lot to learn when you change bosses on how to communicate the same information in different ways.
+
+So what we did for all our reports was a short version and a long version and a flyer,
+
+sometimes a video, all these different formats to try and get the insights into the project.
+
+And you might think about that when you're doing your reports. So which which people in the hierarchy might look at different sections of your report?
+
+There might be an executive summary that might make it all the way to the minister. And the details underneath might get scrutinised by officials.
+
+And you need to keep both those audiences in mind when you are putting your recommendations and your options to government.
+
+There is the were there still are not quite so many now of the chief science advisers in Wellington.
+
+So this is just the list of all the different ministries that, while I was the Prime Minister's chief science adviser,
+
+who employed their own independent chief science adviser, so I could always phone a friend.
+
+So obviously I don't understand all of science, engineering,
+
+but along a Maori social science, ecology, you name it in enough detail to advise anybody.
+
+So my job was to find the experts on any topic of interest, distil information, and help it get to the right desk in government.
+
+And this set of people were my go to.
+
+So they were the first people I contacted, and it was a network of networks, so we could very quickly access the information we needed.
+
+And I'll give you a particular example of that around the White Island eruption and anyone who pays attention to what's going on.
+
+This guy here, the chief science advisor for the Ministry of Primary Industries, anyone knows name bring a chocolate fish on Monday.
+
+Tuesday, if anyone knows his name. No low profile role.
+
+Now that's John Roche. So he's now they're seconded from that role to be the current Prime minister's chief science advisor.
+
+So just a few high level points that are important context for appreciating the case studies.
+
+First of all, no matter how smart it might be, how comprehensive it might look.
+
+Science is never the only advice. Lots of things are decided by values, by politics, by, um, vibes, by judgement calls.
+
+Science can be an input, but is never the only advice.
+
+I think the time that science advice in recent years has had the highest profile was during Covid 19,
+
+and certainly at the beginning of the pandemic, it felt like globally, science had this huge role to play because nobody understood the virus.
+
+We had to sequence it. We had to design a vaccine. We had to understand how it spread.
+
+There was so much to do. So governments globally tuned in to science advice.
+
+That's unusual.
+
+Most decisions don't need that much science advice, and it's really important to understand what the technical input can contribute and when.
+
+That said, science and engineering are very good at defining problems.
+
+So in any government working group or if you're working for a management consultancy and you're advising local government or a ministry.
+
+Understand that your technical training makes you very good at defining problems, irrespective actually of the problem.
+
+So you've got that basic rigorous training that helps you do that.
+
+Also very good at identifying options and maybe coming up with options that intuitive thinkers might not hone in on.
+
+So the outside the box options that, oh, we haven't tested this permutation of variables options.
+
+So technical input around decision making tables is super useful for that.
+
+But there are things that science struggles with. One is quick answers.
+
+And politicians have to make decisions on defined and sometimes very short time frames.
+
+So the window to input technical advice is often very compressed.
+
+And in that sense your teams and systems work assessments mirror reality in some cases,
+
+because sometimes there just isn't enough time to get the complete, rigorous answer that you need.
+
+You have to get your best answer and explain what you know, and importantly,
+
+what you don't know and how long it might be before the uncertainty narrows to the decision maker in a timely way.
+
+So you've got your technical people on one side. You've got your elected officials, your politicians on the other side making the decisions.
+
+And the people in the middle are policymakers. So they are hopefully listening to the evidence and using it to inform their advice.
+
+But they are absolutely working on the time frame of government and beholden to their ministers.
+
+And they need to bridge that divide between the level of rigour that you might want to provide and
+
+technical advice and the expediency of getting it on the decision makers table for the decision.
+
+And we'll come back to this at the end. But remember that presenting the facts rarely changed anyone's mind.
+
+We are all guilty of confirmation bias. We all read and subconsciously filter the information to confirm our own biases.
+
+So if I read a report saying that chocolate is good for me,
+
+I am not going to apply nearly so much scrutiny to that report as one that says that celery is good for me, whether I like it or not.
+
+And sadly, the more trained you are and the more experienced you are in reading studies,
+
+its more likely that you you hone your confirmation bias so that you're actually really good at dismissing the ones you don't like,
+
+compared to people who've had less technical training.
+
+So always be aware when you're putting options together that just plain facts probably aren't going to cut it.
+
+You also need the context to understand people's values and to make sure that you have disconnected.
+
+And again, we'll come back to this at the end. The science debate from the values debate.
+
+So the example I often give is imagine you want to save a forest.
+
+Imagine that you have spent your whole life next to that forest. You love that forest.
+
+You want to understand that forest and say you do a degree in ecology, and you really have a lot of technical know.
+
+How about how to save that forest?
+
+And a proposal comes up in government to actually, we're going to get rid of that forest and we're going to dig for gold there.
+
+Maybe it's at the top of the Coromandel and it's time to reopen the gold mine, be great for the economy, create lots of jobs.
+
+There's a values debate there about what you value more, the forest or the gold mine.
+
+Technically, you know a lot about the forest and very little about the gold mine.
+
+And it's really, really hard not to try and argue your science debate through a values lens.
+
+But science can tell you what might happen if the forest goes, how to preserve the forest,
+
+maybe how to do the mining and put back before us with the least damage.
+
+But it can never tell you whether to save the forest. That's a value judgement.
+
+And so when you get into these tricky problems, be aware of your own values.
+
+Position what the technical insight tells you and how to separate those two in your report.
+
+They're both important, but they're very separate things.
+
+So the sorts of advice that we got asked to give and that you might be asked to give in your assessments can be different formats.
+
+So there's proactive strategic reports that are commissioned by ministries or local government, in my case by the prime minister.
+
+Um, on big, detailed topics that needs a bunch of experts to sit down for a year and come up with some recommendations.
+
+So we did one on plastics, and I'll mention we did commercial fisheries, which will come up later.
+
+We did one on antimicrobial resistance. We did a lot on food waste.
+
+And I'll talk today a little bit about the opportunity that artificial intelligence presents for healthcare.
+
+So there were major rigorous reports. We got together expert panels that I'll describe, and they came out with detailed recommendations.
+
+There are also some public facing explainers that we were asked to produce, so people worry about the safety of 5G.
+
+We put out a website aimed at local governments,
+
+reassuring their constituents or interested members of the public to try and address some of those fears and put them in a context.
+
+We were asked to put together a bundle of evidence for the public ahead of the cannabis referendum.
+
+That was fascinating, and also to advise on fluoride and nitrite in our water.
+
+If you're interested in any of those, the website link is there, and I've put direct links on canvas to some of the more relevant ones.
+
+And while we won't test you on the details of any of that,
+
+it might be useful for you to read and get get the kind of feel of how you take a big problem,
+
+how you scale and scope it, and how you turn it into recommendations, because that's what you'll be asked to do.
+
+And finally, in an emergency, you have reactive advice A very fast changing situation, and there might be advice that's needed in a hurry.
+
+And I'll give particular details on Picardy White Island. So first of all, plastics.
+
+Everybody understands that there's a problem with plastic. We produced a report called Rethinking Plastics in New Zealand and it was a dream project.
+
+It was pre-COVID. We had a government that included the Green Party, including the minister responsible for waste, Eugenie Sage,
+
+who was very passionate about doing this and really helped make sure that the recommendations got implemented.
+
+We had a Prime Minister who was getting lots of letters, especially from children,
+
+saying, we really want to get rid of plastic off our beaches, out of our countryside.
+
+And we had a following wind in terms of public opinion.
+
+So there was a Cornwall Brunton poll just before Covid that said that the number one social
+
+and environmental issue on people's minds at that time was plastic and what to do with it.
+
+Probably not the most important issue, and the intervening few years has really illustrated that there are bigger issues than that,
+
+probably, but it was one where there was a lot of public support, and so it was quite easy to put together an expert panel to have a huge reference
+
+group helping us write the report and really try and tackle this problem.
+
+That said, it really is a wicked problem. So we have made tons and tons and tons of plastic since it was first invented.
+
+And when we were doing the report, I think it was 8.3 billion tonnes.
+
+It will have only gone up since then. We invented this material in around the 1950s.
+
+One of the things we liked about it was that it was so hard to destroy and so stable, and then we wondered why it wouldn't go away.
+
+And what's happened is it's just broken down and broken down and broken down and slowly contaminated the environment.
+
+And now it's everywhere. So we have created we being mankind, womankind, an entirely man made problem.
+
+And we need to come up with some ways to solve it. That's probably not solvable.
+
+That's why it's wicked. Just because microplastics are everywhere in everything.
+
+But we can start to mitigate it and ameliorate it and stop it getting worse if we clean up the environment,
+
+if we understand which plastics are more harmful than others, if we stop creating more waste,
+
+and if we find better ways to recycle the plastic that we've already made the challenge and this kind of systems diagram,
+
+it's not really even a systems diagram, but it's an attempt to map out the scale of the problem.
+
+Of course, it's not just New Zealand, it's also offshore. There is a lot of product and packaging manufactured in New Zealand,
+
+and we have numbers on that, but there's an awful lot of numbers that we don't have.
+
+So we know how much we export. We know how much we collect as waste.
+
+We know how much waste is recovered. We're very confident.
+
+The green arrows on how much recovered material is used and recycled.
+
+But we really know nothing at all about how much is lost to the environment.
+
+We're pretty hazy on how much goes to landfill.
+
+We're very hazy on how much leach is out of landfill, and we also collect a lot of waste that we can't recycle, that we ship offshore.
+
+That is not handled in the most appropriate way when it gets there.
+
+So in any project like this, including the ones that you will get, you will want to solve the problem with lots of nice round numbers and clean data.
+
+There will not be clean data, so understanding the level of confidence in your data and what that means is that uncertainty maps through.
+
+Your options, and recommendations are really important. That said, we came up with a report that most people could agree on.
+
+We had this tagline make best practice, standard practice because lots of the things we were recommending weren't new.
+
+They weren't new technical insights. They were just good practice, good projects, good tech that could be adopted more widely and scaled.
+
+You can have a look online at all the detailed reports, detailed recommendations.
+
+There were very detailed in the full report, but they fitted under six themes.
+
+One was to have a plan to really get all the actions organised and to find ways to measure and monitor as we make progress,
+
+to get government to lead the way. So it's really hard now to find plastic cutlery, small shampoo bottles.
+
+Um, if you go into any school, hospital, government building, you'll find everything's as sustainable as possible.
+
+Whereas if you go to another country where they haven't made these changes, you'll find a lot of plastics still there.
+
+We advocated for consistent design and use and disposal of products.
+
+That's happening slowly, but the fewer product types there are,
+
+the more likely it is that you can get efficient recycling to innovate and amplify the research and technology that was already making a difference,
+
+and to tackle the environmental health impacts.
+
+And the last set of recommendations is probably the most important for monitoring whether any of these recommendations make a difference.
+
+And that's collecting data.
+
+And I think you'll find that in every report we did in six years, collecting data was a major challenge and a highlighted recommendation.
+
+Very hard to get funding to collect data because governments want to announce shiny new policies that make a difference now.
+
+And collecting data is resource intensive and hard to get the public behind.
+
+So if you heard the Prime Minister on the TV saying, we've put in $20 million for data collection,
+
+I don't think there would be a big cheer amongst New Zealand and the media.
+
+And yet that might be the single best investment to test all these other policies
+
+and better invest in new policies going forward that do actually make a difference.
+
+So we had a launch. We had lots of work from policy officials in parallel to our recommendations.
+
+That meant that they advised at the time we delivered our report that the recommendations should be accepted.
+
+The cabinet approved them. And there's something called the speech from the throne when Parliament opens for its new term.
+
+That's Dame Patsy Reddy, who is the governor general at the time.
+
+And she gave us a shout out and said one of the things the government was going to do was implement all our recommendations.
+
+So we were pretty excited about that Because all the ducks were lined up.
+
+The policy people, the political people, the scientific people were all in agreement at the launch of the report.
+
+There were lots of announcer balls. There was lots of stuff on the TV.
+
+There were lots of corny headlines saying drastic plastic ban, and we had a bit of momentum to make those changes.
+
+At that point, the technical adviser steps away. Away. It's up to the politicians and the policy people to to get on with it.
+
+But it was nice to see it all happen. So even in the pandemic, 12th of August 2020, the government carried on moving these forwards.
+
+Very, very nitty gritty details required to get rid of hard to recycle PVC,
+
+but only when you've found replacement products for all the things you use PVC for.
+
+Same with expanded polystyrene packaging. If you think back ten years ago you could buy burgers in those polystyrene clamshells.
+
+Now you can't throw on those cardboard ones.
+
+That took a while to come through because they had to find products that actually worked that burger suppliers didn't mind using,
+
+and get rid of all the ones that they'd already bought.
+
+So for every item, somebody had to sit down and work through the ramifications of the ban and make sure it could all be implemented smoothly.
+
+And the good thing about this project is that it survived the election. So even in 2024, the transformation of waste plan was still in play.
+
+And for example, we recommended only using plastics one, two and five.
+
+And that went through with the new coalition government.
+
+So some of our reports got stuck when the government changed. This one didn't.
+
+So this was one that had political consensus and continues to make a difference, albeit at a slower pace as we went through the Prime Minister's.
+
+So I'll switch now to emergencies. I was the chief science adviser at a very unusual time.
+
+We had three major crises and I was called in.
+
+Me and my team and the experts we could find for all three.
+
+So first of all, the tragic events of the mosque shooting in Christchurch,
+
+where there was a call for advice on how to support the Christchurch community and the impacted communities,
+
+in particular, recover in a way that was culturally appropriate.
+
+Um, so that was a very sad time, but we were able to make a difference on a on a short time frame to inform what became the Christchurch Call
+
+when Jacinda went off to meet Emmanuel Macron to try and do something about the online aspect of terrorism.
+
+I'm not going to talk about Covid 19 because everyone gets rather triggered by at the moment, but that was a long,
+
+slow crisis that took up a huge amount of all my waking hours and my team's waking hours,
+
+and all the experts in New Zealand as we scrambled to meet the demands for information from government.
+
+And in between those was the eruption of Bacardi White Island.
+
+Which, for those who don't know, was an absolutely tragic event where a tour party was on the volcano when it erupted.
+
+Tragically, there were many deaths, and by the time the dust had settled and the rescuers had gone in to take off the living,
+
+the challenge that remained for government was to work out whether to retrieve the bodies.
+
+Um, so that was a pretty gruelling circumstance to be in.
+
+I was working with Jill Jolly, who was, um, on our chief Science Advisor forum,
+
+with expertise in volcanology and other experts and what we had to do despite
+
+the fact we were as moved as anyone else about the immediate human tragedy,
+
+was focusing only on the immediate technical question which is written there.
+
+So the technical question we were asked to answer is what is the probability of a second eruption at any given time?
+
+Because the government needed to decide whether to go and retrieve the bodies, and if so, when.
+
+And this is a really good example of a values driven decision that needed technical support.
+
+So each one of you in this room will have a really strong feeling about whether it's worth risking a human life to retrieve a body,
+
+and that will depend on your upbringing, your religion, what what things you read, what drives you as an individual.
+
+It's really got nothing to do with science. And that was not a scientific technical decision.
+
+What was a scientific technical decision was figuring out the probability of a second eruption.
+
+And it turned out that was 6% with a huge error margin, highly, highly uncertain.
+
+And it turns out that with the probability of death of 6% per hour, special forces were within their mandate.
+
+Their motto is go into danger, to be deployed to retrieve the bodies, and that left it as a political decision,
+
+a cabinet decision to decide whether or not to go in and retrieve the bodies.
+
+And ultimately they did. And thank goodness there wasn't a second eruption and everybody came back safe.
+
+So I'll just give you a little insight into how the technical side of that played out behind the scenes.
+
+So this is an actual paper that was given to me by Jill.
+
+The day the mountain erupted.
+
+And you'll see it's a scientific paper with a quite dull technical title, Evaluating Life Safety Risk for fieldwork on Active volcanoes.
+
+And they had developed some years before the eruption.
+
+This thing called vol rest, which was a life risk estimator. And it's used by in that at that time it was an organisation called GNS science.
+
+Nuclear science,
+
+to decide whether they could deploy their scientists to go and make measurements on faculty and other mountains to understand the risk of eruption.
+
+It was not designed for emergencies,
+
+and it's acknowledged in the paper that you're going to have a very different risk appetite in different situations.
+
+So if you're a scientist wanting to go and check the solar panels working, you're not going to go the day after an eruption.
+
+You're going to wait till the mountain is really quiet. If there had been a school bus full of children still alive on the island.
+
+I don't think anyone would have asked for this probability. I think the value judgement would have been go and get those children.
+
+And we were in this middle zone where there was a values judgement that needed to be made, which depended in some ways on the risk.
+
+Now, giving this paper to cabinet with the very useful but hard to understand figure seven,
+
+which was the hourly risk of dying at different distances from the crater, was not helpful.
+
+So what we needed to do was take this very technical paper, understand where the bodies were.
+
+Understand the probabilities. Get all the expert advice and turn it into something that was very quickly intelligible by cabinet non-experts,
+
+and also the general public, who wanted to know what was going on.
+
+This is just a page from my notebook, because I was called into all the emergency meetings and being a long way from my home discipline,
+
+I took Graham Leonard Hussain a minute with me, who's an expert on Picardy, White Island, and I was there as the chief science adviser.
+
+I had a seat at the table and he was behind me supporting,
+
+and I was literally passing notes back and he was messaging out to people he knew who knew the answers.
+
+So this was when we were coming up with a map.
+
+We did it in a few hours, and then Graham then presented it to the press, and I presented it to the people in forming cabinet and to the PM.
+
+So this is Graham explaining the map to Sarah Stewart Black, who was the emergency controller for the Ministry of Civil Defence and Emergency.
+
+And this guy here, Nicco Fournier, is another expert on fakery.
+
+And he got positioned on a helicopter above fakery during the rescue operation so that
+
+if there was a change visually in the volcano that he could perceive as an expert,
+
+or if the data about the tremor and the gases that he was receiving in real time changed,
+
+he could say, we should get those people off the mountain, because I think the situation has changed.
+
+There's a very dynamic situation that was changing all the time,
+
+and behind all those people was something called the New Zealand Volcano Science Advisory Panel,
+
+which includes a whole bunch of volcano experts from all institutions across New Zealand.
+
+They had this fantastic resource, which was a slack channel where they all shared their thoughts and they challenged the people in the
+
+decision making room to make sure that we didn't have groupthink with that little tiny group of people,
+
+and they agreed on consistent messages. So there was what we agreed on, what was still under debate, what the uncertainty was and when it might close,
+
+and only the stuff that everyone pretty much agreed on went out to the media.
+
+So Graham was in the beehive with me in the bunker, which is the emergency spot down at the bottom.
+
+And this guy here, Tom Wilson, was at that time a university professor at Canterbury, still is partly.
+
+And he did a lot of the media work based on that consistent information from the back room channel.
+
+So it was a very good way of having a robust scientific debate and still getting the comms out.
+
+And the maps that we had created got used quite widely in the press.
+
+You will meet Tom later in the course because he is our guest lecturer,
+
+and will give you some insight in his new role as the chief science adviser to the National Emergency Management Agency.
+
+So he's full of stories about how you get technical advice into major events like floods, earthquakes.
+
+Some of you might have heard about the big earthquake down south. I was actually in Dunedin and felt it.
+
+It was near Milford Sound, and it was Tom's job to get up late at night and say, right, is there a tsunami risk?
+
+Do we need to evacuate the people who live in the sounds? And the last example I'll give you is less of a dark story and more of an opportunity.
+
+I've called it a wicked opportunity. I don't think people generally use that term,
+
+but I like it because this is an exciting area where you can see how deploying
+
+technology could make so much difference to the quality of healthcare in New Zealand.
+
+And yet its implementation is really complicated.
+
+And so deploying all these new tools that technical people, scientists,
+
+engineers have come up with is really hard to make a difference where it matters most.
+
+So this was not an emergency. Obviously, this was a report originally commissioned by Chris Hipkins delivered in draft to Chris Hipkins,
+
+but delivered finally to Chris Luxon, which just illustrates that the science advice is not political.
+
+It crosses that political divide and because we were straddling an election, we included two key people on the panel.
+
+That's Ian Town, the chief science adviser to the Ministry of Health.
+
+So beyond my term as the chief science adviser, he could support those recommendations within the ministry.
+
+And this person here, you'll meet later, Robyn Whittaker.
+
+She is currently chairing the group that's implementing lots of change using AI in Public Health New Zealand, Te Fatou Ora.
+
+And so she was on our panel, heard everything on the panel from the experts.
+
+The rest of the panel was a wonderful mixture of experts like Michael Wittrock, who's here in Auckland.
+
+Philosophers like James McLaren,
+
+who is here because we were thinking about how to think and how to interact with something that thought differently to us,
+
+and we really needed someone who understood thinking. Philosophers are hugely important in deployment of AI.
+
+And then a bunch of AI, um, tech people, healthcare people,
+
+and just generally great thinkers and people that brought a Maori and Pacific perspective so that
+
+we understood the different context in which we would need to deploy any innovations nationwide.
+
+So I'll quickly skim through this. You can grab the report or look online if you'd like more detail.
+
+The thing that inspired the report was politicians and PM Hipkins in particular,
+
+really seeing that using AI presented huge opportunities to do healthcare better and more efficiently in New Zealand.
+
+So Valpo Health is a New Zealand founded company that does Amazing image analysis of mammograms.
+
+Now, because the company grew in a research ecosystem that favoured, um, finding large markets.
+
+Their tech has been deployed in Australia and in the US, but hardly at all in New Zealand.
+
+Even though they want it to be used at home, even though they're offered a discount to do so just to do it at cost.
+
+So what it does is make mammograms more effective.
+
+It gives more information to the radiologist, and it makes it easier to hone in on high risk patients to do extra treatments.
+
+If you are in New Zealand and you are in the elite group that has private healthcare and you go for a mammogram,
+
+Vol power tech is probably used if you are in public health,
+
+certainly at the time of writing the report, and I haven't heard that it's changed, it won't be used.
+
+And yet people say that AI could be used to solve inequities, but in this case, it's doing the exact opposite.
+
+It's giving more information to the people that can afford it, and widening the gap to the people in the public health system.
+
+So one of the things that we grappled with as we made recommendations was how to get innovations not just into the private sector,
+
+but also into the public sector. Acknowledging that companies couldn't scale in New Zealand and needed to go off and find markets offshore.
+
+But how could we also have the benefits domestically when taxpayers had funded that tech?
+
+There's lots of case studies in the report. This one's local.
+
+So this one came out of the Auckland Bioengineering Institute, which many of you will know.
+
+It's a company called formas. Um, long story short,
+
+they had seen that there was a need with people doing operations like hip joint replacements
+
+to get better information to the surgeon ahead of slicing into somebody's leg.
+
+So the old fashioned way of doing it was very much reliant on the judgement of the surgeon who would look at the X-rays.
+
+They would look at the MRIs, but they didn't really know the size and shape of the piece that they might be inserting into
+
+someone's leg or the hip joint that they were replacing until they actually opened the person up.
+
+And then they had a variety of options that they could draw on to use the tech.
+
+That form is used, used AI and advanced image scanning to take all the information before the patient was cut open,
+
+make a 3D model of whatever was going on and enable the surgeon to create bespoke pieces ready for when the patient was on the table.
+
+Again, something that you can pilot with a small number of surgeons with permission from the patients,
+
+but something that's very hard to roll out across the board quickly.
+
+So there were all sorts of considerations for our national context.
+
+We needed to know how to evaluate these tools.
+
+It's all very good looking at sexy case studies, but if you're going to deploy AI, it's going to make mistakes.
+
+Importantly, you might check whether the tool is working, and then it might keep improving itself and make mistakes after you've evaluated it.
+
+So how do you keep on top of a tool that's constantly evolving?
+
+Um, I've used this image deliberately to show you the sort of mistakes AI can make because it thanks to remarkable behind the Sky tower.
+
+Um, we don't want that happening in a healthcare context.
+
+How can we make sure that we keep the public on board with this and get them to understand that this is helping,
+
+that there are things that AI is really good at, that people are bad at, and vice versa.
+
+For example,
+
+there are lots of studies showing that an AI and a person looking at a radiology scan gives you a better result than two AI's or two people,
+
+because we make different types of mistakes.
+
+How does Health New Zealand support clinicians to understand the tools to trust the tools to know where, not to trust the tools.
+
+How do we educate people? How do we get their input as we go?
+
+How do we train? How do we address this really tricky issue of equity and not just roll it out for the people with private health care?
+
+And have we adequately addressed our obligations under totality?
+
+So we ended up again with detailed recommendations in eight themes.
+
+We needed to understand the whole landscape of Aotearoa New Zealand, not just the private healthcare and the big cities,
+
+but the remote, the remote sites, the primary healthcare, the hospital context, the consultants, everybody.
+
+We needed to make sure that while things were more efficient, the doctors and the nurses were enabled to be more human, to do the human part well.
+
+So, for instance, if you've got AI as it is now taking lots of the notes,
+
+you are more available for caring and eye contact and things that people might like when they're sick.
+
+Um, that's a big challenge in a cash strapped system, which is trying to get more efficient.
+
+So we really emphasised that we wanted to enable adoption right across the the country to enable confidence, trust.
+
+And I already talked about the inequity. Data and systems is really important.
+
+AI is only as good as the data it gets fed. And if the data is a shambles, then the information coming out will be a shambles too.
+
+You guys know that. And if you start digging into the quality of data across New Zealand,
+
+it's probably not even so, you're going to get different results in different places.
+
+How do you solve that at a policy level? In a political level? So we put up not just recommendations but considerations for implementation.
+
+And some of these things are going through. Do we understand our contextual enablers and barriers.
+
+In other words, in rural locations are the things we need in city locations that are extra things we need?
+
+How do we really connect our tech communities that want to help with the people that are actually helping in the places where the need is greatest,
+
+and how do we keep monitoring this tech as it keeps evolving after we've rolled it out?
+
+So these are three punch lines I guess, from the report. So we said, look, there are huge benefits here that you can only realise if you deploy AI.
+
+Well it's going to keep coming. So there were a lot of current applications when we did the report maybe three years ago, more and more since.
+
+And how are we also going to move beyond clinical settings and make sure that AI is supporting health researchers in a way that has ultimate impact?
+
+And to do that, and to help Robin in her task as chair of the National Artificial Intelligence and Algorithm Expert Advisory Group.
+
+What a mouthful.
+
+And we suggested some principles that, as all these very detailed recommendations and later ones from other technical groups were being implemented.
+
+We make sure that all those principles were respected.
+
+So I think that was useful work to guide the subsequent work that went on.
+
+But because the government changed the mood changed, the implementation mode changed.
+
+There wasn't a big fancy launch for this one. It's just quietly happening behind the scenes.
+
+So I have given you three examples where I think science of advice made a difference.
+
+Fair to say that didn't always happen.
+
+So science advice, any sort of technical advice can be used well, it can be misused or it can be completely ignored.
+
+Um, the worst report we did in terms of its landing publicly was one on gangs.
+
+So this was commissioned by Jacinda Ardern. She wanted to understand how to minimise harm in and around gangs.
+
+By the time we delivered the report,
+
+we had PM Hipkins as prime minister and the election year meant that the Labour Party's position on crime had changed quite a lot,
+
+and so a supportive, harm based report was not necessarily useful for their new policies.
+
+So the government of the day backed away from it. And in my biggest media fail, this was Chris Luxon when he was leader of the opposition.
+
+He was about to be my boss. So I went on the radio to talk about the report he was on.
+
+Immediately afterwards, they did that gotcha thing where they played a soundbite from me talking about the report to the leader of the opposition,
+
+and he said, I dismissed that completely. I disagree, um, we hadn't briefed him on the report yet.
+
+So that's how the media works. So sometimes you do a lot of work.
+
+You write a big fat report, you've pulled in all these experts and it just lands badly.
+
+And so one of the things that I've thought about since I stopped being the chief science adviser was how
+
+you might think about different topics before you end up on national radio with someone rejecting you and.
+
+Figure out how to get the messaging right.
+
+The framing of the project right. In order to understand how to get the message across and not trigger a whole pile of backlash and misinformation.
+
+So this tool might be useful when you get your big reveal projects for teams and systems,
+
+and it just tries to look at situations where the scientific consensus is high or low versus the values consensus being high or low.
+
+And it draws on some work by others that I've referenced at the bottom. So if you've got a big weather event like a tornado,
+
+everyone pretty much agrees it's coming roughly where it's coming, how strong it will be and when it will arrive.
+
+Everyone also pretty much agrees that it's a good idea to get out of the way to lock up your children, to tie down your trampoline.
+
+We know what to do, and so science advice is really welcome.
+
+Then you can be as detailed as you like. A contentious issue like abortion.
+
+again, each one of you will have a strong feeling on when abortion should be allowed.
+
+If it should be allowed. It's probably got absolutely nothing to do with the technical details of the procedure.
+
+So there's a huge scientific consensus about safety when and how it can be done safely.
+
+But that's not going to sway the decision.
+
+So really, scientists can put down their clipboards and allow that values debate to play out because it's a values debate.
+
+There's some really murky areas, like recreational drug use, where there isn't really much data because nobody kind of admits it,
+
+and nobody wants to do experiments on people who are doing something illegal.
+
+We don't really know how good or bad lots of drugs are for you, and there's a massive polarisation in values.
+
+So people who are libertarian think you should be able to do whatever you like with your own body, whereas people who,
+
+um, have a strong objection to drugs have some moral panic, and probably overestimate the risk of recreational drugs.
+
+So then you're in really dangerous ground, and that's where you're at risk of having your scientific debate playing out through your values lens.
+
+So you're better, like we did in the gang's report, to try and move the conversation forward rather than make specific recommendations.
+
+We had a play in that space in the cannabis referendum. If you're interested in how we did that.
+
+And finally, there will be situations where everyone agrees we should do something.
+
+So asteroid is about to hit the Earth. We're all going to agree we should probably do something about that,
+
+but nobody's going to have the slightest idea what to do, although there are people working on it.
+
+I'm just glad that I'm not the science adviser when that happened.
+
+So if you put all the topics on a quadrant and if you've got a topic, you can go, hmm, what's the values consensus?
+
+What's the scientific consensus? Does this help me frame my project? Does this help me move the conversation forward?
+
+And what I've done is mapped all the projects that we did when I was a science advisor onto
+
+that quadrant and tried to figure out why some are were much more successful than others,
+
+so the plastics and the emergencies tended to come here, whereas gangs was harder to land.
+
+And the hardest one of all, I'll tell you about later in the course, which was commercial fishing.
+
+Of course, it can change with time. So Covid in 2020 was kind of an asteroid territory.
+
+Everybody was like, what does this need to know everything about it?
+
+What can we do? Please give us advice. And ironically, as we learnt more in the scientific consensus consolidated,
+
+we lost the values consensus and we probably could have done a much better job at communicating that as we lost our social licence over time.
+
+And for new technologies, you find that people haven't really decided yet.
+
+So for AI project, they've put that right in the middle. You've got some people who are super excited about it.
+
+You've got some people who are a bit wary of it. You've got quite a divergence in opinion and how useful it's going to be and how fast.
+
+And really people haven't formed camps yet.
+
+So for emerging technologies, you've got a little window of opportunity to try and influence the public and figure out what it is.
+
+You might need to tell them to get them on the journey, or to hear their concerns,
+
+and make sure that the technology journey is mindful of what the public are saying.
+
+So that's the end. Happy to take some questions very quickly. Otherwise, we'll see you next week.
+
+And Mark will be here to talk you through the nuts and bolts of business cases,
+
+GDP analysis and all the things you'll need to actually get your projects done.
+
+Thank you. Don't forget to take these reports.
+

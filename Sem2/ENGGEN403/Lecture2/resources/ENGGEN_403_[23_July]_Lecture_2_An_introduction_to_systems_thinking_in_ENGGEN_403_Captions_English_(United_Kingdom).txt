@@ -1,0 +1,831 @@
+[Auto-generated transcript. Edits may have been applied for clarity.]
+How are we doing today? Good.
+
+All right. So today we're going to talk about systems thinking.
+
+We're going to introduce it in this lecture.
+
+But to begin we're actually going to introduce all the administrative parts of engine 403 because there is quite a bunch.
+
+So I want to start off running us through canvas, our canvas guide our assignments, all that fun stuff.
+
+And then Juliet's going to answer the question, what is systems thinking?
+
+So hopefully everybody has seen our canvas homepage. It should look fairly familiar.
+
+Um, what I want to key you in on. First off, you will notice we have two resource pages down below.
+
+The team project and the system's weak resources. Those will open up for the relevant week.
+
+So they're right on the home page. You don't have to try and find them.
+
+What you really want to focus on is the course schedule and your assessment tabs.
+
+Your assessment tabs will walk you through what the assessments are.
+
+Briefly they'll also tell you about lane one and lane two. And then we can take a look at our course schedule.
+
+Now engine 403 runs differently compared to most of your other courses.
+
+We only have seven weeks of lecture.
+
+So you will have five weeks in the first half of the semester. We're starting off with some intro material this week, and then in weeks two,
+
+three and four we're focussed on delivering you the most of the modules or honeycomb components of our Systems Thinking course in week five.
+
+This is going to be preparation for the team project in weeks four and five.
+
+We do have two compulsory lectures. Both of them are going to be on Thursdays.
+
+And then in week six you will have your team project. There are no 403 classes that semester or that week.
+
+When we come back from mid-semester break, we'll have a week of debriefing, the team,
+
+project, how it went, what you can learn from it, what you can take forward. We'll have a week of preparing you for Systems Week again on Thursday.
+
+We actually will have graduates from last year.
+
+Come and talk to you about Systems Week, how they thought it went, what they've learned from it, what they what mistakes they've made.
+
+They don't want you to repeat. Um, and that will be held on a zoom webinar.
+
+And then in week nine you have systems week. And I'm going to reiterate this a few times, but that week all part four courses are cancelled.
+
+So you only have engine 403. If you're taking any third year papers out of faculty papers, etc., you still will have those courses.
+
+But engine 4 or 3 courses are cancelled weeks ten through 12.
+
+There are no lectures. We will be posting an asynchronous lecture giving you feedback on how Systems week went.
+
+So in other words, you finish up systems week and then you can wrap up your capstone courses and your part four projects.
+
+You don't have to worry about us as much. So team project that's going to be week six.
+
+This is the practice run for systems week. It's going to take place 8 a.m. Monday morning.
+
+That's when you begin it. It closes at 5 p.m. on Friday.
+
+That's when the report is still. What we do is we have a teaching or a teaching staff clinic, so there are no lectures.
+
+Instead, the staff will be available from 10 a.m. to 4 p.m. each day in the meeting room on level nine.
+
+So come see us. Ask us any questions. Now this project is.
+
+Designed to take students, each student on the team about eight hours over the course of the week.
+
+Some of you may spend a little bit more. Some of you may spend a little bit less.
+
+It depends on how you divvy it up. You're working on it alongside your other courses.
+
+So each course is roughly 8 to 10 hours a week. Teams can work remotely, so you can be meeting asynchronously.
+
+Discord is quite common. Zoom, Instagram.
+
+There's quite a few ways teams will get together and talk because you are doing alongside your other courses.
+
+You also are allowed to have meetings, place places on campus,
+
+hold off booking anything until week five because there is an array of rooms that engine 4 or 3 students are not allowed to work in.
+
+So I'll be releasing all of them at that point once I have the final list from all the faculties.
+
+You can see that teams do get together. This happens to be the computer lab at level nine.
+
+It was a favourite place for teams to work in and they're not allowed.
+
+We're not allowed to use that anymore. Last year we had at least two teams that had campus security called on them, so do not try to work there.
+
+Systems week is the fun one. You're going to be a large team of consultants working a very full week on a real world,
+
+national level systems problem supporting the New Zealand government. We'll be releasing the topic for Systems Week on Friday of Week eight.
+
+Come along if you to hear about it. We'll also be telling you all about will we have our guest, the extra guest back.
+
+Do we know yet? Okay, so we may even have the government officials here that week.
+
+Now, all of your part four courses are cancelled. That includes your capstone projects.
+
+That includes your research projects. None of those meetings should be happening that week.
+
+There are in-person sessions that are compulsory,
+
+so each team will have about four four hours of rooms booked per day that we book for you, and you are expected to be there in person.
+
+If you do have another place on campus, you're going to be that is acceptable as long as your team leader lets us know.
+
+Additionally, we will have all. There will be online session sessions and other resources available when you need them.
+
+And we will be running the clinic and we are there from 9 a.m. until 5 p.m. every day.
+
+So we're working roughly the same time frame as you and do.
+
+Come see us. We enjoy getting student visitors.
+
+And one of the key things about both the systems project and the team project is everybody needs to contribute.
+
+You are teams of roughly 30 students.
+
+You may think that's a lot of students and not that much work.
+
+You do need every single one of those students to help. Okay.
+
+We are asking you for a lot. The you're trying to solve a real world, national level problem.
+
+Now, for our other assessments, we have a field. The first one are your quizzes.
+
+They're each worth 5%. They're going to be in weeks three and five of this semester.
+
+We have our quiz resource pages, which you can find more information from the.
+
+Open Thursday at 9 a.m..
+
+They closed Friday at 10 p.m., so you should be able to fit them in around your courses and any other outside commitments you have.
+
+You get 60 minutes to complete the quiz. Make sure to read those resource pages to see what lectures are going to be covered in what in each quiz.
+
+I already mentioned we have those two lecture participations there, compulsory lectures on Thursdays of week four and five.
+
+The first one is going to be a guest lecture, and then the one in week five will help you organise your team to head into the team project.
+
+So get all of that sorted with the teaching staff there to help you.
+
+We will be doing group member evaluations. We're calling them team Peer reviews.
+
+They're going to take place in mid-semester break and again in week ten we'll be using a different software.
+
+We'll be using Team-mates. So while everybody here has gotten used to the feedback fruits,
+
+it breaks when we give them teams of more than 15 so will be using a different software.
+
+Each student will be getting an individual link to be able to access their team peer review.
+
+The big assignment you have going on right now is the individual goal settings.
+
+There's two parts to that assignment right off the bat of what you're writing.
+
+You're reflecting and setting Smart goals. Now that assignment is currently open and and it is due Monday at 10 p.m..
+
+That assignment is a total of 4 to 600 words across both your reflection and the Smart goals you're setting.
+
+Okay, once you submit that document on Wednesday,
+
+you will be able to go back to Feedback Fruits and begin redoing a peer review where you
+
+are marking your peers and your final mark will be a component of how they mark you,
+
+how the staff marks you, and the final review or and you actually doing the marking of others.
+
+And then the last assignment we asked you to write opens in week ten.
+
+And this is a reflection. So I want you to reflect on your experience of engine 403.
+
+I want you to go back to that individual goal settings. Did you complete your goals?
+
+What learnings will you take with you from 403?
+
+And then if we haven't mentioned it before, we do read every single one of these goal settings in every single one of these reflections.
+
+And on top of also reading all of the set comments that we get at the end of the year.
+
+Now academic integrity. Hopefully this is a review for most of you.
+
+It's the honesty that you have in your studies and your assessment.
+
+It's the key to being part of the university's academic community, and it's also a professional skill to take forward as you leave uni.
+
+If you have any questions about academic integrity, you can go back to your canvas course on it that you should have all completed in first year.
+
+We also have a few web pages for this on the university.
+
+As always, if you're really unsure, just come ask us. We're more than willing to help out.
+
+Now, with academic integrity, we have to talk about gen AI.
+
+So many people have heard about the lane one and lane two policies that faculty instituted this past year.
+
+Hopefully everybody. So Lane one is a controlled assessment another way.
+
+In other words, AI is restricted. So you can or cannot use AI depending on what's going on.
+
+We could also restrict you in terms of what calculators can you you use, etc..
+
+The only lane one assessment we have here is lecture participation.
+
+Okay. So you actually being here for those two in-person lectures?
+
+Everything else would be categorised as an uncontrolled assessment.
+
+You're allowed to use gen AI in particular for the team project and for systems Week.
+
+We want you to actually think about where it makes sense to use it.
+
+And we give you some examples on our campus page on how to use gen AI in this course.
+
+Most importantly, because those are two team projects, the team has to agree on how you're using it, and if your team is using it, you must.
+
+The team must complete a reflection of AI usage so that you would attach to the front matter of your reports that you submit.
+
+All right. That is the end of the boring stuff, as I like to put it.
+
+Any questions? All right.
+
+Julia. Thanks, Amanda.
+
+Well, the A.I. slides up. Might be worth mentioning that, um, we give both the team project and the system project to a couple of Gen AI's.
+
+We get them to try and read it, solve it, peer review each other's output,
+
+and create the best possible output without any human input, and then get that independently marked.
+
+Last year it failed, so I think it got a D+.
+
+So, um, if you're thinking that you can get AI to do these assessments, not yet.
+
+We're going to test it every year. Um, some people obviously used it really smartly.
+
+And we're role modelling on this slide. So that image was created with Microsoft Co-Pilot, but it's been credited, so that's absolutely fine.
+
+If you want to create images with it, go for your life. But make sure you say that you do.
+
+Some people use it really creatively in the early stages to brainstorm, to get ideas, to sense check.
+
+Some people might use it to help tone and framing of their text.
+
+Some people might use it to abbreviate when they've written too much.
+
+All that's absolutely fine if and only if you've all agreed to do it.
+
+You all know who's doing what, and you've really clearly stated how you use it in the statement.
+
+So it's not a cheat. It's not a don't use it.
+
+It's a use it smartly. And for systems thinking, as you go through your careers, AI is going to be more and more important.
+
+So understanding what it's good at and what you need to do to make it smarter is going to be more and more important.
+
+So I showed you this yesterday. We've ticked off the mindset and grit piece.
+
+We won't go back to that. That's there for you to reflect on. And if it's your schtick, then dig into it with the resources we've provided for you.
+
+And if not, you don't need to think about that one again. Except perhaps in your individual goal setting.
+
+Today we're going to have an introductory look at systems thinking.
+
+It's really quite a woolly term. And for those of you that like precise, reductionist mathematical problems,
+
+it can be quite frustrating to get into it, to try and work out what it means and how you might use it.
+
+So what I'm going to do today is give you some examples, some different definitions that come from different disciplines and different contexts.
+
+You don't need to know them all. You just need to find the one that gels for you.
+
+And then next week, Mark is going to, with my support for bits of it,
+
+lead you through some of the tools you're going to need to do the team project and the systems project.
+
+So that will be much more in your engineering comfort zone.
+
+It will build on 303 and what you've done before, but it will really push some of the business case tools,
+
+the management case, the economic case, the financial case. It will really push them to the limits because we will be dealing with much more woolly
+
+and less easy to define problems than the ones you've been used to in your courses.
+
+And then after that, we will go back and have another dig in more detail into systems thinking.
+
+And beyond that lecture,
+
+we'll give you some more specific tools to use systems thinking to wrap around your problem and provide inputs into those cases.
+
+So every lecture, we'll put this up and show you where we are. We're trying to do two things.
+
+One is give you a big new framework to think in, and the other is give you tools that might be useful within that frame.
+
+There's not one way to solve these problems. There are many ways, so some of the tools we give you might be great and useful.
+
+Some of them you might not like.
+
+It'll just be up to you and your team to draw on whatever skills that you've got already, and whatever materials that we've provided for you.
+
+So the reason that we are framing the course around systems thinking is because
+
+systems thinking helps us to attack and hopefully ameliorate wicked problems.
+
+So it's worth pausing to define wicked problems. Again, lots of different definitions.
+
+They were originally defined by Writtle and Webb in 1973, in one of the most boring academic papers that I've ever read.
+
+And they come up with ten characteristics of wicked problems that everybody goes back to.
+
+So if you really interested, we can pop that reference up on canvas for you.
+
+But what I've done here is tried to distil out the key elements.
+
+And again, different people use it in different ways. But Wicked Problem isn't a loose term.
+
+It's not just like a random adjective that's put in there.
+
+It's used in relation to issues that are really hard.
+
+They resist a complete solution or a simple solution.
+
+So they seem to be unsolvable. And lots of the world's problems are in that camp.
+
+So it's easy to spend your time solving things that can be solved.
+
+But some of the most important issues that you might like to tackle in your careers are not going to be in the wicked problem camp.
+
+So this course is all about getting some practice in there. As you try and ameliorate these problems, you tend to generate new problems.
+
+So that's a really characteristic feature of these issues.
+
+So for example, I think pretty much everyone now accepts we've got a problem with over dependence on fossil fuels.
+
+One way to try and solve that problem is to shift to renewable energy sources,
+
+which the world is doing in stops and starts in some parts with great gusto, in some cases going so fast that we are creating new problems.
+
+So can anyone think of the new problems we're creating as we shift to renewables?
+
+Anyone? You were chatty yesterday. Yes.
+
+People losing jobs? Yep. People could lose jobs. What else?
+
+Yep. Yeah.
+
+It might depend on the weather. And that takes us to a really key issue, which is what?
+
+What are we going to have to do? You can keep coal in the shed, but what are you going to need to do with renewable energy for it?
+
+And how are we going to store it. Yeah. Batteries.
+
+And yeah. So what? Tell us about the problem with batteries.
+
+Uh, the the lithium in it is not is much more toxic than the cost of producing an actual automotive vehicle at the moment.
+
+And the cars and the disposable disposing of that is not really kind of right now.
+
+Yeah. So there's some some safety issues. There's some environmental issues.
+
+There's some sustainability issues. Anybody got anything else expensive.
+
+It is at the moment expensive to set up. And to your point, it's not being set up in a way that's circular.
+
+So lots of batteries are hard to recycle. All the components are muddled up.
+
+It costs more to get you critical minerals out than it does to dig them out of the ground.
+
+We've got really huge problems with supply chain logistics for critical minerals.
+
+It goes on and on and on. So that's a really good example of trying to solve one problem and creating a whole pile of other problems.
+
+And the world is full of problems like that. So that's the territory we're in.
+
+And we'll go more into this in lecture eight. But a wicked problem is distinct from a complex problem.
+
+So the City Rail link is about to open.
+
+I live on K road and I have been staring at that lovely shiny station for a long time.
+
+It's got escalators, it's got lights, it's got signs, it's got timetables.
+
+It is not going and it is not going yet because they are testing it.
+
+They're testing the air con, they're testing the alarm systems, they're testing the capacity.
+
+They're testing the systems that work out how to optimise passenger transport from one spot to another.
+
+That is a hugely complex problem, but it will have a pretty easy to access optimal solution.
+
+And so with the right modelling, the right computational tools, the right inputs, that's probably a complex problem.
+
+We hope it's not a wicked problem or we've spent all that money for nothing. So there are complex problems that you can solve,
+
+but there are wicked problems that you probably can't solve because you're going to create all these other issues.
+
+The other thing you might see. And there's some great books on this. If you're interested in this, is there a long problems?
+
+So Western society in particular is set up to solve short term problems, not long term problems.
+
+So we get into trouble with climate change,
+
+which goes for decades with social issues that keep building beyond the life of governments and quarterly reports in business.
+
+Um, but there might not be wicked. There might just be long. So there are short and long problems.
+
+There are simple and complex problems.
+
+But it's fair to say that most of the wicked problems will be thinking about in this course will be both complex and long.
+
+And so to do that, we need some new ways of thinking. We need lots of different perspectives.
+
+As we talked a little bit about yesterday,
+
+we need to bring diverse people together with diverse tools to listen to each other and find ways, above all,
+
+to frame the problem so that you can do something manageable to shift the system in the right direction, even if you can't affect a complete solution.
+
+So system can mean lots of different things to lots of different people.
+
+Um, all systems have a few common features, so they have component elements.
+
+There are relationships between those elements. And loosely put, the sum is the whole is greater than the sum of the parts.
+
+So when you put all the parts together, properties emerge that you might not have predicted from all the individual components.
+
+And they are dependent on not just the components, but the relationships between the components and to an extent, the inputs and the outputs.
+
+So that overall system property.
+
+Some people would refer to them as emergent properties because they emerge from the whole, and other people would call it the purpose of the system.
+
+You'll see both sorts of nomenclature and I. That's fine.
+
+So I thought we could just look at a few examples that, um, some of you will tune into more than others.
+
+This one here scares me, so I'm not going to talk about that one.
+
+But if anyone would like to volunteer, their welcome to this one down here.
+
+Scares Amanda and probably scares some of you, but is my home turf.
+
+So that is the metabolic map. I did my PhD on the enzymes of amino acid biosynthesis, so this lived on my wall.
+
+I had this very complicated system, um, and the whole was greater than some of the parts.
+
+You put in a bit of sugar or a bit a bit of nitrogen, a bit of energy, and you've got all sorts of proteins that you needed for the cell.
+
+There are some features of the metabolic map that are really common to lots of systems.
+
+One is where on earth do you draw the boundary? So do I draw it around lysine biosynthesis?
+
+Do I draw it around amino acid biosynthesis or do I need to include glucose metabolism?
+
+Should I bring in the dreaded Krebs cycle? There's a boundary issue.
+
+It's always really challenging with these complex systems to figure out how to define the scale and scope of the system you're working on,
+
+and that'll be a key part of your thinking. Probably everyone can relate to the musculoskeletal system.
+
+If you're a biologist, you might think of that as a simple anatomical problem.
+
+You might see the emergent property of that system as movement and motion.
+
+Or if you are a sports physiotherapist, you might frame it differently.
+
+You might say the purpose of that system is to run faster.
+
+You might be an athletics coach, you might be trying to work out which muscle to strengthen and which ligament not to snap,
+
+to make that person run as fast as possible. So that would be another system.
+
+We're all using this one as we speak, I hope so.
+
+That's the cardiovascular system again a self-contained system,
+
+which gives us a frame in which to think about how we breathe, how our heart works, how we get energy to the body.
+
+But obviously it doesn't work on its own. It sits in the body.
+
+And if you were to zoom down, you would find lots of these molecules in the metabolic map.
+
+So there's all sorts of different ways that you can look at the human body, carve out different systems,
+
+and frame your system and your problem so that you can intervene in a way that's useful to you.
+
+This one here we might come back to a little bit later is a water system.
+
+So you will probably all heard people tearing their hair out in New Zealand because our three waters are a bit of a shambles.
+
+So everyone wants fresh water, everybody needs to be able to get rid of wastewater.
+
+And increasingly, as weather gets more extreme, we need to think about stormwater.
+
+Those are three separate systems, but they all connect. If you want to optimise everyone getting clean, fresh water in their taps,
+
+getting rid of their wastewater safely and not flooding in a storm, you might think of the three systems together.
+
+If you live near an estuary, you might say, oh, hold up, what about seawater?
+
+And that will also be connected. And most of you will know that high tide tends to lead to surges, which tends to lead to more floods.
+
+So thinking about how to optimise water in a small population country which has a large landmass is a wicked problem that no one has yet solved.
+
+So system will mean different things to all of you. In engine 303, I think you will have thought more about contained systems.
+
+So maybe you were thinking about a business. Maybe they had a few stakeholders.
+
+Probably they were going to be the customers, maybe the suppliers. So to optimise that system, you would need to think about supply chain logistics,
+
+making sure you had all the components of something you were going to manufacture in the right quantities,
+
+with the right stocks and ready to use a bit of resilience.
+
+In case one component doesn't get delivered, you would need to distribute the product to the customers.
+
+You would need the distribution networks to match the supply chain networks, and you might like to talk to the manufacturers,
+
+the customers, the shareholders, the board, all sorts of different stakeholders within a contained ecosystem.
+
+This year, it's going to be much more complicated. And if it's not making your head hurt, you're not thinking about it hard enough.
+
+Your stakeholders are going to get so broad.
+
+There might be the public, there might be local government, might be central government businesses, of course, and their customers, um, also NGOs.
+
+So you might have activist groups that have positions.
+
+You will definitely need to think about iwi Maori viewpoint, maybe immigrant communities depending on the problem.
+
+Um, and I guarantee that when you're sitting there in the first week of your team project and your system project,
+
+you will be feeling like you're getting somewhere, and then someone will say, oh, hang on, what about we haven't even thought about this?
+
+And it's this complex swirl. It's likely that all your stakeholders are not saying the same thing.
+
+Otherwise it wouldn't be a wicked problem. It would be a simple problem to solve.
+
+And so you're going to need some tools to dive into the system to help you navigate through all that complexity and all those tensions.
+
+And if you go back to that honeycomb map,
+
+all those different honeycomb pieces will give you some tools to try and find a way into this problem to get you started.
+
+So systems thinking. I'll give you a few definitions shortly, Um, but they all provide a context for you to think in a team and,
+
+and a language and a whole pile of different tools.
+
+Like I say, some of them will be useful, some of them won't. Um, these guys here work at better systems.
+
+They're obviously using a very large piece of paper and lots of post-its as their tool.
+
+A lot of people end up doing that in systems work. Some people do it on a miro board.
+
+Some of those Miro boards make me really dizzy when I wander around and look at them.
+
+But whatever you're doing, you need to find a way to all focus on the whole picture before you start to frame a problem statement
+
+that will help you address one of the critical intervention points and move the dial forward.
+
+As you do that, you'll need to think about the relationships between all the elements in your system the power dynamics,
+
+which, if we're looking at government level issues, are going to be quite tricky.
+
+There's going to be people with structural level power like ministers or local mayors,
+
+and then there's going to be lobbyists who maybe nobody listens to or everybody listens to, might be the media.
+
+Um, might be the communities that don't have much power, but upon whom the difference that you make will have a huge impact, and so on and so forth.
+
+And how all those power relationships interconnect will be critical to whether your recommendations move the problem forward,
+
+or just get it caught up in a big fight when you're recommendations land.
+
+And as I said yesterday, in the real world, solving problems like this is going to require collaborations across disciplines.
+
+When we put the teams together with you guys, we'll we'll make sure we've got as rich a variety of disciplines,
+
+at least in engineering in each group, and you will all have brought your own life experience, your own internships, your own summer jobs.
+
+Your own networks to solve the problem. So feel free to bring those to the table as well.
+
+And anything that you think would be useful to solve the problem probably can make a contribution.
+
+So if we don't define system, we'll have a whole pile of messages on add discussion saying what is the system anyway?
+
+Um, when you go through the literature and try and find definitions, you'll find heaps.
+
+And we've just included a few here, some of which will resonate with you and some of which won't feel free to use none of them or any of them,
+
+so long as you find a way of visualising the problem that you're given.
+
+So that top one is an early one from 1956 that tries to capture it almost in a reductionist style.
+
+So a system is a set of objects together with the relationships between the objects and between their attributes.
+
+You'll be glad to know I missed a bit out in the middle. For the system, there's an environment which consists of the set of all the objects,
+
+a change in whose attributes affect the system, and also those objects whose attributes are changed by the behaviour of the system.
+
+That is very clunky and hard to keep in your head. Also hard to read out, I've just discovered,
+
+but it might be a useful check when you first start trying to define the scope of the problem statement that you're trying to solve.
+
+Actually going through that checklist and saying, all right, what have I got in my system?
+
+What's out of my system? What's in the environment might be helpful. The definition I like to use is the simple one.
+
+So I just simply have a system as a set of connected parts that together form a cohesive whole.
+
+I think that captures all the key elements, and it forces you to think about these issues, which are absolutely critical.
+
+So however you've defined your system, you will have a system and you will have things that are outside the system.
+
+If you are a project um, management consultant, you might call that in scope and out of scope.
+
+It doesn't matter. You're trying to solve a complicated thing. Some of it you're going to tackle, some of it you're going to leave outside.
+
+And that means that the key issue is always going to be the boundary.
+
+What are you going to consider? What are you not going to consider? How are you going to decide what to live in and what to leave out?
+
+So if you go back to my metabolic map, that was always a critical problem.
+
+How big was my introduction going to be?
+
+Am I talking about one molecule, one enzyme, one pathway, one part of the metabolic map, the whole metabolic map?
+
+If you think back to the water system, should we just talk about drinking water?
+
+Should we just talk about wastewater? Should we just talk about stormwater? Should we try all three?
+
+Which ones does it make sense to keep in and out?
+
+How big a problem can we actually keep in our heads, and how much of it can we move forward and take a bite off?
+
+So Systems thinking is a holistic and expansive approach to looking at situations and problems.
+
+And this is a diagram that came from Portland State,
+
+which I think is helpful because it just puts up lots of the terms that you'll see and shows that they interrelate and overlap,
+
+and lots of them are talking about the same thing.
+
+So there's people who do systems research and there's people who just do practical work thinking in systems.
+
+They will tend to describe themselves in these terms systems management, systems engineering, which you'll all have heard of.
+
+And then there are people who use it as synonymous with complexity theory or chaos theory or fractals,
+
+obviously critical to everything will be computer modelling and simulation for most problems,
+
+and computational intelligence is going to play a bigger and bigger and bigger role in systems research.
+
+As artificial intelligence becomes more powerful and your job is to work out how to use it, how to harness it, how to give the system a purpose.
+
+Systems methodology captures the whole lot.
+
+So when we use that term and we say that's what you're using for your team project and your system project, go for your life.
+
+That's what we mean. If there's tools in there that are useful, then they're completely in scope.
+
+It's up to you to bring everything you've got to try and solve the problem.
+
+And just three more definitions for you on systems thinking.
+
+You will see as you read that some people call it a mindset rather than a practice.
+
+So that's just another framing. Again, some people think of the team that is solving a systems problem as a system.
+
+Um, that's getting a bit navel gazing for me, but I can see what they're doing.
+
+So you are creating a system to solve a systems problem.
+
+And so it's worth thinking about yourself as that system and test to see if you are optimising the way that you are working.
+
+A quicker way of saying that might be to say that it's a form of operations research.
+
+It's how are you going to get stuff done?
+
+And at the Systems Change Institute, Michael Goodman has gone as far as to say that systems thinking is also a philosophy.
+
+It's about trying to solve the real world problems,
+
+considering the whole not being reductionist and trying to break it down into something that's easy to solve.
+
+But that isn't necessarily relevant to the bigger picture.
+
+So when you get into your groups and you are given your team project and your systems project.
+
+You will be here. There will be a whole pile of opinions.
+
+There will be loads of ambiguity. You will have to deal with ambiguity.
+
+There will be some people who think they've nailed it and can see it straight away.
+
+Fast thinkers who've jumped to a solution. There might be the perfect solution, or they may have missed a whole pile of aspects.
+
+There will be people sitting quietly in the corner going, hold up. I think they've missed something.
+
+I can't just quite figure for the moment what it is.
+
+Who will need a bit of quiet time and go away and have a thought, and then come back and say, you know what?
+
+There's a whole new strand that sorts all this out.
+
+The first thing is, we're going to have to take a breath and listen to the people who've done more deep thinking.
+
+Come in later. You're all going to have to get used to making progress, then realising there's a fundamental flaw in your thinking and doing a reset.
+
+And you'll all need the discipline of giving yourself a certain amount of time for that
+
+chaos and swirl before you land in a direction that you can all agree in and move forward.
+
+The last thing you want to do is spend the whole week arguing about how to frame your problem statements.
+
+As you do that, you'll be thinking about technology, economic, society, people, business, maybe the environment.
+
+Every time you throw in one of these, there's all the interrelations and there's the all important boundary around the edge.
+
+So lots to think about. And like I say, if your head doesn't hurt and you don't feel really frustrated somewhere near the beginning,
+
+you probably haven't thought hard enough about trying to solve the problem because these problems are hard.
+
+This is a useful check. Sometimes people land on a solution and they're very happy because they can see what they can do,
+
+and everybody's got a role in their own moving forward,
+
+but then they realise that they've simplified it too much and it's not really a system anymore.
+
+So remember to make sure you're working on a system.
+
+You've got elements that you can define. Those are interconnected.
+
+And the interconnections will change the properties somehow. And the overall system has a purpose.
+
+If you look at some of the videos that we've put on canvas, um,
+
+it's pointed out that some systems are designed for one purpose and end up having a different purpose.
+
+So, for example, some research institutes are set up in New Zealand to break down silos and to bring people from
+
+different disciplines and different parts of the country together to do some collaborative research.
+
+That's their purpose. If you let them go for too long, their purpose shifts a little bit.
+
+They already exist.
+
+They've got their own identity, and suddenly their purpose becomes to keep getting funding to do what they're doing as an institute.
+
+So they become the silo. So the purpose of a system can change over time, and that's something to be mindful of when you're doing your scope.
+
+The purpose that you think the system was set up for might not be the purpose that the systems ended up with.
+
+And I think this is a nice definition for people that want a little bit more than my simple one.
+
+Systems thinking is a set of synergistic analytical skills used to improve the
+
+capability of identifying and understanding systems predicting their behaviours.
+
+That's important because you're trying to change things and devising modifications to them in order to produce effects.
+
+So this is exactly what you'll be doing.
+
+You'll be coming up with recommendations to government or equivalent bodies to say, we've really understood the system.
+
+We think we've understood it well enough to predict its behaviour. We recommend you do this and it'll shift the system to here.
+
+Sometimes you can be a little bit imaginative about how you define the elements and the interconnections.
+
+It depends on your system,
+
+so it's always worth having someone in the group throw around a few crazy ideas in the corner to see if you can come up with a better idea.
+
+So one thing we did, um, with the metabolic map when I was working at the University of Canterbury, was turn it inside out.
+
+So the metabolic map as written went. Molecule, molecule, molecule, molecule, molecule.
+
+They were the elements. And the interconnections were the enzymes that turned one molecule into another.
+
+And the reason it's always drawn like that is historical because we found the molecules before we found the enzymes.
+
+But one day we sat down with the biochemists and some systems thinkers and said, what would happen if we turned it inside out?
+
+So instead we made the enzymes, the element, and we made the interconnections, the molecules.
+
+And we just called them signals between the enzymes. And what we got was a completely different map.
+
+So the whole complexity of the metabolic map shrank because lots of the enzymes clustered together,
+
+and you only needed a few signals to understand it.
+
+So depending on your system, how you define your elements and your interconnections might help you move forward.
+
+So I've given you lots of different entries into systems thinking.
+
+If you like reading and you're really into this sort of thinking, I strongly recommend this book.
+
+So required reading for everybody is just the first couple of chapters, and if you want some video support with that, there's some on canvas.
+
+If I were sitting where you are sitting, I would read the whole thing. Um, I would say that, wouldn't I?
+
+But I think that the whole book gives you a really good handle on how thinking in teams to solve these problems will work,
+
+and it will give you a real head start for systems week.
+
+So about week three, four, five people start coming up to us and saying, can you give us any tips to get ahead for our team's project.
+
+Reading this book is the best tip that I can give you. It's very clear some things are disturbingly simple,
+
+but it just gives you some tools for how to start thinking about the complexity of the situation that you're in.
+
+How to break it down into its elements, connections, and purpose.
+
+And most importantly, and Amanda will talk you through a bit of this in a later lecture,
+
+how you might find intervention points that will shift the system in the direction that you might want.
+
+So I'll leave some time for questions and look forward to see you tomorrow.
+
+Thanks for coming. That's why they like this.
+

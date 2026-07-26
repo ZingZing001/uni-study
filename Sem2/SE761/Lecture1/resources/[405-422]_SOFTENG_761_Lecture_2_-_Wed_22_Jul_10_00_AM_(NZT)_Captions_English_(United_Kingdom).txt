@@ -1,0 +1,903 @@
+[Auto-generated transcript. Edits may have been applied for clarity.]
+Okay, so welcome to week one, lecture two of the course.
+
+Arisa gave you introduction of the course in general introduction.
+
+And by now I think you know that you are going to need teams in order to proceed with this course and then,
+
+you know, work on the projects that you will be allocated. So how many of you have already got into teams?
+
+Anyone who is still looking for teams. Any incomplete teams.
+
+You can raise your hands so that. So that you can maybe find potentially find a team member here.
+
+Okay, so it looks like most of you have made your mind.
+
+If you have an incomplete team, you should contact Razer because he is handling the project organisation.
+
+So it is important that you get into a team or you know your team is complete in time.
+
+I think you have time until Sunday. So that is very important.
+
+Uh, if you are not able to do it. Then I think Reza mentioned in lecture one that he will be randomly assigning you into teams.
+
+Okay. So by the way, my job is to get you started with the course content and get you a foundation about the very basic concepts.
+
+Many of these you already know. Many of these are like related to the social aspects of things.
+
+Many of the things you already many of the things you would already know, but you may not have emphasised on them.
+
+So I am going to take your attention to them, and then we are going to look at the agile related stuff that will be next week.
+
+So this week I want you to focus on the concepts of project rationale,
+
+how to build a project justification, and then how to deal with the client in the early days.
+
+So this is what we are going to talk about.
+
+So everything is going to start from a little project description that you are going to get when you will be allocated a project.
+
+In fact, you have already seen them. Right. So in the list of projects you see those little descriptions.
+
+And it is expected that by looking at those little, little descriptions,
+
+you are able to ultimately build a software product which is clearly not justified.
+
+Right? It is not about like what you used to see in the introductory programming courses where there was a one liner,
+
+write a program that that checks whether this string is palindrome or not.
+
+So it is not about this. It is about, uh, a full software product which must be working and of high quality.
+
+So that indicates. That you need to get into more details of the things.
+
+So if you click on contents of module one and two, the first thing that you see here is from idea to rationale.
+
+So what you see as a project description, as a little project description is just an idea.
+
+Now you need to expand it to get to a rationale. Now generally speaking, what is the rationale?
+
+It is a kind of way to get to the root of the things.
+
+Whenever you want to do a work in life as well, you want a reason for it, right?
+
+You must know a reason. You must have a goal or a motivation. Then only you will be, you know, encouraged to put more effort into it.
+
+So that is what is the rationale. Now the description might not be presenting you with that rationale.
+
+Right. So if your description is too specific,
+
+maybe 3 or 4 sentences and there are two specific that we want to product that should implement a weather monitoring system or something like that.
+
+The question that you need to ask to the client and to your team members and to yourself is why?
+
+Why does this matter? And who are going to be the affected parties?
+
+Who are going to be the stakeholders who are going to be the users?
+
+So these are very important questions that you would be expected to ask the client in your first meeting.
+
+Now, sometimes you might feel that, you know, it doesn't look good.
+
+If I you know, someone is asking me to do something and I'm saying why?
+
+Why? Why do you want to do this? But that is the first core question that is not only going to give you more details about the project,
+
+it is also going to give an impression to the client that you are more interested in developing the project.
+
+So there will be happy. So that means the first thing that we need to talk about is when you meet the client, what do you do?
+
+Right. But before that, you need to ask yourself and your team members, what do we need to do before we meet the client?
+
+So you need to do your homework. But for that homework you have got just one seed.
+
+And the seed is the description. Now that that description, you need to pick that description and think about it.
+
+What could be a rationale or reason or motivation justification behind that description.
+
+And you you would kind of write it down in some way.
+
+Now this initial right up is going to be required in assignment one.
+
+So before you meet the client you need to create a project rationale.
+
+And this is going to be a very general project rationale for which we do not want you to do any research.
+
+Now this project rationale must be based just on your current knowledge and your discussions within your team.
+
+However, for assignment one you would need to do it in individually, right?
+
+Right. You may discuss it with friends or team members or do it individually.
+
+So I'll get to that assignment one later.
+
+So the first thing to understand here is once you have looked at the description, you have an idea about the idea.
+
+Do not directly jump to what needs to be built.
+
+You still need to confine or limit yourself your thinking to the rationale of the project.
+
+That is, you must always think that I need to be fully convinced in order to start working on the project.
+
+So. Once you are, you know, you have read the description.
+
+Now you are thinking that the idea looks okay or it looks great, but I would need to seek more information from the client.
+
+For example, what are the functionalities does the client need?
+
+Are there specific technologies that the client is thinking of making us use to build a product.
+
+Sometimes the client may be a non-technical person.
+
+Sometimes they can be technical, I think. Reza mentioned that they are mostly non-technical.
+
+In your case, his hers. So that means you would you would need to ask.
+
+You may need to ask different questions.
+
+Now in these cases, these specific cases, generally the description that the client has built, it is coming from a reference software product.
+
+They have seen somewhere or some other colleague, their colleague or their competitor use.
+
+So they have written their description just based on that reference.
+
+So you need to then write up your questions or ask your questions accordingly.
+
+And you need to make sure that you ask, for example.
+
+You can ask a question is this description your own idea or are you coming from somewhere else?
+
+So the more transparent you are, the more correct information you will get.
+
+Now sometimes the client might say that.
+
+One of my competitors has this product already built.
+
+I also want a similar product and from my information it was built in this technology
+
+using this technology stack or something like or a general technology overview.
+
+In that case, you might need to look at the core functionalities that the client has asked and then their technology recommendation.
+
+You might end up at a stage where you see that the answer to the first two questions is conflicting,
+
+because in your team's experience or your individual experience,
+
+the technologies that the client has suggested do not work well to implement those functionalities.
+
+So then you will have to count a question or put this forward to the client.
+
+And the technologies that you are mentioning are not the best or implementing these core functionalities.
+
+So that is the importance of asking questions. So that means the first foremost important aspect of project development is writing,
+
+doing your homework and writing a sequence of questions that you want to ask to the client.
+
+Right. Now we teachers know it very well, this process.
+
+Why? Because this is the core principle of learning as well.
+
+In a class, if the students do not ask questions, they won't learn, right?
+
+So it goes exactly the same way I'm telling you about introducing a concept to you.
+
+If you do not ask questions, your knowledge will be limited. So now you are on the other side, right?
+
+You need to ask questions to the client and bring in bring out more knowledge.
+
+Now next thing that when you start asking questions, you would realise that we all are human beings,
+
+and what we say might not reflect what we actually want.
+
+Right. Especially in a non-technical client, from a non-technical client's perspective,
+
+a client is saying something and they are meaning something, and you might end up there that they are needing something else.
+
+So what they say, what they want and what they actually need, right?
+
+So you need to travel from what they say to what they actually need.
+
+And to understand it better. We have this page here recording what a client says what is wants versus need.
+
+So. There might be saying that I want to fly to my office.
+
+I need you to build a product that, you know, flies me to my office.
+
+So the words that they are using becomes very important.
+
+And they might be wanting a R while their words are saying something else that they might be, you know, needing a plane or something that flies.
+
+Right. So what they say is different from what they want. But you might end up convincing them that the office is quite near to your place.
+
+You can just use a bike and that is what might end up as their need.
+
+And who knows, you might be able to convince them.
+
+So here is another example. The client says we need a calendar where users can book a class with one click.
+
+This is a one liner. And of course you would need to ask questions in order to get that clarity.
+
+But after asking questions, you may end up at a stage where you understand that what they wanted to say was something different.
+
+What they wanted to say was they want a visually appealing calendar where users see available spots and book them instantly.
+
+They imagine something like Google Calendar integration with Mobile responsiveness in drag and drop facilities.
+
+Right. So you by asking questions, you get to a point.
+
+Now you understand what they want. And the next stage would then be to get to what they need okay.
+
+This is what they want. But given our resources, our limitations, and given the project cost and other stuff.
+
+They might end up needing just these main functionalities.
+
+So hence I said that it is a journey from what the client says, which you have as a description of your project to what they actually need,
+
+Which you will have as a list of or a set of product backlog in in scrum.
+
+So you start with sales and then get to product backlog, which is the actual needs.
+
+Now note that. If the client is technical enough.
+
+They what they see and what they want. Could be overlapping. Could be same.
+
+Similarly, what they want and what they need could be the same.
+
+Right. So it depends upon. So you still need to carry out those discussions to make sure that ultimately you get to the actual needs.
+
+Okay. Right.
+
+So any questions around this? Do you understand what this first part was about?
+
+You know that your product owner and clients are the same. Right.
+
+So in these projects, um, generally in the real world, the client would be the user, actual user of the product.
+
+We can call it a customer or a client. But then, um, if you have the same person acting as product owner and client,
+
+then and product owner is generally a representative of the client that will be handling or, you know, kind of monitoring the project development.
+
+Uh, so they will be, uh, building that communication Between the client and the team.
+
+We will talk about agile and all the terms next week as well.
+
+These days, this is such a happening topic from the last 15 years or so and that you.
+
+I'm sure you would have heard about these topics somewhere or you might have used them.
+
+So any questions up till this point? Right.
+
+So now you know that you need to get to the bike okay.
+
+If the client is saying something else.
+
+Okay, now, the next thing that I talk I want to talk about is these three things are rational purpose and justification.
+
+So we begin with rationale. So.
+
+The rationale is going to be discussed in two steps.
+
+In the first step you want to get to a set of high level rationales for the project.
+
+And then in the second stage you want to back up those high level rationales with evidence that you have collected through research.
+
+The first part of the rationale is to be done on a dummy project description.
+
+I am going to give you, which is basically, um,
+
+so I am going to give you a set of project descriptions from a couple of years back, and you may pick one of those and work on it.
+
+And then for assignment three we will do so.
+
+This will be assignment one. And then we will go to assignment three where you can actually work on your own project.
+
+Because until that time you will be allocated your project and complete your second part of the rationale,
+
+which will be backed by some research on your real project description.
+
+So when we talk about the high level rationale, basically we are trying to answer these two questions.
+
+So given the idea of the description that the that the client has given you, you will say, so what right.
+
+What difference is it going to make? Why is it important to build this project.
+
+So that means, for example, if the client has given has asked you to, um,
+
+build a software application, which is which is this example would be a real here,
+
+a system rather than a simple software application, but a system that can monitor the speed of melting of ice caps Somewhere on the planet.
+
+If this was the project, that means you need to develop an application that will measure that speed of ice melting at a specific.
+
+So you would need some sensors and, you know, and then some data analysis and stuff.
+
+Now you need to ask why right.
+
+Why does the client need this project. And when you do your homework because you have not yet met the client.
+
+So you do your homework, you might think that okay, this might be related to climate change.
+
+And any other upper level higher level you can go to.
+
+So maybe you can start with the planet and the climate change.
+
+And then global warming might be one of the reasons of climate change.
+
+And then slowly coming to that specific idea.
+
+Right. So that means there might be like a 8 to 10 bullet points starting from the climate change and global warming.
+
+And then. There can be others who would be talking about who cares.
+
+So you start with sowhat and then think about who cares.
+
+That is. If this software project is done, if it is completed, this product is built.
+
+Who is this going to help or effect?
+
+So whether they are, whether it is environment, whether it is people, whether it is an it,
+
+whether it is community, whether whether it is your family foretells.
+
+Right. So who cares. That is, who are going to be the ultimate beneficiaries.
+
+Real beneficiaries of this product. So combine these two and you will get your high level rationale right.
+
+Start with climate change and then global warming.
+
+Then communities or human being and life as general and move on.
+
+Now the final thing for building this initial rationale will be.
+
+A specific flow of things. So it is very important that the rationale flows well from high level to low level.
+
+And each bullet point is connected to each other so they are flowing properly.
+
+So the previous bullet point is feeding into the next one and so on.
+
+I'll give you some examples as well. For now you can read this one.
+
+It is not presented in the form of bullet points which is required for assignment one, but you can at least get some idea.
+
+So technology is becoming increasingly pervasive in many aspects of society.
+
+So so so the highest level. Our rational point is that the technology is increasingly becoming important.
+
+and then we move on. This is your last thing that is your lowest level rational,
+
+which is saying that it is therefore important to build people's confidence in engaging with technology to improve their way of life.
+
+Now, note that I haven't given you a description of this rationale.
+
+It may be that the client wants to build a software product that will help non-technical people engage with technology.
+
+Right. So basically, we are getting from the highest level rationale to this low level rationale without touching the product description.
+
+Now, it is very important to note that for assignment one and for this higher level rationale, none of the points must talk about the product.
+
+It must only be about the rationale.
+
+Now. Let me go through these and then I'll come to assignment one.
+
+And then we can talk about it as well. And I'll give you some time to work on it.
+
+I think I must have. Okay.
+
+I'll come to the example. Another example as well. But let's talk about purpose, which is the second topic.
+
+Um. That follows rationale very well.
+
+The previous rationale, you can also understand it as a bigger picture of the domain as well.
+
+Because we have we are not touching the the product. So you can call it a bigger picture of the problem or the bigger picture of the domain.
+
+Just a minute. So I need to relate it to the example that I'm also going to tell you in a in a moment.
+
+It is very the next step would be important in the sense that we are still trying to understand.
+
+We are still not getting into the details of the project, the actual product that we are going to build.
+
+But looking at the higher level now, we need to look at the purpose of the little bit that we are trying to do because the product,
+
+for example, if I am building an application that is going to be there to measure the speed of ice melting.
+
+You cannot say that by building that product, I will be able to solve the global warming problem.
+
+It can contribute a little bit to that problem, to solving that problem, or it can't be a large scale solution to that problem.
+
+So that means the higher level rationale,
+
+the relation between the highest level rationale or your core problem that you have ended up understanding, or your why.
+
+The relation between that why and That product that the client is asking you to build.
+
+They must have a relationship. It is very important that they have a relationship which you can present as a purpose.
+
+And in most situations, that is going to be a just just that little bit,
+
+a very minute bit of the overall solution that you might be targeting in future or, or humanity might be targeting in future, really.
+
+So that is very important to understand. So that is the purpose of the project.
+
+That is so basically you are making sure that there is a clear relationship between the rationale and the project that that is going to be built.
+
+Okay. The third bit is justification. Now, deciding about the rationale of the project and the purpose of the project is a separate thing.
+
+And then justifying it against the resources that are available to you is a different thing.
+
+Whether I have that big team that is able to, you know, develop that application, whether we have that budget,
+
+whether we have that time, all the other resources you need to consider in communication with the client.
+
+So that is going to build a justification of the project.
+
+Basically this is this is also known as business case for the project.
+
+Okay, so whether the project building that project is feasible or not.
+
+So here is an example for these three.
+
+So I want you to read through these so that you also understand how do we write about them.
+
+First the rationale that is the broader context and underlying need.
+
+And you'll see that here is a here is another example of a justification, because, you know,
+
+a justification can relate to existing applications as well, because the solution has worked for other competitors.
+
+A similar solution might work for them as well. So this can be a part of a justification.
+
+And when you write these things, it is very important that the words that you are putting in here,
+
+each and every word, has a meaning clear in your mind.
+
+For example, saying that a mobile application is accessible, you should understand what that means.
+
+Scalable and cost effective. Something that can scale in future if there are more users, for example, and accessible to everyone.
+
+And cost effective. So. Do you guys understand the difference between these three?
+
+Any questions? This project is about food and security.
+
+I hope you have got the crux.
+
+And how can we build an application that enables individuals and small businesses, businesses to share this surplus food?
+
+And a note that from where we start as a high level rationale.
+
+So when we see this so you can say that the purpose will be the closest thing to the description
+
+that you have been given from the client when you read your allocated project description.
+
+You are basically looking at the purpose rather than the other two.
+
+Okay. Do you have any questions? You understand this?
+
+It is an easy concept. Yes. You know, the terms may be, may be and may be new or, you know,
+
+but once you see those examples and then start relating to your allocated project, it will be easier.
+
+So what we can do now is. You will see that on modules there is a quiz for you.
+
+Uh, I think there are five questions. So you can attempt this quiz.
+
+It is basically for having a better understanding about what the client is versus wants versus needs.
+
+So you can go and attempt it. It is available from canvas modules you can attempted.
+
+I will just go back and show you again. So you can click here.
+
+Do you see it? No. Okay. Sorry.
+
+Not okay. Okay. Let me quickly.
+
+So what do you see in student view? Okay.
+
+What do you say about the first one? And describe the solution and vague terms without specifying actual requirements.
+
+They are primarily expressing what the client says.
+
+Okay. So whenever there is a description or they describe something or they are saying something so that golden do what they are telling you in words,
+
+I initially request a dashboard with real time matrix.
+
+So you see that it is quoted again. This is what the client says.
+
+But through discussion it becomes clear that they envision an interactive, customisable and analytics platform.
+
+So still it is what they envision. So what they want is clear.
+
+Right. So this is says versus want.
+
+Next is it is discovered that client's actual business requirement is to improve decision making
+
+through accurate data visualisation regardless of the UI complexity they initially described.
+
+So they initially said something, but ultimately it is realised that their need is something else.
+
+So he is in need. A client insists on developing a fully custom built CRM system so they know what they want, and they want his being presented here.
+
+And after analysis, their needs come up.
+
+Right. So you now know about their needs. And finally the client requests a mobile apps.
+
+Or they are telling you about what they want. User.
+
+So after user research you will get to know the needs again. So it will be a wants and needs.
+
+So basically this is to help you again revisit the difference between the three,
+
+so that when you carry out those discussions with the client, you know what you are after.
+
+Right. So let me go to the modules again.
+
+So you will see that I have made available.
+
+I have made available as a file here. Are you able to access it?
+
+So you will see that there are these projects. I think they are from 2024 or even, um, maybe 2023 or 2024.
+
+Yeah, 2024. What you need to do is you need to randomly pick one of these projects.
+
+So you will see that when you click on them. It will open once a.
+
+Year. So I will see that there is a project description.
+
+Now for example this one is a longish project description.
+
+Now these are similar to what you have received for this year as well.
+
+And again these this is your idea from where you can start.
+
+So this will be the closest thing to the purpose of the project.
+
+And you need to go up to the rationale And go down to the justification.
+
+Right. So what you can do now is. Work on.
+
+To come up with a set of n bullet points that will define the rationale of this project description.
+
+So before you do that, I'm going to take you to the assignment assignment page.
+
+So the assignment is already available. Or this link might not be working as updated.
+
+But the project CIP is available from modules.
+
+And this is of course your current project. So do not work on these as yet.
+
+So I will need to update it as well. Okay. Anyway, so go to assignment one.
+
+So I will let you know what is expected of you. So first of all, of course you need to note the due date which is 30th of July or today is.
+
+So it will be in the middle of next week or next week Thursday.
+
+I have already mentioned what is required of this assignment.
+
+So you need to infer, identify and explain underlying rationales from minimum project descriptions that are available.
+
+You need to critically examine online information to illustrate project
+
+significance and organise your investigation into concise and convincing flows.
+
+These are the things that you need to do. Now the part critically examine online information here.
+
+That is the second bullet point.
+
+It is just for understanding what you are writing and not about, um, you know, providing evidence that will come in assignment three.
+
+So for example, if you, you are coming up with some bullet point for, for many projects, for example,
+
+when you read the descriptions, you might not be aware of the terms that are being used.
+
+There might be some scientific terms or any specialised. So you would need online assistance in order to understand it.
+
+So the second one is basically about.
+
+And then when you get to the rationale as well, those bullet points, you you need to make sure that what you are writing you.
+
+You know what you are writing. So you would need online assistance from that perspective.
+
+Now these are known as speed rationales. And these are known as speed rationales for a reason that you do not need to refer to too much evidence.
+
+You just just need to discuss. And based on your current knowledge, you need to write those rational points.
+
+Now this is what you need to do from the lists that I have provided to you.
+
+You would need to pick three project descriptions, each one of you.
+
+And write your answers in the allocated space and canvas because these are quizzes.
+
+So when you click on assignment, you will see that it is again in the form of a quiz.
+
+So you can start attempting it. I'll come back to that.
+
+So there will be different sections, for example, for project one, two and three.
+
+There will be different sections. So you need to write your rationale bullet points in those sections.
+
+You must not go beyond 200 words. 200 words is is a large limit that I have given you.
+
+You are going to probably end somewhere around 100 or 120 or something because, um, you, you can target to have like, say ten bullet points.
+
+So each bullet point must finish in one line or one at least one sentence, so don't go beyond one sentence.
+
+So it should be one sentence only. So you can see that each bullet points at most a single line.
+
+If you go beyond one line and still are a in one sentence, it is.
+
+It is acceptable. But. Um.
+
+Yeah. So make sure that that you read these points.
+
+And when you are writing them up, you, you're following all these instructions.
+
+Do not use personal language. So when you are writing about, for example, the ice cap melting.
+
+So you will be writing it like the climate change is becoming a major problem for the.
+
+And it's something like that. You won't write like.
+
+I think that, you know, so don't don't use a personal language because that will have penalties.
+
+So again note that you do not need to do any literature review at this stage.
+
+For assignment three, you will be required to do it because assignment three is a starter for your project.
+
+So you are actually starting your project, so you are doing some work towards the project as well as assignment three.
+
+So don't talk about hard. What you you like, right?
+
+So use a professional language. When you are talking about who cares?
+
+Make sure that you are talking about the relevance to a stakeholder.
+
+As I mentioned, a community or some other audience.
+
+Your bullet points must not have any discussion about the solution that is the product.
+
+You may do some research, for example, to provide some numbers or stats to back up your rationale in that one line.
+
+For example, you might say that recent research has shown that.
+
+The global sea level rise is this centimetre or something?
+
+Right. So you can you can mention it, but don't go into too much of details or that that part is not assignment three,
+
+but in one liner if you want to, you want to add a data point somewhere to back your rationale.
+
+You can do it. So about gen AI.
+
+Now, um, I do not know.
+
+But maybe in future we won't be. We won't even be eating our food ourselves.
+
+And AI will be helping us to eat the food.
+
+But we need to be very careful with the use of AI and relevant tools.
+
+So assuming that you guys are already taking advantage of ChatGPT and AI tools, I am going to guide you through how I expect you to use,
+
+for example, ChatGPT in order to complete the assignment faster and more accurately as well.
+
+Now I am going to give you a demo of this later.
+
+Let me complete this, and then I'll give you some time to look at your projects and you can start working and then we'll get to that.
+
+Okay. About the submission. This is a quiz. So all you need to do is do it on canvas.
+
+Start the quiz and there will be sections and embed your answers there.
+
+Remember to use bullet points in the text boxes there.
+
+There are options for bullet points. Here is the marking rubric.
+
+So in total 15 marks 3% of the course.
+
+The content has 12 marks, four marks for each of the projects, each of the three project descriptions.
+
+Your. So what should be apparent? Who cares should be apparent.
+
+And there must be a clear flow between the points and there must not be anything related to solution.
+
+Plus there must not be any personal or casual language. The grammatical spelling errors, nothing.
+
+You won't believe. But we give you marks for using ChatGPT, right?
+
+So. But what you need to do is you need to write a little reflection about how and why did you use it.
+
+So you are free to use it, but you need to mention what prompts you use, right?
+
+So what prompts you used and why did you created those prompts?
+
+So just write a little reflection about it.
+
+If you use ChatGPT. And leave this section empty.
+
+Generally we won't have any way to identify that. Right.
+
+So it is important that I mean it is going on trust.
+
+If you have used it or text there, if you don't use it, if you use it and do not mention it there.
+
+Or in case you prefer not to use it. Both are allowed.
+
+You can do that. You can prefer not to use it.
+
+So ending up writing everything on your own, or you have used it and have not put anything in the box in the DVD.
+
+Reflection. If you say that you have not used it, if you haven't.
+
+So in both these cases, what I am going to do is because that box is empty.
+
+I'm going to avoid these two marks. Allocate these two marks to the rest of the sections.
+
+Right. So these two marks will be allocated to the rest of the sections.
+
+And so I advise you to. So.
+
+So the best way would be to take the help of Gen AI wherever needed and mention it right?
+
+Then there will be penalties on the language that you use.
+
+There are some late submission penalties as well. So 10% penalty for 0 to 12 hours and then so on.
+
+So you can follow these as well. There is no reason to be late.
+
+You still have a lot of times completed in 1 or 2 days.
+
+And it should be done. Okay.
+
+Do you have any any questions about what I have talked about?
+
+Assignment one. Anything that you didn't understand or want clarification about?
+
+Okay. So I now give you some time to look at a pick your three projects from the list.
+
+Uh, I assume this is not list. I assume that you have already.
+
+You can access the zip file.
+
+Let me know if this is not accessible. If you can access it.
+
+I have to pick three projects and start working on at least one of them during this next 15 minutes.
+
+On the assignment page you can see these four And let me quickly.
+
+Meanwhile, I'll update those links for you so that there is no confusion.
+
+So there are four sections on the quiz page, three for the three projects, and then the chat reflection.
+
+You can access them on your devices and start working.
+
+It would be good to write the bullet points for, say, one of the projects and then go to the second third.
+
+Okay. Uh, looking at time. Um, I have one little thing that I need to go through.
+
+So what I'm going to do is I'm going to pick one project from these.
+
+And because I have already worked on this one. So I am going to pick this one.
+
+We have CO2 monitoring. I am going to click on this.
+
+Okay. Sorry about that. So I picked this one because it has a limited description.
+
+So that means you have more scope for working on getting to a rationale.
+
+So this is a research project which is going to which involve system development
+
+as well as software development as well as some research and data analysis.
+
+Everything is involved here. A novel behavioural monitoring system for beehives.
+
+Now, what I will do to save time is I'm going to copy this project description.
+
+And take it to ChatGPT, for instance. Now I'm asking ChatGPT to write a project rationale for the following project.
+
+And here is what it gives me. Now see from where it starts.
+
+Honeybee populations play a vital role in global ecosystems and agriculture through pollination and so on.
+
+Right. So you see that highest level rationale, which should give you a sense of purpose for the project.
+
+Right. Why is it important? So what that is it answers or what and keeps on answering that.
+
+However, be health and behaviour are increasingly threatened by environmental stressors and so on.
+
+Now, in comparison to what I have asked you to do for assignment one, what are the differences here?
+
+Number one, these rationales are not in bullet points.
+
+These are not one liners.
+
+These are also talking about the project itself, the product itself, the solution itself, which I have asked you not to include.
+
+There will be details that you may avoid because you want it to be very concise set of bullet points.
+
+So what the project will comprise, it is also talking about that.
+
+So we do not want to include it.
+
+So next what we do I ask it rationale should be based on bigger picture vision only what impacts it has on the global scale or local community level.
+
+So I'm asking it to bring in who cares? And so what right.
+
+Do not focus on the implementation detail. I'm also asking it to avoid bringing in the solution.
+
+Now you will. I am not going to do that, but you can compare it with its previous reply and see what change is here.
+
+Still, it is not in bullet points. Of course you can give it all the instructions at once as well.
+
+Or this is to let you understand that if you do it without the use of JNI, what what process or flow of thoughts you need to consider, right.
+
+Going from a higher level and then, you know, reducing that detail into a more concise points.
+
+Then I am telling it to get to key point series in in the form of bullet points.
+
+Now it gives me some bullet points. It starts from these are essential to global ecosystems and food security and so on.
+
+However, if you look at it, if you look at the flow.
+
+You will see that it still includes the points about the project.
+
+The project supports this.
+
+So again, although you you mentioned about implementation, so it did not get to the implementation, but still is talking about the project.
+
+So do not. So I asked it not to include any points about the project.
+
+And then it gives me. Another set of bullet points and starts from pollinator pollinators like bees are vital and
+
+then global bee population and then improved understanding of bee behaviour and so on.
+
+However, when you look at it closely, you might not agree with the flow of the things.
+
+Whether an upper level rationale is at higher level, actual higher level or not.
+
+So you need to see that that you start from the highest level rationale and then go to a lower level rationale and finally end at the lowest level.
+
+So see, I then ask you to make sure that there is a proper flow.
+
+And you will find that there is a proper flow now. Now see, that heart starts from a healthy planet.
+
+Depends on a on stability of ecosystems and biodiversity.
+
+It went one level up as well. Earlier it was starting from honeybees.
+
+All pollinators. Now it is starting from a healthy planet and ecosystems.
+
+Right. So it is starting from who cares?
+
+The planet cares, for example. And then you know. And then you will also note that the the who care elements.
+
+And so what elements can be placed at any position in the.
+
+So it will depend upon your project descriptions or there is no definite place for a position for these two in the list.
+
+You can have them anywhere. Okay.
+
+So this is this is how you can use an AI in order to save your time, but still get to more accurate rationale as required by assignment one.
+
+Now, note that Risa mentioned this in lecture one that if you decide to use an AI, you need to own what you submit.
+
+Even though it has come from an AI, you need to own it.
+
+You need to say that I have done it. So you cannot say that.
+
+Jenny, I gave me this and hence hands off.
+
+So that's that's not going to work. So that means once you get that list, you need to read it here fully and justify it in your own mind.
+
+It. Yeah. This I agree to this and I can submit.
+
+Oh! Let me. Hear.
+
+Oh, this is your one page. Um, you need to start the quiz.
+
+And then there are four text boxes, three for each of the projects.
+
+In order to put the bullet points for each project rationale.
+
+And then there is a fourth one for entering the ChatGPT reflection.
+
+Once you do that, submit the quiz. And that is all.
+

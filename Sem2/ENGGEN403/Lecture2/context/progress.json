@@ -1,0 +1,17 @@
+{
+  "course": "ENGGEN403",
+  "lecture": 2,
+  "title": null,
+  "status": "not_started",
+  "resources_seen": {
+    "slides": ["ENGGEN_403_Lecture_02_2026_final.pdf"],
+    "transcript": "ENGGEN_403_[23_July]_Lecture_2_An_introduction_to_systems_thinking_in_ENGGEN_403_Captions_English_(United_Kingdom).txt",
+    "transcript_quality": null
+  },
+  "last_session": null,
+  "sessions_count": 0,
+  "concepts": [],
+  "misconceptions": [],
+  "open_questions": [],
+  "next_action": "Not yet ingested. Run Mode A for ENGGEN403 Lecture 2."
+}
