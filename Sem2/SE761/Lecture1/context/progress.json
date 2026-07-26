@@ -1,17 +1,172 @@
 {
   "course": "SE761",
   "lecture": 1,
-  "title": null,
-  "status": "not_started",
+  "title": "Course Introduction - Agile, Scrum, and the psychology of not knowing",
+  "status": "notes_written_untested",
   "resources_seen": {
-    "slides": ["00-Agile_Course_Introduction.pdf"],
+    "slides": [
+      "00-Agile_Course_Introduction.pdf"
+    ],
+    "slide_pages": 40,
+    "slide_text_layer": true,
     "transcript": "[423-348]_SOFTENG_761_L01C_SOFTENG_761_L02C_-_Mon_20_Jul_02_00_PM_(NZT)_Captions_English_(United_Kingdom) (1).txt",
-    "transcript_quality": null
+    "transcript_quality": "poor - mangles nearly every proper noun; slides are authoritative",
+    "figures_extracted": [
+      "L1-p19-bloom-course-design.png",
+      "L1-p25-sprint-cycle.png",
+      "L1-p33-dunning-kruger.png"
+    ],
+    "note": "Slide footer numbers run one behind PDF page indices. Deck is ~75% administration."
   },
-  "last_session": null,
-  "sessions_count": 0,
-  "concepts": [],
+  "last_session": "2026-07-27T00:00:00+12:00",
+  "sessions_count": 1,
+  "concepts": [
+    {
+      "id": "L1-C01",
+      "name": "What the course assesses: process AND product",
+      "source": "slides 16-18; transcript - expectations",
+      "priority": "high",
+      "bloom_reached": null,
+      "confidence": null,
+      "attempts": 0,
+      "correct": 0,
+      "last_reviewed": null,
+      "next_review": "2026-07-28",
+      "interval_days": 1,
+      "note": "Untested."
+    },
+    {
+      "id": "L1-C02",
+      "name": "Bloom ladder course design - Creating an Agile Mindset",
+      "source": "slide 19; transcript - learning objectives",
+      "priority": "medium",
+      "bloom_reached": null,
+      "confidence": null,
+      "attempts": 0,
+      "correct": 0,
+      "last_reviewed": null,
+      "next_review": "2026-07-28",
+      "interval_days": 1,
+      "note": "Untested."
+    },
+    {
+      "id": "L1-C03",
+      "name": "Scrum Master is not a project manager; teams are self-managed",
+      "source": "slide 23; transcript - Scrum Master section",
+      "priority": "high",
+      "bloom_reached": null,
+      "confidence": null,
+      "attempts": 0,
+      "correct": 0,
+      "last_reviewed": null,
+      "next_review": "2026-07-28",
+      "interval_days": 1,
+      "note": "Untested."
+    },
+    {
+      "id": "L1-C04",
+      "name": "Product Owner vs client; the never-stop rule",
+      "source": "slide 22; transcript - project section",
+      "priority": "high",
+      "bloom_reached": null,
+      "confidence": null,
+      "attempts": 0,
+      "correct": 0,
+      "last_reviewed": null,
+      "next_review": "2026-07-28",
+      "interval_days": 1,
+      "note": "Untested."
+    },
+    {
+      "id": "L1-C05",
+      "name": "The sprint cycle: Planning/Development/Review/Retrospective/Demo",
+      "source": "slide 25; transcript - sprint process",
+      "priority": "high",
+      "bloom_reached": null,
+      "confidence": null,
+      "attempts": 0,
+      "correct": 0,
+      "last_reviewed": null,
+      "next_review": "2026-07-28",
+      "interval_days": 1,
+      "note": "Untested."
+    },
+    {
+      "id": "L1-C06",
+      "name": "Sprint 1 is a Spike",
+      "source": "slide 25; transcript - sprint one section",
+      "priority": "medium",
+      "bloom_reached": null,
+      "confidence": null,
+      "attempts": 0,
+      "correct": 0,
+      "last_reviewed": null,
+      "next_review": "2026-07-28",
+      "interval_days": 1,
+      "note": "Untested."
+    },
+    {
+      "id": "L1-C07",
+      "name": "Imposter syndrome and the simplest-thing strategy",
+      "source": "slide 31; transcript - imposter syndrome video",
+      "priority": "medium",
+      "bloom_reached": null,
+      "confidence": null,
+      "attempts": 0,
+      "correct": 0,
+      "last_reviewed": null,
+      "next_review": "2026-07-28",
+      "interval_days": 1,
+      "note": "Untested."
+    },
+    {
+      "id": "L1-C08",
+      "name": "The Dunning-Kruger effect: Mount Stupid and the Valley of Despair",
+      "source": "slides 32-33; transcript - DK video",
+      "priority": "high",
+      "bloom_reached": null,
+      "confidence": null,
+      "attempts": 0,
+      "correct": 0,
+      "last_reviewed": null,
+      "next_review": "2026-07-28",
+      "interval_days": 1,
+      "note": "Untested."
+    },
+    {
+      "id": "L1-C09",
+      "name": "Why imposter syndrome is the correct state",
+      "source": "transcript - DK commentary",
+      "priority": "high",
+      "bloom_reached": null,
+      "confidence": null,
+      "attempts": 0,
+      "correct": 0,
+      "last_reviewed": null,
+      "next_review": "2026-07-28",
+      "interval_days": 1,
+      "note": "Untested."
+    },
+    {
+      "id": "L1-C10",
+      "name": "Gen AI: the three pillars and the black-box rule",
+      "source": "slides 36-39; transcript - Gen AI sections",
+      "priority": "high",
+      "bloom_reached": null,
+      "confidence": null,
+      "attempts": 0,
+      "correct": 0,
+      "last_reviewed": null,
+      "next_review": "2026-07-28",
+      "interval_days": 1,
+      "note": "Untested."
+    }
+  ],
   "misconceptions": [],
-  "open_questions": [],
-  "next_action": "Not yet ingested. Run Mode A for SE761 Lecture 1."
+  "open_questions": [
+    "Transcript proper nouns are unreliable (Reza Shah Hamidi / Farmville / hotel / Beyonce / Prince2). Confirm against slides.",
+    "Slide 17 says the course does NOT count toward professional work hours; transcript says it can be claimed as internship hours. Trust the slide, but worth confirming.",
+    "Transcript places Sprint 3 demos in week five; the slide schedule puts Sprint 3 in week six."
+  ],
+  "next_action": "Notes written for 10 concepts, none tested. SE761 is now ingested out of order (L1 after L2) - reconcile L1-C04 with L2-C08, which cover the same client/PO ground."
 }

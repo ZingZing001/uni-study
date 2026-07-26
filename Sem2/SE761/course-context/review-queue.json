@@ -4,15 +4,165 @@
   "last_updated": "2026-07-27",
   "due": [],
   "scheduled": [
-    { "date": "2026-07-28", "lecture": 2, "concept": "L2-C01", "name": "Idea -> rationale -> purpose -> justification pipeline", "priority": "high", "status": "never_tested" },
-    { "date": "2026-07-28", "lecture": 2, "concept": "L2-C02", "name": "Rationale: So what? + Who cares?", "priority": "high", "status": "never_tested" },
-    { "date": "2026-07-28", "lecture": 2, "concept": "L2-C03", "name": "Purpose links rationale to product", "priority": "high", "status": "never_tested" },
-    { "date": "2026-07-28", "lecture": 2, "concept": "L2-C04", "name": "Justification / business case", "priority": "medium", "status": "never_tested" },
-    { "date": "2026-07-28", "lecture": 2, "concept": "L2-C05", "name": "Says vs Wants vs Needs", "priority": "high", "status": "never_tested" },
-    { "date": "2026-07-28", "lecture": 2, "concept": "L2-C06", "name": "Ask WHY first; pre-meeting homework", "priority": "medium", "status": "never_tested" },
-    { "date": "2026-07-28", "lecture": 2, "concept": "L2-C07", "name": "Reference-product origin and technology conflict", "priority": "medium", "status": "never_tested" },
-    { "date": "2026-07-28", "lecture": 2, "concept": "L2-C08", "name": "Client vs product owner vs user", "priority": "low", "status": "never_tested" },
-    { "date": "2026-07-28", "lecture": 2, "concept": "L2-C09", "name": "Word precision in justifications", "priority": "low", "status": "never_tested" },
-    { "date": "2026-07-28", "lecture": 2, "concept": "L2-C10", "name": "Gen AI drafting corrections and ownership rule", "priority": "medium", "status": "never_tested" }
+    {
+      "date": "2026-07-28",
+      "lecture": 1,
+      "concept": "L1-C01",
+      "name": "Process AND product",
+      "priority": "high",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-07-28",
+      "lecture": 1,
+      "concept": "L1-C02",
+      "name": "Bloom ladder / Agile Mindset",
+      "priority": "medium",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-07-28",
+      "lecture": 1,
+      "concept": "L1-C03",
+      "name": "Scrum Master is not a PM",
+      "priority": "high",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-07-28",
+      "lecture": 1,
+      "concept": "L1-C04",
+      "name": "Product Owner vs client",
+      "priority": "high",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-07-28",
+      "lecture": 1,
+      "concept": "L1-C05",
+      "name": "The sprint cycle",
+      "priority": "high",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-07-28",
+      "lecture": 1,
+      "concept": "L1-C06",
+      "name": "Sprint 1 is a Spike",
+      "priority": "medium",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-07-28",
+      "lecture": 1,
+      "concept": "L1-C07",
+      "name": "Imposter syndrome",
+      "priority": "medium",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-07-28",
+      "lecture": 1,
+      "concept": "L1-C08",
+      "name": "Dunning-Kruger effect",
+      "priority": "high",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-07-28",
+      "lecture": 1,
+      "concept": "L1-C09",
+      "name": "Why imposter syndrome is correct",
+      "priority": "high",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-07-28",
+      "lecture": 1,
+      "concept": "L1-C10",
+      "name": "Gen AI three pillars",
+      "priority": "high",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-07-28",
+      "lecture": 2,
+      "concept": "L2-C01",
+      "name": "Idea -> rationale -> purpose -> justification pipeline",
+      "priority": "high",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-07-28",
+      "lecture": 2,
+      "concept": "L2-C02",
+      "name": "Rationale: So what? + Who cares?",
+      "priority": "high",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-07-28",
+      "lecture": 2,
+      "concept": "L2-C03",
+      "name": "Purpose links rationale to product",
+      "priority": "high",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-07-28",
+      "lecture": 2,
+      "concept": "L2-C04",
+      "name": "Justification / business case",
+      "priority": "medium",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-07-28",
+      "lecture": 2,
+      "concept": "L2-C05",
+      "name": "Says vs Wants vs Needs",
+      "priority": "high",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-07-28",
+      "lecture": 2,
+      "concept": "L2-C06",
+      "name": "Ask WHY first; pre-meeting homework",
+      "priority": "medium",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-07-28",
+      "lecture": 2,
+      "concept": "L2-C07",
+      "name": "Reference-product origin and technology conflict",
+      "priority": "medium",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-07-28",
+      "lecture": 2,
+      "concept": "L2-C08",
+      "name": "Client vs product owner vs user",
+      "priority": "low",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-07-28",
+      "lecture": 2,
+      "concept": "L2-C09",
+      "name": "Word precision in justifications",
+      "priority": "low",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-07-28",
+      "lecture": 2,
+      "concept": "L2-C10",
+      "name": "Gen AI drafting corrections and ownership rule",
+      "priority": "medium",
+      "status": "never_tested"
+    }
   ]
 }

@@ -1,0 +1,63 @@
+On which two axes is the SOFTENG 761 project assessed?	How well you followed the process, and the quality plus feature richness of your product.
+Is delivering a working product sufficient for a good mark?	No. Process followed and product quality both count; "it works" is explicitly not the only requirement.
+What is the stated best way to learn Agile?	To do it.
+What does Agile and Lean development focus on?	Process and practices, self-organizing teamwork, and project management, to deliver high quality software products.
+What standard are students held to in this course?	That of professional software developers, not students.
+What framework is the course design based on?	Bloom's Taxonomy of Learning, Revised 2001.
+Name Bloom's six levels in order.	Remembering, Understanding, Applying, Analyzing, Evaluating, Creating.
+Which Bloom levels does this course weight most heavily?	The top four: Applying, Analyzing, Evaluating and Creating.
+What sits at the apex of the course's Bloom mapping?	Creating an Agile Mindset.
+Why is a mindset the target rather than knowledge of Agile?	Because the course weights the top of Bloom's taxonomy; 80% is a practical project and there is no final exam.
+Is the Scrum Master a project manager?	No. Explicitly not.
+What does a Scrum Master actually do?	Champions Agile principles and ensures they are actioned and realised during the project.
+What is the structure of an Agile team, per this lecture?	Self-managed, with no team lead.
+Is the Scrum Master expected to code more or less than teammates?	Less, because of the extra process responsibilities.
+Who should be chosen as Scrum Master?	Someone with Agile experience; failing that, someone with real industry software development experience.
+In prescribed Agile, what is a Product Owner?	A software developer.
+How does the Product Owner role differ in this course?	It is fused with the client, and the person is often non-technical.
+What extra obligation does a non-technical Product Owner create?	You must explain terminology and walk them through expectations.
+What does the Product Owner decide each week?	Which features you should implement.
+What is your job in relation to the Product Owner's requirements?	To help them find what they need and to help them prioritise features.
+What do you do if the Product Owner becomes inaccessible?	Continue the project as previously agreed or as you see fit. You must not stop.
+Must a new version ship if the Product Owner is unavailable?	Yes. A new version of the software is required every week regardless.
+How many sprints are there, and how long is each?	Seven sprints, each fixed at one week.
+Can the sprint length be changed?	No. It is fixed at one week.
+Name the five sprint activities in order.	Sprint Planning, Sprint Development, Sprint Review, Sprint Retrospective, Sprint Demo.
+What is Sprint 1 called?	The Spike.
+What makes the Spike unique among the sprints?	It is the only sprint that does not need to produce new software.
+What is the Spike used for?	Understanding what needs doing and deciding the back end, technologies and database technologies.
+What two artefacts must the Spike still produce?	Release Planning Parts 1 and 2, and the Product Backlog.
+What is the Product Backlog?	The list of features the software should deliver.
+What happens in Sprint 2?	System modelling and design, plus the Project Proposal.
+Why must Sprint 7 not be treated as a development sprint?	There is no time; it is for polishing, and Part IV project reports are due the same week.
+Define imposter syndrome.	The feeling that you are a fake, that you somehow snuck in and do not deserve to be where you are.
+What is the claim about how common imposter syndrome is?	It is completely normal; not experiencing it is abnormal.
+What does imposter syndrome actually signal, on the reframe given?	That a large volume of new information is coming at you, not that you are inadequate.
+What strategy is offered for coping with imposter syndrome?	Do the simplest thing you can do right away.
+Why does doing the simplest thing work?	A project is a puzzle: each piece you place opens up opportunities to solve the rest, and finishing a task means you know more than before.
+Who was MacArthur Wheeler?	A man who robbed a bank in 1995 with lemon juice on his face, believing it made him invisible to cameras.
+What did MacArthur Wheeler say when arrested?	"But I wore the juice."
+Who studied Wheeler and named the effect?	David Dunning and Justin Kruger.
+State the Dunning-Kruger effect.	People with low ability at a task tend to paradoxically overestimate themselves.
+What are the axes of the Dunning-Kruger curve?	Confidence against competence or knowledge.
+What is Mount Stupid?	The early peak of high confidence based on very little knowledge.
+What is the Valley of Despair?	The low point where increased knowledge has collapsed your confidence.
+What is the internal monologue at Mount Stupid?	"I know everything about this."
+What is the internal monologue in the Valley of Despair?	"I'll never understand this!"
+What are the two ways people get stuck on the Dunning-Kruger curve?	Stopping early and keeping a false sense of mastery, or quitting in the Valley believing they learned nothing.
+In the debate illustration, who wins the popular vote and why?	The simpleton, because he is confident and people tend to trust certainty.
+Why does the good student stay quiet in the debate example?	She knows more but does not realise it, and lacks confidence.
+What cultural variation was cited for self-assessment?	93% of Americans think they are above-average drivers, versus 69% of Swedes; Japanese people tend to underestimate their ability.
+What Socrates quote closes the Dunning-Kruger material?	"I know that I am intelligent because I know that I know nothing."
+Why should you be worried if you do NOT feel imposter syndrome starting a project?	It suggests you did not understand the project, or lack the knowledge to see what lies ahead - you may be on Mount Stupid.
+How do imposter syndrome and Dunning-Kruger relate?	They are opposite states: imposter syndrome means you can see the size of the problem; Dunning-Kruger means you cannot see it yet.
+Which of imposter syndrome and Dunning-Kruger is treated as desirable?	Imposter syndrome is normal and good; Dunning-Kruger is called completely wrong.
+What assessment approach governs Gen AI use in this course?	The Two-Lane Approach, as Lane 2: uncontrolled assessment.
+State pillar 1 of Gen AI use.	If GenAI contributed significantly to a code block or report section, you must disclose it; failure is investigated as plagiarism.
+State pillar 2 of Gen AI use.	Every student is 100% responsible for every line of code and every paragraph, regardless of who or what authored it.
+What happens if you cannot explain code in the Q&A?	You are graded as if you do not understand the material, even if AI or a teammate wrote it.
+Why is a "black box" excuse rejected?	Because it is not an acceptable engineering justification - an explanation you cannot give is one you do not have.
+State pillar 3 of Gen AI use.	Generating complete code with AI or copying from a prompt is prohibited and scores zero; primarily AI-authored work may trigger disciplinary action.
+What is AI reportedly good and bad at, per the lecturer?	Very good with UI, very bad with backend code; it does not understand quality.
+What workflow is required if you use AI-generated code?	Refactor it into the proper structure, peer review it before it reaches the default branch, and return it to the developer if quality is low.
+Why does poor code quality cost more than its own 15 marks?	Because quality feeds the holistic score, which drags down the entire project mark.
