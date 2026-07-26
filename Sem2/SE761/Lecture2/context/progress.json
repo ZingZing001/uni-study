@@ -1,0 +1,17 @@
+{
+  "course": "SE761",
+  "lecture": 1,
+  "title": null,
+  "status": "not_started",
+  "resources_seen": {
+    "slides": [],
+    "transcript": "[405-422]_SOFTENG_761_Lecture_2_-_Wed_22_Jul_10_00_AM_(NZT)_Captions_English_(United_Kingdom).txt",
+    "transcript_quality": null
+  },
+  "last_session": null,
+  "sessions_count": 0,
+  "concepts": [],
+  "misconceptions": [],
+  "open_questions": [],
+  "next_action": "Not yet ingested. Run Mode A for SE761 Lecture 1."
+}

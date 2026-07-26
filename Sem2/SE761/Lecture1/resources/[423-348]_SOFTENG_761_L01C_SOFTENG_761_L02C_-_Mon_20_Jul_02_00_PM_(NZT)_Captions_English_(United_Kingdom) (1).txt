@@ -1,0 +1,1683 @@
+[Auto-generated transcript. Edits may have been applied for clarity.]
+But if the other side is not open,
+
+you can collect others and test their algorithms on your new dataset so they can also have the complete cooperation.
+
+Okay. Thanks everyone. See you tomorrow. Hi.
+
+Tomorrow with another class like this so I won't be able to join the networking class.
+
+So will it affect my grouping or anything? So if you are not attending class, maybe you will automatically assign it to the different research groups.
+
+Okay. Yeah. And then you can talk about your books.
+
+Okay. Thank you. I think maybe we can't go outside.
+
+There you go. Oh, yeah. Yeah. So as usual, I start.
+
+And then. Then it's your spinal column. They didn't.
+
+Know. It was a carrier.
+
+So this must be. That's right.
+
+Yeah. Yeah.
+
+What is it? Yeah. Good afternoon everyone.
+
+Good afternoon. Any Argentina supporter? You're still supporting Argentina?
+
+Brave man. And it used to be. Argentina. Supporter.
+
+Did you watch the match? Okay, so you just turn right. All right.
+
+You are deliberating on it. Uh, Hope that you enjoyed the match today.
+
+If you are into into football, I'm not into football, but it's still watching because the finale.
+
+Did you watch it too? Yeah. If only there was no red card.
+
+Yes. Well, I think it was more of a kung fu tournament than than football.
+
+But, uh, for somebody who has no expertise in football, I think Argentina's performance was horrible.
+
+Sorry. For its still Argentina supporters. Uh, my name is Reza Shah Hamidi, and I'm one of the lecturer for this course.
+
+And I have here with me for the second lecture with the course holder, the GTA in the course, and another GTA will join us shortly.
+
+Hopefully we will introduce ourselves just briefly, and I also need to change this to that.
+
+All right. And welcome all to soft in seven, six, one.
+
+Uh, it's usually very difficult to get into the, into this course.
+
+It gets filled up very quickly. So you guys were very quick as opposed to, uh, enrol in the course.
+
+It is one of the few courses that we have a hard cap, uh,
+
+because we do we complete real projects in this course and we have obviously we can take we can complete too many projects.
+
+Let me just reduce the volume here a little bit I think.
+
+So this microphone does not have the clip. So I'm just wearing it.
+
+So those who are watching the uh watching the recordings, hopefully the audio comes through correctly.
+
+Today we're just going to introduce the course but particularly the project of the course,
+
+which is the primary the, the majority of of the course, we will introduce ourselves.
+
+We'll talk about what you expect, what you should expect in this course, and then we'll take any questions that you have.
+
+Actually, if you have any questions at any point of time, feel free to raise your hand and ask your questions.
+
+You do not need to wait until I'm finished.
+
+All right. So just our contact information and where we are located.
+
+Uh, and contact information for the GTA hotel.
+
+And Rabia will hopefully short shortly join us. You will need those GitHub IDs.
+
+So if you win, when you when you will set up your GitHub repos,
+
+you can refer to those IDs you don't need to take a slide shows all of this available on canvas.
+
+First, let's start with a little bit of housekeeping. How you contact us.
+
+The primary communication will be email. Just make sure that you mention in your subject line that it's seven.
+
+Six. One add discussion is enabled primarily for a student to student communication.
+
+We want to have a way to help each other and we face face issues.
+
+Try to to basically help each other so we appreciate it.
+
+If you be proactive with helping with helping your peers, we will monitor it and reply to comments if there are remain unsolved after two days.
+
+So if you have urgent questions, email us urgent 761 so we it doesn't get lost in the.
+
+Dozens of emails that we receive every hour or two.
+
+If you need to meet, you can come us. You can reach out to us and we will set up an appointment to meet you, either on zoom in or in our offices.
+
+So don't hesitate to do that. And. If you if anyone needs extra support again, just please reach out to us.
+
+So. Main communication platform email discussion is primarily for you to communicate, but we will monitor it.
+
+And if and if required we will reply after a while.
+
+So all queries about modules one and two will be directed to premiere all queries about the project.
+
+You will contact me and any other generic questions or concerns.
+
+Again, if it's about a specific module, contact either of us directly or feel free to about to reach out to any of us.
+
+Just. But if there are things going wrong, please do contact us early when we can help.
+
+All right. If you contact us. Week ten. There is nothing that we can do because that's pretty much a week before the course is due.
+
+And yes, the courses will be due by week 11. If you have questions about the project,
+
+there's a very detailed project documents and a very comprehensive list of FAQs at the end of the project document.
+
+So please make sure to review that document and consult the FAQs before you reach out.
+
+It's very likely that questions have been answered in that project document, but I apologise.
+
+It's a it's a very long document. That is because this project is a very difficult project to execute, not develop.
+
+The execution and administration of the project is quite, quite time consuming.
+
+And we have refined that project document over the years to ensure that we
+
+address everything that you have that ends up with a very long project document.
+
+All right. So for the lecture times on Mondays it's the same time, same location, but for the for the first three weeks,
+
+Wednesday lecture times are not at the originally scheduled lecture time.
+
+It's moved to the lap times. All right. So keep that noted.
+
+Param. We had a clash with another lecture so we had to make changes to the original lecture.
+
+All right. So make sure for weeks 1 to 3 on Wednesday lectures will be 10 a.m. to 12 p.m. at 405422.
+
+After week three, we will go back to the original Lecture schedule, which will be on Wednesday, 1 to 3 p.m..
+
+At any point of time, you feel that your last go on canvas course schedule and it shows you where the lecture will be.
+
+For the second part,
+
+it's likely that we don't utilise the Mondays because you will be for after the third week the lectures becomes only your spring demos.
+
+We try to fit them all on Wednesdays only.
+
+We go back and utilise Mondays. If we couldn't fit all the demos during work, during one day, we'll talk about that.
+
+We have multiple labs are allocated to you. There is no formal lab from our other end.
+
+These are just locations that you can utilise to meet with your teams on a weekly basis.
+
+All the students are required to be available during the lecture and lap times.
+
+So if you when you set up your weekly time meet weekly times, you don't actually need to go on and find what time is.
+
+Everyone else is available. Everyone has to be available during those times, during the lecture and lap times.
+
+So you are encouraged to utilise the lap times and lap locations to meet with your teams as you as you go through the project after week three.
+
+A little bit about myself. I'm a senior lecturer in Software Engineering and AI at Faculty of Engineering.
+
+I'm the Director of Graduate studies, primarily looking out looking after the PhD students.
+
+I'm also the director of Master of Software Engineering.
+
+I run the lab, which is called Deep Learning Discovery Network,
+
+and we primarily design AI inspired software solution for healthcare, and you can follow those links to see.
+
+My basically my lab. I'm also an Android software developer, so you can look at some of the apps that are developed as well.
+
+Farmville. I actually turned that off.
+
+Okay. Hi, everyone. Um, I'm familiar saying, and I'm a professional teaching fellow.
+
+I come from the School of Computer Science.
+
+Uh, and I have the responsibility for delivering the course content that you would require to get started with your projects.
+
+Uh, during week one to week three. So everything that you want to get started, and then it will be about you working in your teams.
+
+Um, as far as my teaching and research interests are go,
+
+they relate to software design and architecture and computer science and software engineering education.
+
+And, um, when I, I get bored from that, I write songs.
+
+Uh, some of them are programming songs.
+
+And, um, many of my introductory programming students like them, so, uh, and unknown, because you are advanced students, so you can try them out.
+
+You do have a piano here. You want to give it a try? That's not my instrument.
+
+I, I play guitar, so. Um, and as far as the contents or the first three weeks, uh, I'll get back to.
+
+I think we do have Slides. Yeah. So I'm going to get back to the contents.
+
+Thank you. Thanks. Hi everyone.
+
+I'm Hoda I am the PhD student of computer systems engineering and working in robotics lab.
+
+And here in this term, I'm your GTA. I'm so exciting to be here and I hope having a good time in this course.
+
+Well hopefully soon to be doctor I hope so.
+
+All right. Thank you Hoda. Uh, Rabia is still not here, so hopefully she's just down.
+
+Uh, as a result of, uh, this morning's kung fu tournament.
+
+Uh, but she's one of my my my other PhD students.
+
+She's working on, uh, basically designing AI inspired software for detecting autistic children as early as 18 months.
+
+All right. All right. A little bit about you guys.
+
+So typically we have Beyonce calm seas and soft edge.
+
+How many soft students? Beyonce. All right.
+
+The majority of the class. Beyonce. Kansas. Good two.
+
+All right. We usually want to see a little bit more campus as the students three in in this course.
+
+So initially when we the first time I delivered this course it was only available to soft engine students.
+
+But because our students also have an interest in software, in soft software development, we opened this course to calm Seas students as well.
+
+As long as they have the, uh, they have passed the software design course for companies.
+
+There are more than welcome to be here. Usually have around half of the course for campus students, so maybe they're not just attending today.
+
+We will check that out. It's also open for one of the core subjects for Master of Software Engineering.
+
+How many two software engineering students. Master of Software engineering okay.
+
+1234. All right. In which semester are you first or second or third?
+
+First. So first all of you how about you first.
+
+So you're you're finishing up. You're just welcome on boards to master of software engineering.
+
+All right. Anyone else anyone from computer science or other programs.
+
+All right. How many of you have any agile experience Do you work in the in the industry?
+
+Yes. All right. Where do you work? Uh, I have an internship at the summer.
+
+Okay. Good. So you're going to be a scrum master for your team.
+
+Anyone else? With agile experience.
+
+How many professional software developers? One.
+
+Okay. Where do you work? I quit my job. I was working in India.
+
+Oh, okay. You quit too? Okay. Welcome. All right.
+
+Anyone else? Why is it working?
+
+Oh, right. So again, you have experience. All right.
+
+So again, you likely you are going to be a Scrum Masters. Yeah.
+
+Well we'll we'll get there soon about appointing the Scrum Masters.
+
+Do we have the part for or master or master reps here.
+
+Oh, you are Argentina supporter already soft and drip.
+
+Okay, you should be. There should be three of you, right? So, are you the only one who's enrolled in the course?
+
+I'm not sure. I'll check in. All right. Any other reps? Come sit.
+
+Rep. Masters rep. All right.
+
+So if they are concerned. Sorry.
+
+This is really weird. If you have any concerns or issues with the course.
+
+If you don't want to talk to us, you can. You're more than welcome to relay your concerns to your to your student reps,
+
+and they will reflect it to us confidentially and to make you, uh, basically anonymous.
+
+All right. But if if again, there are other issues and you don't, it's oh, you're okay to talk to us, please do.
+
+And come and talk to us. The important thing is communication is very important.
+
+This course is about communication and team working. All right.
+
+So if you have any if you face any issues please communicate with either us or your representatives.
+
+What's your name? Drew. So sorry for your loss.
+
+All right. About pre Rex. So all be on the students should have completed either comp 302 or soft and 306.
+
+So soft. Range three is a core course for softening students. So is there anyone here in software engineering who hasn't completed soft change 306.
+
+All right. Now, uh, be an undergraduate.
+
+Undergraduate, uh, for Kansas students, anyone who hasn't completed Kansas.
+
+302. Okay, good for postgraduate students,
+
+all you want is you have a very good object oriented skills and have worked in basically completing medium scale software projects.
+
+So that's all. All we need to do. So it's very likely that I process your enrolment application.
+
+So if you're sitting here you're already meet that criteria.
+
+But if you are concerned that you're not meeting pre-race, please do and come and talk to us because this course is a very special course.
+
+And we really require those skills because it builds on top of those skills.
+
+All right. So what we expect in this course is planning a stick to your planning.
+
+There are weekly basically deliverables in this course you work in weekly uh every week you are required to produce a new version of your software,
+
+but I'll talk about your projects. So planning and scheduling and sticking to the to those is the heart of the project.
+
+And again, you have weekly deadlines that you are required to meet.
+
+And it also goes through the entire software development lifecycle starting from requirements elicitation and a specification.
+
+That's where your communication and requirement requirements negotiation skills is important.
+
+You will have an actual client, an actual person who wants this actual software,
+
+and you are required to work with him to help him understand what he needs in terms of his software.
+
+And it goes all the way to project deployment.
+
+So that builds around all everything that you have learned so far in your qualification and puts them all in place.
+
+So think of it as a software engineering capstone course in which that you are you are required to go in a specific software development process,
+
+and that's a scrum. Our academic version of a scrum, we pay a particularly attention to the quality of the products that you develop.
+
+And that's very important because a lot of you will use AI and AI, as does a very terribly bad job in producing good quality code.
+
+So you are required to pay special attention to your code quality.
+
+Do not just rely on everything that AI produces.
+
+It's very good with UI. It's very bad with backend code, does not understand quality.
+
+And that's where we specifically we look at.
+
+So there are two important aspects that you will be assessing in this project,
+
+how well you followed the process and what is the quality of your product.
+
+So it doesn't it's it's not that your product works.
+
+And at the end of your end of your course, you deliver a product that works.
+
+That's not the only requirement. It's the process that you followed and the quality of your product.
+
+So you established a very good review pipeline within your team to ensure that if
+
+there are any code or code that anyone basically produce is up to the standard,
+
+do not rely on what gen AI feeds you because you will receive a very, very, very low mark if your code quality is low.
+
+Basically, we are not looking at you as a student anymore.
+
+We look at you as professional software developers, so our expectation is that you deliver professional software.
+
+Clear. So this is an agile and software development course.
+
+The best way to learn how to do agile is to do it.
+
+And that's what we're going to do. Basically in this course it is an advanced software software engineering course as in terms that it builds
+
+upon everything else that you have learned in in your software engineering education or in your career.
+
+It's not the course that we teach you a new programming language. It's likely that you will use a programming language.
+
+Or a platform. We're not going to teach you any of those things, but you will need to learn on yourselves.
+
+So there is a heavy self-study component involved in this course.
+
+And we have multiple forms of assessments. The first few, the first two modules you will write essays.
+
+We will talk about those.
+
+And in the second in the third module you will produce your software which will have reports as well as reflections, reviews etc..
+
+So what is it not. It's not a it's not a programming language course.
+
+Again, we are not going to teach you in a specific programming language or technology.
+
+It is likely that you will need to learn new technologies and new programming languages.
+
+What? We're not going to teach you that you will. You need to learn that on yourself.
+
+It's not a 100% lecture or 100% project course.
+
+It's 80% project, 20% lecture course.
+
+And although it's a capstone course and you will in fact build an actual product, you can claim it as your as your internship hours.
+
+Unfortunately. Learning objectives.
+
+Understand agile and lean software development. Apply those knowledge into a real,
+
+practical project at work and show effective communication skills and have and demonstrate excellent project planning and scheduling.
+
+Skills and also being able to critically reflect on your own and your peers performance.
+
+So if you look at the Bloom's Taxonomy, this is the course that sits on the top on the more of the higher scales on of of the pyramids,
+
+about creating an agile mindset and applying your knowledge into practice and designing and
+
+engineering high quality software products while helping your clients to facilitate it's their.
+
+Basic requirements. So as I as I just hinted, we have three modules.
+
+Modules one and two that are handled by parallel.
+
+That will take from week two point to week three. And then we have module three which is your projects module one and two or total 20% of the course.
+
+Then the third module 80% of the course. There are some project activities that start effectively from today.
+
+So the actual coding starts around week three and week four.
+
+But there are other project activities that mean that you guys need to complete starting today while you're going through these modules.
+
+Okay. So module one and module two.
+
+As I mentioned earlier on as well that I'm going to use these two modules to set you up for starting with the project work.
+
+So that means all the knowledge that you would need in terms of the why of your project.
+
+Why do you want to build that project and all those details that set up the base of the project
+
+so that you yourself can justify to someone why you are spending on building this project.
+
+And the second module will be about the agile concepts.
+
+Agile software development process.
+
+And the relevant concepts are both the assignments that you see all all three assignments that you see their assignment one, two and three.
+
+They relate to these two modules. The first assignment one and assignment three.
+
+They relate to the project rationale and justification, which will require you to do some research,
+
+especially assignment three, where we would need some evidence that you need to dig in order to support what you write in here.
+
+And as far as I meant, who is concerned? It will be about relating the understood agile concepts to your project.
+
+So when we'll go through the agile concepts you would have already known about what project you are building.
+
+I think by week three they would know, right?
+
+So how do you see those agile concepts in relation to the project that you have picked, whether they are applicable?
+
+How much of them are applicable to your project? So that is what assignment two is going to be about.
+
+Thank you very much. All right.
+
+So let's talk about the project. It's a team project.
+
+Although each student will be assessed individually I'll explain.
+
+Team size is fixed to eight. Each team will have a separate project.
+
+Some of them are brand new projects. Some of some of them are projects that continue previously developed applications.
+
+So they are they are fresh projects and they are made.
+
+There are maintenance projects as well. When you set up, your teams try to build a team that has a wide set of skills.
+
+So the way, the way is that I've already published the list of the available projects.
+
+You will bid for your five top basic preferences.
+
+However, it's likely that you get allocated projects that you you did not meet at all.
+
+And the reason is if history serves correctly and it's another repeat.
+
+Most students bid for the same projects and obviously you can't all get the same project.
+
+All right. So there will be half of the teams that will receive projects that they did not bid for.
+
+So that means when you when you establish your team, don't count on the requirements of the of the first project and your of your first preferences.
+
+It's likely that you don't get that.
+
+So it's better that you consider diverse sets of skills around for example, experience with mobile development, experience with web development,
+
+etc. so at least 1 or 2 members of the team are are basically, uh,
+
+aware of the Ides and the programming language and the platform that's coming to, to use.
+
+So they can so they can basically coach and help the rest of the team to skill up,
+
+because you have a very short amount of time before the project starts To learn about whatever new platforms or programming language,
+
+etc. you need to learn. All right. So don't put all your strategies on the on your first bit.
+
+Make sure that you have a diverse set of skill in your teams.
+
+And that should be your primary concern because it would be really helpful to
+
+lift the team and and help all the other team members to learn very quickly.
+
+If there are few members of the team who have done have went through that path and have resources and materials you can share with the others.
+
+Also consider that there could be changes to your team students.
+
+New students could drop out. New students could drop in.
+
+So factor that in your team's setup as well.
+
+As I mentioned, the projects are real. There are real clients and they need real software.
+
+Each. Each team will have a client in an agile team.
+
+It's called Product owner.
+
+A product owner is not exactly a client, but because of the restrictions that we have in this course, product's owners are clients as well.
+
+So they are the ones who bring in the requirements and decide each week which of the features you should implement that.
+
+That's that.
+
+Basically, we obviously with your help, your your job is to help them to find what they need and also to help them prioritise the features.
+
+The software methodology will be scrum.
+
+It's not as scrum as it's prescribed, its design and modified to suit the restriction that we have in an academic setting,
+
+and your objective is to develop the software that your product owner needs following a strict scrum process,
+
+and you will be assessed based on three sets of deliverables.
+
+So we have, I think, around 14 projects right now.
+
+Oh, right. Not right now. We have 14 projects from those 14 projects I think 11 will go through.
+
+That means we will have 11 teams.
+
+You need to form your teams this week on canvas, and then you need to select one of your team members as this Scrum master.
+
+It's recommended. I recommend that those who have more experience, if they have agile experience, great.
+
+So they should definitely become a Scrum Masters if they don't have a Scrum Masters.
+
+Those who have more experience in developing real software and working in the industry would be better options.
+
+So Scrum Master is not a project management, all right.
+
+It's somebody who's champions agile principles and ensures that they are basically actions and realised during the project.
+
+There are some extra responsibilities for Scrum master as such is expectation.
+
+Our expectation is the Scrum Master scored less during the course of the project.
+
+But just remember, a Scrum Master is not your project manager. Agile teams are self-managed.
+
+There is no team lead or anything. You will submit your eyes by end of week two.
+
+By Friday of week two and I will form the.
+
+I will allocate the projects quite immediately. So at the beginning of week three, you should have you should know what teams you are,
+
+what projects you are allocated so you can immediately initiate the contact with your product master with your product owner and start the project.
+
+There is a team portfolio. You will submit it twice.
+
+So it's a simple introduction of you who you are. We use that to send to introduce you to your client, your product owner.
+
+So you, you you submitted once in week two and once in week three as part of your project proposal.
+
+And then we will put this Scrum Master in contact with the product Owner.
+
+Then you can immediately start executing your project.
+
+As I mentioned that there are weekly deadlines. There are a specific scrum events that you go through every week.
+
+As such, you need to work very closely with your team on a weekly basis as well as you meet with your scrum,
+
+with your product owner on a weekly basis.
+
+We've requested that all product owners to allocate one hour per week to meet with you guys, so utilise that whenever properly.
+
+Sometimes they are willing to put more time and work with you as Scrum Masters again.
+
+Again product owners in the in the in the context they play multiple roles.
+
+It's not only the they play the the the client role.
+
+Sometimes they come. They may come and code with you as well.
+
+A lot of our Scrum Masters product owners do not know anything about software development.
+
+All right. So these are again part of the restrictions product owners in prescribe agile.
+
+They are software developers, but in this case see them as a combination of product owner and client.
+
+And if they do not have software development background, you may need to explain the terminologies and walk them through the expectations.
+
+There could be situations that your product owners become inaccessible.
+
+If that happens, you should continue with your project as you agreed in the past, in your previous settings, or as you see fit.
+
+The one thing that you can do is stop the project.
+
+Remember, every week you must produce a new version of your software whether your product owner was available or not.
+
+As I mentioned, I advise that you utilise the lap times and locations to meet with your team and with your Scrum Masters, with your product owners.
+
+And if you need, if you need to book a meeting room, you can reach out to the GTPase to book a room for you if you want.
+
+If you don't want to utilise the labs. All right.
+
+So look, with the project you will go through seven sprints.
+
+Each sprint is one week. And that's a fixed term. So you can change the sprint time.
+
+It's one week fix. End of the sprint a new software.
+
+Sprint one is starting officially on week four is called an spike.
+
+That is the only sprint that you don't necessarily need to produce a new software,
+
+and you can utilise that that sprint to basically understand what you need to do,
+
+decide on the back end, decide on the technologies, database technologies,
+
+etc. and there are some activities that you need to to go through that release planning one and two.
+
+And you also need to compile a product backlog, which is basically the list of the features that the software should expect.
+
+You should deliver in your software, as Prince2 is the first sprint that you need to start coding.
+
+We usually need to see, for example, the themes and look and feel of the software,
+
+and some of the, for example, navigation mechanism, etc. are in place.
+
+And it's also the same time that you dive deeper into designing your your software
+
+in terms of modelling your software as well as your first major deliverable,
+
+which is your project proposal. What's included in those deliverables are detailed in the project document.
+
+I'll show you that document from sprint three through to sprint six.
+
+You go through these five sprint activities in the first three weeks.
+
+A parameter will walk you through, and you will learn what you need to do during these these activities until at the end of the sprint,
+
+which will be a sprint demo and you will demo your product.
+
+Your sprint demos will be here in front of us.
+
+So those demos are scheduled for Wednesdays. That means you should sprint.
+
+The start date should be Thursday. You start your sprints on Thursday.
+
+You finish them on Wednesday, which is your sprint demos here.
+
+And then the last sprint is sprint seven is when you finalise everything and you have your final presentation here and then you stop in your projects.
+
+So sprint seven. You should not use it as a complete development because you won't.
+
+You will not have enough time to use that sprint as a complete development sprint.
+
+There are. You have a lot of things to do, especially if you are be on the students.
+
+That's when your part for projects are also due.
+
+All right, so don't count sprint seven as a full development sprint.
+
+It's just polishing everything polishing stuff. We provide you some feedback during your final presentation.
+
+You may want to action those feedback as well, but you will not have a lot of time to code anything major.
+
+So sprint demos that happens from sprint three to sprint six, which would be I think week five of the course,
+
+as I mentioned, will be on Wednesdays during official lecture times.
+
+Each team will have five minutes. You just quickly progress to just quickly talk about what happened in the district,
+
+what has what you developed and demo, what you have developed and showed it and show it to us here.
+
+Uh, each sprint demo must be done by two students, and all the students must present at least once during this spring demos.
+
+So that means that two students keep rotating. Uh, it could be three students as well, but minimum two,
+
+maximum three with the requirement that second requirement, all the students must present in this frame demos.
+
+So it's print seven. As I mentioned, it happens on week 11. We conclude this course on week 11.
+
+Nothing on week 12. So we can talk. We can.
+
+You can spend it completely on basically preparing for your part for, uh, display day part four project display day.
+
+All right, so assessing this, the projects are quite complex.
+
+Remember, as I mentioned, we assess you based on the project, the quality of the project, the feature feature richness of your project.
+
+So the resources that you have eight, uh,
+
+basically software developments during the times that you have the product that you deliver
+
+should has enough features and complexity that is adequate for that level of feature.
+
+So the quality of your product, the feature richness of your product is one aspect.
+
+The other aspect is how well you followed the sprint processes, the agile process, the scrum process, and meet your weekly deadline.
+
+Based on that, a project mark will be given the overall.
+
+And then we will look at your individual contribution.
+
+So this is not a course that somebody sits behind or do minimum work and get the marks that other for, for the work that others do.
+
+That's definitely not this course. So it's a team.
+
+It's a team project. But each student will be assessed individually. And we have multiple ways to keep track of how a students individually work.
+
+First of all, you must use GitHub from the first sprint.
+
+And every student should equally commit to code and GitHub.
+
+So you can say that, well, I didn't commit code because I was working on images.
+
+I was working on icons and designing those things.
+
+The distribution of the word for coding and non-coding activities should be equally among all students or all developers.
+
+So students who did not code will not get a mark. It doesn't matter what else they did.
+
+So we see your contribution on GitHub, and how much of your contribution have ended up in the final product.
+
+That is, contribution to the default branch on GitHub and you need to work.
+
+You need to code on a weekly basis. So that's our first evidence.
+
+The second evidence is Scrum Masters on a weekly basis.
+
+They need to maintain a report in which mention that each member did what and how many hours I spent that that week.
+
+That's that's the second criteria. And the third criteria is one on which 11 you will you will.
+
+Each one of you will submit a confidential peer review reviewing the rest of the team members.
+
+So teams of eight, each one of you will submit seven peer reviews.
+
+And again based on those we calculate a participation a score for each student.
+
+And that will be applied to the project score.
+
+So everything is assessed holistically. Everything is connected.
+
+Your project proposal mark depends on your final product.
+
+You can you can submit a proposal that I'm going to build a spaceship to go to moon.
+
+But if it's not realised, the proposal is worthless. So everything is connected.
+
+And that's where the holistic score is, basically reflects.
+
+So if you have the perfect project proposal, but you design a very crappy project, you will end up with a low holistic score.
+
+It reflects back to all everything that you have submitted in the project, and it lowers your project overall project mark.
+
+If an individual contributor did not contribute to the project or contributed less than the others,
+
+that individual's holistic score mark will be lower than the rest, and that individual will receive a mark lower than the rest.
+
+If an individual went above the board and did a lot of extra things, they would get bonus marks.
+
+So you work more, you get more mark, you work less, you get less Mark.
+
+So don't don't don't forget the process how well you meet your weekly deadlines.
+
+The product Quality and feature richness and your individual contribution to the project.
+
+These are the the three primary things that that decides your mark for this project.
+
+And we did have a lot of situations that members of teams failed while the rest of the members got a pluses.
+
+All right. So deliverables the first is the first is the team portfolios due next week.
+
+But again I remember to include that in your project proposal. The team portfolios alone doesn't have any mark.
+
+It's included in your project proposal. The project proposals 15 mark.
+
+Week three I think then the project demos have multiple components.
+
+The first component is sprint demos. Each demo has two marks you will do four sprint demos overall, eight marks.
+
+Then you have your final uh uh, basically presentation on in your sprint seven, uh, in which you will receive 12 marks.
+
+Ten marks is just your individual presentation. And then it's the code quality and professionalism.
+
+It has 15 marks. But don't think that well, if I design a product that is low quality and it's all just gibberish code,
+
+worst case we just receive zero for that 15 mark. No, for that, quality reduces the holistic score.
+
+So it has a significant impact on the entire project Mark.
+
+It has its own mark. But if your product if your quality is low, you will receive reduce holistic score.
+
+And that means your project score will overall will be low as well.
+
+Note that for a spring seven final demo that happens on Wednesday during the live lecture.
+
+Attendance is mandatory for everyone. We will keep attendance, and anyone who doesn't have an excused and missed that will receive a penalty.
+
+And then you have the third set, which is the reflection report.
+
+It has 30 marks. Five is your individual reflection.
+
+It's a Google form that you will submit. Ask. Ask a few questions and you write your experience around how you applied agile.
+
+And then this is those. This is the participation report and peer review.
+
+That is how your your team-mates saw your contribution during your projects.
+
+That participation report has direct impact on your individual mark.
+
+So If the most of your team members march you low for in the participation report will check your GitHub contribution as well.
+
+And if that's low, then you will receive only a fraction of the project mark because your holistic mark will be significantly reduced.
+
+And also the Scrum Master member participation reports that I mentioned that
+
+the Scrum Master maintain and present and you guys present in on weekly basis,
+
+showing that what you worked, each student worked, each developer worked during the sprint and how many hours spent on the project.
+
+At any point of time. You have questions? Feel free to stop now.
+
+So that's why I mentioned that assessing the projects are quite common or actually quite complicated.
+
+There are different vectors. So what happens in the case if the contribution mark and the peer review mark conflict.
+
+All right. So the the contribution that's usually the same.
+
+All right. So the if majority of team members mark somebody that didn't work or worked very well that's usually reflected.
+
+But we check it against the the individual the GitHub count contribution.
+
+But they also have the weekly uh weekly Scrum Masters member participation reports.
+
+So that's gives us a good idea where students stands.
+
+The presentation. And so yes individual presentations here finally.
+
+Yeah. So you will present twice firstly during the sprint and then fill fielding and then during the final presentation.
+
+The final presentation is a 20 minute slot, and that's all of the team members should come and present equally.
+
+So if a student represent the member twice during the sprints and during the sprints 3 to 6 and then sprint seven during the final presentation.
+
+Questions? All right.
+
+So here is an schedule for the project starting from which one.
+
+We do need to have teams on canvas. So I will wait until the weekend to see that everyone is on canvas and teams, anyone remained.
+
+I will randomly put them in teams. And remember you have to be on canvas.
+
+All right? So don't just establish your teams on paper within yourself.
+
+I need to see it on canvas. If you are on.
+
+If you're not on canvas by the end of the, uh, by early next week, you will be randomly allocated to a team.
+
+And we can't change teams. It's very difficult.
+
+It could be one team end up having seven member or nine member.
+
+We'll see until the end of next week. And then once, uh.
+
+The enrolments are finalised. There may be some modifications to minor modification to teams as well.
+
+So that's the first thing that you need to do. End of this week. Allocate your team's set.
+
+Set it on canvas as set. And set this scrum master who will be the Scrum master?
+
+The projects are already on canvas. I'll show you where to find them.
+
+Just your your your eyes are due next week. You can follow the link on canvas.
+
+I'll show you how to where you should go to stop with your eyes.
+
+But they are due by next Friday and as I mentioned,
+
+hopefully I will allocate the teams immediately and you can start your project the be around the beginning of week three.
+
+At least some ground working, which is formally before the project formally starts on week four.
+
+Also, your team portfolios are due next week.
+
+Week three we complete project allocation submission and then I'll submit team portfolios to to your product owners and clients.
+
+And then you can start the project.
+
+And also there is a project agreement that you need to sign at every, every, every developer in the team needs to sign and return to me.
+
+And that's what's due, as I mentioned, that every team, every student must use GitHub.
+
+So in the past we used to use GitHub classroom to automate this entire repo creation and team assignment those things.
+
+Unfortunately, the GitHub GitHub classroom is no longer with us.
+
+Rest in peace. So we are trying a more manual approach this time.
+
+Uh, you guys go and build your repositories. It must be private.
+
+Add all your team members and product owners and the TOS to your repositories.
+
+Play with it for the first two weeks of the project. Ensure that every tool that you want to set up in your in your repository, you set it up.
+
+And then towards the uh, week three, you need to transfer the ownership of your repositories to me.
+
+You can still use them. You can still contribute to the project,
+
+but you transfer the ownership to me and you must use GitHub IDs that are allocated at R that indicates your University of Auckland UPI.
+
+If you're using your private, uh, GitHub IDs or GitHub accounts, you must add your University of Auckland to it and make it publicly available.
+
+Submissions that come from private accounts that we can verify will receive zero.
+
+Well, last semester I have two students who got zero because they didn't follow that.
+
+All right. Okay.
+
+So you create your GitHub in repos and add all the team members, your product owner, as well as the GTA to your repo, to your to your repos.
+
+Set up whatever you want to do with it. The only condition that I have that it must be private and nothing.
+
+Nothing outside the team or the or the GTA or the clients team can be added to your repository.
+
+And once everything is done, you just ship it to me on week three.
+
+We'll try it out to see how it works. Hopefully there once we won't face any issues.
+
+Um, but if you have recommendations and suggestion how to improve that GitHub allocation process,
+
+please feel free to mention that there are two tools that are recommended for in in for as a replacement for GitHub classroom.
+
+One of them is paid and the other one was too complex for students to set up.
+
+So I spent quite a few days trying to find a very straightforward workflow that works for everyone, but it was just that's quite too complex.
+
+As well as required a paid account paid a paid GitHub account as well.
+
+So just let's let's try it out. Hopefully it works fine. Otherwise recommendations.
+
+Please do tell me how it works for you. A study break.
+
+There is no formal requirements for you guys to have a sprint during a study break,
+
+but it is a good time if especially if you are behind schedule to utilise to have shed to have shadow sprints to keep up or if you
+
+want to get ahead so you don't have much to work during sprints six and seven and can follow up your on your path for projects,
+
+it's completely up to you whether you want to utilise it or not.
+
+Usually teams run two mini sprints during the break to just ensure that they are ahead and not pushing everything to week six,
+
+because come week ten and week 11 beyond, the students will be very, very, very busy.
+
+Be part for projects activities, so keep that in mind.
+
+After the break we have a sprint four and five. Which which nine is a systems week.
+
+So postgraduate students have fun.
+
+Be on the students. You will be fully allocated to the systems week.
+
+So there is no soft end 7761 activities, no sprint and there is no expectations from everyone, from anyone to do anything about this course.
+
+You should fully allocate yourself and dedicate yourself for systems week.
+
+Then once you come back from system of the week, we have a sprint six one more sprint until everything is basically finalised.
+
+At the end of sprint six. Scrum Masters Make sure to submit all of these slides of sprint demos on canvas and then sprint seven,
+
+which we have the final, final demos and the rest of the deliverables.
+
+Submitting your code, submitting your reflection reports, as well as your peer reviews.
+
+Do you want to take five minutes break or do you want me to continue?
+
+I think I have another half an hour. But then I'll continue.
+
+There are two Excel sheets for you to book for each of these sprints,
+
+because we need to know who will be presenting during the sprints, as well as booking for your final demo presentation.
+
+So the final demo presentation will be all on Wednesday. We have the official lecture ours, in which I think we have four of the demos then.
+
+Attendance is mandatory then, and then we have extra session,
+
+two more sessions in the morning on Wednesday mornings that we can basically sign up and present.
+
+So again, I show you where where you find those Excel sheets.
+
+But just don't forget to book your spring demos and weekly basis and then your final demo.
+
+Imposter syndrome. I usually talk about it and I want to talk about it again this year.
+
+Let's watch this video together. Assume that I set the audio to where is audio?
+
+External okay. Hopefully it works.
+
+Invariably, you will land on a project where you don't know much about what's involved.
+
+It's completely okay to say, you know, I have not the slightest idea to solve this problem.
+
+This is very normal. And it is normal for every single person I remember.
+
+Still just, uh, just starting full time work and realising, wow,
+
+I'm not sure I know how to work with big code bases or I don't know this language, and it's frightening.
+
+And there's there's a lot you don't know. Find a little nugget you can you can take on and take it from there.
+
+There's a lot of times when you run into areas where you just you don't know what to do, and you feel like you can't make it all come together.
+
+And the most important thing is to not get caught up in that sometimes the best thing you can do is actually
+
+just take a little time off of a problem and then circle back a little bit later when you have a fresher mind,
+
+and then it'll be easy. Imposter syndrome is the feeling that you're a fake and somehow you snuck in.
+
+And you don't deserve to be where you are.
+
+There are so many times at work where I get projects to work on, and internally I feel like there's no way I can do this.
+
+I'm totally going to fail at it.
+
+The only person expecting me to fail is myself, and so if I can get over that, I can gain more confidence and do anything that I want to do.
+
+You have just asked me to code up something or to fix a bug.
+
+I don't even know where to begin, but the best people I know learn to live with uncertainty,
+
+fear, doubt, confusion and say and they just plough right ahead.
+
+Failure is it's going to happen if you take risks, and taking risks is important to succeed.
+
+I have a few tips on how to cope with that. Number one is try to see the silver lining of failure.
+
+Number two is, uh, I think preparing is really important.
+
+It will help you a lot in, um, taking on risks that are more manageable and being able to succeed more often.
+
+I think it's absolutely vital that when you go into building something, you accept that sometimes you're going to be wrong.
+
+If I had an opportunity to sort of go back in time and tell a younger version of myself, like, just as I was getting started, what what should I do?
+
+I honestly, I think the main thing would be to experiment more.
+
+And just so I assume, everyone here experienced imposter syndrome, right?
+
+Anyone here who hasn't experienced imposter syndrome experienced anti imposter syndrome.
+
+And so it's completely normal. In fact, if you don't experience in person, syndrome is abnormal.
+
+Every time I start a new project. It doesn't matter how many times I did it, I still faced an imposter syndrome.
+
+So don't be put. Don't be afraid of it. It's completely normal.
+
+But it means that there's a ton of information coming your way.
+
+You are lucky that that ton of information coming your way and you're just overwhelmed.
+
+You're afraid. As this was mentioned in the video.
+
+You need to learn to deal with it. You eventually start basically developing strategies to deal with it.
+
+For me, the way that I find to deal with it is just I do the simplest thing that I can do right away.
+
+Maybe it's just design a simple UI and then start programming this pattern, and then that text box and etc. and just moving on.
+
+The point is, a project is a puzzle. At the beginning it's just all scrambled and you have no idea.
+
+And there is no guide in front of you. You have to make that puzzle on yourself with the help of your team,
+
+but every piece of the puzzle that you put in place, it opens up opportunities to solve the rest of the puzzle.
+
+So that's the way. Do the simplest thing that you can, because once you finish that task, that simple thing you have, you know more.
+
+Compared to before you completing that task so completely normal, don't be afraid of it.
+
+It's just part of the job as an engineer and you need to live with it.
+
+Just deal with it. While imposter syndrome is normal, completely fine.
+
+Okay, nothing wrong with it. Dunning-Kruger effect is completely wrong and it's the opposite scale of Dunning-Kruger effect.
+
+So what happens is when I,
+
+I only had I had the video about imposter syndrome the first time that I thought software Engineering at the University of Auckland.
+
+I added the Dunning-Kruger effect as well.
+
+Let's watch this. On April 19th, 1995, MacArthur Wheeler robbed a bank with his face glazed with lemon juice.
+
+Believing the juice would make his face invisible to the surveillance cameras,
+
+he thought so because lemon juice works as invisible ink on a piece of paper.
+
+Police broadcasted the security camera footage on the local 11:00 news, and just after midnight, Arthur was arrested.
+
+Incredulously, he said, but I wore the juice.
+
+Baffled by this reasoning, David Dunning and Justin Krueger, two psychologists, studied Mr. Wheeler and others like him.
+
+They came to the conclusion that people with low ability at a task tend to paradoxically overestimate themselves.
+
+This cognitive bias is known as the Dunning-Kruger effect.
+
+Let's look at this graphically. Plotting one's confidence in your ability against one's actual knowledge in a field.
+
+As we learn something new, we are often highly confident because we know so little that as soon as we know a tiny bit, we think we know it all.
+
+Those who stop learning here maintain a false sense of mastery.
+
+Those who continue learning realise things are more complex and often lose motivation.
+
+And the more they increase their knowledge, the lower their confidence becomes.
+
+Many stop at this stage thinking they've learned nothing. Only if we keep going.
+
+Can we regain confidence while getting better.
+
+And at the end, we will be full of knowledge and almost as confident in our ability as right after we started.
+
+In other words, if a simpleton, a good student and a wise teacher were to have a public debate.
+
+This is how things could go down. The simpleton knows just a little bit, but is very confident and voices his opinions loud and without hesitations.
+
+The student knows more, but doesn't realise it because she lacks confidence.
+
+She keeps quiet. The teacher is confident but understands how complex things really are.
+
+Hence voices his opinions with reservations in the end.
+
+The simpleton wins the popular vote because he is so confident about being right, and people tend to trust certainty.
+
+Research from North America, Europe, and Japan suggests that culture plays a big role from assessments of one's own ability to drive.
+
+We know that 93% of Americans think they are better drivers than average, while only 69% of Swedish thinks so.
+
+In Japan, on the other hand,
+
+people in general tend to underestimate their abilities as a strategy to see their underachievement as an opportunity to improve.
+
+Setting out on a journey of learning can be a daunting experience.
+
+What starts off as a leisurely stroll soon changes into an intense battle of willpower between you and an intimidating amount of knowledge.
+
+Do not give up. The longer you fight, the more power you gain.
+
+Up until the point you win.
+
+And in the end, if you persevere, you may be elevated to the ranks of Socrates, who over 2000 years ago left us with a quote of wisdom.
+
+I know that I am intelligent because I know that I know nothing.
+
+I think a good example of the simpleton is someone that we all know.
+
+Somebody who has very funny hair. It's the other part of the world.
+
+It's the most powerful man in the planet which thinks he knows everything.
+
+So. If you don't, if you start the project and you don't feel imposter syndrome, you should be worried.
+
+Because that means that either you didn't understand the project well or you just you don't have enough knowledge to understand what lies ahead.
+
+What problem lies ahead. And that's what Dunning-Kruger is.
+
+Effect. It's the the false hope, the false belief that you know everything.
+
+And the point is, when you don't know something, then you don't know it.
+
+You don't afraid about it, but you don't know what's what's leaves ahead of your project and what problems you need to deal with them in the future.
+
+Then you don't have enough knowledge about the project while you bet.
+
+But if you know them, then you end up with imposter syndrome. So that's why imposter syndrome is good and you should expect it if you don't expect it.
+
+Maybe you are getting stuck on Mount Stupidity.
+
+No one knows everything about everything. All right. Even pick up one programming language.
+
+No one knows everything about that particular programming language.
+
+Even the designer of the programming language not knows everything about that programming language.
+
+Luckily, in those in this course, we don't see a lot of cases academic, uh,
+
+this integrity because it's a project base and it's it requires everyone's hands on an active participation, but please mind that.
+
+The outcome of a misconduct is not a zero mark.
+
+The outcome is that it's been recorded on your file, and it could impact you for the rest of your life.
+
+Professional life. So it's much better to get a zero mark than a misconduct record on your profile.
+
+And the last thing is, Jen, I want to you want to talk about Jen in the first two part.
+
+Okay. So, um, are the three assignments.
+
+And note that assignment one is already out. Uh, I'm going to give you some time during Wednesday's lecture this week to work on it as well.
+
+So don't worry about it. You will be able to complete it in time for each of these assignments.
+
+Here are clear guidelines about how, whether and how to use Genii.
+
+For example, if you prefer to use ChatGPT, how exactly do I expect you to use it?
+
+I'm going to give you those specific instructions. So wait for them.
+
+In fact, for assignment one, they're already out. Again, I'm going to talk about them during Wednesday's lecture.
+
+Basically for assignment one you are allowed to do it, but whenever you do it,
+
+you need to be clear about it and need to be explicitly telling or mentioning it, writing it in your reports.
+
+So more details on the assignment brief of our assignment three.
+
+Similarly, you are allowed to do it, but you have to provide details for assignment two because it is going to be a reflection.
+
+You are not allowed to do it. Now again, we are believe we we we would work on trust.
+
+Of course, these days journeys are becoming finer and finer and it is very difficult to pick whether you have used it or not.
+
+Right. We do have some tools that will assist us in finding that, but we assume that you will be honest in that.
+
+And given we have, um, given you this freedom to use it.
+
+So use it honestly as instructed. Yeah.
+
+So this so the the main thing that you need to remember here is that whenever you use generative AI,
+
+do mention how you went about using it and the details are coming for assignment one, as I mentioned.
+
+You can look at the brief or now. Thank you very much.
+
+Okay. For the project. As I mentioned, I will I don't look at you as a student.
+
+I look at you as a software developers, professionals and as my developers.
+
+I want you to be as productive as you can to produce the best quality products and and the most feature rich products that you can.
+
+As as such, I want you to use any tools that you want that makes you a better software developer, that if that includes AI, go ahead and use it.
+
+But there are some catch. First thing, As I mentioned, do not trust the quality of the code that JNI produces.
+
+If you use an AI to complete a task, make sure that you refactor the code, put it in the proper structure,
+
+and then make sure that you have proper review procedures set up in your team and before you code.
+
+Before the code ends up in the in the default branch, it's properly peer reviewed.
+
+And if you're not confident with the quality, make sure to return it to the developer to improve the quality.
+
+So do not trust the code that JNI produces. It does a very bad job when it comes to quality and that would be significantly impacted your code.
+
+All right. So that's that's the first one. All right.
+
+So first pillar we have three pillars of JNI usage in parts.
+
+In module three. That is his project. If if I contributed to the code block or a section of your code, you must disclose it.
+
+So if our function that is that that you use, I just add a comment.
+
+I use cloud code or whatever that you want. But for that comment for that particular type of code, the function or etc..
+
+You are 100% responsible for the entire project.
+
+Doesn't matter who produced the code. Is it?
+
+Was it AI? Was it on a stack of overflow or was it somebody else?
+
+You are responsible for it. Every single team member is responsible for the entire code.
+
+So you have to be proactive to first understand what the other's code is,
+
+because we may call you for the technical interview and then at the end of the project and you can just say,
+
+well, I didn't code that part, so I can't explain it, or it was Gen AI or StackOverflow.
+
+Everyone needs to know every bit of the code that you submit.
+
+And the last thing that you can do is just feed in the project document to cloud code and at least up expectations,
+
+and just submit the whatever crop that is going to produce. That is a potential misconduct.
+
+So use it professionally as a tool that you have in your disposal during workflow,
+
+or do not trust on everything that that that that it basically produces.
+
+Make sure that you check for quality.
+
+Refactor the code and make sure that you have a proper review process before the code is end up in your main branch.
+
+Okay, questions before I quickly go on canvas and then show you the show, the project document and then call it a day.
+
+Any questions so far? All right.
+
+So everything that you need is on canvas for the first modules.
+
+I think you will will walk through it on Wednesday. All right. So just let me go to the project side.
+
+So it's modules and these are the slides for that I just showed you.
+
+And then content for module one. And then everything that you need for module three which is the project the project documents.
+
+These are the list of the proposals here.
+
+Oh sorry. My apologies. All right.
+
+Okay. So again these are the modules module one and two.
+
+Apparently we will talk about them on Wednesday. So let's just let's just talk about module three project.
+
+You can also navigate here. This is the slides that I just showed you.
+
+All right content for module one. And as they become published we make them available to you.
+
+And then everything that you need for the project. This is the project document.
+
+Make sure that you go through it very carefully.
+
+It's I understand it's a very long document, but please make sure that you go through it very carefully.
+
+Each one of you. Uh, these are the list of the projects that we currently have.
+
+All right. And. What you need to basically put in your your your your eyes.
+
+Just only this project numbers. All right. So we ask some some questions.
+
+We remove the clients or product owners information to ensure that as well.
+
+They are not any of the clients are basically the disadvantages.
+
+Some project brief about what is exactly what is roughly the project is about, and some information.
+
+If they know whether the whether taking a particular technology, a particular programming language required,
+
+if the project is basically confidential and where your appeal prefers to meet.
+
+All right. So you can refer to this document. And as I mentioned we have 14 projects.
+
+11 of them will be allocated.
+
+So three of the projects we can complete this year.
+
+Then this is the GitHub repository information sheet that the Scrum Master needs to complete and submit.
+
+Basically, just complete this. This is. This document is live. Uh, that is after I think we was it week five or week six,
+
+whatever is on the schedule that Scrum Masters need to fit needs to basically come completely after they transfer the ownership to my, uh.
+
+GitHub ID, some extra documents for you to study about a spring, about scrum, a scrum primer,
+
+and then adaptive agile in university context, etc. this is where you submit your project bits.
+
+It's a Google form that your Scrum Master will complete on behalf of the team.
+
+All right. So you have again five. We can you can submit five references.
+
+But again half of the team most likely won't get any of the periphery.
+
+So sorry about that. This is the Scrum Master member participation report template.
+
+That's the sheet that you that Scrum Master needs to basically maintain for each of these sprints.
+
+And then you guys present it during each of the sprints that ask us that, that basically tells.
+
+No, that's not the that's sprint demo. Sorry. That's a long.
+
+So I need to fix that. All right. So I will fix that.
+
+All right. So that is screen that that member participation report template is just sprint one.
+
+Sprint 34567. Uh each team members what they did work how many hours they spent on that sprint.
+
+I will fix the links there. Then we have the sprint demo sheets.
+
+All right. So again for each of the sprints and the the team number and the who's the scrum master and who will be the presenter, the presenters.
+
+And again remember that each student needs to present in one of the sprints at least once.
+
+This is the booking sheet for the final, uh, final demos.
+
+So as I mentioned, we have Wednesday morning sessions. There are two sessions in the morning.
+
+We have session one for teams we will present, and then three three teams in second session.
+
+Uh, attendance is not mandatory for everyone, but every team that presents in each session,
+
+all the members of the team must be in at the beginning of the session in the room and remained in the room.
+
+So attendance that what it means attendance is mandatory only for the teams that presents, but for the Wednesday afternoon.
+
+And also note that the location is the other room just here.
+
+And for the afternoon demos, it's during the official leisure time.
+
+Attendance is mandatory for all students. Well, just make sure that you populate both of these sheets to book your demos and final presentation.
+
+During your final presentation on week seven, you will peer review the team that that presents.
+
+I will explain why we why we need this and how we used it during sprint seven this Wednesday morning.
+
+Wednesday morning there are two extra sessions for the final presentations because we can't fit.
+
+The final presentation is 20 minutes per team, so obviously one session is not enough for everyone.
+
+This is your individual reflection reports. Again, another Google form.
+
+It's due towards the end of week 11 then, in which you reflect on your own experience.
+
+And finally, this is you. This is the participation report in which you complete for each member of your team, not yourself.
+
+I had students in the past who complete this this form for themselves.
+
+So please don't do that. All right, you peer review everyone else in your team.
+
+All right. And ask you a bunch of questions based on your reply. We compile and score and then average that.
+
+And that becomes the participation score for that particular individual.
+
+Uh, just a note about This participation report if you if a team.
+
+Pretty much all members of the team just rate each other 100% for everything, then we expect to see a project that exceeds exceeded expectations.
+
+It's perfect quality. It's really product.
+
+It's it's really rich in terms of features. The sprints went perfectly fine and it's also collaborated with on the contribution and GitHub.
+
+So be honest because if we find if we find discrepancies we're completely going to ignore that.
+
+And unfortunately the entire team will be penalised for it. So be honest okay.
+
+Don't write them sitting together. Yeah. Don't write sitting together.
+
+Don't collude. Just write it honestly about your team members.
+
+A Scrum Master is also required to complete this.
+
+So again, the Scrum Master seven version of this form for each of the members of your team.
+
+All we need and it's going to be kind of confidential. We're not going to share it with your team members.
+
+And then the assignments are all listed here. So.
+
+A1, A2, a1, A2, A3 and then the projects the team portfolio you will need to submit on week two project agreements.
+
+I think with three we've submitted here again a Scrum master just basically submit the document on behalf of the team and then the rest of the.
+
+Your code is it's only on GitHub, but you still need to submit the final code on canvas?
+
+Because GitHub isn't because we need to have your submissions on record forever.
+
+When when we have monitoring and degree assessments coming up for these two,
+
+there is for this is no specific submission because it's done on for it's done on via Google Forms.
+
+All right. And this is also where the final version of the Scrum Master report needs to be submitted.
+
+Questions. I understand there's a lot of information coming your way, but trust me, when you read the project document again, I apologise.
+
+It's a very long document. When you read it, the whole process becomes a lot more clearer for you.
+
+And at any point of time you have more questions.
+
+You're more than welcome to reach. Let me just quickly Go through or show you the project document as well.
+
+So it's 31 pages. The FAQ is at the end of the at the end of the document is quite important, so please have a look at them.
+
+Let me just see if there's anything specific I need to. Talk about.
+
+So when you see this blue thing that means it's on canvas.
+
+All right. So it's under modules and canvas that I showed you.
+
+The link for the actual template is actually here that I need to update it.
+
+So this is C for each of the sprints. It says the team member name and how that particular team will perform in that period.
+
+And it's publicly available. It is available for that. It has to be shared with the entire team, so it should be visible to the entire team.
+
+Just make sure you submit the final version to us at the end of week 11.
+
+You will present this every week as part of your spring demos.
+
+All right, so that's the instruction for basically GitHub and what needed to do.
+
+Make sure that your team name, your repository name follows 2026 7761 project team X.
+
+And that X comes from your teams on canvas.
+
+And by the way, this is where that you need to allocate yourself to teams on canvas.
+
+You have to see some of the some of you have been proactive. Thank you very much everyone.
+
+Just by the end of this week, please ensure that everyone is in the team or are we going to randomly allocate them to teams?
+
+And after that pretty much no team changes as possible.
+
+Point about your the name of your GitHub account.
+
+If it's your using your private account, make sure to link it to your, uh,
+
+University of Auckland email and make sure to make it public so we can see it.
+
+All right. You must keep the repository private.
+
+Although when you when you pass me the ownership, then you wouldn't be able to change the repository.
+
+Uh, once the course is complete, uh, if you want to put the repository on your CV, you can reach out to me.
+
+I can make, uh, the repository publicly available if your project needs to remain confidential.
+
+You can ask me, and I can add any interviewer that you have to add to your repository as well.
+
+GitHub usage policy. Make sure that you use it. Do not try to manipulate your code contribution metrics.
+
+The process that we explain and what you need to do in each of these sprints.
+
+Just quickly go through them.
+
+And information about the daily variables, how your will be holistically assessed and the primary factor that impacts your holistic score,
+
+your individual participation factor, the overall quality, the complexity and feature richness of your products.
+
+And that's that's some issue.
+
+Sometimes you have product owners who have a lot of expectations, so you need to work with them to manage the expectations based on what you have.
+
+Sometimes your product owners do not have a specific requirements anymore.
+
+So you are halfway through the projects and there is nothing else to do.
+
+You need to help them to come up with new expectations. So you need sometimes you need to scale up and you need your help.
+
+Your product owner to scale up.
+
+Sometimes you need to help your to negotiate with your your product owner to scale down because you have a fixed amount of resources.
+
+And but based on that fixed amount of resources, you need to come come up with a product and your product.
+
+If they have a lot of extra expectations, you need to help.
+
+You need to help them manage it.
+
+If they don't have enough expectations, you need to help them to find new features and items to add the product backlog.
+
+And and and finally, how you follow the agile process and stick to your weekly deadlines.
+
+And again explains for each of the daily variables what you need to put into your in your daily variables project proposal.
+
+Some of the criteria that we use to assess you. Uh, for each of those criteria.
+
+For for each of those deliverables that these are in addition to holistic assessment then project demos,
+
+sprint demos, what you need to include during your demos. Example of the burn down charts.
+
+And these are links to the links are on canvas.
+
+Every blue thing that you see here. The final demo, what you need to include in your final demo and presentation, and other criteria of assessment.
+
+Some information about judging and peer reviews. Uh, I'll explain more on week seven.
+
+Why? Why we need this and code quality reflection report individual portfolios individual reflections.
+
+And then in participation report the project is schedule that you suggest on the slide and on the
+
+presentation slide you we may call you guys to come for a mandatory interview after the project.
+
+After the project is basically concluded, it's going to be during the exam period.
+
+These are in cases that we are we are not confident that you were the author of the code.
+
+So we may call you in and ask you to code something in front of us.
+
+Explain different parts of the code to just prove that you understood the project, and you are an original author of the code.
+
+It could be. It could be. We invite the entire team, or just only specific individuals.
+
+And when you if you are invited,
+
+it's mandatory for you to attend or you get a zero in the course for for the project follow up by a potential misconduct investigation.
+
+So once the course concludes. Still come back and check my emails.
+
+All right. And the list of or the list of all the all the FAQ does.
+
+Then one more time that I want to highlight that if you face any issues, if you face problems, comment call to us early.
+
+If there are issues in the team. If there are issues with one member of the team, come and talk to us early on week ten.
+
+There's nothing we can do because the project is pretty much done.
+
+So while we have time to help rectify the issue. Come and talk to us if you don't want to talk to us.
+
+Talk to your student reps. Anything else you want to add?
+
+Yeah, just about the teams because you're going to have like every member team, right?
+
+So, um, these are big ish teams, um, in a student setting.
+
+So it is very important that you cover daily together hourly and talk to each other about your availabilities and unavailability in the coming weeks.
+
+Be very clear to your team members about your future plan in the coming weeks, and keep that communication channel open and all that.
+
+I think it is very important that, you know, until week 11, you are in touch with each, each and every member of the team.
+
+Otherwise there is always panic. Yeah. So usually communication most of the issues with teams happens because of lack of communication.
+
+Establish good communication channels. That would be one of the first things that you want to do,
+
+whether you want to use anything on Canvas or Slack or WhatsApp, Facebook, whatever you want to do.
+
+Usually a lot of a lot of issues with teams happens because there is no communication.
+
+So make sure that you are that you communicate really clearly and make sure if there are if there are issues that you couldn't solve.
+
+Talk to us well in advance when we can help to solve it.
+
+Anything else? Any questions? Anyone? Well, usually this course runs very well.
+
+Usually we get very surprised by the final products.
+
+Just remember the products that you are using that you are going to develop are being used.
+
+There are going to be actual actual products. If you are designing websites and require deployments.
+
+It's better to talk to your product owner to start sorting out servers and hosting whatever it requires to be done.
+
+If it's if it's if it requirements university servers, that needs to start well in advance because it's slow in the universities.
+
+All right. But unless you have a very good reason we need at the end of the project we need to see the project is deployed.
+
+Make sure that you, uh, go through a proper software testing process.
+
+Design test cases well in advance and do regression testing quite frequently.
+
+And make sure that you review each other code and make sure that you don't trust gen AI to give you a good code.
+
+All right. It's a pleasure to be to be with you guys.
+
+And we are looking forward to to a start of your demos and your final projects.
+
+Uh, just remember on Wednesday, the first three weeks, the lecture hours has changed.
+
+It's in the morning and you're not going to see me until your first spring demo.
+
+I will communicate with you on canvas and via email for for team setups.
+
+But until then. Bill is your guy for the first three weeks.
+
+Wednesday venue is also different. Please note this so that not only the time has changed, venue is also different.
+
+So it is 4 or 5 4 to 2. If you get confused, just look at canvas on the course's schedule.
+
+It says where and when the lectures or demos are. All right, have a good day everyone.
+
+Thank you. Thank you.
+
