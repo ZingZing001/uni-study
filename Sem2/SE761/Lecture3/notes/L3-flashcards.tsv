@@ -1,0 +1,102 @@
+Is Agile a software development methodology?	No. It is an approach or characteristic you apply to a development process to make it agile or not.
+What does the word "agile" literally mean, per the lecturer?	Anything that is quick and nimble.
+How should you reinterpret the question "do you follow an agile methodology?"	As "is your software development process following agile thinking?"
+What is a "process" in the general sense?	A sequence of steps for doing something — not a software-specific term.
+Name two traditional software process models mentioned in the lecture.	Waterfall and spiral.
+How is agile thinking communicated to industry?	Through the agile values and principles.
+What is the dependency between agile values and principles?	Values guide the generation (definition) of the principles.
+Where was the Agile Manifesto published?	agilemanifesto.org, around 2002–2003; the site is essentially unchanged since.
+How many agile values are there?	Four.
+State agile value 1.	Individuals and interactions over processes and tools.
+State agile value 2.	Working software over comprehensive documentation.
+State agile value 3.	Customer collaboration over contract negotiation.
+State agile value 4.	Responding to change over following a plan.
+What does "over" mean in the agile values?	Both sides are valuable; the value states which one wins when they collide — not that the right side is worthless.
+Under agile value 1, what is the team's leadership structure?	No one is leading the team and no one is left behind; everyone has an equal say.
+What analogy justifies preferring individuals over tools?	Limited resources plus high motivation beats abundant resources plus low motivation.
+Which specific document does agile value 2 target?	The Software Requirements Specification (SRS), when it absorbs early effort that should go into implementation.
+Define "working software" as used in this lecture.	A build that compiles successfully, runs successfully, and is available to the other team members.
+In this course, who represents the client, and what roles do they play?	The Product Owner — playing customer, client and user simultaneously.
+Why are course Product Owners kept out of the sprint itself?	They are mostly non-technical, so being inside the sprint serves no purpose; they belong in sprint reviews.
+What is the failure mode of "contract negotiation"?	A rigid contract that forbids any later changes to the requirements.
+How many agile principles are there?	Twelve.
+What is the agile "highest priority" principle?	Satisfy the customer through early and continuous delivery of valuable software.
+What sprint length does the Agile Manifesto suggest?	A couple of weeks to a couple of months.
+What is the typical industry sprint length mentioned?	Around four weeks, depending on project scale.
+What sprint length does SOFTENG 761 use?	One week — below the manifesto's own lower bound.
+What is the primary measure of progress in agile?	Working software.
+What does principle 6 require, and what qualification did the lecturer add?	Face-to-face conversation; it may be online rather than physically co-located.
+Are the agile principles part of the contract with the client?	No — they guide the process; the actual limits come from your interaction with the product owner.
+What agile concept does small, frequent committing implement?	Continuous integration.
+How large should a commit be?	The smallest possible chunk, with the build unbroken and tests passing.
+Give the two benefits of committing small and often.	Nobody is ever blocked cloning the repo, and the team is always ready to demo the latest version.
+What is the commit anti-pattern seen in student teams?	Working locally for days or weeks and then pushing one large commit.
+Name the two costs of the single-large-commit anti-pattern.	It often breaks the build, and it leaves almost no evidence of regular work.
+What is the best evidence of your contribution to a project?	Your commits.
+Why is a "planning only, no coding" role dangerous at marking time?	It leaves no commits, so your contribution is not visible and you lose marks.
+Which methodology supplies pair programming and code reviews?	Extreme Programming (XP).
+When should a team agree its code-quality standards?	In the first team meeting — code quality is a marked component.
+Can a Scrum team assign code review to specific members?	Yes — although everyone is responsible for everything, the team may agree that 1–2 members review regularly.
+What is the prescribed response to an unavailable Product Owner?	Be ahead of the game: in meeting one, establish their availability and the rule for proceeding without them.
+What must exist before you can agree "can we go ahead without you?"	At least a draft product backlog from the first meeting.
+Give the two brakes on scope creep.	An explicit up-front agreement that changes happen "wherever possible", and the PO's own interest in completion since they will own the product.
+Which kind of late change may you legitimately push back on?	A technology switch — be sceptical, but say changes can be made wherever possible.
+In which meeting do change and scope conversations happen?	The sprint review.
+What is a user story?	Another name for an individual requirement, written in a developer-friendly one-line form.
+Give the three slots of a user story.	Who (the user/role), what (the functionality), why (why it matters).
+Write the standard user story sentence frame.	As a <user>, I want <functionality>, so that <reason>.
+Why does the "who" slot matter?	Different user types need different interfaces and functionality; encoding the role keeps them distinct.
+What is the relationship between requirements and user stories?	Each requirement can be split into multiple user stories.
+What do you do with user stories before moving them to a sprint backlog?	Prioritise them, with input from the product owner.
+What is an acceptance criterion for?	Deciding whether an implementation actually validates its user story.
+What is the primary advantage of writing acceptance criteria early?	They translate very easily into unit tests or integration tests.
+What turns a user story into an acceptance criterion?	Specificity — a named actor, the actual content, the actual stakeholders.
+What does test-driven development start from?	The acceptance criteria, written before going into the details of the functionality.
+What does the Code Runner example illustrate?	When tests are visible and finite, people pass exactly those tests and ignore edge and boundary cases.
+Are acceptance criteria a floor or a ceiling?	A floor — the minimum a correct implementation must satisfy.
+Who decides how much testing is enough?	The product owner.
+Define Scrum as the lecturer does.	A lightweight framework defined around people and their communication.
+Which agile value is Scrum built most directly on?	Individuals and interactions over processes and tools.
+What is a Scrum Master?	A facilitator who removes impediments and runs the events — explicitly not the leader of the team.
+State the Scrum leadership formula.	Everyone is a leader and there is no leader.
+Who is responsible for maximising the value of the product resulting from the dev team's work?	The Product Owner.
+What does "self-organising" mean in Scrum?	The team organises its own roles by communication at the start of the cycle; roles are not dictated to them.
+During sprint planning, who selects how much work is taken on?	The development team — not the PO, and not by per-developer task assignment.
+Name two agile processes other than Scrum mentioned in the lecture.	Kanban and Scrumban.
+Why do industry teams often keep an old process?	Inertia — a team is used to a specific process and changing is very difficult.
+Which Canvas resource is the standing textual reference for Scrum?	The Scrum Primer, under Module 3.
+Name the three pillars of Scrum.	Transparency, inspection, adaptation.
+What does transparency require concretely?	Every member's progress visible to everyone else, via a tool such as a board plus a definition of done.
+What is an "opaque sub-team" and why is it a problem?	A sub-group inside a large team that is transparent to itself but opaque to the rest — it breaks global transparency.
+What does the inspection pillar amount to in practice?	Regularly reviewing each other's work; code reviews.
+Which pillar does the lecturer call tricky, and why?	Adaptation — teams must absorb technology switches, role changes and new PO requirements mid-flight.
+Name the three types of software maintenance.	Corrective, adaptive, perfective.
+What triggers corrective maintenance?	Something is wrong — flagged by the PO at a review, or found in your own retrospective or daily scrum.
+What triggers adaptive maintenance?	A change in environment, technology or team members.
+What triggers perfective maintenance?	Nothing — a developer improves something unprompted because they have time and motivation.
+Why is perfective maintenance a hazard in a Scrum team?	It was never discussed or agreed, so it surprises the team; the objection is to the invisibility, not the improvement.
+When is perfective maintenance acceptable?	When the PO has asked for creativity and the rest of the team knows you are doing it.
+Distinguish "adaptation" from "adaptive maintenance".	Adaptation is a property of the process (a Scrum pillar); adaptive maintenance is a category of code change.
+What is the purpose of sprint planning?	Define what will be delivered in the sprint and how it will be achieved.
+How long is the daily scrum, and when is it held?	15 minutes, at the start of each day.
+Who attends the daily scrum?	The development team only — the PO is deliberately not invited.
+What happens in a sprint review?	The team demonstrates the increment to the PO and stakeholders, who inspect it and adapt the backlog if needed.
+What does the sprint retrospective inspect?	The team itself — it is a timeboxed opportunity to inspect itself and plan improvements.
+Distinguish sprint review from sprint retrospective in one line.	Review inspects the product; retrospective inspects the team.
+Define the product backlog.	An ordered list of everything that might be needed in the product.
+Define the sprint backlog.	The user stories pulled into one specific sprint.
+Define an increment.	The working software produced at the end of a sprint.
+Who crafts the Definition of Done?	The whole development team — every member shares the responsibility.
+Which artefact gives a transparent view of the current state of the product?	The increment.
+Why isn't the velocity chart the answer to "current state of the product"?	It only shows how many points were completed — throughput, not product state.
+When do weekly increment presentations start in this course?	From week 6, after reviewing with the product owner.
+What does a sprint burn-down chart show?	How much backlog work remains and at what rate it is being reduced.
+A burn-down shows work remaining increasing over several days. What should the Scrum Master do?	Address impediments and facilitate a team discussion on blockers.
+Why shouldn't the Scrum Master extend the sprint when work is overrunning?	It impacts the later sprints and the overall project timeline.
+Why shouldn't the Scrum Master reassign work to "faster developers"?	"Faster" is undefinable, it may create new problems, and it demoralises the team member.
+What is the cleanest one-line definition of the Scrum Master's job from this lecture?	They do not know what the discussion will produce, but their job is to facilitate it.
+What likelihood does the lecturer give to a team member falling ill during the semester?	99%.
+What is the structural mitigation for member unavailability in an 8-person team?	Work in pairs so every member has at least one backup.
+When must an unresolvable team problem be escalated to course staff?	Early — by week ten it is too late for them to help.
+Which meeting is the right place to fix process problems?	The sprint retrospective.
+Which Scrum event does NOT include the product owner?	The daily scrum.

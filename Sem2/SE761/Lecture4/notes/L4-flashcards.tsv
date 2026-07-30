@@ -1,0 +1,62 @@
+In the paper-plane simulation, what is one story point?	One paper plane that passes the Product Owner's acceptance criteria.
+In the simulation, what is velocity?	The number of planes accepted in a single sprint.
+Who had sole acceptance authority in the simulation?	The lecturer, playing the Product Owner.
+How long was the sprint execution timebox in the simulation?	Five minutes.
+What was each team told to pick, and what was that role's job?	A Scrum Master, to facilitate things and remove any obstacles.
+List the sprint 1 acceptance criteria.	Flies straight; no spin during flight; travels up to 2 metres; passes the PO's aesthetics judgement.
+Which sprint 1 acceptance criterion was subjective?	Aesthetics — a pass/fail judged entirely by the Product Owner.
+Why is a subjective acceptance criterion instructive?	It cannot be encoded as a test in advance, so it can only be satisfied by understanding the customer.
+What two acceptance criteria were added in sprint 2?	Hit a target on the wall, and carry the team's company logo.
+Did the sprint 1 criteria still apply in sprint 2?	Yes — the change was additive, not a replacement.
+Give Team D's sprint 1 estimate and actual.	Estimated 8, delivered 3.
+Give Team A's sprint 1 estimate and actual.	Estimated 3, delivered 1.
+How many planes did Team D actually build in sprint 1, and how many passed?	Nine built, three accepted.
+Which team had the highest velocity and still got the harshest verdict? Why?	Team D — a large, repeated gap between what they estimated and what they delivered.
+Why does a persistent estimate-delivery gap matter more than low velocity?	The Product Owner plans around your estimates; a team that reliably delivers three is more useful than one that promises eight and delivers three.
+What is the prescribed response to a repeated estimate gap?	Discuss it with the team in the review and retrospective and figure out how to rectify it — not simply work harder next sprint.
+Which team beat its estimate in sprint 2?	Team D — promised five, delivered six.
+What happened to Team C's sprint 2 output?	Every plane was rejected; the whole team forgot the company logo.
+Why did last year's cohort produce far more planes under near-identical rules?	The no-spin criterion was absent, and their smaller planes hit the target more often.
+What does the last-year comparison imply about velocity?	Velocity is not comparable across different definitions of done.
+State the rule about sprint length.	An important aspect of Scrum is that we never alter the sprint lengths — they must be exactly the same.
+What provoked the sprint-length rule in the simulation?	Teams had started building planes during sprint 2's planning window.
+Why is the sprint boundary fixed while the events inside it flex?	The boundary is what makes velocity comparable between sprints and lets the PO plan a release; internal timeboxes exist for focus, not measurement.
+Give two reasons not to extend a sprint that is overrunning.	It impacts all later sprints and the overall project timeline, and it destroys velocity comparability.
+Name the three requirement changes introduced for sprint 2.	One extra sheet of paper, a target to hit, and a company logo on each plane.
+What made the sprint 2 requirement changes legitimate rather than scope creep?	They came with a stated business reason, were additive rather than a pivot, and brought extra resources.
+Why were sprint 1's planes confiscated before sprint 2?	So no un-accepted work carries over; each sprint's velocity is that sprint's alone.
+Whose responsibility is understanding the requirements?	Every individual team member's, equally — explicitly not just the Scrum Master's.
+Why is "all three of us forgot the logo" a structural failure rather than carelessness?	If everyone assumes someone else is tracking the requirements, nobody is, and the gap stays invisible until the review.
+Which Scrum pillar failed when a whole team missed one acceptance criterion?	Inspection — nobody checked anyone else's work against the criteria.
+What does the lecturer call a team member who does not understand what is expected?	A fake or dummy member.
+What could every team have done to prepare for the target, and did any of them?	Practised throwing at a mock target anywhere in the room — none did.
+State the general engineering failure the missed targets illustrate.	Your tests passed in an environment that differs from the one acceptance actually happens in.
+How did a student reframe the untested-target failure?	As running the product into the prod environment where it didn't work as expected.
+Why does a failure in front of the customer cost more than the same failure found privately?	The client is bothered by it — the demo failure damages confidence even though the defect is identical.
+What did Team B's role structure look like in sprint 1?	A Scrum Master, two developers, and one member assigned to QA.
+What did Team B change for sprint 2, and why?	Everyone became a developer, because a dedicated QA was idle while construction was the bottleneck under time pressure.
+What did Team B's role change recover?	The aesthetics criterion they had failed in sprint 1.
+Name the two legitimate triggers for switching roles mid-project.	Something isn't working with a team member, or a team member is unavailable.
+Why does self-organisation depend on the retrospective?	It responds to observed bottlenecks, and the retrospective is where they get observed.
+How many designs should a team commit to?	One, or at most two.
+What is the argument for converging on one design?	You gain real expertise in it, rather than being a jack of all designs.
+What process failure lets designs proliferate?	Every developer is free to carry their own design, so an alternative continues even after the team agrees another is better.
+How do you reconcile "explore options" with "commit to one design"?	Explore in sprint 1, converge by sprint 2 — the objection is to exploration that never reaches a decision point.
+What is the real-project analogue of the multiple-designs problem?	Carrying two competing technology or architecture choices in parallel, so neither gains depth of expertise.
+What did late-joining members cost the teams?	Sprint time spent catching them up, charged to the same timebox as the work.
+Is a member joining or returning mid-sprint an accident?	No — the lecturer says it will also happen during your actual sprints.
+Name the two obligations when a member returns mid-project.	Tell them where the development stands, and get them productive rather than merely informed.
+What ordering correction did the lecturer make between sprints?	Run the sprint retrospective first, then sprint planning — "which is more natural".
+Why must the retrospective precede the next planning session?	Its output is that session's input; reversed, the findings sit unused for a whole sprint.
+Give the full event order around a sprint boundary.	Sprint, sprint review (product), sprint retrospective (team), sprint planning, next sprint.
+What replaced sprint 2's retrospective?	A collective class retrospective — the whole-cohort debrief.
+State the Scrum leadership formula.	Everyone is a leader and there is no leader; the Scrum Master is just a facilitator.
+What problem does a leaderless team create?	With many views and nobody entitled to decide, decisions need genuine consensus — which requires everyone to have understood everyone else.
+Give the Scrum Master's job as a verb list.	Keep looking, reviewing, tracking, monitoring how things are going.
+Which verbs are absent from the Scrum Master's job description?	Decide, assign and approve.
+Why does one disengaged member damage a flat team disproportionately?	It's not just lost capacity — it's a hole in the decision-making mechanism itself.
+What two process mistakes did the Product Owner admit to?	Not forbidding building during sprint planning, and not supplying spare paper for testing.
+What did the missing test material cost the teams?	They had to spend production material on experiments, so every test plane was a story point they couldn't deliver.
+Why does the PO's own mistake belong in the retrospective?	Because velocity was partly a function of the PO's process design; a retrospective's target is the whole system, not just the team.
+What does "pilot error" refer to in the simulation?	A defect in the demonstration rather than in the product — the plane was fine, the throw wasn't.
+Why is "pilot error" not a defence in front of a customer?	The customer usually can't tell the difference between a bad product and a bad demo, and shouldn't have to.

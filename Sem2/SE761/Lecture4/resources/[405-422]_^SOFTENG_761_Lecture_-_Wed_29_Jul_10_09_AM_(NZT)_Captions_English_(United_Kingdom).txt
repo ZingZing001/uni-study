@@ -1,0 +1,1261 @@
+[Auto-generated transcript. Edits may have been applied for clarity.]
+This is going to be about making or manufacturing paper planes.
+
+So we will be manufacturing planes, which will be made of paper and will try and fly them all around the room.
+
+So this is what we are going to do today. So what I am going to do now is I am going to take you through the rules of the game.
+
+Before we do that, I want you to sit in teams of three or whether you have you are real team members here or not?
+
+Is here teams of three. So you have four, five, six, seven, eight, nine, ten, 11.
+
+So we can have like, um, three teams of three and one team of two.
+
+Help me organise yourself. Yeah. You are three.
+
+Who? Who wants who? Okay, let's do one thing.
+
+I expect that maybe one more person will come.
+
+Okay, good. So you can stay as two if you guys can.
+
+Feel free to make three members. I know it is sad that you need to break up from your member, but it will help Anyway.
+
+Thank you for your sacrifice. I appreciate it.
+
+And you are going to have one more, right? Okay. So we are going to have over three member teams.
+
+I'm having. Okay. Good. So we are going to have that as our second projector.
+
+We have our third member of this team.
+
+By the way, here we are forming three member teams. Okay, so let's begin talking about the rules of the game.
+
+Are the targets. The learning objectives that we are looking at from the game is that we want to understand these scrum roles.
+
+We want to experience how the sprints are to be done.
+
+We want to learn about velocity, which will be, in our case, number of paper planes that you will create during each sprint.
+
+So number of points. So we treat one paper plane as one story point.
+
+So that would mean the number of story points,
+
+the number of planes you will manufacture will be equal to the number of story points you will be able to do in one sprint.
+
+And then we will reflect upon your experiences and teamwork.
+
+Rather your experiences both in teamwork as well as the actual process.
+
+This is what you need to do. You would need to design, build and deliver paper aeroplanes during sprints.
+
+You need to deliver as many high quality planes as possible to meet the customer needs.
+
+We will define what is high quality. And you must use the scrum framework as we learned last time.
+
+I am going to give you as a product owner. So I am going to play as your product owner.
+
+I am going to give you a set of acceptance criteria which your products must achieve.
+
+In your teams. Please pick one Scrum Master which is very important so they must be able to facilitate things and remove any obstacles.
+
+If you have them during the sprints.
+
+And then the team members, of course, are there to talk, design, build and then test hyperplanes.
+
+Now it is up to you that if you want to. Define certain roles within your team.
+
+For example, one member might be a better paper plane creator who might have more experience with it.
+
+There might be another one who who is a good test of the paper plane.
+
+I will tell you how the testing is to be done. So we have one of the teams as a four member team.
+
+I am happy with this arrangement now. Now what you are going to get, you are going to get 33A4 paper sheets for each sprint.
+
+So you are going to get these A4 sheets and I'm going to give you only three for a sprint.
+
+Now you can hear them off. You can create as many paper planes as possible so that that's your decision.
+
+There will be the sprints and the different activities will be time boxed.
+
+So I am going to give you time. We will have a stopwatch. So you need to follow that.
+
+And then there will be open space for flight testing.
+
+That means we need to fly our planes. Okay. Now here is the time of saying or sprint planning.
+
+You are going to get three minutes or sprint execution.
+
+You're going to get five minutes. Sprint review and demo.
+
+We might, um, we might look at more time than this.
+
+And then the sprint retrospective, which is again going to have five minutes.
+
+Now the acceptance criteria your plane must fly straight.
+
+Without any spins during the flight.
+
+And it multiplies it for a distance of up to 2m or 2m would be like this distance here.
+
+So what I'm going to do is I'm going to let you fly them from, for example, here to at a project.
+
+I'm going to give you something. Um, we have ample space here, so maybe if I don't want to use this, then we can use another wall.
+
+But. Yeah. So until the distance this is the acceptance criteria.
+
+So and then. Note that I'm going to look at each plane.
+
+And I'm going to give you a pass or fail on aesthetics as well.
+
+Sound good. Who has experience with paper planes before this.
+
+Oh this is. Each accepted plane will count as one story point.
+
+We will be counting how many points you deliver a sprint.
+
+And you can use this. I'm going to ask you about your estimation after your first sprint planning.
+
+So you are going to give me a number. We are going to build these many paper planes.
+
+I'm going to note it and then we'll see how many you pass.
+
+Okay. Okay.
+
+If or when I am going to distribute so that you know that what material you have.
+
+I am going to give you three sheets. This is going to be a very serious business.
+
+So he is a fourth member then. Okay. You can join them.
+
+No no, no, don't worry about it. These are temporary groups. Let me know if you get more papers.
+
+No cheating. Only three three sheets allowed.
+
+And. Does anyone know how?
+
+Important it is. To watch people.
+
+Yes. Okay. All right. So we are going to begin the sprint planning.
+
+That was not not part of the planning. So here we go now.
+
+During the planning, you now know the task. You can discuss about your roles.
+
+And primarily what I am going to ask you is going to be about the estimated story points.
+
+That is the number of paper planes your team is targeting for sprint one.
+
+So that is what is going to be an outcome of your five minutes planning for me or your own team.
+
+It can be any other discussion like what role you want to play, what strategy you would you would want to take up.
+
+And any, any teamwork risks that you see here.
+
+So all those things uh, you can also talk about whether you, you guys understand that ask equally.
+
+You know, everyone understands what is to be done, how are you going to utilise the time and so on.
+
+So I would like to take so I'm giving you more time for planning I promise.
+
+Three minutes. But I'm giving you five minutes of these.
+
+These are the times that you are going to get. So here we go.
+
+Of our or is we are going to give even EMS or you are a okay.
+
+Are you guys a team? B you as a team.
+
+B who has a team? C you are team D.
+
+Yeah okay, I know that we have.
+
+Yeah. Maybe I'm just watching a video.
+
+Maybe. Yeah. Yeah.
+
+I mean. It's not that I.
+
+Don't know how. Being a part of what makes me so.
+
+Happy. But even if you didn't get it.
+
+You haven't seen it yet. Oh, yes. Oh.
+
+I don't know if that's been ambitious to do more. On paper.
+
+Yeah, that's why we have. To start doing that.
+
+Yeah, I think so. Oh, yeah. And so what?
+
+Oh. Yeah.
+
+Yeah. Do you think. It's something you want to be working.
+
+On. this was designed to say. Yes, as well as.
+
+The best. Yeah. I feel like, you know, it's going to be a matter of time.
+
+I don't think so. This is the same thing.
+
+By. The way.
+
+I'm. Not exactly sure.
+
+I think. That. Well, if we can.
+
+Just make sure you're right.
+
+Okay. Yeah. Is that what you want?
+
+Yeah. Oh, yeah.
+
+Oh, yeah. As soon as I just. Oh.
+
+Yeah. I think this is one guy going to make it on the same time.
+
+Okay, so the following. Saturday.
+
+Yeah. Yeah. Next time. You guys do that one.
+
+Okay. Okay. Oh.
+
+And. I think that's what.
+
+It was. And we'll see. I'll see. I didn't say anything.
+
+I mean. It's the same one, I think.
+
+Yeah. I didn't know. You had a place.
+
+I didn't. Hear you.
+
+Okay. Time is almost up. Okay.
+
+Thank you. How was your sprint? How are your sprint?
+
+How was your sprint planning? Hey.
+
+What? What are you? Estimated two points. Three.
+
+The things. If. We have planned, like three story points for this.
+
+Three planes. What about team?
+
+See? How many?
+
+How many? Can you say on that side so that, you know, facing.
+
+So you have three. Right. Three.
+
+What about team D? Eight.
+
+Okay. Thank you. Here we go.
+
+Although. You are free to test them.
+
+If you want to test them, you can do anywhere safe.
+
+Just pick a safe spot and do that in the room. Just pick a safe zone and you can do that.
+
+You know the rules. This to do? Yep. Yep.
+
+All right. So. Yeah.
+
+So what do. You want to do?
+
+I think this side is if you can, you can.
+
+Yeah. Oh.
+
+0000000. Make sure that you don't.
+
+Don't hit anyone. So TMD has just hit EMC.
+
+That's not good. The reason I don't like the most is the people.
+
+Oh. You have 2.5 minutes.
+
+What do. You think it will be?
+
+So feel free to test them here. You can test them here as well in the open area.
+
+Yeah. You have under one minute.
+
+Please give. Me your.
+
+Time. Oh, yeah.
+
+For you. I think it's okay.
+
+I think it's for everyone. Thank you, thank you. Okay.
+
+Thank you. The time is up. So next what we are going to do.
+
+Time is up. Time is up. You can't carry on.
+
+Oh. He may. Please bring in your products.
+
+And the product owner would want to see.
+
+So you can consider this as a sprint review. So team A will be having a sprint review now.
+
+Oh has that look good. I like this plain. Let's see. Okay.
+
+Of course. Oh please go in. Yes. So what you need to do is stand on that side behind the chair.
+
+The green one. Yeah. And we are going to see.
+
+whether it is straight and without spin. So that fails.
+
+Yes. Have a look. Yes. This one? Yes. This one.
+
+Oh, it looks good. Yeah. Yeah. Yeah.
+
+From here to here. So that everyone comes here as well? No.
+
+Okay. Straight and no spin. So it crashed.
+
+Oh. May I have a look? Yeah, it looks good.
+
+Oh. Oh.
+
+Okay. I'll accept it. Thank you. And your team here.
+
+So you promised three. And you have one. UST thank you.
+
+Okay. Team B. Okay.
+
+Okay. Okay.
+
+Okay. Looks good. Can you first. Is this one. Or is she going to be a specialist tester?
+
+Behind the chair. Is it okay?
+
+Is one done? Uh, I need to have a closer look.
+
+Thank you. And this one as well.
+
+Okay. Something new with that. Okay. These are not clean Wars anywhere.
+
+Okay, then. That's why. Okay.
+
+Thank you. This might be risky.
+
+This might not go anywhere. Ah.
+
+It's fun. So it fails. The aesthetics failed for this one, so it was low on aesthetics as well as there was a little spin.
+
+So I'll give you two. Yeah.
+
+Thank you. Team B, team C, please bring in your manufactured planes.
+
+Thank you. Looks good. Please go in. Okay.
+
+Go ahead. Very nice. This one here.
+
+Do you have aerodynamics experience or something like that?
+
+Oh, it's one of. The skills.
+
+This one. Okay. Okay. Thank you. Oh, the product owner would want you to demonstrate it again, please.
+
+Yeah. I'll take it.
+
+Yeah. Thank you.
+
+Ames. E and D.
+
+On many planes. Oh.
+
+Nice. So I have had a look at all of them.
+
+Yeah. Yeah. Okay. So how many are these?
+
+One. Two. Three. Four. Five. Six. Nine. Nine.
+
+One. Two. Three. Four. Five. Six. Seven. Eight and nine. Please go and test them.
+
+Okay. So team D has come up with nine.
+
+They promised eight. Sorry. So can you test it again, please?
+
+Once again? Yeah. Yeah.
+
+Try not to do it like odd. So it's fun.
+
+This also is fun. So let me first note that.
+
+Uh, next. Are you going to test it? Next?
+
+Yeah. See? So then go straight.
+
+All three. Next.
+
+How many remain? Three.
+
+Okay. Okay.
+
+I'll get. This one.
+
+So. Thank you, team D.
+
+So after sprint one. This is what we have.
+
+So team A estimated three.
+
+What one. Team B estimated three equal to.
+
+Then he three two again. So. And finally team D who promised eight and got three.
+
+Now the next step will be your sprint retrospective.
+
+That is you will get five minutes to discuss within your team about how the first sprint went and what changes you can do in your next sprint.
+
+You are again going to get three sheets. The acceptance criteria would be slightly different.
+
+So what I'm going to do now is I'm going to give you the acceptance criteria.
+
+And then you can start your start your spin sprint retrospective.
+
+Rather, it would be better if we first do sprint retrospective, and then I'll give you additional time for sprint planning.
+
+So we will go on with the loop. Okay. Which is more natural.
+
+So let me start the clock again. Okay.
+
+Please discussing about your first sprint. I believe.
+
+In the data. That.
+
+Comes. To us.
+
+Because this seems reasonable. This is how we go.
+
+About it. We all want to be here at the end of the day.
+
+But now. So just.
+
+To be. Honest. I don't.
+
+Like it. And it's.
+
+Great. Yeah. Yeah.
+
+You can just go over there. Okay, fine. You know what I'm doing.
+
+But I just. Want to do something.
+
+Yeah. You do. But. I think.
+
+We have. To.
+
+Have a different. Thank you. I'll leave that for.
+
+You okay? That was good. Yeah.
+
+Yeah. Yeah.
+
+Okay. Okay. All right.
+
+All right. You have about one more minute.
+
+Yeah. Yeah. All right. Thank.
+
+I thought so. So now this game.
+
+This. This game will be just like this. Okay, the time is almost up.
+
+So the first thing I would want is I would need to collect all the previous planes
+
+so that you can start working with the others and don't use the previous ones.
+
+Maybe. Is that it? Just. It's just the outcome. I need to make sure everyone is equal.
+
+All the previous ones. Oh. What are these papers?
+
+Okay. Thank you.
+
+Okay, now you are going to get additional material.
+
+Now, as a product owner, I have just decided to give you four sheets rather than three because I need more products.
+
+So this is an example of change.
+
+A change in requirements. Order.
+
+See how many? More.
+
+Okay. Your time for planning starts now.
+
+Okay. Okay. So do your sprint planning for the second sprint.
+
+Oh, sorry. I needed to get your. Sorry, sorry.
+
+Sorry. Um. I need to get your emails first.
+
+So. Or that will be after planning.
+
+Sorry. So let's. Anything else that we need to do for that?
+
+No. One thing that I need to show you are the requirements, right?
+
+So one change of change in requirement instance.
+
+You've just seen that I've given you four sheets. I.
+
+Okay. I'll probably tell you what is needed, I think. That's right here.
+
+So in sprint two there is one additional requirement. There are two additional requirements.
+
+One is that you will be given a target to hit.
+
+So that will be. So I am going to display it here as a circle right.
+
+So you would need to hit it. And the second would be your planes must have your your company logo.
+
+So these are the additional requirements. Now you can start discussing them.
+
+So you don't really. Know?
+
+Yeah. Yeah. Yeah. Yeah. Um.
+
+Wait. So does that mean that the spinning wheel is still. Yes. Okay.
+
+Yes. Yep. That's a good question.
+
+So the previous rules still apply that the distance will be two metres.
+
+Must go straight and without spin. And when?
+
+The wind is possible.
+
+That these people will be different. I. Want to make.
+
+Sure that. You do that for me as well.
+
+Thank you for that. Okay. You have your target.
+
+I got it. Okay.
+
+And I've been. Looking at how to create something.
+
+But if you really need it. Half a minute.
+
+30s. Is that?
+
+Okay. Time is up. Thank you.
+
+Time is up. Please. Top. An important aspect of scrum is that we never alter the sprint lengths, so they must be exactly the same.
+
+Okay. So let's. Oh, I.
+
+Know. Are we going through sprint planning?
+
+Planning? Okay okay okay. So I see that you guys were already manufacturing your plane, so I thought that we were already in the sprint.
+
+Okay. How many? Are team B?
+
+M? C? Y.
+
+Okay. So what I see here is that you guys have already built the planes.
+
+Do you still want that sprint to go? Okay.
+
+So let's. So what I'm going to do is I'm going to give you lesser time.
+
+So I'm not going to give you more than three minutes, because we also need more time for discussing this stuff as well.
+
+So here we go. This is.
+
+Yeah, I'm, I just I think I lost track.
+
+I gave you time for planning. Right. Previously. Yeah.
+
+You you already you. So you are happy with your first help, right?
+
+Because that will create false. Right? Okay.
+
+Yeah. So you hold it.
+
+Yeah. Yeah. You know what I'm saying?
+
+I. Okay.
+
+Okay. One more minute. Thank.
+
+You very much. I think we. Will do the one.
+
+Okay. You guys. Are going to go.
+
+Oh, okay. Okay. No.
+
+That's okay. That's right. It's not like we did something. I don't.
+
+Think so. Okay. I think I'm going to do it.
+
+Okay. Time is up. He may. Please bring your products.
+
+All the others. Please stop building them all.
+
+Anything during the planning? No, no, no. That's too.
+
+Spring time is over. Okay.
+
+Hey. Oh, okay. Yeah.
+
+Okay. Please go ahead and just. I'll have a look at all of them together first.
+
+And yeah, so you have got it, as you promised.
+
+Is o n s m is. You're the best.
+
+Yeah. Okay, let's see how it goes with time.
+
+Oh, sorry. You got to hit head. Hit the. Let me see.
+
+This should be enough. Yeah. Yeah, yeah.
+
+000. Missed. Missed.
+
+He's trying. Yeah. That's okay, that's okay. Oh, nice.
+
+Oh that's right. Oh.
+
+It's nice. So as for what?
+
+Good job. Thank you team.
+
+And next is team B. Pilot error.
+
+Team B. I would need to have a look.
+
+Oh, yeah. Yeah. But if I does fly right.
+
+Yeah. The arrows overhead. Make sure it's a plane on all fours.
+
+Is that the logo thingy? Um.
+
+That's nice. Okay. Go ahead. Yeah.
+
+Yeah. Thank you. Okay.
+
+So, yeah, you have five in total. Okay.
+
+So. Thank you. There was one us.
+
+Thank you. You may now. So with the product owner because you are demonstrating.
+
+And if you know something fails on the first try, the client is going to be bothered about it, right?
+
+So that is something that instead of doing it.
+
+That's the best part. Yeah. Okay.
+
+Next. Emcee. So, what is your logo?
+
+Oh, no. Logo. Okay.
+
+Hey. You forgot to do your logo.
+
+All. All of you forgot. So that is that is one thing that you can note, right?
+
+Everyone shares equal responsibility of understanding the requirements.
+
+Okay. Good.
+
+So do fail. Thank you.
+
+and MD. Thank you.
+
+MD had promised five who assumed that they have five.
+
+Okay. What? Six? Back.
+
+Okay. What does this. Oh. Oh, okay.
+
+Okay. Oh, okay. Nice.
+
+Okay. Got six. Hey.
+
+Thank you. Okay.
+
+Please make sure that you have the custody of your products. We do not want to leave them here.
+
+So. We. Are looking at.
+
+I am not going to give you additional time for a sprint retrospective.
+
+And rather, we will have a collective retrospective of how things went.
+
+So I'm going to. Be.
+
+These are the ones that I will take along and will sell. Okay, so here is what we have.
+
+If you look at both the sprints. There are a lot of observations that we can make.
+
+First of all, the percentage that led to the velocity and the highest velocity is important,
+
+but also the difference between what you estimated and what you ended up with.
+
+So that is important from so from the percentage perspective.
+
+Team B and teams. He did well in sprint one. However, if you look at the overall velocity, then team did it well.
+
+However, again, because there is a lot of difference here, so that is not a good sign.
+
+Because every after every sprint,
+
+if you are going to tell the product owner that we promise more and what we couldn't deliver and the same trend for TMD,
+
+we observed it, observed it for sprint two as well.
+
+So that means there is some problem that you need to work on.
+
+So when you are working in in an eight member team and in subsequent sprints of what you are estimating, you are not able to complete it.
+
+That means there is some problem you need to discuss with your team during the review retrospective, and try to figure out how to rectify that.
+
+So I would start with team D. What do you think happened?
+
+What I did not like. Yeah that's a good technical issue.
+
+Anything else that you could have done better to to perform better.
+
+The first. Time we came up with one design.
+
+Okay. All of them? Yep.
+
+That problem like complicated. Yeah. Mhm. Yep.
+
+So did you. Did you follow the same design in the second sprint.
+
+Okay. Mm. Okay.
+
+And um how how did different roles in your team go.
+
+Who was doing what. Brandon was a technical lead in the design of the plane iteration, and was the first one to show us how to build the plane.
+
+How is this possible?
+
+And Grace was the overall designer who came up with that logo and making sure the planes were clean and outward planning for them.
+
+Okay, so who who actually ended up building the planes?
+
+Or all of you who are like, okay.
+
+Okay. Then. If we look at the story points for our team A.
+
+A could get they could complete more story points in the second sprint.
+
+However, the percentage what so difference between estimated and actual is still there?
+
+Pretty much about him.
+
+B? E. Did you miss?
+
+Yeah. You missed three, right? Two.
+
+Two. Two. Have I? I think you missed three.
+
+And that was the problem with it. It might be a problem with.
+
+With throwing. Right. Yes.
+
+You directly tested in fraud and. Yeah. So that is another thing I would like to mention that I gave you.
+
+Um. I told you that you are allowed to test anywhere in the room.
+
+So you could have, you know, maybe there are, or assume that there was a circle and could have gone somewhere else.
+
+So I was looking at the teams who were actually trying to throw from there their meeting rooms,
+
+but no one tried to actually actually, you know, simulate the the actual environment, which was right in front of you.
+
+So something that you could have done. So last year, I recall, we run the same activity and there were around ten teams there, 3 or 4 member teams.
+
+And the. Are given similar, very similar rules.
+
+There might be 1 or 2 different rules with similar rules. They were able to manufacture a lot more planes.
+
+And the reason was that I took out the the requirement of spinning so from.
+
+So so they were able to um, maybe, you know, because of that they were able to manufacture more planes,
+
+but the size of their planes was smaller and somehow they they managed to hit the target a lot, a lot more than what we saw this year.
+
+So you need to work on your aeroplane manufacturing skills.
+
+Right.
+
+So, uh, next, what I am going to do is, uh, one by one, I want you to tell you or sprint experiences or the experiences of going through this process.
+
+What do you think you guys learned about Scrum and Agile and what could you have been done with her?
+
+I think in the first sprint, it was good for us to explore a lot of different options so that in subsequent sprints we could optimise,
+
+and I think that's what we did. Yeah. Hmm. Any other comments?
+
+I think we search online and about which way actually you can describe it.
+
+Yeah. Yeah. And we kind of just head up for a little angle for 5 to 10 degrees.
+
+It would be better. Mm. So that is the skill of how to fly.
+
+Yeah. And what about the. So these are the technical aspects that you're talking about.
+
+What about the team organisation aspects?
+
+What do you think? What kind of experiences you had with the team?
+
+Maybe something that you could have done better. Did you?
+
+For example, you realise that one of the team members is better at throwing the plane than the others.
+
+After sprint one demo and then you switch the rules. Did you guys switch your roles a bit from 1 to 2?
+
+We had one dedicated pro signal. Okay. Okay.
+
+What about team B for the sprint one?
+
+Like what we decided is she. She was a scrum master.
+
+Like where she. We decided, like, what we can do. And we both were the developers, and we assigned beta as a QA.
+
+But, um, like, later on, we realised due to the time crunch, we were not able to complete the three product.
+
+So in the next sprint, what enhancement we did is like we all became the developer.
+
+Like being a agile team. He was a QA as well as the dev for us as well as well as her.
+
+So being a scrum master, she did the dev as well. Like once she had some idea we did help her and we did that part.
+
+And the difference is like from the sprint one to sprint to,
+
+the task got increased and the logo thing was being added and we have to make four or maybe more number of planes.
+
+So it's more like on the first sprint, we learned how to execute and it helped us in the spring to like the execution part because we were able to,
+
+you know, go ahead with this athletics as well because in sprint one we missed aesthetic part.
+
+Yeah we covered up that one. But the miss was something like we didn't test it properly because.
+
+So like later I realised that we can test it here.
+
+Just playing around with that instead.
+
+You could have tested so could be directly if I say ran to ran the product into prod environment and it didn't work as expected.
+
+So like from my team, like I think we should have tested more.
+
+But at the team we worked good for the sprint. We learned from the sprint.
+
+Yeah, that's a very good observation about the team role switching as well.
+
+As well as the importance of testing and production environment and stuff.
+
+So it is so Self-organising your teams is is a key aspect of agile teams or scrum teams,
+
+because that is generally believed to help the production and quality production.
+
+So if something is not working with one of the team members, then you can switch the roles.
+
+If one of the team members is not available, then also you can switch the roles.
+
+Another aspect that. I would like to point out here is that at the start of sprint one,
+
+I think at least two teams started with three members or two members, and then a third or fourth member joined.
+
+So someone joined late, so you would have spent at least some time to talk to them and introduced them to what is going on.
+
+So that will also happen during your actual sprints.
+
+Someone is away for some time and comes back. You need to tell them that where we are in the in the development and then move on,
+
+bring them in in, cooperate, get them started so that they can help as well.
+
+What about teams E? So team C you forgot to put the logo.
+
+So I assume that that is an indication of not all team members being attentive to the requirements.
+
+And that is also very important that every individual of the team, scrum team has the responsibility of understanding all the requirements,
+
+and it should not be a responsibility of just the scrum master, for example.
+
+How, how, how was your experience?
+
+And our experience is she is the grandmaster and she gives us some, you know, some growth to us who grow their playing,
+
+who testified, who calls himself and Amy Martin, or maybe check and panel delivery.
+
+And in the sprint you we we change the role and and change the observer and the driver.
+
+So so yeah. Okay. We we we know some something about the.
+
+well, something about, uh, operations. Um, we decided to change things, and I was trying to think inside a more stable.
+
+You will achieve the requirement. And the main issue is as.
+
+As you say, we didn't expand over the entire time.
+
+Well, so that's what we need to do. Yep.
+
+Yep. What about the different designs?
+
+I noted that team B had mostly similar designs for all the all the planes, but and similar is for team D, team A and team C.
+
+They experimented a bit with different designs.
+
+How do you think that went and what was the reason for that primarily?
+
+It's an optimisation. So I can see one reason that every developer was given this freedom to come up with their own design.
+
+And now this.
+
+This might indicate a little problem because it depends if if someone came with a design and and showed it to everyone else and everyone else,
+
+this is a good design. But then there is another design that is also allowed to be carried on.
+
+So that means you are maybe, maybe thinking too much about, you know, what different options we have.
+
+You need to commit to one design or at most two, right?
+
+So that you have that expertise in one design rather than being, you know, a jack of all, all the signs.
+
+So that is something is important to note as well.
+
+And what about which team is left or none?
+
+Yep. In the. You have already mentioned that you guys.
+
+Did you switch your roles on sprint 1 to 2?
+
+We did it as Grace picked up additional responsibilities.
+
+So during the planning phase we didn't touch the flavours.
+
+So so far for us every time we changed the game.
+
+Yeah, three minutes to building the plane. The extra hands. Yeah.
+
+So this is a very important point. I would like to reflect upon this.
+
+Now, ideally when you were you guys were planning during sprint planning, I should have put a restriction that you are not allowed to build.
+
+Right. Um. I later recall that last year, what I did was I provided you additional pages so that you can test,
+
+you know, and do your, uh, testing work on those papers.
+
+And then you have these additional sheets for the main sprint.
+
+So that's a product owner's problem. So I accept my mistake there.
+
+Uh, which would mean which would have meant that you you could have built more planes and maybe higher quality planes, but we owned both sides.
+
+Yeah. Yeah. So anyway, what you promised was five, and then you ended up with six.
+
+So that is also a good percentage.
+
+But then again, the quality could have been better. And one factor It was, as you mentioned, that you guys didn't.
+
+You were too honest to wait until this friend.
+
+Um. So that is pretty much all about the, the, this activity.
+
+And I think you would have now, those of you who have already worked in software companies or on as a freelancer, you have built several products.
+
+You know, the importance of understanding the requirements, spending time on making sure that there are no ambiguities or as less as possible,
+
+asking questions from the client that, you know, to have that clarity and then move on to the next steps in.
+
+And some of you would have already worked in the agile context as well.
+
+So if you have already done that, that is also a help.
+
+So you understand that it is very important that all the team members you have, you are going to have eight team members,
+
+even if 1 or 2 team members do not understand how Scrum or Agile works or what is expected, that is going to create a problem.
+
+Most probably that is going to create a big problem later in the at least later in the project.
+
+So during your team meetings, make sure that everyone has understanding what is being talked about, right?
+
+So that you do not have any fake or dummy members. Right?
+
+And everyone is contributing right from the start. But at the same time, you need to understand what everyone is saying.
+
+And if there are a lot of views coming in from everyone.
+
+Then you you need. Need a consensus about the. About certain points.
+
+Um, and this is where cooperation is going to play a major role because there is no leader.
+
+Scrum master is just a facilitator. Uh, everyone is a leader and there is no leader.
+
+So this is this is a kind of a situation. So you you need to.
+
+And scrum master has this role that every everything is the process is going smoothly.
+
+So it is their responsibility to keep looking, reviewing, tracking, monitoring stuff how things are going.
+
+Any questions or comments from your side?
+
+I think we have we have mostly talked about what is required at this stage.
+
+So I hope this activity would have helped you in understanding how scrum works.
+
+At least you would think that I have a slight understanding of scrum, and now I can get into a team and start working.
+
+Right. So. So assignment two is going to be about your understanding of Agile and Scrum concepts.
+
+Basically it is going to be a reflection a reflection report.
+
+It is going to be a free form report.
+
+Where you are going to demonstrate your understanding of agile values and principles as we learned in the last class.
+
+If you have previously worked on a project which was not agile,
+
+then you would be expected to think about or reflect about what would have happened if I would have applied these principles there.
+
+If you already have some agile experience, you would be expected to write about that experience as well.
+
+And of course, then there would be basic rules about how to write it.
+
+In this report, you are allowed to use personal language, but still be professional.
+
+Do not use slang and make sure that every sentence that you write is meaningful, so that you do not have to read more or unnecessarily.
+
+So basically, the assignment is about developing a deeper understanding of these concepts that we have talked about,
+
+and we kind of practice them using this activity today as well.
+
+So the first thing that you report must have. So you can think about like I can write this in three paragraphs.
+
+One paragraph can be about agile values and principles.
+
+The second paragraph can be about these scrum framework in the context and constraints of a university course.
+
+And then the third paragraph can be about your own experiences, about an independent project in which you worked,
+
+or you would have wanted to work, how you would apply the agile concepts there.
+
+Note that you do not need to wait for your actual project to be allocated.
+
+You can start doing this assignment right away. I'll zoom a bit.
+
+When you talk about scrum. You would be expected to love the different development practices that are involved in Kanban and Extreme programming,
+
+or other similar practices related to agile.
+
+800 to 900 words. Here is the marking rubric.
+
+So content demonstrate an understanding of which values and principles and apply them correctly in the context of developing an application.
+
+So what you need to do you may think about an application or you may pick one
+
+from any previous projects like the previous year's list that I gave you.
+
+And then you can think about applying some of the agile values and principles.
+
+You are not expected to cover them all,
+
+but I want to see some evidence of your discussion around how you would apply those values and principles to this context.
+
+Then, thinking about a university context, for example, you might have worked on a university course project,
+
+you need to pick it and apply scrum along with one of the other practices to that project.
+
+So if you already worked using scrum in that project, that is helpful.
+
+If you didn't, then think about how you would have applied it.
+
+So this would like an example of this would be like, you know, previous I.
+
+Didn't follow an agile approach because I didn't know about it.
+
+The project mainly followed a linear approach where we started with talking to the client, collecting the requirements,
+
+then analysing them, designing the solution, implementing it, testing it and deploying it.
+
+But then. And think about how you can now.
+
+Now when you know that what is scrum and what is agile and what are these values?
+
+How can how you would have amended that process and its details.
+
+So just give a couple of instances of how you could have done that.
+
+Finally, reflection on previous development experiences and their outcomes.
+
+Compare them meaningfully with how the outcome. So this is this.
+
+This is the one I was talking about. And this is this is just about the university project.
+
+So if you have done any other project you would be talking about that project here.
+
+So it would be good if you separate them into three paragraphs so that it is easily visible.
+
+We still will be making sure that whether you have these contents anywhere in your write up, but if it has more structure, it will help.
+
+So your writing style is important. You can use personal language, but make sure that there are no mistakes and there are no thank.
+
+You. Because this is a reflection you are not allowed to use.
+
+ChatGPT write it in your own words, your own experiences and that is what is going to pay.
+
+Because this is a reflective activity. You will learn only if you write on your own experiences.
+
+Note that. If.
+
+Your reflection is written in a non reflective language.
+
+So you never talk about your experience and you just talk about how the [INAUDIBLE] is this?
+
+In projects it is used like this. That is not going to be considered as a reflection.
+
+So the way you write is very important. So although this is that you will be asked to redo this and when, no, you are going to be marked down.
+
+So make sure when you write it you are writing in your personal language.
+
+You are saying that I worked on this project and and then I would have made this change and so on.
+
+So basically we have to include details for the project. Yeah, it is a very good Question.
+
+If you introduce details, you include those details.
+
+It would be better from the markers perspective,
+
+because contextualising your experiences is is like providing more detail and that will help in marking.
+
+So if you just say that so minimally, what you need to tell us about a previous project,
+
+for example, that I worked on whether monitoring system and I worked on this part.
+
+So this will be a minimal, you know,
+
+experience that you are a minimum minimal detail that you have mentioned about the project project in my personal project as well,
+
+or the it can be a personal project. So one project from the university context and one project that you have done Independently.
+
+It can be from your previous job. It can be from your personal experience.
+
+As an example, we can mention yes. If you do not have any of these, you can bring in an example.
+
+One example we need to take from the assignment one topic.
+
+No, no no that is not a requirement. Yeah. There is no such requirement.
+
+But you can if you think if you do not have any previous experience, you have never worked on a project.
+
+You can then go to the previous projects list I provided and pick one project.
+
+And you you can write your reflection based on that.
+
+Write. The rest of the stuff is about the academic integrity which you guys already know about, do you?
+
+Do you have any questions? This is you.
+
+Next. Right. So you have around, say 8 or 9 days.
+
+And assignment one is due tomorrow. If you want to see the.
+
+Note that from my previous experiences. These students would confuse the agile values and principles with with the implementation of scrum.
+
+So let's say that we have mentioned about values and principles. So that is enough.
+
+Now that has to be explained separately and scrum has to come separately.
+
+And then when you are talking about your previous project then you can kind of bring in everything.
+
+So just to clarify,
+
+I need to start with my understanding of cultural values and then with University Context Project and then my own personal project.
+
+Yeah. So the split of the paragraphs should rather focus on agile values and principles
+
+really related to the development of an application as a first paragraph.
+
+Then you can move on and have the second paragraph on Scrum and Kanban and other Practices.
+
+With respect to a project or a practice that you have done in the university environment.
+
+Now I leave it to you to know it will be better if we then go forward.
+
+And the third paragraph would be about a previous experience where you would need to talk about the agile approach if if it was applied,
+
+and in case if it was not applied then then you can talk about it as well, how it can be applied.
+
+In a scenario. So so sorry. Sorry to interrupt you.
+
+Basically this paragraph is going to focus on agile values and principles.
+
+Second paragraph is going to focus on scrum and other practices.
+
+And the third one is going to focus on your experience or your experience.
+
+So in the third paragraph,
+
+like the project that you have experience in would take centre stage and then you'll relate it to the to the agile approach.
+
+You mentioned a university context example.
+
+What does that if you have done a project as a part of one of the courses.
+
+So basically we are supposed to give two examples.
+
+One should be like a university context example, and one should be either personal or previous or something like that.
+
+So you would need to bring in three examples three project examples.
+
+So one is going to be this application. Another one is going to be this application.
+
+So one thing I can allow you to do is combine these two applications.
+
+Right? And then the third one that is having an experience with a previous project is is separate.
+
+So in total we need three examples. Let's say one with agile principles and values.
+
+One should be based on Kanban scrum. Yep. And thought should be both.
+
+Yes a previous experience. So for example, when you talk about scrum here, because we are talking about university environment,
+
+you would be talking about how these projects need to be scaled down and these processes, what limitations they face in these course projects.
+
+So it will come down to that. But when you are talking about a previous experience.
+
+If you worked in, say, industry, then those limitations won't be there.
+
+Then you can, you know, tell that it was the scale was large and these practices could be easily implemented and so on.
+
+So it is important that for agile values and principle, the first one,
+
+the values and the principles that we talked about, you need to refer to at least 1 or 2 of them.
+
+Clearly refer to them. So if you just say that this application, that developing this application followed agile values and principles, it.
+
+So you need to go deeper and go to individual values and principles.
+
+Because you will have one. You will have two classes before this deadline.
+
+Date. Deadline, which is next Friday. So you will have chances to come back and talk to me or post your question on it.
+
+Okay. We have multiple submissions to this one. You can submit any, any number of times.
+
+Only the last submission will be. But I am not going to see your previous submissions.
+
+I'm only going to keep the Project assignment tab open for days.
+
+That works. I think it works.
+
+It does have your work, but I don't see a reason to do that because it is just a text box.
+
+You can keep writing somewhere else and once you are final, then then you can submit.
+
+Okay. All right. Thank you for today's session. And I'll meet you next Monday.
+
+We'll talk about other stuff. Okay.
+
+Thank you. Did you get.
+
