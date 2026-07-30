@@ -19,8 +19,10 @@ Quarantined noise. Nothing here is ever quizzable.
 | Component | Marks |
 |---|---|
 | Content — 3 project descriptions × 4 marks | 12 |
-| Gen AI reflection | 2 |
-| *(remaining mark unaccounted for in the spoken breakdown)* | 1 |
+| ChatGPT reflection | 2 |
+| **Writing** — no personal/casual tone; correct grammar, spelling, punctuation | **1** |
+
+✅ **Rubric arithmetic resolved 2026-07-30** against the written brief (`A1.pdf`). The mark missing from the spoken breakdown is a separate **Writing** criterion. 12 + 2 + 1 = 15, scaled to 3%.
 
 Content criteria: "so what" apparent; "who cares" apparent; clear flow between points; nothing about the solution; no personal or casual language; no grammatical or spelling errors.
 
@@ -55,8 +57,8 @@ Content criteria: "so what" apparent; "who cares" apparent; clear flow between p
 
 ## Questions for the lecturer
 
-- **Term check:** the transcript renders the low-evidence rationales as **"speed rationales"**. Given the "one seed" framing used earlier, "seed rationales" is also plausible. Confirm the actual term before using it in writing.
-- **Rubric arithmetic:** 12 + 2 = 14 against a stated total of 15.
+- ~~**Term check:** "speed rationales" vs "seed rationales".~~ ✅ **Resolved 2026-07-30** — the brief prints **"Speed Rationales"** as a section heading. Safe to use.
+- ~~**Rubric arithmetic:** 12 + 2 = 14 against a stated total of 15.~~ ✅ **Resolved 2026-07-30** — the missing mark is a **Writing** criterion.
 - Which staff member handles project organisation — the auto-transcript renders the name variously as "Razer", "Reza", "Risa" and "Arisa". Likely all the same person (Reza), but the Lecture 1 attribution should be confirmed.
 
 ## Slide / transcript conflicts

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SE761/Lecture2/notes/L2-notes.md",
+                "file": "SE761/Lecture4/notes/L4-notes.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L2-notes"
+              "title": "L4-notes"
             }
           }
         ]
@@ -168,8 +168,8 @@
             "state": {
               "type": "mermaid-toolbar-view",
               "state": {},
-              "icon": "trident-custom",
-              "title": "Mermaid Toolbar"
+              "icon": "lucide-ghost",
+              "title": "mermaid-toolbar-view"
             }
           }
         ],
@@ -193,8 +193,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "8c8448781d56222d",
+  "active": "539968de0d535ff3",
   "lastOpenFiles": [
+    "SE761/Lecture4/notes/L4-summary.md",
+    "SE761/Lecture4/notes/L4-notes.md",
+    "SE761/Lecture3/notes/L3-summary.md",
+    "SE761/Lecture3/notes/L3-notes.md",
     "SE761/Lecture2/notes/L2-notes.md.tmp.19592.3fbb16e3300f",
     "SE761/Lecture2/notes/L2-summary.md",
     "SE761/Lecture2/notes/L2-notes.md",
@@ -224,7 +228,6 @@
     "ENGGEN403/Lecture2/notes/L2-notes.md.tmp.19592.4bc2f74319a5",
     "ENGGEN403/Lecture2/notes/figures",
     "SE761/Lecture1/notes/L1-flashcards.tsv",
-    "SE761/Lecture1/notes/L1-flashcards.tsv.tmp.19592.b8b14e99c900",
     "ENGGEN403/Lecture1/context/quiz-history.md",
     "ENGGEN403/course-context/weak-spots.md",
     "ENGGEN403/course-context/syllabus-map.md",

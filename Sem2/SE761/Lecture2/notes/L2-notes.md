@@ -179,10 +179,12 @@ graph TD
 >
 > The underlying product might have been something helping non-technical people engage with technology — but **you cannot tell from the rationale**, and that is exactly what shows it was written correctly.
 
-> [!bug] ⚠ transcription uncertain — a term you should not use yet
-> The auto-transcript calls these **"speed rationales"**: *"these are known as speed rationales for a reason — that you do not need to refer to too much evidence."*
+> [!success] ✅ Term confirmed — **"speed rationales"**
+> *"These are known as **speed rationales** for a reason — that you do not need to refer to too much evidence."*
 >
-> Given the context (fast, low-evidence, from current knowledge only), "speed rationales" is plausible. But given his earlier **"one seed"** framing, **"seed rationales"** fits equally well. **Confirm the actual term before using it in writing.** Logged in `context/admin-and-dates.md`.
+> **Resolved 2026-07-30** against the Assignment 1 brief (`A1.pdf`), which carries **"Speed Rationales"** as a printed section heading. The alternative reading "seed rationales" — plausible from his earlier *"one seed"* framing — is **wrong**. Safe to use in writing.
+>
+> The name means what the context implied: *fast*, from current knowledge, **no literature review**.
 
 > [!warning] Common traps
 > - Sneaking the product in ("this app will help…") — automatic failure against constraint 1.

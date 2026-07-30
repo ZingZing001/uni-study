@@ -105,7 +105,7 @@ L3 is a walkthrough of the same Canvas module pages that L2 used — it simply d
 **L3:** agile values · agile principles · user story · acceptance criteria · sprint · sprint planning · daily scrum · sprint review · sprint retrospective · product backlog · sprint backlog · increment · definition of done · transparency / inspection / adaptation · corrective / adaptive / perfective maintenance · Scrum Master · Product Owner · self-organising team · continuous integration · Kanban · Scrumban · Extreme Programming
 **L4:** story point · velocity · estimate-vs-actual gap · timebox
 
-⚠ Unresolved: "speed rationales" vs "seed rationales" — see `Lecture2/context/admin-and-dates.md`.
+✅ **Resolved 2026-07-30: the term is "speed rationales"** — confirmed against the Assignment 1 brief (`A1.pdf`), which prints it as a section heading. "Seed rationales" was a transcription mis-hearing.
 
 ## Not lecture content
 

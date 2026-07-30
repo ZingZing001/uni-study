@@ -40,8 +40,8 @@ Spoken: *"a way to get to **the root of the things**… a goal or a motivation."
 **Read-out example:** top = *"technology is becoming increasingly pervasive in many aspects of society"*; bottom = *"it is therefore important to build people's confidence in engaging with technology to improve their way of life."*
 → **Product description never revealed. That's the proof it was written correctly.**
 
-> [!bug] ⚠ Term unresolved
-> Transcript says **"speed rationales"** (low-evidence, from current knowledge only). **"seed rationales"** fits equally well given the "one seed" framing. **Confirm before using either in writing.**
+> [!success] ✅ Term confirmed — **"speed rationales"**
+> Resolved 2026-07-30 against the Assignment 1 brief, which prints **"Speed Rationales"** as a section heading. Low-evidence, from current knowledge only, **no literature review**. "Seed rationales" was a mis-hearing — safe to use the real term in writing.
 
 ## 🎯 Purpose
 

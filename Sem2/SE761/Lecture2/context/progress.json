@@ -161,10 +161,9 @@
   ],
   "misconceptions": [],
   "open_questions": [
-    "Term check: transcript says 'speed rationales'; 'seed rationales' also plausible given the 'one seed' framing. Confirm before using in writing.",
-    "Assignment 1 rubric arithmetic: 12 content + 2 Gen AI reflection against a stated total of 15.",
+    "RESOLVED 2026-07-30 (A1.pdf brief): the term is 'speed rationales' - printed as a section heading in the assignment brief. 'Seed rationales' was a transcription mis-hearing.",
+    "RESOLVED 2026-07-30 (A1.pdf brief): the Assignment 1 rubric is 12 content + 2 ChatGPT reflection + 1 Writing = 15. The mark missing from the spoken breakdown is a separate Writing criterion (tone, grammar, spelling, punctuation).",
     "Staff name handling project organisation is garbled across the transcript (Razer/Reza/Risa/Arisa).",
-    "SE761 Lecture 1 has an Agile intro deck and its own transcript, not yet ingested.",
     "Re-check the three Canvas pages under Modules 1 & 2 for embedded images - the browser extension dropped before this could be verified on 2026-07-27."
   ],
   "next_action": "Notes refined to the Obsidian/visual standard 2026-07-27; content unchanged, still 10 concepts, still untested. Next session should be Mode B, not another ingest."
