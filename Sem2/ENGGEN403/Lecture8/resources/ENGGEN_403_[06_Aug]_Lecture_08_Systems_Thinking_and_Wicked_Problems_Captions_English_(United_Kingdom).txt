@@ -1,0 +1,859 @@
+[Auto-generated transcript. Edits may have been applied for clarity.]
+Kyoto. Welcome, everybody. Thanks for coming along. So today we're going back to systems thinking and wicked problems.
+
+So I gave you a wee intro to systems thinking in lecture two and defined wicked problems for you.
+
+And since then, I hope you've come to understand why you need that definition of wicked problems,
+
+and why you might need some systems thinking tools to try and move towards a solution.
+
+So, having done all the work on the stakeholders last lecture, and with Mark last week on the business cases and the cost benefit analysis,
+
+you should be ready now to zoom back out and have a think about how to start formulating
+
+these really difficult problems that can't be solved but can only be ameliorated.
+
+So we're really ticking away at these hexagons. You've done a bit on everything now, and team building is coming soon.
+
+But today we're back here on Systems Thinking. So what we're going to do today is a quick recap from lecture two and then build on that.
+
+Some of you may be very interested in where systems thinking came from, others of you less so.
+
+So I'm going to do a brief history with some books in there that are in no way compulsory for you to read, but I know some people would like to,
+
+either during this course or afterwards, we're going to look at why wicked problems are such a focus in today's world.
+
+And then I'll give you a quick example on how you might start to think about a wicked problem, like the rising obesity rates.
+
+I'll talk you through early thinking on how you might frame that.
+
+And then Amanda's going to take over and give you some more tools.
+
+So the tools that I end with and Amanda elaborates,
+
+will be super useful to you in your team and systems assessment when you two will be sitting with a wicked problem,
+
+wondering how to frame it, how to formulate it. So by the end of today, you should have a wee taste of where contemporary systems thinking come from.
+
+We talked about lots of definitions in lecture two. You should be getting a bit more sophisticated in how you think about it now,
+
+and be able to characterise systems thinking both as a discipline in its own right,
+
+and also as a set of tools that you can use from any discipline and across disciplines for addressing these wicked problems.
+
+You'll be able to dive into the characteristics of wicked problems and understand why they're different from complex problems and can't be solved,
+
+only minimised. Start to identify complex systems and then scope out part of the system which you can address,
+
+which you can form a problem statement for to try and solve parts of the wicked problem,
+
+to move towards a solution, and then identify and apply the right tools for your background, your thinking, and your problem.
+
+Did anybody read the first two chapters of Thinking in Systems? No chocolate fish today.
+
+I strongly recommend you do before you get much closer to your team project.
+
+And I think I said in lecture two and I'll say again, if you read the whole book, you'll be at a big advantage.
+
+If you've got a couple of people in each team that have really delved into that thinking,
+
+you will be at a big advantage about this time in the course, people start coming up to us and saying, how can I prepare?
+
+That's how I'd prepare. So we saw this in lecture two, just to introduce you to all the different words, catch phrases,
+
+and adjacent disciplines that you see when you start to read about systems methodology.
+
+And as I said in lecture two, don't get too hung up on all the words.
+
+Just find the way that works for you and your team and systems.
+
+Methodology came out of a whole pile of different sets of thinking, including at MIT,
+
+where the engineers like this guy who is a towering figure in the start of the discipline as it is today,
+
+Jay Forrester,
+
+who noticed that the biggest impediment to making progress on lots of big issues that engineering can tackle is not actually the engineering.
+
+So quite often the engineering problem can be solved.
+
+But the management side, the implementation, the rollout, the values, the prioritisation,
+
+the social problems are way harder to understand and much harder to control than the physical systems.
+
+So it was recognised early on that engineering is part of a solution to some of these wicked problems, but can never be a complete solution.
+
+So I've squished some really important thinking that got us where we are today into one slide.
+
+You might be amused to read the title of this book. This comes from the late 60s early 70s.
+
+Project on the Predicament of mankind. So that was a report from something called The Club of Rome, which was an early group of intellectuals,
+
+including Donna meadows, who wrote that book that I've recommended you read.
+
+When people began to realise that they needed to zoom out from their reductionist focus on specific problems and look at the whole planet.
+
+The predicament of mankind hasn't got any better in the intervening 50 years,
+
+and it's interesting to go back to books like that and realise just how little we listened.
+
+So wind forward 50 years and you get books like this one.
+
+Less Is More by Jason Haykal that was published a couple of years ago, and it pretty much says the same thing.
+
+Um, so we keep restating the problem. We need more and more solutions, and those are just not parts of the puzzle.
+
+They are ways of thinking about the puzzle so we can make progress.
+
+So some thinkers that have made real contributions to how we frame all these problems include this guy Cambyses mani,
+
+who wrote this book on multi-stakeholder decision making for complex problems.
+
+If you're really getting into this and you've finished, um, Meadows, you could have a look at that one.
+
+In the business world, people start to latch onto systems thinking as a way of driving organisations these slightly different language,
+
+they come from a different perspective, but they still have the same problem.
+
+You want your whole organisation to have the same goal, the same purpose and will work towards it.
+
+And if different parts of the organisation are doing their own thing and have got their own goals, then that's not going to work.
+
+We met Kate Raworth last week, Donor Economics.
+
+So she is trying to reframe the economic system so that we take account not just of GDP and finances and the economy,
+
+but instead look at the social limits everyone needs to be fed and housed and the planetary limits.
+
+We can't run out of planet. So she's trying to put boundaries around the economic system so that the entire planet lives within its means.
+
+Can't say it catching on yet, but it's a very interesting reframe of a system that's locked in with particular settings and particular incentives.
+
+If you change the incentives towards equity and towards solving climate,
+
+you get a very different set of incentives and goals that the planet could drive towards.
+
+And a lot of this thinking starts to get summarised in things like this guide
+
+from the OECD on how to use these approaches for public sector challenges,
+
+which is kind of squarely where we are in this course this year. Now, none of these books are a guide and a go to.
+
+Oh yeah, I'll just use that for my systems project. They'll all give you ideas.
+
+They'll all explain the complexities. They'll give you tips on how to think and how to formulate and how to scope.
+
+But there's no one way to solve these things. It's too hard for that.
+
+There's another bunch of thinking that's emerged over the same time period, which is looking at complexity as a subject in and of itself.
+
+So the Santa Fe Institute was one of the early places to address Dress complexity.
+
+And some of you may have come across to Puna, which is New Zealand's.
+
+Complexity. Centre of Research Excellence. It's housed here in Auckland, but it has researchers.
+
+All around the country and actually on the advisory board of that and the heart, as it says in the logo of the.
+
+Research centre is to really understand. Systems thinking and complexity.
+
+And then around the edges is how to apply it in all these different situations and how to communicate that complexity to the public.
+
+So if you're interested, feel free to dive in, but we won't assess you on any of the specifics in there.
+
+Some people think about systems thinking as having arrived in waves, and depending on your engineering home discipline,
+
+you will probably resonate with some of these words and not others.
+
+The important part, I guess, is that No particular wave is correct.
+
+It's just an evolution. We went from looking at hard systems to soft systems to critical systems, to zooming right out and being more universal.
+
+And depending on the problems you're trying to solve, any one of those waves could actually move you forward.
+
+But people tend now to think about pluralism.
+
+That is, there's more than one way of seeing a problem. Both those ways could be true.
+
+They may be incompatible. They may throw up conflicts that may teach you something about the system as a whole.
+
+Um, heuristics are really important too. So people think about, um, critical thinking and how we use quick mental shortcuts to get to an answer.
+
+And sometimes they're helpful, and sometimes they divert us because our assumptions were incorrect.
+
+And as we keep building on all this thinking, different groups of people adopt it and come up with rules.
+
+So you might see as you read this DSP rules of system thinking.
+
+You may find them helpful. You may not show up to you. And that pulls out distinctions, systems, relationships and perspectives.
+
+So you'll see that's different from the systems tests that we're talking about here.
+
+If you find it useful go for it. And similarly as you go off into organisations when you start your career, you might see this acronym VMC.
+
+So some people think that the best way to build an adaptive organisation is to have a vision.
+
+And in this example, the vision is great by diversity and mission.
+
+And the mission to achieve the vision might be make sure there are plenty of all those diverse organisms.
+
+None are going extinct. None are dying out. Do you understand the relationships between them?
+
+You're on a mission to do all those things, to achieve your vision,
+
+and then to do all those things, you need the right culture and the right capacity.
+
+You need people to buy into that vision and all be going in that direction on the same mission,
+
+not pulling different parts of the organisation in different directions.
+
+And you need an organisation that adapts and learns. So everybody makes mistakes.
+
+Teams will make mistakes. Leadership will make mistakes. But what do you do with those mistakes?
+
+Is it an environment where it's safe to say, you know what, we completely stuffed up and wasted the last two months?
+
+How do we make sure that doesn't happen again? Or do we say, well, don't tell anyone, they won't notice?
+
+So those kind of cultural things in an organisation that ability to learn are really important.
+
+These ideas come up more and more in discussions about how to solve our world problems.
+
+So you'll see this acronym Vuca volatile, uncertain, complex and uncertain.
+
+When I updated this slide, I decided things were really volatile, so I added an extra one.
+
+Um, the world is certainly getting more volatile, not less.
+
+And so systems thinking for wicked problems is going to be something that all of you at some point will need to address.
+
+The reason things are so volatile, uncertain, complex and uncertain.
+
+I had to uncertain as to, um, are all the changes we're seeing in technology?
+
+So you all know about AI? You all know how that's disrupting your studies.
+
+You all know that it's disrupting business. There'll be lots of other technologies that come at us and come at us fast.
+
+All of them have benefits. All of them have risks. All of them need critical thinkers to figure out how to harness them to do more good than harm.
+
+We live in a globalised world, which is great. Makes it more efficient.
+
+Means you can get more choice. Means that in theory, you can share wealth.
+
+Also creates risk. Creates risk of huge global inequity.
+
+Creates risk of lack of social cohesion. You're seeing, um, even this last week.
+
+Mass migration into countries that can't house those people.
+
+Because these inequities, sometimes due to climate, sometimes due to demographics, sometimes due to economies.
+
+Um, countries just can't hold the number of visitors that are coming.
+
+All that creates conflict. And we're seeing at the moment a really perfect example of all those things coming together.
+
+So we have a global supply chain.
+
+It's critically dependent on the Strait of Hormuz because of geopolitical conflict and a volatile, uncertain leadership in the Western world.
+
+We suddenly have a war that we weren't expecting. The supply chains have been blocked intermittently and we are all struggling, therefore,
+
+with price spikes in fuel and flow on into all the other things that fuel impacts in Western economies.
+
+No sign of its stopping soon. High risk of more geopolitical conflict creating more change.
+
+Technology, of course, makes conflict faster. So lots of the wars that are being fought at the moment are being fought by drones.
+
+Um, whereas if you've got to send boots on the ground into a country, um, to invade, there's a bit of time needed.
+
+There's a bit more skin in the game. There's much more time for diplomacy as AI takes over more and more decisions and more and more of the weaponry.
+
+It's very quick for your AI to fight my AI, and we've blown each other up before anyone's had time to think.
+
+These were well documented risks of drones and AI when they both emerged and the convergence was seen, but it didn't stop it happening anyway.
+
+So there's plenty of problems in the world. So this is the definition I gave you in lecture two of a wicked problem.
+
+The key point is that it's very complicated, but it can't be solved.
+
+It might be long. It might be short. It's probably long.
+
+And any solution you come up with probably won't solve it.
+
+Might make it better,
+
+but is likely to have tripped over so many trade offs and tensions that you've made something else worth either within your system or someone else's.
+
+And last lecture we talked about stakeholders, and we showed you this diagram,
+
+which applies to the whole problem or the stakeholder problem or any part of it.
+
+You can look at the whole system and say, how complex is it? The more complex it is, the harder it gets.
+
+You can look at the knowledge surrounding it, and the more uncertain it is, the harder it gets.
+
+And you can look at how values diverge amongst your stakeholders. And the more they diverge, the harder it gets.
+
+So I told you about the future of commercial fishing. Someone wanted this report.
+
+They were welcome to grab it at the end. This was easily the most wicked problem I worked on in public policy.
+
+But having wicked problems in public policy is in no way unusual.
+
+And again, if you're interested. Not compulsory.
+
+This book is great because it gives you ways to understand and respond to complex challenges in the public sphere.
+
+And we'll use a bit of Brian Heads thinking in a minute. So here's the system definition, the simplest one that I gave you in lecture two.
+
+You've seen some examples. Now you know that you have to find a system that satisfies the system test.
+
+It needs elements, connections, and a purpose.
+
+In some readings you'll see the purpose described as emergence and emergent property is where the whole is more than the sum of the parts.
+
+A property emerges from the system that wasn't present in all the parts.
+
+You're going to really struggle to draw a boundary around your system.
+
+It's going to be slightly arbitrary, and as soon as you've drawn a boundary,
+
+you're going to have tensions between the system you've defined and the surroundings that you may well influence, but you haven't put in scope.
+
+And as soon as you've done that, you will begin to need to define your inputs into the system and your outputs out into the surroundings.
+
+So the system will end up with interconnected related elements, so elements,
+
+connections, inputs, outputs, and some sort of purpose goal or emergent property.
+
+So here's Brian heads charts to try and get you to think about where your problem lies in this matrix of wickedness and complexity.
+
+And I'm going to try and talk you through this with an example. So let's take a tame problem on this axis.
+
+You've got how hard the problem is. And on this one you've got how difficult stakeholders and institutions are to deal with.
+
+So a tame problem might be in this class we have 800 students.
+
+This lecture theatre takes 600 students.
+
+There's a university policy that there has to be a seat for everybody, and we need an overflow room and they're all booked.
+
+It's tame because with a bit of juggling around of the timetable and Amanda's excellent relationships with the people in timetabling,
+
+we can solve that and give you an overflow. So you all have a right to a seat.
+
+It might get harder if the problem's still clear.
+
+We need an overflow room, but there's no obvious solution,
+
+so it might get more analytically complex if the maximum capacity that's available on campus at this moment is only 600.
+
+So 200 people have to stay at home or they're looking around, that doesn't look to be too much of a challenge.
+
+Or it might be that neither the problem nor the solution is clear. So we might have the same problem.
+
+Too many students, um, not enough space, not actually clear whether we can solve it.
+
+Not clear whether we can bend the policy about having a seat for everyone. Which seems a bit silly when lots of people prefer to study online.
+
+all a bit vague, and it gets a bit cognitively complex because you can't quite work out whether we're trying to get around the policy.
+
+Trying to find a room, trying to move the timetable just gets a bit harder.
+
+Nevertheless, here it's not really that hard. You can solve it.
+
+You're in the domain of a time or a complex problem. It might be that things get more difficult with the stakeholders and the institutions.
+
+So here you might have a problem and solution that are clear, but you might have people starting to get in the way.
+
+So we're Amanda to leave and we lose our excellent relationship with timetabling.
+
+And we have a new member of staff that's really not very good at forming relationships with stakeholders, in this case timetabling.
+
+And they have a big fight. They might just not talk to us because they'd rather prioritise somebody across campus.
+
+That's nicer. So we've got a clear problem, a clear solution and some real awkward interpersonal in the middle.
+
+This might get more complicated. As we say, we're not quite sure whether we need the overflow.
+
+We need a separate timetable. And, um, again, up here, all these problems with the complex, not clear problem,
+
+not clear solution get harder when you introduce conflicts and personalities.
+
+Because not only are you not clear what you're trying to do, nobody really wants to work with the other person to solve it.
+
+And so you get into muddy areas here, and then let's say we have a politically complex problem.
+
+There's lots of talk nationally at the moment about the role of universities,
+
+whether we're all too old fashioned, whether we're sticking to really old models of teaching.
+
+So it could be that the new minister of Education, after the election in November says universities take up too much space.
+
+They don't need those big rooms. Nobody comes to lectures anymore. You can't have policies that says that every student has to have a seat.
+
+Country can't afford it. So now you've introduced some politics into what was fairly simple problem.
+
+That would be easy enough to do. I'm sure we could come up with some solution.
+
+Some people prefer to go online, some sort of ballot system if there's a fight, but you've got politics that have been included.
+
+Let's take it up a notch and say, all right, we have to make all these decisions before the government is formed.
+
+The government hasn't formed yet. One side wants to get rid of the right to a seat for every student.
+
+The other side is absolutely campaigning to go back to old fashioned teaching methods.
+
+And you all need to have a seat, and we don't know which way it's going to go.
+
+Now we need two plans and it's getting really tricky. Still solvable.
+
+But let's suppose that the government actually says sicker universities.
+
+We don't need them. We're not funding them anymore. Everybody needs to go off and learn with AI.
+
+You really outdated institutions. We're going to hone it right down and go back to a very elitist system.
+
+We don't need everybody to do critical thinking. We're going to outsource that to AI, and we're all going to work for AI.
+
+Um, I think the university would struggle to respond to that, and I don't think there would be a solution, so I'd call that a wicked problem.
+
+I don't think I'd call it very wicked, but there doesn't seem to be an option on brain scheme for wicked and very wicked, so we'll call them the same.
+
+So we're in this corner. Complex issues, grumpy stakeholders, conflicting requirements, no obvious solutions.
+
+And in engine 303, you are down here and we're drifting right up here.
+
+So you've been on a journey where you could do these quite easily.
+
+And now we are going to make your head hurt by making them impossible to solve.
+
+So there's different ways that you can start to conceptualise a really nasty problem.
+
+And one of these, and one that I quite like is called the iceberg model.
+
+So the iceberg model points out that what you see in the world It's often just the tip of the iceberg and there's a lot more going on underneath.
+
+So a silly, simple example. We perceive the world at the iceberg level.
+
+You might wake up one morning, I might wake up one morning. Let's make this about me, not you, and find out I've caught a cold.
+
+I could just ignore that. Or I could think, why have I got another cold?
+
+I seem to often get a cold. I seem to often get a cold after I have pulled an all nighter, because I didn't write my lectures in time,
+
+and then been so relieved to have got through the day that I went to the pub and drank too much.
+
+And then three days later, I'm sick. So maybe there's a pattern of behaviour that is causing this, but why would I do that?
+
+So what's causing that pattern? Or maybe it's something about me.
+
+Maybe I need more time management. Maybe my job description is overwhelming.
+
+Whatever it is, there's probably some structures in place.
+
+My habits which are going to come up down here.
+
+The way my workplace gives me the tasks could be anything, but there are things to think about that might be creating the patterns.
+
+Likelihood is in the silly example that it's me, right? It's my mental model.
+
+It's me leaving things till the last minute. It's my expectations and my values that just don't bother to change the pattern.
+
+There are other ways of thinking about it, and this one's called Levels of Thinking.
+
+This one has included more layers and you can, if you like, start to label the layers of a problem to look at specific things.
+
+So in this case there's a layer for technology, a layer for governance, a layer for business and market, and a layer for patterns of behaviour.
+
+So this is a little bit abstract. So I thought what we'd do is just look quickly at a wicked problem which is obesity.
+
+So obesity is a massive problem in New Zealand. We are the third most obese country in the world.
+
+And the trend line is not good over time. So this is data from the Ministry of Health.
+
+This is how the British have started to think about it as a systems problem.
+
+In England, we have high levels of overweight and obesity across the life course.
+
+Being above a healthy weight increases the risk of many serious health conditions,
+
+which places a huge strain on our health and social care services and our wider economy.
+
+What we eat and how active we are is influenced by the environment we live, work and play in.
+
+It is this range of interconnected factors that together can cause obesity.
+
+That's why there is no simple solution to tackling obesity and promoting a healthier weight.
+
+It is everyone's business and everyone has a role to play.
+
+Elected members and senior council leaders need to support and champion a whole systems approach.
+
+This means bringing together stakeholders from across the local authority and wider community to all play their part.
+
+Developing a shared understanding of factors that drive obesity locally encourages ownership and
+
+helps prioritise actions to achieve and sustain a healthier weight and address inequalities.
+
+It is important for these actions to span the short, medium and long term.
+
+Quick wins may build support. Longer term actions can deliver sustainable change for the better.
+
+By working together, we can better consider how actions impact others within the wider system and ensure we are joined up on tackling obesity.
+
+Taking a whole system's approach is likely to require a change in mindset and new ways of working.
+
+There are benefits for all when our environment promotes good health.
+
+These could include improved productivity and employability of local populations,
+
+and a reduced demand for public services such as health and social care.
+
+Public Health England has published a guide to help local authorities get started.
+
+Search public Health England. Whole systems approach to obesity guide.
+
+So that's the sort of situation you might be faced with in your assignment.
+
+And you will be going. Where do we even start?
+
+What is it actually that's at the tip of the iceberg. So what would you guys say?
+
+Was it the tip of the iceberg? What's the event?
+
+What's going on? Anyone?
+
+Did someone say people are getting fat? I mean, that's basically the problem, right?
+
+There's an obesity epidemic. You could frame it in a different way.
+
+Anyone want to put anything bigger, bolder or smaller?
+
+More manageable at the top of the iceberg? No one's chatting today.
+
+So I put obesity rising. So I'm using the two models in parallel just to show you there's no right answer.
+
+So imagine you're all in your team. You're brainstorming and people say, well the problem is obesity is rising.
+
+And someone might say, actually that's not the problem. The problem is poor health outcomes.
+
+And that's totally valid. You could put poor health outcomes at the top of the iceberg if you wanted.
+
+What are the patterns that are leading to that?
+
+Well, there was a whole jigsaw puzzle of things, but two of the key ones were poor nutrition and limited activity.
+
+Now, at this stage, you're going to be going. Hmm. Which one's more important?
+
+Now, these are problem statements. Have we missed anything? Um.
+
+I've gone here with poor nutrition as the thing I'm going to try and solve with my problem statement.
+
+I absolutely understand that limited activity is another part of the problem.
+
+I don't think I can manage to put both of those in my problem statement. So I'm going to go with poor nutrition.
+
+So I've essentially gone, hmm, let's not worry about that for now.
+
+It might be that you need two problem statements and the other ones on limited activity.
+
+You'll just have to sort it out in your team when you've got your problem.
+
+So following the example in the video of zooming in on the food environment, one of the problems in New Zealand is food deserts.
+
+And you are not one is. It's basically a place where there's hardly any fresh food.
+
+So if you look around any student digs, you will find a large amount of stores that sell very processed food,
+
+cheap food, packet food, pot noodles, stuff that you can keep in the cupboard.
+
+You don't need a fridge. Stuff that lasts forever. Um, but not much fresh food, meat, all those things.
+
+And that's part of the food environment.
+
+And people focus on these because it's not necessarily that people have no self-control that stops them staying a healthy weight.
+
+It's more about the environment they live in. It's more at the community level. But you could, if you wanted to take it a different way.
+
+You could talk about individual incentives, education,
+
+and then I'm sure you would debate in your group which one was more important and which was the stuff you should focus on in your problem statements.
+
+So the mental model I've gone for is market forces dictate the food supply, which is how you get the food deserts.
+
+You could go very many different ways, but that's the key piece that I've pulled out.
+
+And I've used an iceberg model. This model I resonate with less to the extent that when I first did this, I did it upside down.
+
+Just tell you that story to show it doesn't really matter how you do this thinking.
+
+These are just tricks to start conversations and help organise your thoughts.
+
+But there's lots of ways of doing it. Then I think about this one as drawn as it's got more layers.
+
+So you haven't necessarily pulled out a problem statement, but you can say obesity is rising.
+
+Maybe that's because of food deserts, maybe that's because market forces dictate food supply.
+
+Maybe that's because heavily processed foods are cheap and abundant.
+
+So that's what's driving these market forces. And fresh food is sell to export prices and unaffordable locally.
+
+So here you've got different problems all feeding into this market forces piece, which is creating food deserts,
+
+which is creating an environment where it's easy for people to eat too many calories that are not nutritious.
+
+So they stay hungry and they keep eating and obesity rises.
+
+This would be where you got to after an hour or so. So on the first morning and you would be going, oh, we're just we've missed this.
+
+We've done this. What else can we do? But it's a way of starting to take this massive problem and dumping things on a page.
+
+And Amanda is going to take you through some more sophisticated thinking that you might get to you by the afternoon.
+
+So we just went over the iceberg model and the level of thinking. Those are two of our tools that we use.
+
+There's other ones that you're already familiar with. You can go and you can look at trend maps.
+
+So we're looking at what's happening over time. Are we seeing repetitive behaviour repetitive fluctuation fluctuations.
+
+We also can look at system models. So all of you are fourth year engineers. So you should be familiar with most of these.
+
+We can have some basic block flow diagrams. If you're a chemical engineer A process flow diagram.
+
+If your you have computational diagrams of our systems. So those we're used to.
+
+Let's talk about some of the tools that maybe we haven't seen or really played around with too much.
+
+So before we get started with the tools, we really want to understand what our system is doing.
+
+So we like to ask what's happening or what's happened in the past.
+
+We want to look and see recurring events. Do we see any patterns?
+
+We're very good at seeing patterns. But is the length of time actually long enough to see the pattern?
+
+We're looking for structures and interactions. We're looking for underlying beliefs, and most importantly, we're looking for feedback.
+
+So our systems are we experiencing positive feedback or experiencing negative feedback within each system you're dealing with,
+
+you're ultimately going to see both. And then as we mentioned earlier, it's really hard to define that boundary.
+
+How do you draw that boundary around your system. So you know what system you're talking about.
+
+What other perspectives, methodologies, disciplines can help you to find the system.
+
+And then one of the most important things, when we want to look at a system and looking at tools,
+
+it's where in the system could we make small shifts or make small intervening points that would make big differences?
+
+And then how can we identify those? And once we identify those, what are the trade offs that we may have to handle?
+
+Is there a potential for unintended consequences? What happens if we say, all right, we want to eliminate New Zealand's methane production,
+
+whereas most of New Zealand's methane produced our methane emission.
+
+What was that? Dairy cows. So let's just say Canterbury can't have any cows anymore.
+
+What's going to happen to that economy? What's going to happen to those people?
+
+So what are those unintended consequences and what's the potential for them?
+
+And then how do we handle them? So those are all things we want to think about in our model.
+
+So two tools for really doing this are leverage points and causal loops.
+
+And causal loops are essentially a more advanced form of a feedback loop.
+
+So Meadows, one thing she's most famous for is what we're called leverage points.
+
+So everybody here knows what levers and the lever arm rule or where you apply pivots.
+
+So if we think this is our system, we want to look and see where can we intervene on the system.
+
+And these are listed in orders going from 12 at the top and one at the bottom.
+
+So 12 is going to be the closest to the system, but it will have the least amount of impact on our system.
+
+So we're looking at physical events. What types of things or parameters can we change that will impact the system.
+
+So let's say we want to promote EV cars?
+
+What's the way to best way to do that? Or one of the key ways to do that?
+
+Well, maybe it's having a subsidy. If we, the New Zealand government, offers a subsidy of, let's say, 5000 or maybe $10,000 for every EV car you buy.
+
+Well, that will have some impact. That will drive up how many people buy EVs, or if a company wants to have that impact on their, um, employees.
+
+They could offer a subsidy that will have some impact on the amount of the type of cars those employees have.
+
+So there's going to be some impact, but it's going to be small.
+
+Then we can start to look at our system, and we look a little bit further away.
+
+And we start to look for patterns of behaviour. How is information flowing?
+
+What may be cycles and feedback is within that system.
+
+And then how can we change that. Maybe it's. Hmm.
+
+Okay. It's been really cold recently. Or at least called for Auckland standards.
+
+Has anybody seen their electricity bill go up? What happens if you knew exactly how much energy or the cost of how much energy you had in real time?
+
+So let's say, oh, I turn my heater up and now I see that my energy bill is skyrocketing.
+
+Is that going to make you change your behaviour because you know something earlier?
+
+So we think about when we know information and how we can impact those positive and negative feedback loops.
+
+Then we can have fun with the system. Is it possible to change the social system, change the rules of the systems,
+
+add incentives, punishments constraints, change laws, change rules and regulations?
+
+What about allowing the system to self-organize itself?
+
+If we change one thing, or just changing the goal of the system,
+
+and then the best way to impact the system to intervene in the system is to create a paradigm shift.
+
+Okay. Change that mental model. So New Zealand, we are a car oriented society.
+
+If we wanted to say in a generation become a non car inter um non car oriented society.
+
+So no cars. How would we do that. To do it within a generation we can't be iterative.
+
+It can't be incremental by just adding more bike lanes. How in the world do we shift the model to say cars are bad.
+
+Don't use them. Now we can have other things.
+
+So we mentioned education earlier. Has anybody followed along what's happening with NCAAs and the school systems?
+
+Some of you may have. I have because I have young kids in the school system, and they're going through changes of how they're presenting information,
+
+how they're testing what's happening here at the university.
+
+We're already adapting what we are going to expect from students as this system rolls out.
+
+And when we think about, okay, the government's making this change.
+
+Where in the system does it fall? Well, that's up to the government to ultimately decide which lever they pulled and where.
+
+They think it falls somewhere, probably in this region. So trying to identify your system, what levers you can pull is very key.
+
+And when we think about where we intervene, most of these interventions take place close to the system.
+
+We're looking at those physical events all the way up to how that information flows.
+
+They tend to be easier to design around. We can understand them.
+
+We can see the impact that those interventions would have.
+
+But if we really want to change the system, we need to move further out.
+
+And those are much harder to do. So this is the struggle with this struggle with impacting system.
+
+But one of the key skills of systems thinking is understanding when and where you can pull levers.
+
+Can you identify something out here that maybe you don't quite know how to do yet, but something you need to think about more.
+
+Now. Everybody here should hopefully recognise a feedback loop.
+
+So A feeds the b, b feeds the c, c feeds back to A, and we're all should be used to doing brainstorming and mind mapping.
+
+So a causal loop is looking at positive and negative feedback.
+
+So here we have molecule z. The more z there is we're increasing.
+
+We're having a positive impact on x. And the more x we have is negatively impacting how much z production.
+
+This is what we call a balancing loop or a negative feedback loop. This is a goal oriented system.
+
+This keeps our system in check. Our body temperature and what controls our body temperature is regulated by one of these systems.
+
+However, we can also have positive feedback loops or reinforce feedback systems or runaway systems where Z positively impacts Y,
+
+which then positively impacts Z. These are reinforcing. We're always increasing, and our systems are going to have a balance of B and R.
+
+Now we can take a look at what a causal loop looks like.
+
+So the first one I want to show you here we're looking at ultimately student outcomes as they're leaving secondary school and they're breaking down.
+
+How's the school climate. We're looking at the school discipline and academic failure.
+
+So here we're centring around disruptions to the learning environment. How does that impact student focus.
+
+How does student focus impact engaged learning and how does that impact acting out.
+
+And this is essentially a reinforcing loop.
+
+School discipline is a balancing loop When students are sent to the principal, those students tend to be suspended,
+
+which decrease the disruptions of the learning environments for the other students.
+
+However, for those students who are suspended, they are spending more time at the classroom.
+
+They're falling behind more in academics, which makes it harder for them to focus.
+
+So here we're seeing a reinforcing loop on why these students are doing poorly.
+
+So within our system we can have multiple loops. And the key is trying to find which loop we can have the most impact on.
+
+And here. Does anybody know what this one is. Have we seen it before?
+
+Can we figure it out? It's looking at the impacts and the mapping of how Covid impacted society.
+
+So here we have our policy interventions. We're looking at what happened in the financial system and the economic system.
+
+We've got the environment. We have how individuals wellbeing was impacted.
+
+And we also have society. So what's going on. So you can do these types of causal loops for most systems.
+
+And tomorrow will actually walk you through a couple of examples of how students have done this in the past.
+
+Now, why systems actually work is systems are going to be very robust, where I should say robust systems.
+
+They work pretty well. It's really hard to dismiss the disrupt our system.
+
+They're going to be resilient.
+
+They're built on top of balancing and reinforcing loops, and they self-organize themselves to make sure that they're not fragile.
+
+They don't break down easily. These are long, normally long lasting systems.
+
+If we think about a system and we want to figure out where do we intervene in this system,
+
+what we really want to do is we want to use these tools to first get an idea of a system, and then begin to map that system out.
+
+And you don't need a great huge detailed diagram.
+
+You can start literally on a whiteboard mapping out the system. Look at what things do we know, what are we measuring, what things could we push on.
+
+And then really we're trying to find those loops. What loops are amplifying our system or balancing it out?
+
+What loops are dominating our system? Once we find something that dominates our system, that's the point of impact.
+
+Now, can we actually come up with an intervention that will allow us to have an impact on the system?
+
+Does that fall in one of those physical or informational sections of our lever points, or is it further out?
+
+So in summary, remember a system is made up of elements, relationships and purpose.
+
+You are going to be dealing with complex, very wicked systems within this course.
+
+And systems thinking is not an algorithm or a single process. It's using multiple tools to understand what's happening.
+
+It's a broader understanding.
+
+It's critical thinking and proposing of interventions and solutions that may change the system because our system is complex.
+
+We are going to have stakeholders whose value are divergent, and we're going to have knowledge that we don't quite know what it is yet.
+
+We don't know how we make a change and what's going to come.
+
+Now. With that, any questions?
+
+All right. Have a good rest of your day and see you next lecture. This guy didn't come.
+
