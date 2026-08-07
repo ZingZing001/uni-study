@@ -1,0 +1,895 @@
+[Auto-generated transcript. Edits may have been applied for clarity.]
+Yeah. So 2025? Yeah.
+
+For the most part, yeah. We try to balance schedules where we need.
+
+Yeah. All right.
+
+Well, yeah. All right, everyone. Introducing the summit Start-Up club.
+
+Going to do a quick plug for you guys. Hey, everyone.
+
+We're from the Start-Up club right here at the university. We're hosting the first ever Start-Up Club New Zealand summit.
+
+It's a three day summit that could change the trajectory of your future.
+
+Um, from the CEO of Deloitte to the Kiwibank CEO,
+
+we're bringing in people who have insight into the world and knowledge you can't find anywhere on the internet.
+
+And if you're not into business, don't worry, because we also have professors from Stanford.
+
+Judges from MasterChef and so many more. Our first day is going to be 14th of August Friday and it's absolutely free with the weekend pass.
+
+Only 15 bucks if you purchase it now. So you guys can find more about us on our Instagram or on our website.
+
+So you can just click the links up there. And yeah, you can get tickets as well.
+
+So it's really really cool event and I look forward to seeing you guys there.
+
+Thank you. Oh thanks guys. Here we go.
+
+Go along. Sounds like an awesome opportunity to connect and expand your networks.
+
+All right. Welcome everyone to lecture for today.
+
+We're going to be going over business case analysis and options assessment for systems level change.
+
+So really taking what we've learned in engine 303 building upon that as we're building out this toolkit,
+
+um, that hexagonal hexagonal map that Juliet shown previously this week is about building that toolkit.
+
+So today we're covering business case analysis. We're going to walk through a case from Systems Week last year.
+
+We've got a bunch of external industry cases that are spread throughout there um to supplement your learning.
+
+Then on Thursday we're going to jump into cost benefit analysis, more specifically social cost benefit analysis.
+
+So you've done the traditional CBA and in 303 you know about NPV, IRR, BCR, all that sort of stuff.
+
+We're going to build upon that and really look at what it means to measure things that we value in society.
+
+Okay. Then on Friday we're going to be looking at GDP and, um, how to measure things that are harder to measure.
+
+So we'll measure these through qualitative frameworks and we'll have a look at that.
+
+So really building that toolkit. Um this year that is quite a while.
+
+Sorry. All righty.
+
+So we'll go through the business case better business case framework.
+
+And this really supports system level decision making.
+
+We'll look at options assessment building upon those tools DFV analysis necessary requirements and introduce critical success factors.
+
+We'll look at how we come to a short list from an initial long list, and the idea of justifying trade offs between our different options.
+
+We'll then apply these in a systems level business case, and look at what some of that reporting might look like.
+
+So we're going to walk through a systems case from last year.
+
+Walk through that as the background will go through each of the sections and we'll discuss what went wrong and what went right.
+
+So business cases inform decision making at the highest levels.
+
+So two cases here City Rail Link watch the space.
+
+We've got some cool stuff coming up regarding the City Rail Link, which is going to launch this year and is now completed and ready to go.
+
+So hopefully some of you will make use of this business case. But it all started back in 2015 with the original business case that had to be approved,
+
+and all of the engineering and assumptions that went into that case,
+
+another recent sort of completion of a systems level project as a central interceptor.
+
+How many of you heard of the Central Interceptor civils definitely should have heard of it.
+
+So that's a 4.5m, 16 kilometre wastewater tunnel has a lot of benefits there, Preventing flooding.
+
+Preventing when, um, when there's a whole bunch of stormwater. Preventing our sewers from over flooding.
+
+Okay, so there's a whole bunch of social benefits to that, obviously.
+
+And so these cases are made to influence or inform the decision makers in making the decisions whether to approve these projects or not.
+
+How much are they going to cost? What is the reason that we need this change.
+
+And what are the benefits they're going to create? What are the options for building something like this and how do we analyse those.
+
+So business cases inform that decision making. Another couple sort of underdeveloped underdevelopment business cases.
+
+We have the Dunedin hospital. They've been needing a new hospital for years now.
+
+And the business cases have just been completed. And now they're rolling through into implementation of those.
+
+There's a news article the other night, a news story. Who watches the 6 p.m. news?
+
+Is there anyone here who watched 6 p.m. news? Yes, we got one.
+
+Watch the 6 p.m. news as you're coming and going out into. You're completing your degrees.
+
+You're going out into the real world. There's a whole bunch of stuff there that is really relevant to what you're doing.
+
+And so a story the other night was around this building here, which is actually called the Wellington Museum.
+
+Not to Papa. It was actually called the Wellington Museum was there before Te Papa.
+
+And it has a whole bunch of problems with being earthquake prone.
+
+And so the new story was about what are the options, what do we do with this building now we know that it's earthquake prone.
+
+We could sell it, we could demolish it.
+
+There's obviously impacts there. Right? This houses a whole bunch of artefacts history.
+
+So do we just get rid of it? Do we move it to another location? Do we sell it off to someone to buy it and hopefully do all of the upgrades to it?
+
+Do we pay to do the upgrades ourselves. Do we try and get sourcing and funding from local government central government?
+
+What funds can we look at? So that's one business case that will be being developed over the next year or so.
+
+So these business cases are happening all the time. They're informing decisions.
+
+They're informing the decision makers. And some of you will likely participate and contribute to business cases in your careers.
+
+And so business case business cases justify why a project should be undertaken.
+
+Why is this change needed?
+
+When we look at the business case framework in a second, there's a whole portion of it dedicated to why that change is needed.
+
+Back in engine 303 that looked like your problem exploration.
+
+What was the problem? What were the root causes that you looked at? So expanding that to why this case is needed in society.
+
+It explores multiple options. It assesses the pros and cons of those options, and it always includes the do nothing option.
+
+Do nothing is always an option. Why is that?
+
+Because any other option means we have to spend money to make that happen.
+
+So the do nothing option means that we can save all of that money and potentially invest it somewhere else.
+
+But what happens if we do nothing? Are they going to be social impacts of doing nothing?
+
+Think about all the flooding that's going on. Should we be investing in mitigation strategies or should we be doing nothing?
+
+These are the kinds of things that business cases weigh up.
+
+It evaluates those benefits, those costs. What's the risk of doing nothing?
+
+What's the risk of doing something.
+
+What are the trade offs to the different people involved, the different stakeholders and the different stakeholder groups?
+
+and recommends the preferred solution based on evidence.
+
+So you'll go out. You'll do some data collection or you'll do some analysis.
+
+You'll weigh those pros, you'll weigh those costs, those impacts, those benefits, and then recommend a preferred way forward.
+
+And it provides the justification for investment and funding.
+
+Governments do not have unlimited resources, right.
+
+They have a set amount of money that they must allocate. That's very loud.
+
+So. They have a set amount of money that they must allocate.
+
+So how do they allocate that. Again based on political values being informed by business cases and the values that those decision makers have,
+
+and by having business cases with Assumptions, detailed assumptions that are recorded and are robust to a degree, of course.
+
+This builds confidence amongst those decision makers and those stakeholders.
+
+And then finally, of course, it forms the basis for implementing and delivering that project.
+
+So with City Rail Link, of course, they would have had a full implementation case of how we're going to deliver that.
+
+Another key point. These things can change what's happened over the last year, right.
+
+The war in Iran, the hikes on fuel prices. Right.
+
+These are a cross-section in time, these business cases, how do they account for changes in those assumptions.
+
+So some differences between engine 303 and what we covered there versus engine 403.
+
+Just to sort of round out the completeness of this. But in the engine.
+
+303 we focus on product level, innovation level, business cases.
+
+You focus on customers. Customer value propositions.
+
+Delivering that value in the form of a product and then receiving revenue in return for delivering that value.
+
+You talked a little bit about suppliers. You considered your competitors in your market that commercial viability.
+
+But now we need to include a broader range of stakeholders government agencies, government ministries, communities,
+
+the general public, iwi, business regulators, future generations, and they all have different priorities.
+
+So in stakeholder lecture we'll be covering some of those differences in those priorities.
+
+Problems become larger in scope. These problems don't just affect mainly one customer group anymore, but they affect everyone.
+
+They affect you. They affect people in society to different levels, so we need to take that into account.
+
+All of these systems that we're talking about, they're interconnected.
+
+Just as we've been covered in systems thinking last week and actions that you do.
+
+Have unintended consequences. So if you do something here, you may in fact do something over here that you hadn't thought of or hadn't considered.
+
+So we need to make sure we're considering considering the impacts, not just on this one system or this one group of stakeholders,
+
+but in fact on all of the people that matter, on all of those different systems.
+
+And then success is not only measured by profitability or value, but balancing all of the economic,
+
+social, environmental, cultural and long term outcomes for everyone in society.
+
+So hopefully you're getting the sort of mind shift away from just a singular focus sort of product customer revenue,
+
+profit more towards a holistic system of systems.
+
+And so, like I said, considers competing stakeholder perspectives and those wider impacts on society.
+
+So let's jump in. What do these look like at the systems level.
+
+And so really at the systems level we talk about this better business case framework.
+
+Now this is a framework that Treasury recommends to use for outlining your business cases.
+
+And they're made up of five smaller interrelated business cases.
+
+So the first one is a strategic case. So a whole case dedicated to why we need to change something.
+
+What's the case for change. Okay. So really taking that problem exploration that you did and expanding it a lot more then the economic case.
+
+What are the options. How have you come up with the options. What are the pros and cons of all of those options.
+
+You may also produce a short list from here. Then the commercial case.
+
+These cases, these business cases, they exist in the market. They exist in the real world.
+
+We need to think about all of the things that go into procuring and delivering a project like that in the market today.
+
+Then the financial case. Is it affordable? Is that preferred option affordable?
+
+Is it within the means of our budget? Is it going to create vastly more social benefits than what they cost?
+
+And then the management case. What is your plan for delivery?
+
+What is that plan for delivery. And so on 403 we focus on four of these cases.
+
+Not so much on the commercial case, but you'll be focusing heavily on the other four.
+
+So that's a bit of business case framework. And really this bit of business case framework sits in a wider sort of cabinet approval process.
+
+And so for simple, more low risk investments, they may only require a single business case that covers those five cases.
+
+However, for larger or more complex higher risk, as in higher cost, they may require a more staged business case process.
+
+And so taking a look at that. We start off with the indicative business case.
+
+Now this focuses heavily on the strategic case that case for change.
+
+Okay. Why do we need change. Why is the investment needed.
+
+What are the options available and what should we investigate further.
+
+So that's the first step. Then once you have an indicator of business case you put it through the right channels and there's approval.
+
+You'll move on to the more detailed business case. And so that focuses more heavily on Both the economic commercial, financial cases.
+
+And so we fully developed the preferred option here, confirming what those costs are, what those benefits are and what those risks are,
+
+and seek approval to move forward into the final case, which would be the full implementation case, which outlines all five of those cases in detail.
+
+For Systems Week, you'll be delivering a for case detailed business case.
+
+And so the reason they have these stages of business cases is so there are off ramps.
+
+What does that mean. It means if a new government comes in or for whatever reason, the assumptions in the business case no longer stack up.
+
+There's an opportunity to not move forward or to give a no go to moving forward with that business case.
+
+So if the indicator of business case, maybe it shows that to solve this problem, it's going to cost $200 billion.
+
+As an example, just throwing it out there, it may not be worth moving forward with that indicative case.
+
+You would either need to go back, change something about that case, or pivot towards a new problem, or a new case, or solving it in a different way,
+
+but it allows decision makers to not move all the way through to an implementation business
+
+case where you've spent potentially tens of millions on planning on management consulting,
+
+and then you end up cancelling it right at the end.
+
+Okay, so it saves a bit of money by being able to off ramp or choose a no go a bit earlier in the in the process.
+
+So that's just a little bit about the government process. Juliet has a whole lecture on machinery of government.
+
+And so this will play into that a little bit. And so talking about business cases that have been cancelled or this off ramping, there's a couple here.
+
+So, um, back in 2023, when a new government came into power, there was a shift in government priorities.
+
+And so these two are two examples of cases that were cancelled.
+
+So Auckland light rail is an example. Finished the indicative business case.
+
+They were in the process of doing the detailed business case. New government came in.
+
+Wasn't a priority for them in this case. Felt that maybe some of the assumptions may not hold.
+
+There were reports showing that costs were going to increase.
+
+So from originally when the Auckland light rail was proposed, I think it was around $6 billion.
+
+By the time it was cancelled, that cost was already up to around 15, $17 billion to complete that case.
+
+And so that was cancelled by the decision makers. I Rex detailed business case also cancelled again Citing ballooning costs as a result.
+
+Um, critiques are sorry.
+
+Supporters would argue that because of those ballooning cases,
+
+the original assumptions underpinning the original detailed business case no longer held, so there was no longer value for money there.
+
+From the decision makers perspectives.
+
+Critics will argue that the cancelling of the project actually also had Disc benefits in the form of productivity lost,
+
+and that those may not have been fully accounted for when that decision was made.
+
+The link here links to a page with the detailed business case.
+
+You can look all that information up and decide for yourselves what you think.
+
+But at the end of the day, the decision these business cases are made to inform the decision makers and they ultimately make that decision.
+
+And so another point I want to bring at this high level is idea of program business cases.
+
+So like we have the staged, indicative detailed business case for an individual project.
+
+They also exist within a program. So one example is Auckland's Rapid transport plan is a multi-decade program with many systems level projects within.
+
+So CRL about to be completed. The Western Ring route, which had the northern corridor and the West Waterview connection, has been completed.
+
+Some things underway. It's the Eastern Busway that was just recently also completed.
+
+Northern busway and um Airport to Botany the East connection are also under development.
+
+Auckland Light Rail was to support that connection but was eventually cancelled.
+
+So when these are cancelled, usually projects will be sometimes divvied up.
+
+Um, maybe they'll take a piece of that original project and fund that in a different way.
+
+So really these are quite modular. Sometimes they're chopped up. One of the common ones.
+
+And we're going to look at it right at the end of the lecture.
+
+It's called Let's Get Wellington Moving which consisted of a second Mount Vic tunnel and a whole
+
+bunch of stuff in the middle of the town called the Golden Mile that was recently cancelled.
+
+And it's going to be divvied up into a bunch of smaller projects. And so just recognising that these projects exist within a wider strategic plan.
+
+And so when you come up with these business cases, you should consider the alignment with government objectives,
+
+with existing development plans and existing program business cases.
+
+And so let's just map these business cases to some familiar terminology I've seen in 303.
+
+So the strategic case the case for change consist of the project background introduction problem space and problem statements.
+
+So instead of one problem statement, you're really looking at a suite of problem statements, at least two potentially more.
+
+We'll take a closer look at those next week when we cover problems and problem statements.
+
+Stakeholder analysis of course, coming up with requirements based on those and forming our critical success factors from our necessary requirements.
+
+And of course any key constraints or assumptions involved with that. Then our economic case.
+
+So what are the options. So last year you did a long list similar now still doing a long list.
+
+We want to encourage that divergent thinking.
+
+And then using two tools DFV analysis and critical success factors and alignment with problem statements to narrow down to a final short list.
+
+We're going to talk a little bit around what this idea of short list packaging is, or options packages are.
+
+And then the financial case. So that's our social CBA. So you'll need to once you have your short list of packages,
+
+you need to do an economic and social impact assessment or a social CBA of at least
+
+two of those shortlisted options that will get you to a preferred way forward.
+
+And then finally, our management case. Once you have your preferred way forward, how does that roll out look?
+
+What's a high level project plan going to look like? And again, basically over the next few weeks for this half a semester building out this toolkit.
+
+And so when we go through the business case methodology, it's very similar to what we have seen previously.
+
+So we need to define and analyse that problem space, form our problem statements.
+
+And we'll have a look at that as we go through our systems. Example. Identify those users as stakeholders and determine their the requirements.
+
+Select those critical success factors from those necessary requirements.
+
+Generate options. So ideate on those options. Narrow those options down to a final shortlist and a final preferred way forward.
+
+And then focusing on how we implement that. So let's take a look now at our systems project from last year.
+
+Systems interventions for plastic pollution in Aotearoa New Zealand.
+
+So last year's systems project was on plastics pollution. So when we look the first step is that project background.
+
+I just wanted to cover this quickly because there is always a little bit of confusion
+
+between what goes in the project background and what goes in our problem exploration.
+
+The project background needs to answer three fundamental questions.
+
+What is the problem or opportunity? What's that high level context? What is?
+
+Why does it matter? What is the impact and what is the current status quo?
+
+How did we get there?
+
+So you're giving high level context to the problem, high level context to how we got here then and the problem exploration or the problem section.
+
+You focus in on the specific problems. Okay.
+
+No more high level stuff. You get into that narrow sorry that um, convergent focus on those problem statements.
+
+And so I just taught this excerpt. The entire background is actually almost a page.
+
+I think it's three quarters of a page long. But just have a quick look.
+
+It covers and answers a lot of those questions, even just from the initial first paragraph.
+
+So this is a good a good job by this team. It's evidence based, has citations.
+
+It tells you about the broad context for the problem. It tells you about how we got here.
+
+So they did a good job here. We want to keep that high level.
+
+We want to. We don't want to dive too deep into those problem statements yet.
+
+That's what we should say for our problem exploration. So that's the project background.
+
+And then we move to problem spaces or problem statements. And an interesting 303.
+
+We had this B2C, B2B mainly focussed on the B2C problem spaces and they covered simple, sometimes complicated problems.
+
+And 403 we're moving to more complex and what we call wicked problems.
+
+Okay. Some of these may not have solutions. It really rings when I stand here.
+
+It's weird.
+
+Um, whereas with, um, the simple to complicated problems, we can define these objectives and we can potentially move to solving those problems.
+
+And so when we talk about complex, when we talk about wicked problems, this is what we're talking about.
+
+Systems of systems problems at the systems level are complex.
+
+They are wicked. They have competing interests. Some most of the time we can't solve them.
+
+So just a little prefix to where you may be going.
+
+But from all of this madness you need to pull out two, maybe three problem statements.
+
+So really this first step, what we call the causal loop analysis, is really important and sets the stage for the entire business case.
+
+Sometimes people rush through this on the first few days of systems week and they say, we've got it, we've got it.
+
+And then Wednesday they may have to go all the way back, not start again,
+
+but go back and revisit those assumptions, potentially pull out a different problem statement.
+
+So again, just highlighting the sort of complexity that we'll have to deal with.
+
+We'll be going into deeper into problem statements and problem exploration next week.
+
+And again, we still want to have this divergent and convergent thinking.
+
+So we discover the problem and we reiterate what are those problems.
+
+What are the specific problems. What are those problem areas. And again we ideate we diverge.
+
+We get everything down that we can think of. Right. That was this part divergent right.
+
+You're covering all your bases and then you're converging on to those final problem statements.
+
+So that's why we teach you this back in 303. And then similarly in the solution space.
+
+And the solution space, you'll ideate a whole bunch of ideas for solutions and then use tools like DFV,
+
+like CSS Critical success factors to narrow in on a final shortlist of solutions.
+
+And so for problem two solution, you'll have your problem statements and you'll.
+
+Ideate solutions. And you'll end up with a long list that might look like this.
+
+And so first step is understanding what are what is the alignment.
+
+So there's almost a mini convergence step where you may have.
+
+So these were the final sort of 11 that this team reported in the report.
+
+It's highly likely that they probably generated 20 other ideas.
+
+But those didn't make it into the final report. Only the ones that you know seemed good on paper.
+
+They seemed to hit all the boxes, but more importantly, aligned with their two problem statements.
+
+So obviously you've got all of this stuff going on in your head.
+
+So quite often you might have ended up generating ideas that had more to do with this part of the causal loop,
+
+but actually didn't have much to do with the original problem statements.
+
+So that problem alignment is that first step in the process.
+
+So that gets you your long list. And then we'll use tools such as desirability feasibility, viability,
+
+as well as critical success factors to narrow down to a final shortlist and packaging.
+
+These we talk about do nothing.
+
+Obviously those can be options one, two and three or package one, two and three based on scope, based on suitability together.
+
+Often they can be packaged into what we call do nothing, do medium, do nothing, do minimum, medium, do maximum, usually based on implementation cost.
+
+Okay, so if we had unlimited resources, which we all wish we did, could probably do the do maximum.
+
+As we know we have resource limitations. Government doesn't have infinite money.
+
+So we need to make the best value for money decision. And then from there again covering off using social CBA which we'll cover this week.
+
+And so looking at generating these ideas. And so some of them.
+
+Oh sorry. So they do nothing obviously. Probably won't satisfy either of the problem statements.
+
+But we always need to have it there. Right. There's always a do nothing option.
+
+And then you have some of your options linked to problem statement one.
+
+Some of your options will be linked to problem statement two. And some are probably going to address both in some manner.
+
+Just understanding that first step of making sure that your initial long list aligns with those problem statements that you've outlined.
+
+So problem statement one more to do with managing waste management.
+
+Sorry plastic waste management infrastructure. While number two is looking specifically at more low grade or plastic types.
+
+And so I just wanted to cover something around generating these ideas.
+
+When you when you go to generate these ideas, after you form your problem statements,
+
+you're going to have a bunch of underlying assumptions that you've made about these problems.
+
+So one good idea that you can use while you're going through this ideation phase is to revisit those assumptions.
+
+Write those assumptions out. What do those assumptions mean?
+
+And then so when you come back and you're trying to reiterate, just like in 303, there's a lot of reiteration that we want to do here.
+
+Revisiting what underpins those assumptions will help you determine either new options,
+
+options to cut options that are not satisfied, or improve some of those options.
+
+So how valid are you? How valid are your assumptions that you've made?
+
+And do we need a change? Or add any? Or add some more to make sure we're satisfying those problem statements?
+
+And then what does success like if you are looking at these these ideas or these options?
+
+What does success look like? What would it be like if the problem wasn't there.
+
+And you're implementing these solutions?
+
+So a little trick you can use to help that process of reiteration and understanding that it is a reiterate of process.
+
+And so you can have a look through here some of the critical success factors that were generated from those key stakeholders.
+
+Key stakeholders being Ministry for environment in this case plastic Pollution Ministry, Foreign Affairs and Trade, of course.
+
+What are people doing elsewhere in the world? We want to know that so we can implement things here.
+
+Can we be a leader in the world in the way we address plastics. Plastic regulators.
+
+Of course, if you don't get buy in from the people that are producing and regulating these plastics, then how is your solution going to be viable?
+
+Of course. Iwi Maori representatives.
+
+What do they represent? They have a higher stake and or they put the environment at a higher status social impact.
+
+And so most commonly to satisfy these stakeholder requirements.
+
+There's a requirement to look at environmental social aspects as well.
+
+Kai Tonga. Right. Guardianship. Taiyaki held in high regard for iwi.
+
+And who are the other key stakeholders? Are there any there that you need or are missing?
+
+And so you'll generate critical success factors and then you'll use those to assess each of those options.
+
+And we'll look at what that looks like in terms of a matrix for decision making.
+
+And then the other one is desirability feasibility viability.
+
+And again while you covered that last year, we're extending that scope of what desirability feasibility and viability really means.
+
+So desirability. Are we solving the right people, the right problem for the right people?
+
+And again, because you're now addressing many different stakeholder groups,
+
+it's not just your customers that are now the highest sort of key stakeholder, but all of these other groups.
+
+Again, making a change here may make a change here that this group doesn't want.
+
+So understanding what all of these different groups desire is going to be really important.
+
+What are the trade offs between those groups. What is the equity, well-being and environmental outcome?
+
+Trade offs for those groups? Are there any unintended consequences?
+
+And then feasibility. Can the solution realistically be implemented?
+
+So not just looking at whether the technology exists, but is it appropriate to roll out given New Zealand's context.
+
+What are our regulations? What are the political values that the government currently holds?
+
+What is our current infrastructure? What are our existing systems? Right.
+
+We're not just going to wipe everything off the map that already exists. We're going to build upon that.
+
+What's the technical capability? And what are the dependencies between all of those interacting systems.
+
+And then viability again, similarly to 303 but now expanded what is not just the cost but what are the monetised benefits?
+
+Are there any other environmental impacts that you need to take into account from rolling this out?
+
+How are they going to work together These options and do those benefits outweigh those costs over time?
+
+So really expanding that scope to encompass a systems thinking lens.
+
+And so if we look at a couple of examples from plastics from last year might be some these are obviously simplified somewhat,
+
+but some things you may want to consider. So for a ban on single use plastics sure we can ban them.
+
+And that may reduce litter and environmental harm.
+
+But what about businesses. What are they going to use.
+
+Is there going to be some transition put in place overnight?
+
+You can't just ban all of the packaging that someone's going to use, then they'll go out of business.
+
+How are you going to account for companies going out of business? What legislation is required?
+
+Can we actually do this from a legislative point of view? What are the suitable alternatives to this.
+
+And then, from a viability point of view, yes, long term environmental benefits.
+
+But again, you're increasing costs for suppliers. You're increasing costs for small to medium sized businesses.
+
+What we're going to look at in GDP lecture on Friday. New Zealand is an economy made up of small to medium sized enterprises.
+
+So if you're going to make a change that disadvantages that group, how are you going to take that into account.
+
+And so I won't go through all of these here. You can take a look at them in your own time.
+
+But this is the kind of thinking that we're getting into. No right answer.
+
+Only trade offs. Only trade offs. And so you may produce a figure like this to have in your report.
+
+It looks great. It's pretty. It tells me absolutely nothing.
+
+What matters is the underlying reasons behind the colour coding.
+
+Yes, this is bad for CSF one. Why? Okay.
+
+What matters is the underlying reasons behind this coding.
+
+Okay. Not the coding itself. If you have an option that scores 16 versus an option that scores 17 and you're like,
+
+we chose option two because it scored 17 and option thing only chose 16, that means nothing.
+
+Okay. Do you really have that certainty to assign that one score point and be able to make a decision based on that?
+
+No. You have to weigh up the trade offs, the underlying assumptions.
+
+Why is this good? Why is this bad? How do they compare? Okay, so don't fall into the trap of just thinking it's a tick box exercise.
+
+We colour coded, we give it some scores. We do a weighted scoring analysis.
+
+That is, this is the final result of a whole bunch of work that you're going to show us.
+
+And you show us that in the report. And so what I want to point out is that, yes, this team did a good job, but they didn't do a perfect job.
+
+What I would like to see is yes, they've shown me this option performed well.
+
+And so it was taken forward because they met all the DFV requirements or it met all the CSF.
+
+But what it doesn't tell me to a certain degree is why.
+
+So I want you to show me why. Recycling and composting infrastructure attacks on new and non recycled plastics recycling
+
+return systems were carried forward as they met the DfE requirements and identified CSF.
+
+Why? How? How did they meet those?
+
+What were the reason that it met those CSF, DFV or CSF?
+
+Okay. That's what you need to bring out. It doesn't need to be a whole long story or novel, just a little bit of explanation and discussion there.
+
+You also need to cover why. Options were excluded.
+
+Okay, one thing that will, um, make it very difficult for us to follow is if you have a whole bunch of cool options and we're following your process,
+
+and then you just drop three options out of the report and you don't tell us why.
+
+And we're like, well, that option looked really good. It was really cheap.
+
+Why don't you use that option if you don't tell us why you excluded options?
+
+We can't follow your process. It lacks consistency.
+
+So for a consistent report, you must discuss why options were taken forward and why and then similarly,
+
+why options were discarded or excluded and why. And all of the business cases that you'll read.
+
+I'm going to build a canvas page that's got a whole bunch of cases for you.
+
+You'll see that explained in all of those cases, in those industry cases.
+
+So do better than this. Tell me why. For each option, just in brief, and you'll be on the right path.
+
+And again, this is up to your reasoning, right? So me just standing here and telling you.
+
+Oh, well, that one I think shouldn't go for this reason and this one shouldn't go for this reason.
+
+It doesn't really matter.
+
+You're taking your skills, your perspectives, your experiences, your rationale, and your determining why options shouldn't be taken forward.
+
+Okay. So this is your synthesis. And so once you have your options you've narrowed them down via DFV, CSF.
+
+You've cut the options that are crazy. You've cut the options that don't meet our critical success factors.
+
+Maybe ones that make too much pollution or something. You'll have a nice list of options, and now we can think about which options work together.
+
+It is highly unlikely that one option will satisfy all of your CSF, all of your problem statements.
+
+So we need likely you need to solve your problem statements. You need a package of solutions.
+
+So for these guys they move forward with a do medium option which consisted of a tax on plastics,
+
+a container or a plastics return scheme, and a recycling plastics subsidy.
+
+And again great that they have this key. But again, what should go into it is explaining why you've moved forward with these options.
+
+And so I've just pulled these straight out of the thing, out of the report.
+
+And I don't want to go through all of them, but I'll just have them on the slide and you can review them in your own time.
+
+But this is the kind of justification that we want to see when you're determining these, these packages.
+
+So the Do minimum package offers modest reductions in methane emissions and cost savings from landfill diversion.
+
+However, while it achieves a positive NPV of 34 million and a business cost ratio of one and a half,
+
+its scope is limited to benefits that largely rely on consumer behaviour through education campaigns, advertising and small business rollouts.
+
+Therefore, systematic issues of plastic overconsumption, low recovery rates and reliance on virgin plastics are largely unaddressed.
+
+So you're not addressing the full scope of the problem by implementing the minimum case.
+
+Similarly, the do maximum case provides the highest or greatest environmental and economic gains.
+
+It also costs the most. It involves extremely high upfront and ongoing costs, which would place a heavy burden on the government budget,
+
+as well as high taxes that place pressure on businesses. This poses significant risks to implementation.
+
+Right. Because we talked about assumptions. What happens if another fuel crisis happens?
+
+Those costs go up And it makes it unsuitable to be implemented.
+
+And so we go with the medium case. The medium case that strikes a balance between the minimum and maximum.
+
+It's expensive but it's not too expensive. We create a lot of benefits.
+
+Not the most amount of benefits but a lot of benefits.
+
+And so in terms of value for money, in terms of those trade offs that we talked about, we're going to go with the do medium case.
+
+Once we have the do medium sorry.
+
+Once we have our short listed options we should have gone through a environmental sorry economic and social impact assessment.
+
+So that social CBA that we're going to be talking about on Thursday. And that helps us to determine that as well.
+
+And then once you've carried out the social CBA, there are some impacts that are not going to be quantitative.
+
+They're more qualitative impacts. And so just introducing what we call the living standards framework.
+
+And again we'll cover this more on Friday is a way to qualitatively assess the impacts from all of these options.
+
+And so more on that the rest of the week. And so that gives us our preferred way forward.
+
+We've narrowed down to the short list. We've got our packages and we've determined what the best way forward is.
+
+So the Do medium case was the best way forward is a balance between that minimum and maximum case.
+
+And so just to finish I just want to cover some limitations and some things we've already covered today.
+
+The biggest one with these business cases. One they're a cross-section in time.
+
+So they do everything they can with the assumptions that they have and all the information and data they have on hand at that present time.
+
+But things change, Right. I've already said the fuel crisis.
+
+We'll get another one of those. What if there's a pandemic? Right. We're going to have to shift priorities in terms of spending.
+
+We may not be able to carry through. It's hard to capture every social and environmental impact as well.
+
+Yeah, we try to. Sometimes things are left unqualified.
+
+Sometimes the assumptions that underpin some of those benefits may not hold over time.
+
+It's got a couple cases we're going to look at at the end. You may overlook unintended consequences or trade offs.
+
+It simplifies this complex system. Again that big cloud of systems and systems, you're really simplifying it down to one decision making point.
+
+Decision making also involves not only the information in the business case,
+
+but government priorities, political values, and the judgements that those decision makers make.
+
+And so I just want to leave you with a couple cases, um, that kind of highlight these differences in assumptions.
+
+So there's a new Waikato Business medical school. Oh, this is business school.
+
+Sorry, I should say medical school. Medical school. Going into Waikato University and have a look.
+
+You can have a look at the, um, the article in your own time.
+
+But there was some pushback from the current medical schools that exist around some of the assumptions that were made in that business case.
+
+You can read that business case for yourself and decide, but things around, assumptions around how many doctors it's going to produce,
+
+where those doctors are going to work, and the capacity of the current medical schools were brought into question.
+
+So have a look at that case in your own time. And then a big, big one, the Let's Get Wellington Moving project.
+
+I actually worked on some of the pre works for this project, but this was started way back in 2015.
+
+The original case and since then has suffered from really long delivery times.
+
+None of the projects actually, or projects only made it through pre works.
+
+There was changing priorities when new governments came in. There was stakeholder disagreement.
+
+There was complexities within the governance structure. Local government versus government agencies versus central government.
+
+How do we fund these things and scrutiny around the delivery of those benefits and what it's going to cost to deliver those benefits?
+
+So quite often with these long, long projects, we talk about the time value of money, right.
+
+These projects are over time. So small changes in those assumptions can really affect how much benefits and how much costs.
+
+A project like this is going to generate. Okay.
+
+So have a look at these articles. They all have articles on the links in your own time.
+
+Have a read through those.
+
+They should help round out your understanding of how complex these business cases are, and why assumptions may not hold over time.
+
+Cool. Thanks everyone. That's business case analysis. I'll see you on Thursday for social CVA.
+
