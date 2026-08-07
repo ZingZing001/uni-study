@@ -1,0 +1,123 @@
+What did ENGGEN303 cost benefit analysis cover?	Discounted cash flow and CBA for a single project or product - income versus expenses.
+Why do systems-level projects need a social CBA?	Because they also generate social and economic benefits and have social and economic costs, not just revenue and expenses.
+Give two examples of social benefits from the slide.	Less congestion and reduced hospital visits.
+Give two examples of social costs from the slide.	Increased emissions and the ecology impact of a new dam.
+When in the business case does the social CBA happen?	After options assessment, once you have a shortlist - it is how you assess the financial case.
+Name the six cost estimate stages in order.	Programme business case estimate, indicative business case, detailed business case estimate, pre-implementation estimate 1, pre-implementation estimate 2, implementation estimate.
+Which cost estimate stage is your systems project closest to?	Between the indicative and detailed business case estimates.
+Name the three capital cost categories for a system project.	Land acquisition if needed, construction, and equipment.
+Name the three ongoing cost categories for a system project.	Labour, operations, and utilities.
+To how many significant figures should system project costs be rounded, and why?	Two - the rounding reflects the uncertainty in the estimate.
+Name two NZTA costing tools referenced in the lecture.	The NZTA Cost Estimation Manual and the NZTA Monetised Benefits and Costs Manual.
+What must you do when the costing tools do not cover your case?	Make assumptions and validate them against studies, reports, similar projects and other resources.
+In the container return scheme costing, what was assumed per machine?	$40,000 per machine, one machine serving 20,000 people on average, and $14,672 a year to lease.
+How many container return machines did the plastics team calculate were needed?	267 - 5.3 million people divided by 20,000 per machine.
+What was the total cost of the container return scheme?	$15 million - $11 million upfront in year one plus $3.94 million ongoing from year two to year five.
+What shape should an appendix costing block have?	Lettered assumptions each with a citation, then the arithmetic shown step by step, then a rounded headline figure.
+State the time value of money.	Money is worth more in the present than the same amount in the future, because you can invest it in the interim.
+What is the accept rule for NPV?	NPV greater than zero.
+What is the accept rule for BCR?	BCR greater than one.
+What is the accept rule for IRR?	IRR greater than zero.
+Can NPV, BCR or IRR be used alone to make a go/no-go decision?	No - the slide states you cannot use one of these in isolation.
+How is a package's NPV built up?	From the NPVs of the individual options inside the package.
+What is step 1 of a social CBA?	Define policy alternatives and the counterfactual.
+What is step 2 of a social CBA?	Identify the people who gain and those who lose.
+What is step 3 of a social CBA?	Identify the benefits and costs, and allocate them to time periods.
+What is step 4 of a social CBA?	Value the benefits and costs.
+What is step 5 of a social CBA?	Discount costs and benefits to a common period.
+What is step 6 of a social CBA?	Assess the CBA - is it worth investing in more research?
+What is step 7 of a social CBA?	Write the report.
+Which step of the social CBA is a stakeholder analysis?	Step 2 - identifying who gains and who loses.
+Whose guide sets out the seven social CBA steps?	Treasury's - A Guide to Social Cost Benefit Analysis.
+In the bridge example, what is the bridge's NPV against a no-bridge, no-ferry counterfactual?	Positive $5 million - it costs $20 million and saves $25 million.
+In the bridge example, what is the ferry's NPV?	Positive $10 million - it costs $10 million with $20 million of social benefits.
+In the bridge example, what is the bridge's NPV against the ferry counterfactual?	Negative $5 million - it costs $10 million more for only $5 million more benefit.
+What does the bridge and ferry example prove?	That the choice of counterfactual can reverse the conclusion for an identical project.
+What are the two possible readings of "do nothing"?	Do nothing more, meaning business as usual; or do less, meaning roll back existing initiatives.
+Beyond being a baseline, what three jobs does the do-nothing case do?	Establishes the reference case for CBAx comparisons, quantifies the cost of inaction, and demonstrates the incremental value of later options.
+The do-nothing package has no operating costs. What costs does it have?	Higher council liabilities, greater environmental degradation, decreased societal wellbeing and reduced revenue potential over time.
+Name the four types of outcome an option can generate.	Benefits, disbenefits, costs, and cost savings.
+Define a benefit in a social CBA.	A positive outcome for society, including revenues.
+Define a disbenefit.	A negative outcome for society.
+Define a cost in a social CBA.	Money the government must spend to deliver and operate the option.
+Define a cost saving.	Money the government avoids spending compared with the do-nothing case.
+Why is the definition of a cost saving dependent on the counterfactual?	Because it is measured as avoided spending relative to the do-nothing case, so changing the counterfactual changes every cost saving.
+Give an example of a benefit that is also revenue.	City Rail Link's farebox revenue.
+Why is the cost of implementation also a disbenefit?	The government must take the money from somewhere - less for education, hospitals, or other infrastructure.
+What happened at the Royal Oak roundabout?	A 2018 report recommended removing car parks leading into the roundabout; it was not implemented, and in 2022 a driver opened a door, throwing a cyclist into oncoming traffic, killing them at the scene.
+What trade-off does the Royal Oak case illustrate?	Weighing safety and damages against convenience.
+What is the value of a statistical life in New Zealand?	$12.5 million NZD.
+What is the VoSL NOT?	It is not the value of an identifiable person's life.
+Define VoSL precisely.	An economic measure of how much society is willing to pay for small reductions in mortality risk across a population.
+Where is VoSL commonly used?	In social cost-benefit analyses of transport, environmental and public health projects.
+What was the VoSL from the 1991 survey, and how large was that survey?	$2 million NZD, from a 700-person survey.
+What happened to the VoSL in 1998?	It doubled to $4 million NZD.
+What was the VoSL just before COVID?	$4.53 million NZD, after inflation.
+What survey produced the current $12.5 million VoSL?	An 8,000-person survey in 2023.
+What is the value of saving transport time, pre- and post-2023?	$7.80 per hour pre-2023, rising to $19.53 per hour post-2023.
+What is the hourly value of not being stuck in congestion?	$36.18 per hour.
+How do you calculate a congestion benefit?	Hours saved multiplied by $36.18.
+Define willingness to pay / willingness to accept.	The willingness of someone to pay to avoid a bad outcome, or the amount they would accept to give something up.
+Name four WTP/WTA valuation methods.	Contingent valuation surveys, the wellbeing valuation method, quality adjusted life years, and hedonic pricing.
+What does WELLBY stand for?	Wellbeing adjusted life year.
+Which two international guidance sources on wellbeing valuation were cited?	The UK Green Book guidance on wellbeing and the Australian Social Value Bank.
+What are the three stages of impact analysis, and their scope?	Identify - wide and comprehensive; quantify - where possible; monetise - selective.
+What is the output of the identify stage?	A comprehensive but unquantified list of impacts.
+What is the output of the quantify stage?	Impacts quantified but un-monetised.
+What is the output of the monetise stage?	A selective set of quantified and monetised impacts.
+Work the congestion example through identify, quantify, monetise.	Identify: reduced congestion increases transport efficiency and reduces travel time and driver frustration. Quantify: how much time saved, emissions avoided, vehicle operating cost saved. Monetise: via the Value of Travel Time Savings, the Emissions Trading Scheme and CBAx.
+How many impacts should you monetise?	One to three primary impacts.
+What determines which impacts you monetise?	Their relevance to the problem statement you are trying to improve, and their magnitude.
+What should you do in the identify stage in practice?	Minimum analysis to sense whether an option does some good, and check whether you have been too narrow.
+What should you do if the evidence base for monetising is weak?	Use reverse CBA analysis.
+What is CBAx?	A Treasury spreadsheet model containing a database of values for monetising impacts on the 12 domains of wellbeing.
+How many monetised impacts are in the CBAx impacts database?	Over 250.
+Name the four things CBAx provides.	A consistent approach through common assumptions and values; a long-term and broad view of societal impacts, costs and benefits; the ability to monetise and discount; and transparency around assumptions and evidence base.
+Name two tools other than CBAx for monetising impacts.	The Waka Kotahi Monetised Benefits and Costs Manual, and PEET, the Project Emissions Estimation Tool.
+Where is the full worked CBAx example?	Page 24 onwards of the CBAx guide.
+Name five limitations of CBAx.	Not all impacts are relevant; not all impacts are listed; evidence used may not be the best available; data sets can be incomplete; and it gives exact dollar values when the estimation is unlikely to be that accurate.
+What is the one-line rule for using CBAx figures?	Understand the assumptions behind the number, not the number itself.
+Why might a CBAx figure not transfer to New Zealand?	Different geography, different behaviour, and interventions that are less effective in the local context.
+State the six assumptions behind the plastics do-nothing wellbeing calculation.	The entire NZ population; a 0.05-point reduction in life satisfaction per person (HM Treasury 2021); all individuals negatively affected; an 8% discount rate; a 10-year time frame; and undiscounted benefit of zero.
+What value did CBAx give per one-point change in life satisfaction?	$5,212 per person per year.
+What NZ population figure did the plastics team use?	5,330,600, provisional as of 2025.
+What annual loss did the plastics do-nothing wellbeing calculation produce?	$1.4 billion per year.
+What ten-year NPV did the plastics do-nothing wellbeing impact produce?	Approximately negative $12 billion.
+How much plastic does New Zealand send to landfill annually?	Approximately 380,000 metric tonnes.
+What percentage of New Zealand's plastic waste ends up in the ocean?	About 0.5%.
+What is the quantified cost range of plastic waste per tonne?	USD $3,300 to $33,000 per tonne (Beaumont et al. 2019).
+What per-tonne cost did the plastics team assume, and why?	USD $15,000 per tonne - roughly the middle of the cited range.
+Work the marine life calculation.	380,000 tonnes x 0.5% = 1,900 tonnes; x USD $15,000 = USD $28.5 million; at 1.73 NZD per USD = NZD $49.3 million, about $50 million.
+What litter reduction figure did the do-medium package assume?	8.3% (Davies, Barton, 2022).
+What willingness-to-pay welfare gain figure was used for littering?	$14 per household per year, based on a 14.5% litter reduction figure.
+How did the team scale the littering welfare figure?	Linearly - 8.3% divided by 14.5% gives a scale factor of 0.57, so $14 becomes $8.01 per household per year.
+How many households are there in New Zealand per Stats NZ 2024?	2,020,000.
+What annual welfare gain did reduced littering produce?	$16.2 million per year, about $16 million.
+Do-nothing costs $12 billion and the best package recovers $16 million a year. What does that mean?	That the best option is simply the least bad - the smallest negative NPV - not a positive result.
+What is the purpose of discounting at systems level?	Maximising the return for each dollar of taxpayers' money spent.
+What is the discount rate basis at project level in ENGGEN303?	The weighted average cost of capital, WACC.
+What are the two discount rate concepts at system level?	The social opportunity cost of capital, the opportunity cost of private investment; and the social rate of time preference, the cost of benefits now versus in the future.
+What discount rate do you use for your project?	8%.
+Why does discounting favour projects with early benefits?	Later cash flows are discounted harder, so benefits delivered in fifty years are worth far less than the same benefits in ten.
+How expensive can a real cost benefit analysis be?	It can be back of the envelope, or involved research costing over $1 million.
+State the rule on whether to run a CBA.	The cost of conducting the CBA must not exceed the potential value of the project - the CBA of the CBA.
+Who carries out social CBAs?	Policy advisors at Treasury and consultants, and decision makers in government.
+How should CBA values be presented?	In summary tables of costs, benefits and metrics.
+What should be used instead of point estimates in practice?	Ranges or confidence intervals - though point estimates are acceptable for Systems Week.
+To what accuracy should reported values be given?	Usually two significant figures, never to the nearest dollar.
+What MUST be highlighted if monetary costs outweigh monetary benefits?	Any large intangible benefits, flagged to the reader in the summary.
+Where do sources and assumptions go in the report?	In the appendix.
+Besides the numbers, what should the report provide?	The intuition behind the result - the tone and feeling of it.
+Why does the timeframe of analysis matter so much?	A two-year horizon may produce a very different result from a twenty-year horizon.
+Why does short-term decision making bias long-term outcomes?	Government funding and election cycles favour short-term thinking, while many challenges are intergenerational.
+Which worldviews does the lecture note encourage multi-generational thinking?	Indigenous worldviews.
+Name four outcomes where financial values may not reflect societal values.	Equity, biodiversity, conservation, and national infrastructure - plus public versus private ownership.
+What does it mean for a decision to masquerade as a financial case?	Assumptions, discount rates and valuation methods can be chosen to influence the preferred option, so political priorities shape the analysis as much as the evidence.
+What three flood mitigation options were offered as an example?	Flood banks, raising buildings and reinforcing bridges, or moving the settlement to higher ground.
+What is the key point of the flood example?	The decision on timeframe of analysis may drive the decision itself.
+Why is a playground outside Parliament a hard CBA?	Costs are easy to measure but the benefits - culture of Parliament, attracting MP talent, trust in institutions - are all non-financial.
+What extra difficulty does the playground raise beyond intangibility?	Attribution - even if trust in institutions improves, was it the playground?
+What questions does the interisland ferry CBA raise?	The value of a nationally integrated rail system, how to weigh resilience to seismic events and climate change, and what timeframe and counterfactual to measure against.
+What are the four key takeaways of the lecture?	Identify, select and rank quantifiable impacts by significance; monetise using CBAx, comparable cases, studies or reports; still communicate impacts that cannot be monetised or quantified; and compare non-monetary impacts using quantitative or qualitative analysis like MCA, or discussion.
+What technique is named for comparing non-monetary impacts?	Multi-criteria analysis, MCA.
+Who delivered ENGGEN403 Lecture 5?	Marc Lewis.

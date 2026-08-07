@@ -1,0 +1,817 @@
+[Auto-generated transcript. Edits may have been applied for clarity.]
+Have you booked a ticket yet? I haven't, I have to. This time, I love Seoul, so definitely should.
+
+Me and my partner will come. I want you guys to start.
+
+We've just got a really packed lecture, so that's good. Yeah, yeah. Hey, guys, listen up.
+
+We've got interview here. Going to chat about their production this year. Um.
+
+Hi everyone. My name is Stella. I'm the assistant producer for this year's engineering review.
+
+My name is Tara. I'm the assistant plot director for engineering review. Um, and the tickets for our show this year are on sale now.
+
+Um, the show dates are the 27th or 29th of August, so that's Thursday through Saturday of week six.
+
+So if you don't already know, engineering reviews, the student led production.
+
+We have a plot based on Star Wars. We've got comedy skits, videos, vocals, a live band and dancers.
+
+And you probably know somebody already who's in it because there's a lot of partners this year.
+
+So get your tickets, show up for your friends, support the arts.
+
+Yeah. Um, you can scan the QR codes to get the link to the tickets, and we hope to see you there.
+
+Thank you. Thank you.
+
+Thanks. All right.
+
+How's my sound? Out the back. All good. Thumbs up. Yep.
+
+Can you hear me? Not too loud. Anyone?
+
+Hello? Yes. All right. We'll take that. Why don't I take your seats, guys, we're kicking off.
+
+Thanks. All righty.
+
+We got a packed lecture content today, so we're going to jump right in.
+
+Social cost benefit analysis. So how do we within these business cases which we covered on Tuesday.
+
+How do we go about quantifying and monetise monetising some of the impacts that
+
+the interventions or the options or solutions that you create and implement.
+
+And we're having another technical difficulty today. All right.
+
+We're going keyboard. So learning outcomes we're going to talk about social cost benefit analysis and how the supports evidence based decision making.
+
+So we talked about how we make these business cases to inform the decision makers so they can make the right decisions.
+
+Okay. So how do we collate that evidence. How do we compare options.
+
+How do we compare evidence of these systems level projects. And so we'll talk about applying the social cost benefit analysis.
+
+We'll start off with a quick recap of the cost benefit cost benefit analysis concept.
+
+We covered an area in 303. How do we think about non-monetary monetary impacts.
+
+How do we compare those and what are some of the limitations of this cost benefit analysis.
+
+So we'll do a quick recap. And then we'll jump right into the social cost benefit analysis.
+
+What I've done is for this canvas page have a look at some of the previous industry business cases.
+
+And we've also uploaded two of last year's Systems Week business cases that you guys can take a look at.
+
+They've got a whole bunch of information in those appendices on how they do some of these calculations.
+
+And so really when we're thinking about building this toolkit, we're jumping into the financial case here.
+
+And so there will be paramount or really important for your systems week projects.
+
+And so again what we're going to look at that financial case.
+
+You'll have to analyse two, at least two of your shortlisted packages to then determine what that preferred way forward is going to look like.
+
+So where we looked at the solution space, we're now looking at that financial case.
+
+And so a quick recap of some concepts, hard and fast.
+
+We covered discounted cash flow analysis which uses the time value of money.
+
+Can anyone tell me what the time value of money is? Does anyone remember?
+
+That's okay because we'll come to it in a second. And these cost benefit analysis focus on a project or a singular product or project or service.
+
+Mainly looking at the impacts being revenue versus costs.
+
+So what's the revenue that you're bringing in for the value that you're delivering to that customer.
+
+And how much does it cost? In systems level projects we use a social cost benefit analysis.
+
+So because we're implementing projects or options in society that have a large,
+
+wide ranging array of impacts on different facets of what we call well-being, or you can think of these as domains for sort of quality of life.
+
+And we'll have a look at those today as well as in tomorrow's lecture.
+
+But these projects generate social and economic benefits and they cost money to produce.
+
+A quick recap of costs. So if we look at those program business cases that we talked about on Tuesday's lecture,
+
+obviously right at the start, when you're first making these business cases, they're very high level.
+
+The actual costs that will end up being in the detailed case is going to be further away at this stage.
+
+So where you guys are sitting is right around somewhere in between the the indicative and the detailed business case.
+
+Obviously, as you move towards full implementation, the actual cost of the project is going to be pretty close to what that case is.
+
+Obviously not 100% of the time, but you guys are sort of sitting around here.
+
+So we're looking at high level categories, categorised costs.
+
+And so when we looked at line by line costs in chain 303, what we're looking at engine 4 or 3 is more high level broad categories of costs.
+
+So let's say you want to build a factory to do some sort of, um, project.
+
+For example, let's say you want to build a river catchment for plastics to stop all the plastics flowing down the river.
+
+You're going to have some capital costs.
+
+Maybe you need to buy a bit of land around where you're implementing that, or you might need to have some machine costs, right.
+
+So we're thinking high level costs here. And so some um, costing tools that you might come across or can use, these are mainly around transport cases,
+
+but they can give you a good idea of the sort of level or orders of magnitude that we're looking for.
+
+For these types of costs really important, you must round to some level of significant figures,
+
+usually two at maximum three, right, but not down to the dollar, not even down to the closest 1000 $10,000.
+
+Usually we're dealing a millions, hundreds of millions, even billions.
+
+Okay. So if you come up to me and you're like, oh, um,
+
+machine is or our implementation is going to cost 100,250,785, I'm going to be like, how do you know that?
+
+Because if we look back at this, right,
+
+the costs at this level are going to be pretty far away from what those actual costs are going to end up being.
+
+So making sure you're rounding to account for that uncertainty. So you can use some of these tools here.
+
+A lot of the time these won't help you very much.
+
+Or they may not help you with your specific systems case. In that case, you may need to go make some broad assumptions.
+
+Validate those assumptions by looking at research, looking at similar projects, looking at reports or other primary resources.
+
+Okay. So there's a little bit of research that you may have to do um, during systems week.
+
+And so this is an example from one of the Rethinking Plastics Systems Week reports.
+
+This was around the container return scheme.
+
+So the idea that you can get plastic and you can return them to certain collection points and those can be returned.
+
+How much do those cost. And so you'll see you have to make some assumptions around those costs backed by evidence.
+
+How many machines, how many buildings, how many plants.
+
+Right. Where are they going to go? What's the geography like? Where are you going to put them?
+
+How many? Right. And so yes, these ones here are down to the dollar.
+
+But when you're reporting them, this is just a working step. When you're reporting those make sure to run those to two significant figures.
+
+Okay. So you can have a look at that in your own time. And again have a look at those previous systems cases and their appendices.
+
+And they have a bunch of detailed calculations that you can go through in your own time.
+
+But these are the types of sort of high level cost calculations we're looking at.
+
+And so recapping the time value of money from ancient 303.
+
+The time value of money states that money is worth more in the present than the same amount is worth in the future,
+
+because we can invest it in the interim. Right? We can take that money.
+
+We can put that money to good use. We can generate value over time.
+
+Right. So that same amount would be worth more in the future. And that's important for our discount rates.
+
+Right. And we'll talk about discount rates in a second.
+
+But just covering those economic metrics that we covered in engine 303 net present value.
+
+So we're looking at those discounted benefits minus the discounted costs.
+
+Discounting those to the period. And then summing all those gives us our total NPV.
+
+And so when you're coming up with a package or a package of options, the total NPV for that entire package would be made up of a bunch of smaller
+
+NPV totals for each of those options or solutions that you're implementing.
+
+Then the benefit cost ratio. So taking the present value of those benefits over the present value of those costs and the internal rate of return,
+
+what is the rate of return that makes that zero.
+
+Okay. So that's a quick recap. We should all be familiar with these by now.
+
+And NPV greater than zero is desirable.
+
+We would accept similarly with the benefit cost ratio greater than one or an internal rate of return greater than zero,
+
+showing that we are generating some value. And remember we can't use these in isolation.
+
+We need to use them together in order to create a picture of what the economic outlook for these projects are.
+
+Okay, so that was a quick recap into social cost benefit analysis.
+
+Once you have completed your options assessment, you've assessed them against DFV, CSS Critical Success factors.
+
+You have your final shortlist or a series of shortlist packages.
+
+You need to assess them using social cost benefit analysis.
+
+And so these are the steps that we'll be going through today for the social cost benefit analysis.
+
+First we need to define the counterfactual okay.
+
+So what's our baseline for comparison of our options. Then we need to identify who's going to lose who's going to gain.
+
+So who are those key stakeholders. Then identify the cost and benefits and identify our time period for this analysis.
+
+Value and monetise those costs and benefits. Discount those to the cost to the common period or to the present.
+
+We need to determine is the CBA worth determining or do we need or do we need to carry out more research?
+
+And then we need to summarise the facts and write the final report.
+
+And so you can have a look at that link that takes you to the guide on Treasury's website.
+
+But we're going to walk through that today. And so the counterfactual what's our baseline.
+
+What's our baseline for analysis. And so you can read through this in your own time.
+
+All this is saying is that it matters what your baseline is.
+
+So if our baseline would be say having nothing.
+
+So down here against the no bridge, no ferry counterfactual, the bridge would be worth it.
+
+But if we compare it against having a ferry terminal, for example, then the bridge may not stack up.
+
+So all this is trying to say is that it matters what we define as that baseline case of what we call that do nothing case.
+
+What does do nothing mean? Does it mean we're going to roll back the investments that have already been made?
+
+Does it mean we're going to do nothing more and we're just going to keep the status quo?
+
+Okay. So defining what that baseline is is really important.
+
+And so if we look at the plastics project from last year.
+
+They needed to define this, and it was really important that they define what that counterfactual was.
+
+What does that do? Nothing. For some teams, it meant that they were going to keep the status quo.
+
+So all of these funds and implementations that are currently being carried out by the government would be kept in play.
+
+For some teams, that meant taking away all of the current investment and literally doing nothing or even doing less.
+
+And that really matters towards how you compare the solutions or the options that you're coming up with.
+
+So just a little excerpt there.
+
+But they currently had they had their do nothing outlined as keeping the current day conditions or keeping that status quo,
+
+keeping what was already happening. So really important.
+
+Make sure you have a good idea of what that do nothing case is.
+
+And so for the Rethinking Plastics report the do nothing was really, really bad, right?
+
+They do. Nothing is thousands of tons. Keep going to landfill. You keep producing all those greenhouse gases.
+
+We keep paying for more and more landfill. All the plastic and all of the pollution still going into the rivers.
+
+Okay. So the really significant negative are what we call dis benefits by doing nothing.
+
+So much so that for some teams they do.
+
+Nothing was so bad that their options that they eventually generated didn't actually get them all the way to positive.
+
+Right. So you're just really you're implementing solutions to create the least negative outcomes.
+
+And so let's have a quick look a little bit further. So step two identify who gains who loses.
+
+This is a stakeholder analysis identifying who those stakeholders are I don't want to spend too much time here.
+
+You'll have a look at stakeholders next week. Then we need to start identifying and valuing the benefits and costs to society.
+
+And they can be monetary or non-monetary. So benefits can be measured and money terms financial.
+
+They can also be measured in non-monetary terms. So they could be quantifiable potentially reducing customer complaints or more qualitative.
+
+And so what we're going to do tomorrow is look at some of those more qualitative measures and how we compare those.
+
+But first off we have to identify the benefits and the costs. So what are those impacts on people.
+
+Things like reduced congestion things like having clean beaches.
+
+If you're thinking about plastics reducing harm to wildlife.
+
+Again, if you're thinking about plastics, then we need to quantify those benefits and costs using various tools.
+
+And then finally, if we can monetise those costs and benefits against criteria that have been established in the literature.
+
+And so what I want to talk about next is something that's really important when you're thinking about these impacts.
+
+And so really these solutions or options can generate four types of outcomes.
+
+You can have benefits. So societal benefits right.
+
+So creating something creating some sort of positive outcome for society.
+
+It could also include generating some sort of revenue.
+
+So if you think about City Rail Link which we're going to hear more about throughout the course,
+
+they actually generate what they call firebox revenue. So they generate revenue by charging you guys to use their services.
+
+Right. So that's a benefit does benefits and negative outcomes for society.
+
+So let's say you implement a tax on plastics.
+
+Write that tax is going to increase costs all throughout the supply chain.
+
+And that's going to have negative impacts or dis benefits.
+
+Maybe a company just can't bear that cost of the new tax. And so they go out of business.
+
+People lose their jobs. Right. Those are real impacts that could come about through the implementation of some of these options.
+
+And then we have costs. So these things take or cost money to implement.
+
+The government has to spend money to make these things happen. This potential for cost savings as well.
+
+So again looking at plastics, if we implement some solution that reduces the amount of plastics go into landfill,
+
+then that's going to reduce our costs of having to deal with those landfills or dealing with that waste.
+
+So there's a cost saving there as well. And so benefits and cost savings, cost savings are a benefit, right.
+
+Because we're reducing the amount that the government needs to spend on these things.
+
+So benefits and cost savings go hand in hand. Similarly Costs.
+
+The cost of implementation is considered a risk benefit.
+
+It's considered the the government's going to have to take money from somewhere to spend on your thing.
+
+What does that mean? It could mean less money for education, less money for hospitals.
+
+Less money for the new bridge that we need. Okay, so these kind of go hand in hand.
+
+So you need to be thinking about these four facets or these four outcomes when we're coming to try and monetise or identify these costs and benefits.
+
+Okay. So into monetisation of social impacts. So this is a little little story.
+
+This is a story about the Royal Oak roundabout.
+
+And I just wanted to highlight that the impacts of projects that you may work on can in fact be as high as this.
+
+So 2018 report said removing car parks was sorry.
+
+Recommended removing car parks leading into the roundabout, but wasn't implemented.
+
+And what happened was that resulted in a death or a fatality when a cyclist was thrown in front of a car.
+
+And so the point being is that you make decisions as engineers around these projects,
+
+you implement projects you're part of projects that have real impacts on people.
+
+Now, obviously this is a really extreme case, but for some of you, this might be what you have to deal with.
+
+So you have to weigh things like safety, like how much you value a human life versus things like convenience.
+
+It's more convenient to have the car parks there. What about the impacts of the businesses?
+
+If you remove those car parks, right, less foot traffic, or when you are putting in a new roadway,
+
+or you're putting a new construction like on K Road or City Rail Link,
+
+all of those businesses that were affected by all of the roadworks that couldn't have people coming through to their companies.
+
+So you can have a quick read. You can have some further reading. Have a look at that article.
+
+But the point is, is that your projects, your decisions have impacts on people.
+
+And so we actually have what we call the statistical value of a human life.
+
+Does anyone want to try and guess how much that is? What do you think the value of a human life is?
+
+Well, it's like $5 million. So looking at the at the PDF.
+
+Yes, 12.5 million NZD. So that's the value of statistical life in New Zealand.
+
+So when you're weighing up these projects, it allows you to weigh up the impacts on mortality, the impacts on risk of mortality.
+
+Okay. So the point is that it's not the actual value of any one of yours lives.
+
+Any one of you's lives, one of you's lives. But it's really about being able to have some sort of data or criteria to measure things like convenience,
+
+like time saved against things like risk to people's lives.
+
+And so just a bit of history going back through used to be, oh, basically these are statistical human life.
+
+And any of these, um,
+
+monetary impact measures are based usually on surveys of people based on surveys of people and what we call the willingness to pay,
+
+willingness to pay. And so back in the day, 98 or 91 was 2 million.
+
+Then it went up to 4 million. Before Covid, it was around 5 million.
+
+And then the most recent study was at 8000 person survey in 2023, which judged that 12.5 million NZD.
+
+And so, again, you need to weigh these things against convenience, against time savings,
+
+against emissions, to try and make sense of this and what you need to do.
+
+And again, these are done based on surveys. They survey people.
+
+How much are you willing to pay to have like one minute less sitting in traffic?
+
+Something like that. Some people other things are like measuring happiness.
+
+The the congestion measure is a measure of how happy people feel sitting in traffic.
+
+How happy do you feel sitting in traffic? How much would you be willing to pay to not sit in traffic?
+
+And so that brings us to this point around willingness to pay. This is a bunch of surveys that get done.
+
+They have various measures, and they're really based on some of the UK's work on wellbeing and this thing we call wellbeing or quality of life.
+
+And so you can have a look at those links in your own time for some further reading.
+
+But that's what all of this stuff is based on. So what we're going to look at is this tool called the Cost Benefit Analysis Spreadsheet.
+
+And that is a database of all of these types of data.
+
+So things like how much an ambulance visit would be, things like other health concerns um, homelessness potentially.
+
+And they're updating it all the time. Okay.
+
+So that's a little prefix to social impact. Valuing things that matter, things like convenience and time versus things like environment animals.
+
+These are one of the measures that I love in the databases around how much people are willing to pay to save an endangered species.
+
+How much would you all pay to save an endangered species? Okay, so this comes straight from Treasury's guide on cost benefit analysis.
+
+But we're going to do a divergent thinking first right.
+
+We're going to identify all of the possible impacts that a particular innovation sorry a particular option could have.
+
+Then some of those we're going to be able to quantify a subsection of those.
+
+We're going to be able to quantify where possible. And then a subsection of those, we're going to be able to monetise and put into monetary terms,
+
+and to compare those in our social cost benefit analysis. So how many of those do we monetise?
+
+Well that's up to you guys. Usually it's somewhere around the sort of 2 to 5 mark.
+
+It varies depending on the project, but you're going to have a priority of some of the biggest impacts,
+
+and they're going to be relevant to whatever your option is. Okay.
+
+So it's up to you. It's up to the context of that project.
+
+And so we need to identify those impacts to do with society environment health education quality of life.
+
+And so this is what we call the living standards framework. It's sort of a little soft introduction to it.
+
+We're going to go further in detail onto on this tomorrow. But as you can see, things to do with our collective well-being, things like health,
+
+knowledge, cultural capability, work, housing, income, environmental amenities.
+
+So things to do with the environment, leisure, friends, family, safety and other more subjective well-being.
+
+So we need to be thinking about what do our options really affect?
+
+What do they have a play on? So if you're thinking back again, going to plastics.
+
+If we think about plastics. What happens when we reduce plastics?
+
+There's less of them going into landfill. So there's less volatile emissions coming off the landfill.
+
+There's potentially impacts on wildlife, marine wildlife in particular.
+
+Right. Plastics go in the rivers. Then they flow into the oceans, kills turtles, kills fish, kills dolphins.
+
+Okay. And we care about those, right? How much do you care about them?
+
+So these are the things we're weighing up. And so that brings us to our first tool that we can look at which is the CBA's spreadsheet.
+
+So this is a tool on Treasury's website. And it looks it contains a database.
+
+You can actually do the entire cost benefit analysis. But for the purposes of engineering 403,
+
+we're mainly going to look at the database that they have on some of these quantified and monetised social impacts.
+
+And so it allows a consistent approach to this cost benefit analysis, cost benefit analysis because it has common assumptions.
+
+And there are those sorry, the research behind some of these figures have common assumptions.
+
+It's a long term view of those costs and benefits, allows you to discount where possible.
+
+And this transparency around the evidence base. And that's a key one.
+
+So we want to talk about in a second is that the actual figures don't really matter.
+
+What matters are the assumptions that underpin all of those figures.
+
+And so by understanding what those assumptions are, you can understand what your effect is going to be with your options.
+
+And so when we use the spreadsheet and can have a look at it here, we want to look at that impacts database.
+
+We want to try and monetise the impacts that are relevant as best you can.
+
+There are other tools as well that we'll look at. So there's some transport benefits in this manual that you may look at.
+
+There's some emissions data as well that you can look at. Otherwise you will need to do your own research.
+
+Have a look at some papers. Primary resources to figure out how to monetise some of these.
+
+You can have a look at the full work example on page 24 in the guide.
+
+And so this is what it looks like. These are some of the impacts that they have.
+
+And so the cost of the health system from a fatal crash not the value of a human life, but the cost to the system $17,000.
+
+Similarly serious crash, $20,000. Isn't that interesting that a fatal crash and a serious crash.
+
+The serious crash is higher. Interesting. And so there's a whole bunch of these impacts that are listed on this database.
+
+You can have a look at those in various wellbeing domains health education all across the board.
+
+Some of those will be helpful for your systems project. Some of those may not be so last year.
+
+And the Rethinking Plastics, there were some environmental impacts that were really useful,
+
+but there were some other impacts that teams had to go out and do a little bit
+
+of their own research to figure out how to kind of monetise these impacts.
+
+And so they do nothing but do nothing. Is the baseline right.
+
+So our counterfactual. So we need to understand what that do.
+
+Nothing looks like. So we've defined it previously as either do nothing more or do less.
+
+Whatever it might be keep the status quo. Then we need to start to try and monetise what the do.
+
+Nothing actually is. If they do, nothing is -$100 billion.
+
+We probably want to do something about it. That's an extreme case.
+
+But in this example you can see one effect that they quantified and monetised was reduced wellbeing.
+
+Again, several assumptions um reflecting reducing of 0.05 points in life satisfaction is applied per person,
+
+and then they look at the impacts database to try and monetise that based on all these assumptions and then show us you're working here.
+
+So this is a perfect example of what we want to see in your appendices in your Systems Week projects.
+
+So the do nothing approach demonstrates a 0.05. reduction in well-being from plastic pollution valued at $5,200 per ton.
+
+Uh, sorry per one point charge change per person results in an estimated annual loss of 1.4 billion.
+
+When applied to our population of just over 5 million over a ten year period, this equates to an NPV of -12 billion.
+
+So that's just one. That's just one well-being domain. Just one.
+
+Remember, we were probably looking at 2 or 3, even four major impacts that we want to quantify.
+
+So it doesn't really make sense to only quantify or to bother quantifying a facet of the problem that's only going to be,
+
+say, -1,000,000 when the other pieces of the pie are in the billions.
+
+So you're going to have a priority of the largest sort of two, three,
+
+four impacts there that are going to make up for the bulk of the impacts for your do nothing option.
+
+And so this one was damage to marine life as a cost or a benefit.
+
+Remember costs benefit similar. Current estimates show New Zealand spends approximately 380,000 tons of plastic.
+
+Based on global estimates, 0.5% of New Zealand's plastic waste ends up on the ocean.
+
+The cost of plastic waste per tonne has been quantified as USD 3000 to 33,000.
+
+The annual cost was assumed to be 15,000 somewhere in the middle and then using some calculations,
+
+the cost to marine life is approximately 50 million. Okay.
+
+So again this team quantified and monetised several more under the do nothing.
+
+And that formulated their baseline to then compare their options against.
+
+So looking at do medium as their package to implement benefit gains or wellbeing gains from reduced littering littering.
+
+And based on that figure approximately they can save 16 million per year, right?
+
+They had several others.
+
+But if they're only weighing up to, you know, 16 million, 15 million, probably less than 100 million, but their do nothing case was -12 billion.
+
+So really sometimes in these cases, the best option is simply the least worst Option.
+
+You're not always going to create a positive benefit if the problem is so horrendously big.
+
+Okay. Good. We're very quiet today.
+
+So there's some limitations to the CBA. Not all impacts will be relevant to your projects, and not all impacts are listed in the databases.
+
+So the first step when you're doing your social CBA probably towards Wednesday of Systems week.
+
+Have a look at that impacts database first and then move to other sources if there's absolutely nothing there.
+
+But remember do that brainstorm first, brainstorm and ideate all of the potential impacts that the do nothing and your options will have.
+
+Data sets can be incomplete. Um, sometimes the evidence that base that is used may not be the best.
+
+So we had one report that everyone jumped on last year, and what they found is they started to look at it as that,
+
+um, some of these assumptions aren't really don't really make sense in our context.
+
+All right. So maybe New Zealand's geography is just as different.
+
+Maybe our people act differently, maybe some educational resource wouldn't be as an effective option here.
+
+Right. So always remember to bring it back to the New Zealand context. So understand those assumptions not the number itself.
+
+Now just quickly step five would be discounting the benefits and costs to today's value using a discount rate.
+
+And understand because these projects are large and extend over large periods of time,
+
+that time value of money or that discount rate is really important.
+
+Okay. It's really important. And we'll talk about a little bit about that towards the end of the lecture when we come to limitations.
+
+And so I don't want to spend too much time here either. But understand that there is some stuff that goes into calculating the discount rates,
+
+compared to 303, where we looked at the cost of debt or the cost of equity.
+
+How to service that. We need to make sure that our projects were delivering more value than they cost.
+
+Similarly, we need to deliver more value to society than what they cost.
+
+For your projects, you'll be using 8%. And then we need to assess the CBA.
+
+Cost benefit analysis and business cases are really expensive. They're really expensive.
+
+And so the size of the project matters and it determines when we need a project or not.
+
+So the people who carry these out policy advises and decision makers.
+
+But the cost of doing the CBA cannot exceed the potential value of the project.
+
+So it doesn't make sense to do a CBA for a societal project that's only going to cost one 5 million.
+
+That's pennies compared to what it might cost to collate all of this data.
+
+And then step seven write the report. So then we want to write up the report.
+
+So we use summary costs summary tables for those costs those benefits.
+
+Have a look at the guide. It points out some good stuff to use there.
+
+In practice we would use confidence intervals right. Not point estimates.
+
+But again that requires a lot of research a lot of studies.
+
+And so point estimates are fine in systems week.
+
+But recognising you would really carry out a proper sensitivity analysis, changing those assumptions and bringing in confidence intervals as well.
+
+If you have an option that may not perform, it's really hard to monetise those impacts.
+
+But there's a whole bunch of qualitative impacts that are positive.
+
+Bring those out. Those intangible benefits are important. They commonly come up in housing projects, right?
+
+It's hard to see those impacts. But if you house people, they don't spend money.
+
+They spend less time in the hospital. They have less burden on society.
+
+They have less than welfare. Right. So some of these are monetizable.
+
+Some of them are a little bit harder, but you should still bring them forward in the business case.
+
+And so it should provide some of the intent or intuition behind those results.
+
+And of course always listing your sources and assumptions. And so a few things here.
+
+The time frame of the analysis is important. But remember back to 303.
+
+It favours early benefits and later costs because over time they're discounted further.
+
+So if our benefits occur really late in the game, it takes 50 years to generate those benefits.
+
+That project's going to look far worse off than a project that would then an option that would generate benefits in those first ten years.
+
+So what's that appropriate timeframe? We're going to give you the time frame in this course.
+
+Short term decision making can bias long term outcomes. So governments think in election cycles right.
+
+Whereas many of the challenges today are intergenerational. They require longer term thinking.
+
+And just a little point to indigenous worldviews usually operate on that intergenerational timeline.
+
+So we'll look at a couple of those tomorrow. Again, we already cover this.
+
+Costs and benefits can be difficult to measure and monetise. Do those financial values really reflect societal values?
+
+And other decisions driven by value politics, or are they just masquerading as a financial case?
+
+So the assumptions, the discount rates, those valuation methods all influence that preferred option.
+
+But political priorities shape the ultimate decision that's made. All around a bit quick today.
+
+That's okay. So a couple cases to finish up the day.
+
+And so when we're talking about time frames and we're talking about these problems existing over large time frames,
+
+the time value of money and the timeline of your option implementation becomes really important for flooding.
+
+These flooding effects are happening now.
+
+So what good is it to have something, an option that's going to make people safe in 20 years time when they're losing their houses tomorrow?
+
+Right. So thinking about our timelines of our different options,
+
+some options you're going to be able to implement in the really short term straight away tomorrow,
+
+maybe some bigger infrastructure projects like big transport projects.
+
+They're going to take many years to come and start generating benefits.
+
+Five years. Ten years. City Rail Link was a nine year construction or eight year construction with a business case that was made in 2015.
+
+So some of these options that might look good may not actually solve the problem.
+
+For people that are experiencing these impacts now or those benefits now.
+
+So Parliament had a playground just pointing to something that's a little bit harder to monetise.
+
+A cost benefit analysis for a playground outside of Parliament. I actually don't think it's there anymore.
+
+Right. It's been it's back, it's back. That's good.
+
+So the costs are easy to measure, but how do we measure those benefits?
+
+They're all non-financial. They're all intangible. Culture to Parliament, attracting more talent.
+
+Being a place that. People that come from overseas and they see a beautiful playground with people playing outside the front on our government lawn.
+
+Right. How do we measure some of these? Sometimes you just can't. And so the business case needs to reflect that certainty or uncertainty.
+
+And again what time frame do you measure that on. It's built pretty quick.
+
+And those benefits are going to come for years maybe even decades.
+
+So again thinking about those time frames. What about our interisland ferries or our not interisland ferries?
+
+What value would you place on a nationally integrated rail system?
+
+There's a whole myriad of transport benefits by being able to have ferries with rail capability.
+
+That's what we're trying to get to. The reason that these got cancelled decided that they were too expensive.
+
+The works on either side of the channel were too expensive.
+
+But what's the value of the lost productivity when you cancel those ships?
+
+If we were supposed to get ships in 2028. But we're not getting them till 2030. How do we measure that sort of productivity loss?
+
+Did they did they think about that? Did they not? Who's to say I'm not in cabinet.
+
+And how do you weigh resilience of seismic events climate change, Covid.
+
+Right. One of the limitations we talked about with business cases is the idea that they're a snapshot or a cross-section in time.
+
+Other things are going to happen. So again, what time frame do you measure this on.
+
+And what is your counterfactual. What's your do. Nothing. If we don't have an enabled rail system between two islands.
+
+Then we should try to measure or monetise the benefit of granting that transport.
+
+So some key takeaways. So you need to identify, select and rank those impacts by the order of significance.
+
+So you're going to have a whole bunch of impacts that create the most impact.
+
+And then monetise those using comparable cases studies or other reports.
+
+Some won't be monetizable. And we'll look at what we do with those tomorrow.
+
+We compare those using what we call living standards framework or the four capitals model.
+
+And we do that qualitatively. But the important thing is that those are communicated in the report.
+
+It's not all just about monetisation, but it's about Communicating what all the intangible impacts or positive benefits are as well.
+
+And we compare those. And again looking at that tomorrow comparing non-monetary impacts.
+
+Quantitative versus qualitative and discussing those in the report.
+
+All right we ended a bit early today. So thank you very much. We'll see you tomorrow for qualitative analysis of social impacts.
+
+Thank you. Any questions come down.
+
+We'll have a chat. 45.
+
