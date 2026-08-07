@@ -26,3 +26,24 @@ Flagged but not resolved: the L4 open question about whether "one other practice
 2. **Due 9pm tonight, 7 Aug.** If not yet submitted, the checklist at the bottom of `notes/A2-brief.md` is the fastest path to a pre-submission pass.
 3. After submitting: set `status` to `submitted` in `progress.json` and append the outcome here.
 4. When marks arrive, record the actual feedback. A3 is also 800-900 words and also reflective, so A2's feedback is directly transferable - and L6 shows the lecturer volunteering A1 marking patterns to the class, so the same is likely for A2.
+
+### 2026-08-07 (later) - material mapping - device: macbook
+Supplied `runjiacv2026.json` (CV export) and the personal site. The /ask-me page is a client-side RAG chatbot so it returns nothing to a fetcher; pulled the underlying content instead from `ZingZing001/PersonalWebsite-V2` (`src/data/blogPosts.js`), which is where the chatbot's knowledge base is built from anyway. Wrote `notes/A2-material-map.md`.
+
+**Still no prose drafted.** The brief forbids it and the 3-mark block depends on things only the author knows. What the note does is sort existing history against the rubric and pose the questions that only he can answer.
+
+The strongest thing that came out of this is structural rather than anecdotal: **the brief's own framing of the constraint - "a university course, which will have obvious differences to a real-world full-time industry job where you are only focusing on one job at a time" - describes his actual situation almost literally.** He is concurrently a part-time Graduate SWE at EROAD (Tax team), Product Owner at AUSS, on a 4-person capstone team, a GTA, and now in an 8-person SE761 team on one-week sprints. Most of the cohort will write about conflicting schedules abstractly; he can write about it as a fact about his calendar, and about what it does to specific Scrum events.
+
+Three reflection candidates identified, ranked by how much only he could write them:
+
+1. **He has been the Product Owner.** At AUSS he prioritises a Jira backlog for student volunteers and reports to a non-technical exec committee. L1-C04 and L3-C05 are both about what to do when the PO is unavailable - and he has *been* the unavailable PO. In SE761 he flips to the other side. That is an insight unavailable from the Scrum Guide.
+2. **EzShift didn't finish.** The CV says "delivered using Agile methodology" and then, a year on, "next steps: finalising the backend framework". The rubric asks for previous experiences *and their outcomes*; an outcome that didn't land is worth more than one that did, if diagnosed rather than apologised for. Likely the single best counterfactual he has.
+3. **The EROAD Tax team contradicts an Agile value in a real way.** His own blog: the bar moved from "does the demo work?" to "will this be correct, reliable and maintainable for years?" - which sits awkwardly against delivering working software frequently. He has lived both poles inside one year, and is about to be pushed back to the prototype end by one-week sprints.
+
+Flagged four author-specific traps. The important one: **his CV is unusually strong for a student, and that is a hazard here.** Listing five workplaces would burn 300 words and score in the wrong place; two experiences deep beats five listed. Also flagged that his blog voice is naturally promotional and full of gratitude, which is right for a blog and wrong for a rubric that penalises description over examination.
+
+**HANDOFF - start here next time:**
+1. `git pull --rebase --autostash`
+2. **Due 9pm tonight.** If the draft exists, review it against the rubric line by line - description-vs-reflection, word count, and whether the past-experience block is the longest section.
+3. After submitting: set `status` to `submitted` in `progress.json` and record the outcome.
+4. The material map is reusable for **A3**, which is also 800-900 words and also reflective - though A3 is anchored to the allocated project and a research paper rather than to personal history.
