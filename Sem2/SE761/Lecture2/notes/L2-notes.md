@@ -6,7 +6,6 @@ date: 2026-07-22
 concepts: 10
 tags: [se761, requirements, rationale, client, agile]
 ---
-
 # 🌱 SOFTENG 761 Lecture 2 — From Idea to Rationale
 
 > [!abstract] Why this matters

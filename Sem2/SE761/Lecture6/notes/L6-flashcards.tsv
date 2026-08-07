@@ -1,0 +1,64 @@
+What is the status of Lecture 6 in the course?	It is the last formal lecture - everything after it is project work.
+What was the stated purpose of the first three weeks of SE761?	To introduce you to agile so that you can get started within your teams.
+When does sprint 1 present, and in what form?	Week 6, with each team presenting in pairs.
+When is the final SE761 presentation?	Week 11.
+Roughly how long is the development window after the taught content?	About eight weeks.
+What does the lecturer say about the mid-semester break?	It is going to be very important, and working more during it will help.
+What is the lecturer's phrase about starting a project?	A well started is half done - so work hard in the first few sprints.
+What is Assignment 3 in one sentence?	Take your allocated project, decompose it into themes, take one theme, find a research paper on it, and write a reflection on what it teaches you about your project.
+What are Assignment 3's three learning outcomes?	Go deeper into exploration of the project rationale through research literature; discover and demonstrate new insights around the topic area; and critically study the research literature to accumulate evidence for what you claim to understand.
+What is the real purpose of Assignment 3, beyond the marks?	To let you present evidence to the Product Owner at the first meeting so they have more confidence in your team.
+Have you met the client by the time Assignment 3 is due?	No - both A1 and A3 rationales are written before meeting the Product Owner.
+Why does the lecturer say Assignment 3 scores twice?	Because it also contributes directly to the project work.
+What is Assignment 3 worth?	7% of the course, marked out of seven.
+What is Assignment 3's word limit and format?	800 to 900 words, in full paragraphs, submitted via the Canvas A3 quiz.
+How many topics does Assignment 3 cover, versus Assignment 1?	Assignment 3 covers your one allocated project; Assignment 1 covered any three topics from the catalogue.
+What is the research requirement difference between A1 and A3?	A1 explicitly required no literature review; A3 requires a real research paper, attached to the submission.
+Which A1 mistake stops being a mistake in A3?	Mentioning the solution - A3 permits bringing in purpose, though not solution specifics.
+Which concept licenses talking about purpose in A3?	L2-C03 - purpose links rationale to product, proportionally.
+What is the Gen AI position on Assignment 3?	You may still use it, but limit it as much as possible because it is a reflection; there is still a declaration section.
+How do the Gen AI policies compare across A1, A2 and A3?	A1 encouraged it and gave 2 marks for declaring; A2 forbids it for content; A3 permits but discourages it, with a declaration.
+What voice may Assignment 3 be written in?	Personal language is permitted with professional tone; a more formal third-person perspective is also acceptable.
+How do you decompose a project for Assignment 3?	Read the description for a major theme and its sub-themes, or multiple major themes, then divide them among team members.
+What is the stated reason for splitting a project by theme?	To attack the problem description from different angles - a divide-and-conquer approach.
+Your eight-person team can only find three themes. What do you do?	Distribute the three themes among members, with two or three members per theme - but each must work on a different paper.
+What is the binding constraint in theme allocation?	One unique paper per person, not one theme per person.
+What two purposes does the different-paper rule serve?	Avoiding duplicate work, and attacking the problem from multiple angles.
+Name the five themes the lecturer drew from the smart home AR project.	AR interfaces for smart home control; gesture-based interaction in AR; quality aspects such as usability and accessibility in smart home UIs; gesture recognition technologies; and multi-device integration and universal interfaces.
+What pattern do the smart-home themes follow?	Core technologies, then a quality attribute, then an enabling technology, then integration.
+Name the five steps of the Assignment 3 method.	Break down core research themes; identify relevant databases; define search keywords and strings; select and summarise relevant papers; draft the rationale.
+Which database is sufficient on its own for Assignment 3?	Google Scholar, because it returns papers from all the other databases.
+What do specialised databases add over Google Scholar?	More papers or more relevant papers - better precision, not better coverage.
+Why must search strings be designed carefully?	Because missing one word can return irrelevant material that is not obviously irrelevant, and can misguide you in the wrong direction.
+Why search plain Google as well as Google Scholar?	Google tells you what applications already exist; Scholar tells you what is known in the research.
+How do specialised projects differ from general ones when searching?	Specialised projects have more relevant research and fewer existing apps; general projects have more apps and possibly less research.
+What is the minimum length for a double-column research paper?	Five pages.
+What is the minimum length for a single-column research paper?	Eight pages.
+What is excluded from the paper page count?	References, which are generally one to two pages, and any other substantial non-text pages.
+What venues are acceptable for the Assignment 3 paper?	Conferences, journals, workshops or symposia.
+What is an idea paper, and why is it disqualified?	A two- or three-page article that is too limited in providing relevant knowledge - Assignment 3 wants more detailed research articles.
+Can you use more than one paper for Assignment 3?	Yes - one or more, depending on your wish or on whether your theme needs it.
+How is the research paper submitted?	Attached as a PDF in a separate section of the Canvas quiz.
+How many questions must you answer in Assignment 3, and how are they marked?	At least four, at one mark each, making four of the seven marks.
+Give the four example questions for Assignment 3.	Why was this paper useful in relation to your project or theme; what would your client appreciate you understanding; was there anything that surprised you; and what new learning came out of it.
+Can you replace the example questions in Assignment 3?	Yes - you may pick other questions or replace one or more of them.
+What is the rule about how you answer the Assignment 3 questions?	Each answer must be relevant to both the paper you picked and your project - not answered in a general way.
+What do the remaining three Assignment 3 marks cover?	Reflection quality, agility reflection, and writing style.
+What does reflection quality mean in the A3 rubric?	Whether there was a high enough level of reflection, whether you demonstrated new insights from the attached research, and whether it relates to the project.
+What is the lecturer's advice on the 800 to 900 word range?	Target 800 words, expect to end up somewhat over, and never go beyond 900.
+Do you need references in Assignment 3?	No - the only reference is the actual paper you attach.
+What happens after every team member finishes their individual Assignment 3?	The team meets, shares what each has learned, and collates it into a more in-depth project rationale.
+Is Assignment 3 individual or team work?	Each member works independently, but the results are collated to benefit the team's overall work.
+What is the standard for any point you present to the Product Owner?	Every point must have backing evidence.
+What should you do if research shows similar apps already exist?	Be honest with the client - tell them what you found, note they may not know, and ask whether they still want to proceed or want changes to existing apps.
+What should you do if research suggests a requirement is not feasible?	Raise it as a question with the client, based on the evidence.
+What should you do if the client's technical choice looks outdated?	Research it - their understanding may be outdated, and you may find evidence for a better option, but you must find that evidence.
+What did the lecturer say about interpreting the client?	Be very careful about what they say, but be able to interpret them correctly.
+How does Assignment 3 relate to says, wants and needs?	Research is how you move from what the client says to what they need before you have even met them, and evidence is what makes that sayable.
+What technologies were given as an evidence example for gesture recognition?	MediaPipe and CNNs.
+Name the standard sections of a research paper in order.	Summary or abstract, introduction, literature review, research questions, then method and results.
+What does a paper's summary give you?	The problem being solved, how it is addressed, how it is reported, the end result, and what can be inferred from the research.
+What is the literature review doing structurally?	Telling a little story that connects the dots from earlier work up to the current research in the area.
+How does a paper frame its own contribution?	The research in the area is ending at this point, and this is where we start from - then it proposes one or two research questions.
+Why is knowing paper structure useful for Assignment 3?	The abstract answers "is this on my theme?" in seconds, and the literature review is a pre-built map of the theme that can point you to better papers.
+Which A1 idea does the research-gap framing resemble?	The upside-down triangle - broad to specific - done with citations.

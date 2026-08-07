@@ -1,60 +1,547 @@
 {
   "course": "SE761",
   "description": "Cross-lecture spaced-repetition schedule. Mirrors next_review from each Lecture<N>/context/progress.json so review rounds can interleave across lectures. Intervals: 1 -> 3 -> 7 -> 16 -> 35 -> 90 days.",
-  "last_updated": "2026-07-30",
+  "last_updated": "2026-08-07",
   "summary": {
-    "total_concepts": 45,
-    "never_tested": 45,
+    "total_concepts": 66,
+    "never_tested": 66,
     "overdue": 20,
-    "note": "Nothing in SE761 has ever been quizzed. The 20 L1/L2 items were scheduled for 2026-07-28 and are now overdue. Ingest is ahead of retrieval by four lectures; the next session should be Mode B, and it should interleave L1/L2 with the new L3/L4 material rather than blocking by lecture."
+    "note": "Nothing in SE761 has ever been quizzed. Ingest now runs six lectures ahead of retrieval. The L1/L2 items scheduled for 2026-07-28 are badly overdue. The next session should be Mode B, interleaving L1-L6 rather than blocking by lecture. L5's reflection material is the highest-value thing to test first because it is directly assessed in A2 and A3."
   },
   "due": [
-    { "date": "2026-07-28", "lecture": 1, "concept": "L1-C01", "name": "Process AND product", "priority": "high", "status": "never_tested" },
-    { "date": "2026-07-28", "lecture": 1, "concept": "L1-C02", "name": "Bloom ladder / Agile Mindset", "priority": "medium", "status": "never_tested" },
-    { "date": "2026-07-28", "lecture": 1, "concept": "L1-C03", "name": "Scrum Master is not a PM", "priority": "high", "status": "never_tested" },
-    { "date": "2026-07-28", "lecture": 1, "concept": "L1-C04", "name": "Product Owner vs client", "priority": "high", "status": "never_tested" },
-    { "date": "2026-07-28", "lecture": 1, "concept": "L1-C05", "name": "The sprint cycle", "priority": "high", "status": "never_tested" },
-    { "date": "2026-07-28", "lecture": 1, "concept": "L1-C06", "name": "Sprint 1 is a Spike", "priority": "medium", "status": "never_tested" },
-    { "date": "2026-07-28", "lecture": 1, "concept": "L1-C07", "name": "Imposter syndrome", "priority": "medium", "status": "never_tested" },
-    { "date": "2026-07-28", "lecture": 1, "concept": "L1-C08", "name": "Dunning-Kruger effect", "priority": "high", "status": "never_tested" },
-    { "date": "2026-07-28", "lecture": 1, "concept": "L1-C09", "name": "Why imposter syndrome is correct", "priority": "high", "status": "never_tested" },
-    { "date": "2026-07-28", "lecture": 1, "concept": "L1-C10", "name": "Gen AI three pillars", "priority": "high", "status": "never_tested" },
-    { "date": "2026-07-28", "lecture": 2, "concept": "L2-C01", "name": "Idea -> rationale -> purpose -> justification pipeline", "priority": "high", "status": "never_tested" },
-    { "date": "2026-07-28", "lecture": 2, "concept": "L2-C02", "name": "Rationale: So what? + Who cares?", "priority": "high", "status": "never_tested" },
-    { "date": "2026-07-28", "lecture": 2, "concept": "L2-C03", "name": "Purpose links rationale to product", "priority": "high", "status": "never_tested" },
-    { "date": "2026-07-28", "lecture": 2, "concept": "L2-C04", "name": "Justification / business case", "priority": "medium", "status": "never_tested" },
-    { "date": "2026-07-28", "lecture": 2, "concept": "L2-C05", "name": "Says vs Wants vs Needs", "priority": "high", "status": "never_tested" },
-    { "date": "2026-07-28", "lecture": 2, "concept": "L2-C06", "name": "Ask WHY first; pre-meeting homework", "priority": "medium", "status": "never_tested" },
-    { "date": "2026-07-28", "lecture": 2, "concept": "L2-C07", "name": "Reference-product origin and technology conflict", "priority": "medium", "status": "never_tested" },
-    { "date": "2026-07-28", "lecture": 2, "concept": "L2-C08", "name": "Client vs product owner vs user", "priority": "low", "status": "never_tested", "note": "Superseded by L3-C09 and L3-C05. Quiz the L3 versions instead; demote this to a pointer on the next pass through L2-notes.md." },
-    { "date": "2026-07-28", "lecture": 2, "concept": "L2-C09", "name": "Word precision in justifications", "priority": "low", "status": "never_tested" },
-    { "date": "2026-07-28", "lecture": 2, "concept": "L2-C10", "name": "Gen AI drafting corrections and ownership rule", "priority": "medium", "status": "never_tested" }
+    {
+      "date": "2026-07-28",
+      "lecture": 1,
+      "concept": "L1-C01",
+      "name": "Process AND product",
+      "priority": "high",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-07-28",
+      "lecture": 1,
+      "concept": "L1-C02",
+      "name": "Bloom ladder / Agile Mindset",
+      "priority": "medium",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-07-28",
+      "lecture": 1,
+      "concept": "L1-C03",
+      "name": "Scrum Master is not a PM",
+      "priority": "high",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-07-28",
+      "lecture": 1,
+      "concept": "L1-C04",
+      "name": "Product Owner vs client",
+      "priority": "high",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-07-28",
+      "lecture": 1,
+      "concept": "L1-C05",
+      "name": "The sprint cycle",
+      "priority": "high",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-07-28",
+      "lecture": 1,
+      "concept": "L1-C06",
+      "name": "Sprint 1 is a Spike",
+      "priority": "medium",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-07-28",
+      "lecture": 1,
+      "concept": "L1-C07",
+      "name": "Imposter syndrome",
+      "priority": "medium",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-07-28",
+      "lecture": 1,
+      "concept": "L1-C08",
+      "name": "Dunning-Kruger effect",
+      "priority": "high",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-07-28",
+      "lecture": 1,
+      "concept": "L1-C09",
+      "name": "Why imposter syndrome is correct",
+      "priority": "high",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-07-28",
+      "lecture": 1,
+      "concept": "L1-C10",
+      "name": "Gen AI three pillars",
+      "priority": "high",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-07-28",
+      "lecture": 2,
+      "concept": "L2-C01",
+      "name": "Idea -> rationale -> purpose -> justification pipeline",
+      "priority": "high",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-07-28",
+      "lecture": 2,
+      "concept": "L2-C02",
+      "name": "Rationale: So what? + Who cares?",
+      "priority": "high",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-07-28",
+      "lecture": 2,
+      "concept": "L2-C03",
+      "name": "Purpose links rationale to product",
+      "priority": "high",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-07-28",
+      "lecture": 2,
+      "concept": "L2-C04",
+      "name": "Justification / business case",
+      "priority": "medium",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-07-28",
+      "lecture": 2,
+      "concept": "L2-C05",
+      "name": "Says vs Wants vs Needs",
+      "priority": "high",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-07-28",
+      "lecture": 2,
+      "concept": "L2-C06",
+      "name": "Ask WHY first; pre-meeting homework",
+      "priority": "medium",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-07-28",
+      "lecture": 2,
+      "concept": "L2-C07",
+      "name": "Reference-product origin and technology conflict",
+      "priority": "medium",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-07-28",
+      "lecture": 2,
+      "concept": "L2-C08",
+      "name": "Client vs product owner vs user",
+      "priority": "low",
+      "status": "never_tested",
+      "note": "Superseded by L3-C09 and L3-C05. Quiz the L3 versions instead; demote this to a pointer on the next pass through L2-notes.md."
+    },
+    {
+      "date": "2026-07-28",
+      "lecture": 2,
+      "concept": "L2-C09",
+      "name": "Word precision in justifications",
+      "priority": "low",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-07-28",
+      "lecture": 2,
+      "concept": "L2-C10",
+      "name": "Gen AI drafting corrections and ownership rule",
+      "priority": "medium",
+      "status": "never_tested"
+    }
   ],
   "scheduled": [
-    { "date": "2026-07-31", "lecture": 3, "concept": "L3-C01", "name": "Agile is an approach, not a methodology", "priority": "high", "status": "never_tested" },
-    { "date": "2026-07-31", "lecture": 3, "concept": "L3-C02", "name": "The four Agile values", "priority": "high", "status": "never_tested", "note": "Assignment 2 paragraph 1." },
-    { "date": "2026-07-31", "lecture": 3, "concept": "L3-C03", "name": "The twelve principles", "priority": "high", "status": "never_tested", "note": "Assignment 2 requires naming 1-2 specific principles." },
-    { "date": "2026-07-31", "lecture": 3, "concept": "L3-C04", "name": "Working software as the measure of progress; CI", "priority": "high", "status": "never_tested" },
-    { "date": "2026-07-31", "lecture": 3, "concept": "L3-C05", "name": "Customer collaboration when the PO is unavailable", "priority": "medium", "status": "never_tested" },
-    { "date": "2026-07-31", "lecture": 3, "concept": "L3-C06", "name": "Responding to change vs scope creep", "priority": "medium", "status": "never_tested" },
-    { "date": "2026-07-31", "lecture": 3, "concept": "L3-C07", "name": "User stories - who, what, why", "priority": "high", "status": "never_tested" },
-    { "date": "2026-07-31", "lecture": 3, "concept": "L3-C08", "name": "Acceptance criteria become tests; the Code Runner trap", "priority": "high", "status": "never_tested" },
-    { "date": "2026-07-31", "lecture": 3, "concept": "L3-C09", "name": "Scrum: lightweight framework, roles, self-organisation", "priority": "high", "status": "never_tested", "note": "Assignment 2 paragraph 2." },
-    { "date": "2026-07-31", "lecture": 3, "concept": "L3-C10", "name": "Transparency, inspection, adaptation", "priority": "high", "status": "never_tested" },
-    { "date": "2026-07-31", "lecture": 3, "concept": "L3-C11", "name": "Corrective, adaptive and perfective maintenance", "priority": "medium", "status": "never_tested" },
-    { "date": "2026-07-31", "lecture": 3, "concept": "L3-C12", "name": "Scrum events, artefacts and the cycle", "priority": "high", "status": "never_tested" },
-    { "date": "2026-07-31", "lecture": 3, "concept": "L3-C13", "name": "Teamwork risks and mitigations", "priority": "medium", "status": "never_tested" },
-    { "date": "2026-07-31", "lecture": 4, "concept": "L4-C01", "name": "The simulation: story-point mapping and acceptance criteria", "priority": "low", "status": "never_tested" },
-    { "date": "2026-07-31", "lecture": 4, "concept": "L4-C02", "name": "Estimation accuracy beats raw velocity", "priority": "high", "status": "never_tested" },
-    { "date": "2026-07-31", "lecture": 4, "concept": "L4-C03", "name": "Sprint length is never altered", "priority": "medium", "status": "never_tested" },
-    { "date": "2026-07-31", "lecture": 4, "concept": "L4-C04", "name": "Requirements changed mid-project, on purpose", "priority": "medium", "status": "never_tested" },
-    { "date": "2026-07-31", "lecture": 4, "concept": "L4-C05", "name": "Understanding the requirements is every member's job", "priority": "high", "status": "never_tested" },
-    { "date": "2026-07-31", "lecture": 4, "concept": "L4-C06", "name": "Test in something that resembles production", "priority": "high", "status": "never_tested" },
-    { "date": "2026-07-31", "lecture": 4, "concept": "L4-C07", "name": "Self-organising teams switch roles between sprints", "priority": "medium", "status": "never_tested" },
-    { "date": "2026-07-31", "lecture": 4, "concept": "L4-C08", "name": "Converge on one design", "priority": "medium", "status": "never_tested" },
-    { "date": "2026-07-31", "lecture": 4, "concept": "L4-C09", "name": "Onboarding a returning member costs sprint time", "priority": "low", "status": "never_tested" },
-    { "date": "2026-07-31", "lecture": 4, "concept": "L4-C10", "name": "The retrospective is the mechanism, not a debrief", "priority": "high", "status": "never_tested" },
-    { "date": "2026-07-31", "lecture": 4, "concept": "L4-C11", "name": "Everyone is a leader and there is no leader - in practice", "priority": "high", "status": "never_tested" },
-    { "date": "2026-07-31", "lecture": 4, "concept": "L4-C12", "name": "The Product Owner is part of the system too", "priority": "medium", "status": "never_tested" }
+    {
+      "date": "2026-07-31",
+      "lecture": 3,
+      "concept": "L3-C01",
+      "name": "Agile is an approach, not a methodology",
+      "priority": "high",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-07-31",
+      "lecture": 3,
+      "concept": "L3-C02",
+      "name": "The four Agile values",
+      "priority": "high",
+      "status": "never_tested",
+      "note": "Assignment 2 paragraph 1."
+    },
+    {
+      "date": "2026-07-31",
+      "lecture": 3,
+      "concept": "L3-C03",
+      "name": "The twelve principles",
+      "priority": "high",
+      "status": "never_tested",
+      "note": "Assignment 2 requires naming 1-2 specific principles."
+    },
+    {
+      "date": "2026-07-31",
+      "lecture": 3,
+      "concept": "L3-C04",
+      "name": "Working software as the measure of progress; CI",
+      "priority": "high",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-07-31",
+      "lecture": 3,
+      "concept": "L3-C05",
+      "name": "Customer collaboration when the PO is unavailable",
+      "priority": "medium",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-07-31",
+      "lecture": 3,
+      "concept": "L3-C06",
+      "name": "Responding to change vs scope creep",
+      "priority": "medium",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-07-31",
+      "lecture": 3,
+      "concept": "L3-C07",
+      "name": "User stories - who, what, why",
+      "priority": "high",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-07-31",
+      "lecture": 3,
+      "concept": "L3-C08",
+      "name": "Acceptance criteria become tests; the Code Runner trap",
+      "priority": "high",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-07-31",
+      "lecture": 3,
+      "concept": "L3-C09",
+      "name": "Scrum: lightweight framework, roles, self-organisation",
+      "priority": "high",
+      "status": "never_tested",
+      "note": "Assignment 2 paragraph 2."
+    },
+    {
+      "date": "2026-07-31",
+      "lecture": 3,
+      "concept": "L3-C10",
+      "name": "Transparency, inspection, adaptation",
+      "priority": "high",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-07-31",
+      "lecture": 3,
+      "concept": "L3-C11",
+      "name": "Corrective, adaptive and perfective maintenance",
+      "priority": "medium",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-07-31",
+      "lecture": 3,
+      "concept": "L3-C12",
+      "name": "Scrum events, artefacts and the cycle",
+      "priority": "high",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-07-31",
+      "lecture": 3,
+      "concept": "L3-C13",
+      "name": "Teamwork risks and mitigations",
+      "priority": "medium",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-07-31",
+      "lecture": 4,
+      "concept": "L4-C01",
+      "name": "The simulation: story-point mapping and acceptance criteria",
+      "priority": "low",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-07-31",
+      "lecture": 4,
+      "concept": "L4-C02",
+      "name": "Estimation accuracy beats raw velocity",
+      "priority": "high",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-07-31",
+      "lecture": 4,
+      "concept": "L4-C03",
+      "name": "Sprint length is never altered",
+      "priority": "medium",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-07-31",
+      "lecture": 4,
+      "concept": "L4-C04",
+      "name": "Requirements changed mid-project, on purpose",
+      "priority": "medium",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-07-31",
+      "lecture": 4,
+      "concept": "L4-C05",
+      "name": "Understanding the requirements is every member's job",
+      "priority": "high",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-07-31",
+      "lecture": 4,
+      "concept": "L4-C06",
+      "name": "Test in something that resembles production",
+      "priority": "high",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-07-31",
+      "lecture": 4,
+      "concept": "L4-C07",
+      "name": "Self-organising teams switch roles between sprints",
+      "priority": "medium",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-07-31",
+      "lecture": 4,
+      "concept": "L4-C08",
+      "name": "Converge on one design",
+      "priority": "medium",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-07-31",
+      "lecture": 4,
+      "concept": "L4-C09",
+      "name": "Onboarding a returning member costs sprint time",
+      "priority": "low",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-07-31",
+      "lecture": 4,
+      "concept": "L4-C10",
+      "name": "The retrospective is the mechanism, not a debrief",
+      "priority": "high",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-07-31",
+      "lecture": 4,
+      "concept": "L4-C11",
+      "name": "Everyone is a leader and there is no leader - in practice",
+      "priority": "high",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-07-31",
+      "lecture": 4,
+      "concept": "L4-C12",
+      "name": "The Product Owner is part of the system too",
+      "priority": "medium",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-08-08",
+      "lecture": 5,
+      "concept": "L5-C01",
+      "name": "What reflection is, and why agile requires it",
+      "priority": "high",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-08-08",
+      "lecture": 5,
+      "concept": "L5-C02",
+      "name": "Gibbs' reflective cycle - and why its Analysis phase is A2",
+      "priority": "high",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-08-08",
+      "lecture": 5,
+      "concept": "L5-C03",
+      "name": "Johns' model of structured reflection - inwards and outwards, ethics",
+      "priority": "medium",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-08-08",
+      "lecture": 5,
+      "concept": "L5-C04",
+      "name": "Kolb's learning cycle - drawing generalisations",
+      "priority": "medium",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-08-08",
+      "lecture": 5,
+      "concept": "L5-C05",
+      "name": "Rolfe, Freshwater and Jasper - what / so what / now what",
+      "priority": "medium",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-08-08",
+      "lecture": 5,
+      "concept": "L5-C06",
+      "name": "Choosing, naming and combining reflection models",
+      "priority": "high",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-08-08",
+      "lecture": 5,
+      "concept": "L5-C07",
+      "name": "Reflection is already a Scrum event - retrospective vs review",
+      "priority": "high",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-08-08",
+      "lecture": 5,
+      "concept": "L5-C08",
+      "name": "Extreme Programming - extreme means continuous",
+      "priority": "medium",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-08-08",
+      "lecture": 5,
+      "concept": "L5-C09",
+      "name": "The 15 teamwork risks",
+      "priority": "high",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-08-08",
+      "lecture": 5,
+      "concept": "L5-C10",
+      "name": "The risk-to-mitigation mapping, with impact and likelihood",
+      "priority": "high",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-08-08",
+      "lecture": 5,
+      "concept": "L5-C11",
+      "name": "Risks are mitigated, issues are resolved",
+      "priority": "high",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-08-08",
+      "lecture": 6,
+      "concept": "L6-C01",
+      "name": "Where the course goes from here - taught content ends, project begins",
+      "priority": "medium",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-08-08",
+      "lecture": 6,
+      "concept": "L6-C02",
+      "name": "What Assignment 3 is, and what it is really for",
+      "priority": "high",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-08-08",
+      "lecture": 6,
+      "concept": "L6-C03",
+      "name": "A1 to A3 - what changes, and the solution/purpose boundary",
+      "priority": "high",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-08-08",
+      "lecture": 6,
+      "concept": "L6-C04",
+      "name": "Theme decomposition and divide-and-conquer",
+      "priority": "high",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-08-08",
+      "lecture": 6,
+      "concept": "L6-C05",
+      "name": "Finding the paper - databases and search strings",
+      "priority": "high",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-08-08",
+      "lecture": 6,
+      "concept": "L6-C06",
+      "name": "Paper eligibility rules",
+      "priority": "high",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-08-08",
+      "lecture": 6,
+      "concept": "L6-C07",
+      "name": "The four questions and the A3 rubric",
+      "priority": "high",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-08-08",
+      "lecture": 6,
+      "concept": "L6-C08",
+      "name": "Collective insight - individual work, team output",
+      "priority": "medium",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-08-08",
+      "lecture": 6,
+      "concept": "L6-C09",
+      "name": "Evidence changes what you tell the client",
+      "priority": "high",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-08-08",
+      "lecture": 6,
+      "concept": "L6-C10",
+      "name": "How research papers are structured",
+      "priority": "medium",
+      "status": "never_tested"
+    }
   ]
 }

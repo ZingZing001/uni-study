@@ -1,0 +1,821 @@
+[Auto-generated transcript. Edits may have been applied for clarity.]
+So how are you coping with the with the projects?
+
+Have you got your projects and have you been meeting your team members?
+
+How is it going? Good. Any early fights within the teams?
+
+No. Too early for that.
+
+We'll wait until somewhere between, say, mid-summer.
+
+So your first sprint will be, I think, in week six.
+
+So that is going to be your first sprint. And that is when you guys will start presenting something in pairs from each team.
+
+I hope you are looking forward to that as well. So this one is going to be your last lecture, a formal lecture.
+
+Sorry I couldn't be there last time. I hope you got the video and you watched it.
+
+So that video was about reflection and risk mitigation.
+
+So especially the part that involves how to deal with teamwork based risks is important
+
+because that is very practical in the way that you are soon going to face those situations.
+
+So it is very important in agile teams that you keep talking to your team members regularly.
+
+And so it is kind of A22 way thing like On.
+
+On one hand you are. You are trying to be friendly.
+
+On the other side, you are also actually keeping an eye on what they are doing right?
+
+So it is both a friendly as well as a professional approach.
+
+So keep a nice balance between the two. Because that will help you in succeeding with project completion.
+
+Um. Given this as a student project, you.
+
+But still you have your client, your product owner. So that means there needs to be a lot of seriousness and completing the project anyway.
+
+So in this lecture, the last one we are primarily going to talk about assignment three.
+
+So my aim would be that you guys can at least get started with assignment three during these two hours,
+
+so that these three assignments are out of your way as soon as possible, especially this assignment.
+
+Assignment three is very important in getting your project writing started as well.
+
+So you we will be enhancing your early knowledge about project rationale.
+
+And now we will be attaching some evidence with that rationale so that when you go and meet your clients, your product owner,
+
+you can present them with that evidence and you can show them that you know about the thing you have worked
+
+hard on getting used to and getting all that initial knowledge so that they have more confidence in your team.
+
+So has any team already met the product owner?
+
+Or maybe contacted them? So you at least how many communications have you already carried out?
+
+Any team? A few emails.
+
+Within our team we have visible, but I think we have just shoot the first ubuntu product on and to me.
+
+Okay. One. Okay. Okay. So I assume that you guys are still, you know, like warming up with the product owner and still,
+
+you know, trying to set up a meeting time and so that the things can get started.
+
+So this is going to be a very important phase. So in module one and two assignment three is already available.
+
+And I have already got it open here.
+
+So I am going to go and show you what's it all about.
+
+So assignment one we are currently marking your assignment one submissions.
+
+Um a few things that we have. We are already identifying a few problems.
+
+I would I would mention those problems as well so that you can you can maybe fix those problems when you are working on assignment three.
+
+But some of those problems might not be a problem for assignment three, because you are allowed to do that for assignment three.
+
+For example, maybe talk briefly about the solution.
+
+So in your assignment one submission, some of you have mentioned once a one bullet point about the solution as well.
+
+When I specifically mention that there must not be anything at all about the solution.
+
+So that is something you are allowed to do when you would do assignment three.
+
+You do not have to. But still, you may bring in more purpose to your project rationale.
+
+And you know what is purpose, right?
+
+So we already discussed about rationale purpose and justification.
+
+So The purpose. Art can be a part of assignment three, so you can bring it here.
+
+So what are you expected to do or what are the objectives and learning outcomes for assignment three.
+
+Now you would see that N in all these three points.
+
+It is quite clear that we are going to go deeper into exploration of the project rationale.
+
+And that can only be done through some research.
+
+Let me get some hoops. Free hand Drawing?
+
+Yup. So that can only be done via research literature.
+
+So research literature and or digging into research relevant research.
+
+It has not only relevant to research projects only, it is also relevant to development projects.
+
+I am going to talk about this in more detail soon.
+
+So discovering and demonstrating new insights surrounding your topic area and critically studying the research literature.
+
+To reflect and kind of, you know, accumulating more evidence for what you have claim to understand, claim to have understood about the problem.
+
+And then, based on your deep study, you need to come up with certain points or questions that you can take to the client or the product owner.
+
+So, for example, if they have asked you to build a web app, um, that's all the specific problem.
+
+It may happen that after your research, you would come up with a new knowledge that there are many other similar apps available
+
+in the market which are kind of do exactly the same thing as required by the client.
+
+Now, you need to be honest.
+
+You need you can go to them and tell them that these we have come up with this research that, you know, these apps are available in the market.
+
+You might not know be knowing about this.
+
+Do you still want to go ahead with the project, or do you want us to make certain changes to, you know, the already available similar apps?
+
+So something that would give an indication to the product owner that you have, dig deeper into what was provided to you.
+
+The deep research may also bring in some questions, as I mentioned,
+
+that you can go and ask a client that the requirements that you have mentioned here,
+
+when we have done our research, we have come to a conclusion that this requirement might not be that useful or this is not practical or feasible.
+
+So you need to bring those questions out as well.
+
+Based on the evidence. So these are the three things that you are going to get again.
+
+Whether it was assignment one rationale or whether it is assignment three rationale, you have still not met the client.
+
+So we are still doing our research or preparing ourselves before meeting the product owner.
+
+So that is something that you need to take care of. So we are deepening the rationale and the insight.
+
+Now one primary difference between assignment one rationale and or or should I say the rationale.
+
+And this in depth rationale is. that each of your team member, number one thing is that you are going to work on your allocated projects.
+
+So that is why this is going to be your first step towards developing or completing your project.
+
+So your team, each member of the team will be working on your allocated project for this assignment.
+
+Something that you should note. The second thing is the second difference from assignment one is.
+
+Given your project, whatever project description is given to you, when you read the description,
+
+there will be there will be a major theme, and then there will be subthemes in that major theme.
+
+I'll give you some examples as well. So you need to identify a research theme.
+
+And then you need to look at what are the others of themes.
+
+Or maybe there are multiple major themes in your project description.
+
+And then divide those themes or sub themes among team members.
+
+So what we are planning to do here is we are trying to attack the problem description from different angles.
+
+So if there are multiple themes, then different team members should work on different themes,
+
+should explore the project rationale related to those different themes.
+
+So that is why a divide and conquer approach is what we are going to follow here.
+
+Now each team member is still going to work independently, but then after completing their work,
+
+they can collate their work and that is going to benefit the overall work.
+
+Now what you guys are expected to do. Each team member will be expected to find a research paper relevant to the project.
+
+And when I say relevant to the project, it is going to be relevant to one theme of the project.
+
+Now every team member needs to use a different paper, so that means you need to talk to your team members.
+
+What paper have they found must be different from what you have found.
+
+So you need to make sure This serves two purposes.
+
+One purpose is that there will be no duplicate work, and the second purpose is that you will be able to attack the problem from multiple angles.
+
+As I have already mentioned, you can bring in the purpose of the project as well.
+
+That is what is needed to be done or what kind of app is needed to be built.
+
+You may use more than one papers.
+
+If you decide to do that, you would need to work on two papers or 2 or 3 papers and then collate their information and, you know, work accordingly.
+
+It depends upon your wish. If you your wish.
+
+Or maybe it could be your need as well. The need for your theme could be that you just can't do with just one paper.
+
+You need to search for more papers. Now, the research paper that you need to find must be at least five pages long.
+
+If they are double column, or they must be eight pages long minimum eight pages long.
+
+If they are single, column you.
+
+When you will try and find some relevant research articles, you would see that there are even two page articles as well.
+
+Two page, three page. But they are too limited in providing the relevant knowledge.
+
+Oh, and generally they are the they are.
+
+They are generally known as idea have efforts, so we must not include idea papers.
+
+We want more detail, so more detailed research articles are preferred.
+
+How these research papers could belong to conferences or journals or workshops or symposia.
+
+So these are the general values of these research papers.
+
+The page limit that I mentioned is excluding the references of the paper.
+
+Generally the references takes 1 to 2 pages, so we do not want to include it.
+
+And any other non text pages which are substantial.
+
+Now point number three is very important. And this is where you are going to earn marks for the assignment.
+
+There are some example points given to you in relation to your project.
+
+You need to answer these questions. You may pick other questions as well.
+
+But then I'll come to the marking criteria.
+
+I'll tell you that. You need to pick any four minimum four points or four questions and answer them in relation to your project.
+
+For example, why was this paper useful in relation to your project or the selected theme of your project?
+
+What form, it will be valuable that your client would appreciate you understand your understanding and being aware of.
+
+Again, remember that you have yet not met your client, so you are still kind of figuring out what would be valuable to your client or product owner.
+
+Similarly, was there anything you found in the paper that surprised you relevant to the project's topic?
+
+You did not expect that information. Then any new learning and so on.
+
+As I mentioned, you can bring in other questions as well.
+
+Or you may replace one or more of these questions.
+
+It is very important that when you answer these questions, they must be relevant to both the paper you have picked and your project.
+
+It should not be like you are answering something in a very general way without referring to your paper.
+
+Or the project. Again, avoid discussing specifics of the solution, but you may talk about the purpose of the project.
+
+This part here is very important. You are trying to look at the problem from a different lens or a different angle, different perspective.
+
+So once everyone has done their work in your team and when you will meet, will show each other that you know this.
+
+I've worked on this, and then all the team members are going to share their point of views about what they have learned,
+
+and then all that knowledge is going to go into your project or making your project rationale more in-depth.
+
+It must be written as a reflection. You do not need to have any references.
+
+The only reference you will have is your actual paper that you will be asked to submit or attach to your submission.
+
+You may use a personal language, but now this is going to be.
+
+This is going to be more of a literature review kind of a thing.
+
+So what you are, you will be expected to do as I mean.
+
+A more formal approach towards this would be that you would be writing in a third person from a third person perspective.
+
+But if you want to write from your personal angle, you may do that given you use to use professional language.
+
+Now, when you are going to look at those papers as well, you will see that generally they are structured in a specific way.
+
+That is, we start from a summary of the paper, which gives you a quick idea about what is the problem that the paper is solving,
+
+how the papers all that or or the relevant research, all that.
+
+And then how is it reported and what is, um, what is the end result of what research that has been done?
+
+And finally, what can be inferred from that research?
+
+And then you go to an introduction column where the detailed problem is or the the the main topic areas explained introduced.
+
+And then you move to the literature review. Generally most of the research papers are kind of structured in this way from the start.
+
+And when you go to the literature review, then you will find that there is a little story that is kind of connecting the dots from.
+
+or lead is urged to the current research in the area. And then you'll reach the present research and leave the literature review.
+
+And then you can you can say that now the research related to this problem or topic is ending at this point at the moment,
+
+and this is where we start from. So we are now proposing our research questions like this.
+
+We are going to solve our research questions. So these are 1 or 2 research questions.
+
+And then you go on explaining how you then design different solutions for those questions.
+
+Now last year and in the previous years generally there was a nice balance between research your research projects.
+
+Where you had to develop less and research more, and your development projects where research was lesser.
+
+But the development took most of the time. Now, this year, I see that there are.
+
+Most of the projects are about developing certain applications.
+
+And there is I mean, the problems are more common man's perspective.
+
+Rather than from specialised fields. I'll come to that point as well.
+
+So next thing here you can see that collective insight.
+
+So once you have done that,
+
+your team-mates will sit together and they are going to collate all the information and talk about what we have learned and how this is going to help.
+
+N um, help us in showing the product owner that we, we know about what is required and how that prepares us for that first meeting.
+
+Okay. Next thing is about the about using GPT.
+
+That for assignment one, I specifically asked you and demonstrated that how you can use ChatGPT.
+
+You can still do it, but because it is still a reflection.
+
+Um, try to limit the use of ChatGPT as much as possible.
+
+However, there is still a section in your assignment where you would be expected to explain that.
+
+So if you end up using it, you can explain it there. About submission and formatting.
+
+Again, this is a canvas was 800 to 900 words.
+
+When I say a range, that means you should get like 800 words.
+
+And then maybe when you target 800 words, you generally.
+
+May end up somewhat over 800, so that means you are still safe.
+
+That's why I have given you a range. But do not go beyond 900. Right.
+
+And full paragraphs. Here is another difference from assignment one.
+
+Now you are not just expected to write those bullet points, you are expected to write full paragraphs similar to assignment two.
+
+So that means more details, more detail is required.
+
+And don't forget to attach the paper.
+
+So there is going to be a separate section in the assignment quiz, where you will be able to attach your quiz PDF.
+
+Sorry, your paper PDF. Other things about marking rubric.
+
+The content has four marks. Note that this assignment is 7% of the course.
+
+It is going to be marked out of seven marks. Four marks are contained and I have already told you that we would be expecting.
+
+You to answer at least four questions that were given in point number three.
+
+Each question or each Chance her way is one mark. And then the reflection quality.
+
+Which where we are going to see whether there was a high enough level of reflection.
+
+Whether you have demonstrated new insights coming from what research you are attaching.
+
+And must be in relation to the project. Then the agility, reflection and the writing style.
+
+So this is about. The assignment brief.
+
+Now what I'm going to do I'm going to give you an example.
+
+Uh, we are going to pick one example project similar to what I did for assignment one as well.
+
+So the project that I am going to pick is from one of the previous projects,
+
+which is universal Smart home interface, a custom gesture control in augmented reality.
+
+I have got it open here. So here is the description of the project.
+
+Please read the description and I hope you will be able to understand what is required.
+
+Can you read by choosing a recent project? Did you mean the project that you gave earlier for assignment one?
+
+Or is it the project that we are doing? No. You are. So this time you are going to do it for your own project.
+
+And when you when choosing research paper, does it make me regard to how we are doing the project,
+
+as in the research paper on agile and the methods or the project properties for research.
+
+So after going through this example, I think that question will be answered.
+
+So just wait. Right? Because it is going to depend upon the different topic themes that you have in your project description.
+
+So for example this one here is about universal smart home interface.
+
+Where you are expected to build an application that is based on gesture control, that uses augmented reality,
+
+that is meant for smart home interface, that needs to connect different devices and need to control different devices.
+
+So you can note here that that there are different aspects to this problem.
+
+So once you have read this I will then move on. Do you have a general understanding?
+
+Okay. Now let me go through here.
+
+So we are going to talk about this specific project.
+
+From the project description. Of course you need to develop a customisable augmented reality application for intuitive smart home device control.
+
+You need to use gestures. And the focus is on these different things.
+
+There may be more as well. So for assignment three, for example, if you were working on this specific project,
+
+you would need to develop your rationale using this these these steps.
+
+So first you need to break down core research themes from the project description.
+
+Then you need to identify relevant databases for paper search or relevant article search as such.
+
+Then in order to find the most relevant papers, you need to define search keywords and strings,
+
+which is very important as you know from your experience using these tools and then finally selecting,
+
+selecting and summarising relevant research papers. These can be one or more.
+
+As I have already mentioned. And then you would draft your rationale for this assignment.
+
+Now for this example, when I looked into the description, these are the five themes that I could figure out.
+
+There could be more. Number one, augmented reality interfaces for smart home control.
+
+So when you have this kind of a problem, you.
+
+Are working on developing interfaces that are based on augmented reality.
+
+Then the gesture control or sorry gesture based interaction in augmented reality.
+
+So inside augmented reality or as an application of augmented reality.
+
+One thing would be combining gestures to augmented reality in the quality aspects like usability and accessibility in smart home UIs.
+
+So that means when you dig into the UI development,
+
+you will see that there are many quality aspects such as usability and accessibility, which are key to UI interfaces.
+
+And then the gesture recognition technologies. So there would be many such technologies.
+
+And finally integrating everything together. So multi-device integration and universal interfaces.
+
+So everything has to work together. So what what are what is the current research around integrating these things together?
+
+Is there a phone somewhere under the table? Now here are the research databases that you can use.
+
+Of course, the most common one would be Google Scholar.
+
+Essentially, using Google Scholar would be enough because it is going to give you research papers from all the
+
+others are not using each one of these is going to give you more papers or more relevant papers.
+
+On to search keywords and strings.
+
+Now it is very important that the search keywords n strings that you are going to give us prompts to these databases.
+
+You design them very carefully. Because.
+
+You are already aware that if I miss one word or, you know, miss l one word,
+
+it can give me some irrelevant stuff which is not that irrelevant and it can misguide me towards the wrong direction.
+
+So be very careful when you are putting these prompts in.
+
+So for augmented reality interfaces. For example, you can put a string like the this or gesture based interaction.
+
+In HCI you can put a string like this and so on.
+
+You can think about these strings depending upon your project descriptions.
+
+And then as a result you may get different papers from different sources.
+
+These can be different conferences, journals or other data, smaller databases as well.
+
+And depending upon who publishes them. So you will get those publishers.
+
+Now after you have got those papers, for example, treat these as one pay per per point here.
+
+So assuming that these are the five papers that were found.
+
+Which you thought were, um, you know, the, the top relevant which were of the top relevance for each theme that you picked.
+
+You read that paper, you try to relate it to your project theme and your project, and you came up with.
+
+Some inferences, some additional knowledge. For example, modern recognition methods like media Pipe and CNN and or reliability.
+
+Ah, you have got some evidence about why should we use these?
+
+Recognition methods.
+
+And you have an evidence, a literary evidence, to show to the client that we think that we are going to use these recognition methods.
+
+And this is why we we back back this decision because there is existing research.
+
+So here is the evidence. So all those decisions that you are going to make during your team meetings while while developing that project rationale.
+
+All those decisions must be backed by some evidence. And that is the aim of assignment three.
+
+Okay. So when you meet your client, you are presenting them with your plans.
+
+Each point that you Present. Must have a backing.
+
+Evidence. Okay.
+
+Now I'm going to. Okay.
+
+So the next thing that I want to quickly talk about is, is your actual current list of projects.
+
+So let's go through these projects quickly. And don't point me to your project, because I do not deliberately want to talk about one specific project.
+
+So I am going to quickly give you an idea about how you can approach.
+
+These descriptions for assignment three. I am of course not going to go deep.
+
+But generally when you look at this now this is a web or mobile application project development project.
+
+Which is meant to boost student community engagement and streamline access to support resources and gamify the student journey.
+
+So if you look at this first sentence here, you should be able to identify at least three themes.
+
+For example, you are looking at boosting student community engagement.
+
+And you you want to build a web or mobile application for that.
+
+So that means it would be useful if you search,
+
+maybe you can do a simple Google search as well for the existing mobile application that boosts student community engagement.
+
+And then are relevant in in Google Scholar.
+
+You can also so you can use that same string in both simple Google and Google Scholar.
+
+And then look for the existing apps and existing research around that area.
+
+So you will find that there will be you will find research around student community engagement.
+
+You will find some research papers around that where people would have worked on.
+
+How did we, you know, enhance student student community engagement by doing this or that.
+
+Similarly, you can see that there's a gamify gamification area involved here.
+
+So that means. Number one, can you find some.
+
+Apps that enhance student engagement using games.
+
+Or gamification. Some kind of gamification. And then what is the relevant research.
+
+So there you will find research where people have actually developed a system to enhance student community engagement using gamification.
+
+And then they have analysed and you know, they presented some data and analysed that stuff and made inferences from their research.
+
+So that is something that will be useful. Similarly, when I look at the other other projects.
+
+I note that most of them are app based. However, some of them are more specialised.
+
+For example, this one here. Neurodiverse students and employees.
+
+So we are looking at some cognitive related cognition related stuff.
+
+So for these kind of areas it is it is easier to find relevant research.
+
+And there will be lesser number of apps available.
+
+So that means you are more likely to find, you know, highly relevant resources from Google Scholar and you know, other databases.
+
+Then you might have found for your other other project descriptions, which are, you know, more general in nature, for example.
+
+Or student community engagement. There will be more apps, more number of apps that are related, and there might be less amount of research.
+
+But you know, I, I cannot say that this will guarantee.
+
+So you need to look up. Now.
+
+Deep net discovery network. Now this is a resource group.
+
+So this kind of. Projects What they are asking for here is.
+
+They are looking to enhance their existing website. So again what specific thing they want to work on.
+
+They are looking to work on what specific enhancement they are looking to do,
+
+and what technologies are expected to be more useful than some of the others.
+
+And what relevant research is available. And this is again if for example.
+
+They are looking to migrate the backend database from MongoDB to MySQL to provide more structured and maintainable data management solution.
+
+So this is a very good source of this is a very nice seed for for searching for relevant research.
+
+Is this is this understanding presented by the product owner correct or not, it might be outdated.
+
+So you need to look up, do your research and then maybe you you might be you might find,
+
+find evidence that there is a third database, a relational database that is even better than MySQL for this kind of an application.
+
+Right. But you need to find that evidence.
+
+Similarly others here again this is a more specialised a kind of kind of project which involves speech based depression screening.
+
+And it is meant to be AI powered. This sounds very interesting project.
+
+So again, I mean different areas, different themes can be picked and you can work on them.
+
+One point that I want to raise here is About the size of your teams because there are eight people in each team,
+
+so you might not be able to find eight themes.
+
+So in that case, if you find three themes, then you can distribute those three themes among your team members,
+
+where maybe 2 or 3 members will get one theme, but they must ensure that they work on different papers.
+
+Right. So I think this is pretty much all what I wanted to share about assignment three.
+
+Do you have any questions? Comments? Feel free to discuss.
+
+So what we can do now is let's spend around 20 minutes on actually doing this stuff.
+
+So you know your projects, you know the project descriptions.
+
+Why don't you spend some time on applying. And so identify some themes and try applying these steps.
+
+So what I am going to do is I'm going to show you the steps. So try to do this so that after the lecture you have at least started with this.
+
+So break down your core themes. If you have your team members here, it is good.
+
+Otherwise you can work alone. Thank you.
+
+Yeah. I mean. So who is working on which project?
+
+Or. Mine.
+
+Or is. Okay. Eight.
+
+Eight. Eight. This one.
+
+Yeah. Yeah, it does it. It doesn't say anything else.
+
+Anything at all? Yeah. Voila.
+
+Okay. So that means do anything.
+
+So this is about increasing joblessness, right?
+
+Yes, we have chosen this one, but eventually we got it right.
+
+Yes, yes. And it tells you how in, in our society, the jobs are conflicting.
+
+You know, if there is a human resource.
+
+Who's doing this work? And on the other hand, someone is developing a machine to replace them.
+
+How conflicting are jobs in the society are?
+
+We are making that particular web app or a web application so that it's like a power.
+
+What is the power that it is being saved and they can use it for the next patient.
+
+Something like that. Yeah. Yeah, I mean it it will.
+
+It is meant to help the robot. Yeah.
+
+It is an interesting one. Who else. What about you guys?
+
+Are you on the same page? Number ten. Number ten. And not as the last one.
+
+11. Last one. Last one.
+
+Number 14. Okay.
+
+Yeah. There are. I think there are 50% of the projects are related to health and medical areas.
+
+Right. Uh, and what about you?
+
+1313. Why are they called love building apps?
+
+Okay, so that's a question. I didn't see a real world difference.
+
+Yeah. Yeah. So this is an example of what the client is.
+
+You need to be very careful about what they say, but we then, you know, you should be able to interpret them correctly.
+
+About the CO2 emissions. I was reading somewhere. There was a recent research scientist went to Antarctica and they dug up the ice.
+
+And went down to meet Earth. And then.
+
+So there are layers, right? The layers of ice.
+
+So by looking at the layers, different layers of ice, they can measure the amount of carbon dioxide in in, in previous years or previous decades.
+
+And on the basis of that when they rotate the CO2 emissions.
+
+So it is. It went like this. And. So in recent years it is like going like this.
+
+Okay. Right.
+
+So you can keep working on this.
+
+Um, did you guys out. So make sure that you, you at least take away some themes and then discuss with your team-mates, uh,
+
+also help them identify different themes, because that is going to be your starting point for this assignment.
+
+So the last thing that I would request you to do so on module canvas modules, there is a feedback form because this is a large lecture.
+
+So this is about your feedback form about um, the first three weeks of teaching and learning.
+
+So if you can spend I think it would not take more than five minutes.
+
+So please complete it. I've already added you guys to this Google form.
+
+So there are some simple questions. I think just five of them.
+
+Sounds like a drilling sound. Maybe some work is going on.
+
+So if you go to modules. So under module modules one and two.
+
+You'll see. Here is. Yep.
+
+Thank you. Okay.
+
+Thanks. So I leave you with these teamwork codes.
+
+I hope they will inspire you in working well within your teams and demonstrating a healthy teamwork.
+
+And I wish you all the best for your project as well. I will be around.
+
+If you have any questions, you can email me or you can maybe make a post.
+
+By the way, there is only one at post at the moment. I think Mega made it and then there is nothing else.
+
+So if you want to ask any questions, you can surely use it.
+
+Um, I will be next joining you from week six when I will be alongside Risa will be witnessing your presentations.
+
+So until then, keep working hard and I hope you have a good progress in the coming weeks.
+
+Okay, I really enjoyed these three weeks. Uh, unfortunately I couldn't come in the earlier lecture this week, but, um, that was over.
+
+All three weeks were really joyful. Thank you for your interest and for your regularity.
+
+Thank you. So what are we going to do from next week?
+
+All the lectures? Yeah. So start working on your projects because this is primarily a project based course.
+
+Right. So the first three weeks were just meant to introduce you to agile.
+
+And, you know, so that you can get started with within your teams.
+
+Once you have been allocated your project and your teams, there's no point waiting.
+
+And you should, you know, get on with working on the development of the project.
+
+It is very important that you work hard in the first few sprints.
+
+Of course, the next one week I think is allocated for sprint planning or something, and then you are expected To then week I will.
+
+I think you spend one and then you need to present your spend one during week six.
+
+I think this is what the plan is. So that means you have a busy time ahead because a well started is half done as they say.
+
+So it started and these two weeks will help you when thinking nothing else except your project, at least as far as this course is concerned.
+
+But complete your assignment. Really good thing is that assignment three is also going to contribute towards your project.
+
+So you are going to like um. You are going to earn twice or score twice for the same thing.
+
+They We don't have the Abra lecture now. Yes, of course you can.
+
+For example, this is a very nice space for conducting your team meetings so you can come the lecture space.
+
+Both the lectures and the lab spaces are available to you all the time.
+
+So until we. Well. Then they will be imposed on them.
+
+So there will be no other like theoretical course content.
+
+As such, you will be expected to work on the project from here on.
+
+So it is like three weeks of this content, the base content and then how many nine weeks of development.
+
+And note that your mid sim break is going to be very important. So if you can work more during the mid-term break it will help you as well.
+
+Of course. No, not not nine weeks or eight weeks because your last presentation is due week 11.
+
+So keep that in mind as well. Any other questions or comments?
+
+Concerns. Okay.
+
+All the best. Have a nice day and I'll see you in week six.
+
+Thank you. You can keep working. I'll leave.
+
+Right. Because the space is booked for you until 12.
+
+So if you want to carry on, for example, filling the feedback form or working on assignment three, you may do that.
+
