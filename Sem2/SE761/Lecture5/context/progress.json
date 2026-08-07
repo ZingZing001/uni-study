@@ -1,0 +1,189 @@
+{
+  "course": "SE761",
+  "lecture": 5,
+  "title": "Reflection models and teamwork risks",
+  "status": "notes_written_untested",
+  "resources_seen": {
+    "slides": [],
+    "handouts": [
+      "Models-of-reflection.pdf (11pp, Physiotherapy New Zealand)"
+    ],
+    "transcript": "Lecture_5_(A2_reflection__project_teamwork_risks_and_more)_previous_video_Captions_English_(United_Kingdom).txt",
+    "transcript_quality": "fair - delivered as a pre-recorded video with a live cohort responding; long unattributable student exchanges, and several documents narrated rather than shown",
+    "shared_from_other_lecture": [
+      "Lecture6/resources/Teamwork_Risks_and_Mitigation_Strategies.pdf - L5 content, filed under L6",
+      "Lecture6/resources/Project_Risk_Quiz.pdf - L5 content, filed under L6"
+    ],
+    "figures_extracted": [
+      "L5-p04-gibbs-reflective-cycle.png",
+      "L5-risk-to-mitigation-mapping.png"
+    ],
+    "gaps": "Quiz questions Q14-Q19 were left unanswered on the recording."
+  },
+  "last_session": "2026-08-07T00:00:00+12:00",
+  "sessions_count": 1,
+  "lecturer": "delivered as a recorded video; the live lecture was covered in L6 by the same lecturer",
+  "concepts": [
+    {
+      "id": "L5-C01",
+      "name": "What reflection is, and why agile requires it",
+      "source": "handout p.3; transcript",
+      "priority": "high",
+      "bloom_reached": null,
+      "confidence": null,
+      "attempts": 0,
+      "correct": 0,
+      "last_reviewed": null,
+      "next_review": "2026-08-08",
+      "interval_days": 1,
+      "note": "Untested."
+    },
+    {
+      "id": "L5-C02",
+      "name": "Gibbs' reflective cycle - and why its Analysis phase is A2",
+      "source": "handout pp.4-5; transcript",
+      "priority": "high",
+      "bloom_reached": null,
+      "confidence": null,
+      "attempts": 0,
+      "correct": 0,
+      "last_reviewed": null,
+      "next_review": "2026-08-08",
+      "interval_days": 1,
+      "note": "Untested."
+    },
+    {
+      "id": "L5-C03",
+      "name": "Johns' model of structured reflection - inwards and outwards, ethics",
+      "source": "handout pp.6-7; transcript",
+      "priority": "medium",
+      "bloom_reached": null,
+      "confidence": null,
+      "attempts": 0,
+      "correct": 0,
+      "last_reviewed": null,
+      "next_review": "2026-08-08",
+      "interval_days": 1,
+      "note": "Untested."
+    },
+    {
+      "id": "L5-C04",
+      "name": "Kolb's learning cycle - drawing generalisations",
+      "source": "handout pp.8-9; transcript",
+      "priority": "medium",
+      "bloom_reached": null,
+      "confidence": null,
+      "attempts": 0,
+      "correct": 0,
+      "last_reviewed": null,
+      "next_review": "2026-08-08",
+      "interval_days": 1,
+      "note": "Untested."
+    },
+    {
+      "id": "L5-C05",
+      "name": "Rolfe, Freshwater and Jasper - what / so what / now what",
+      "source": "handout p.10",
+      "priority": "medium",
+      "bloom_reached": null,
+      "confidence": null,
+      "attempts": 0,
+      "correct": 0,
+      "last_reviewed": null,
+      "next_review": "2026-08-08",
+      "interval_days": 1,
+      "note": "Untested."
+    },
+    {
+      "id": "L5-C06",
+      "name": "Choosing, naming and combining reflection models",
+      "source": "handout p.3; transcript",
+      "priority": "high",
+      "bloom_reached": null,
+      "confidence": null,
+      "attempts": 0,
+      "correct": 0,
+      "last_reviewed": null,
+      "next_review": "2026-08-08",
+      "interval_days": 1,
+      "note": "Untested."
+    },
+    {
+      "id": "L5-C07",
+      "name": "Reflection is already a Scrum event - retrospective vs review",
+      "source": "transcript",
+      "priority": "high",
+      "bloom_reached": null,
+      "confidence": null,
+      "attempts": 0,
+      "correct": 0,
+      "last_reviewed": null,
+      "next_review": "2026-08-08",
+      "interval_days": 1,
+      "note": "Untested."
+    },
+    {
+      "id": "L5-C08",
+      "name": "Extreme Programming - extreme means continuous",
+      "source": "transcript",
+      "priority": "medium",
+      "bloom_reached": null,
+      "confidence": null,
+      "attempts": 0,
+      "correct": 0,
+      "last_reviewed": null,
+      "next_review": "2026-08-08",
+      "interval_days": 1,
+      "note": "Untested."
+    },
+    {
+      "id": "L5-C09",
+      "name": "The 15 teamwork risks",
+      "source": "Teamwork_Risks_and_Mitigation_Strategies.pdf p.1; transcript",
+      "priority": "high",
+      "bloom_reached": null,
+      "confidence": null,
+      "attempts": 0,
+      "correct": 0,
+      "last_reviewed": null,
+      "next_review": "2026-08-08",
+      "interval_days": 1,
+      "note": "Untested."
+    },
+    {
+      "id": "L5-C10",
+      "name": "The risk-to-mitigation mapping, with impact and likelihood",
+      "source": "Teamwork_Risks_and_Mitigation_Strategies.pdf p.2; transcript",
+      "priority": "high",
+      "bloom_reached": null,
+      "confidence": null,
+      "attempts": 0,
+      "correct": 0,
+      "last_reviewed": null,
+      "next_review": "2026-08-08",
+      "interval_days": 1,
+      "note": "Untested."
+    },
+    {
+      "id": "L5-C11",
+      "name": "Risks are mitigated, issues are resolved",
+      "source": "Project_Risk_Quiz.pdf; transcript",
+      "priority": "high",
+      "bloom_reached": null,
+      "confidence": null,
+      "attempts": 0,
+      "correct": 0,
+      "last_reviewed": null,
+      "next_review": "2026-08-08",
+      "interval_days": 1,
+      "note": "Untested."
+    }
+  ],
+  "misconceptions": [],
+  "open_questions": [
+    "Risk quiz Q14-Q19 answers were not given on the recording. Q15 in particular ('adding features without updating documentation') has 'All of the above' as an option and is worth checking.",
+    "The two risk PDFs are filed under Lecture6/resources but are L5 content. If they are ever moved, the Sources callout in L5-notes.md and this progress.json both break.",
+    "Whether the 15-risk list or the risk/issue distinction is examinable, or purely project guidance."
+  ],
+  "next_action": "11 concepts written, none tested. Quiz L5 leading with C02 (Gibbs' six stages and the four Analysis cue questions), C11 (risks mitigated vs issues resolved), C09/C10 (the risks and their mitigations), C07 (retrospective vs review)."
+}

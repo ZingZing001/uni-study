@@ -1,0 +1,95 @@
+Define reflection.	The conscious exploration of an experience - in order to learn from an experience, you need to reflect on it.
+What is the three-part temporal structure of reflection?	Learn from the past, apply that knowledge in the present, so that you have a better future.
+Why is reflection an agile concern rather than a study skill?	Because continuous improvement of the development steps and overall process is one of the most important principles of agile.
+Which agile principle and which Scrum pillar does reflection map to?	The twelfth principle - the team reflects at regular intervals and tunes its behaviour - and the adaptation pillar.
+Why use a structured model rather than reflecting freely?	Structure makes reflection more powerful and moves you out of auto-pilot; free reflection mostly does not happen.
+Why are most reflection models drawn as cycles?	Because reflection is ongoing - you carry the learning from one reflection forward into future experiences.
+Name the six stages of Gibbs' reflective cycle in order.	Description, feelings, evaluation, analysis, conclusion, action plan.
+What is the key question at Gibbs' description stage?	What happened?
+What is the key question at Gibbs' feelings stage?	What were you thinking and feeling?
+What is the key question at Gibbs' evaluation stage?	What was good and bad about the experience?
+What is the key question at Gibbs' analysis stage?	What sense can you make of the situation?
+What is the key question at Gibbs' conclusion stage?	What else could you have done?
+What is the key question at Gibbs' action plan stage?	If a similar situation arose again, what would you do?
+Give the four cue questions under Gibbs' analysis.	What sense can you make of the situation; how do past experiences compare to this; how does theory or evidence fit with this; how did your involvement affect the outcome.
+Which phase of Gibbs is Assignment 2 asking for?	The analysis phase - the lecturer said so explicitly.
+Which Gibbs cue question matches the A2 three-mark rubric line?	"How do past experiences compare to this?"
+From what perspective was Gibbs' cycle developed, and what is it best for?	An educational perspective; it is particularly useful for learning from everyday situations.
+When writing A2 with Gibbs, can you use only the analysis stage?	No - you still need the other elements, including feelings around the past experience and your evaluation.
+Name the five phases of Johns' model of structured reflection.	Describe the experience, reflection, influencing factors, could I have dealt with it better, and learning.
+What are the two directions Johns insists you look?	Look inwards at your own thoughts and feelings, and look outwards at the incident, your actions, whether they were ethical, and external factors.
+In what field was Johns' model originally developed?	Nursing.
+What question does Johns ask that Gibbs does not?	Whether another person involved felt about the situation, and whether you acted for the best.
+Name Johns' four ways of knowing.	Empirics (scientific), ethics (moral knowledge), personal (self-awareness of beliefs and values), and aesthetics (the art of what we do).
+What does Johns recommend besides self-reflection?	Involving someone else, such as a supervisor or mentor, which makes the reflection more powerful.
+What was the lecturer's ethical example about code?	A team accepting a complex piece of code that could easily be simplified - with time and team conformity as the pressure to let it stand.
+What did the energy-efficiency research relate?	Development practices to energy efficiency and the impact on the planet, via CPU consumption and carbon footprint.
+Name Kolb's four stages in plain language.	Doing it, reflecting on the experience, making sense of the experience, planning what to do.
+Name Kolb's four stages in technical terms.	Concrete experience, reflective observation, abstract conceptualisation, active experimentation.
+Where can you enter Kolb's learning cycle?	At any stage - and because each pass feeds the next, it is really a spiral.
+What is Kolb's distinguishing move compared with the other models?	Drawing generalisations from experience.
+How can a generalisation be falsified under Kolb?	A later project may turn what were good experiences into bad ones, so they stop being generalisations.
+How do software design patterns illustrate Kolb?	They are generalised experience - solutions that produced good outcomes often enough to be named; where a pattern does not fit, the generalisation does not hold in that situation.
+Which reflection model suits someone with more than one past project?	Kolb, because its distinguishing move is generalising across experiences.
+Give the three questions of the Rolfe, Freshwater and Jasper framework.	What? So what? Now what?
+What does the "What?" cluster in Rolfe help with?	Describing the event - your role, what you were trying to achieve, your actions, the response of others, consequences and feelings.
+What does the "So what?" cluster in Rolfe help with?	Understanding the event - what it tells you about yourself, others, your attitudes, and what other knowledge you can bring.
+What does the "Now what?" cluster in Rolfe help with?	What can be done to improve - and what the consequences of that action might be.
+Why can Rolfe's framework be used by novice and expert alike?	Because different levels of questions can be reflected on.
+Which earlier SE761 concept shares vocabulary with Rolfe's framework?	L2-C02 - rationale is "So what?" plus "Who cares?".
+Are you marked against a reflection model in A2?	No - "we are not going to mark you against these models".
+What must you do if you follow a reflection model in A2?	Refer to it in the submission and say which model you followed.
+Are hybrid reflection models allowed?	Yes - you can pick a few things from one model and a few from another and apply them as a custom model.
+Why do the four reflection models converge?	All of them have a step asking you to think about the past and then apply that knowledge in future.
+Which two Scrum events contain reflection?	The sprint retrospective and sprint planning.
+Is team reflection in Scrum sufficient?	No - you are expected to keep doing individual reflection as you go, alongside the team events.
+What is the difference between a sprint retrospective and a sprint review?	The retrospective is about the process of the sprint just concluded; the review contains the demo of what was built, shown to the Product Owner.
+Which Scrum event is most effective for reflecting on risks like uneven workload and communication gaps?	The sprint retrospective.
+How many practices does Extreme Programming comprise?	Around 10 to 15 good development practices.
+Name four practices that came from Extreme Programming.	Test-driven development, pair programming, continuous integration, and refactoring.
+Why is Extreme Programming called "extreme"?	Because it takes the good practices of traditional development and applies them in an extreme manner.
+Work the code review example of XP.	Traditional development reviews code regularly, perhaps every day or every sprint; XP recommends pair programming so review happens continuously, one developer coding while the other reviews.
+What does pair programming have to do with reflection?	It is a kind of continuous reflection.
+Name the fifteen teamwork risks.	Uneven workload distribution, poor communication, lack of role clarity, conflicting schedules, inconsistent skill levels, decision-making conflicts, lack of commitment or motivation, version control and code integration issues, scope creep, ineffective project planning, lack of leadership, dependency on key members, cultural or personality clashes, inadequate testing and QA, and poor documentation.
+Which teamwork risk is described as the most common cause of risks becoming issues?	Poor communication.
+What is the consequence of uneven workload distribution?	Free riders, and burnout and resentment.
+Why is a team member volunteering for extra workload a risk?	Because it leads to burnout, and creates the same single point of failure as dependency on key members.
+What advice is given on estimating deadlines?	Pick a deadline slightly later than what you would generally think is achievable.
+Why is a non-responsive team member fatal in this course specifically?	Because the sprint length is only one week, so two weeks of silence is longer than the whole sprint.
+What is the first thing a team member must ensure, ahead of doing their duties?	That they are reachable.
+Whose responsibility is identifying risks within the team?	Everyone's - it is explicitly not the Scrum Master's responsibility.
+What is the first point of action when a team member is not contributing?	Talking to them - the rest of the team must talk to them first, and go on from there.
+What should you not do before your role is clear?	Start working on your part - discuss with team members until you have clarity.
+What should members do about their availability?	Make schedules absolutely clear and transparent to the team, including uncertainty, and never hide the information.
+Why are decision-making conflicts a partly positive signal?	They indicate everyone is contributing, present, and available for discussion.
+What is the rule for handling decision-making conflicts?	Work in a professional manner and never take it to the personal level.
+How do you watch for scope creep in practice?	Keep a visual on what is being pushed and updated in the common repository.
+What does the lecture say about leadership in an agile team?	Although Scrum has no leader, there should still be a sense of leadership in each member, and always a leadership element for the tasks allocated to you.
+What is the standard for documentation quality?	It should be understood by each member of the team at equal levels and in the same manner.
+Which risk has both high impact and high likelihood?	Poor communication (R2).
+Which three risks are rated only medium priority?	Conflicting schedules, inconsistent skill levels, and cultural or personality clashes.
+What is the mitigation for uneven workload distribution?	Define roles early and use task tracking tools.
+What is the mitigation for lack of role clarity?	Document responsibilities in a Team Charter.
+What is the mitigation for decision-making conflicts?	Establish a voting mechanism and assign final authority.
+What is the mitigation for dependency on key members?	Cross-train team members on critical tasks.
+What is the mitigation for version control and code integration issues?	Mandatory Git training and daily commits.
+What is the mitigation for scope creep?	Freeze the scope early and maintain a change log.
+What is the mitigation for lack of leadership?	Rotate leadership roles per milestone.
+What is the mitigation for inadequate testing and QA?	Define testing tasks in sprint planning and assign QA roles.
+What is the mitigation for poor documentation?	Documentation checkpoints per sprint.
+What is the mitigation for inconsistent skill levels?	Pair programming and knowledge-sharing sessions.
+What is the mitigation for lack of commitment or motivation?	Peer evaluations and celebrating milestones.
+Describe the voting mechanism for estimation.	Each member holds flash cards showing point values, all reveal together, the Scrum Master gently facilitates, and the team discusses any variation until reaching one estimate.
+What caution accompanies celebrating milestones?	Throw a party after sprint one, but do not spend the whole next week partying or it will spoil the next sprint.
+Why does the team need to agree on one communication platform?	Because members will prefer different tools - Discord, Slack, email - and that divergence is a cultural or personality clash in practice.
+What is the difference between a risk and an issue?	A risk has not happened yet; an issue has. Risks are mitigated and issues are resolved.
+What is the ideal outcome of risk management?	That risks do not become real issues.
+What is the real danger with teamwork risks?	The tendency not to recognise a situation as a risk when it actually is one.
+Is the project risk quiz assessed?	No - it is not a Canvas quiz and it does not cover everything in the risk document.
+Who invented Scrum, and what else were they involved in?	Ken Schwaber and Jeff Sutherland, who were also among the seventeen authors of the Agile Manifesto.
+What is Martin Fowler known for?	Code smells and refactoring, and co-authoring the Agile Manifesto.
+Who wrote Clean Code?	Robert C. Martin, known as Uncle Bob.
+Who originated Kanban, and who applied it to software?	Taiichi Ohno at Toyota in the 1950s; David Anderson applied it to software development.
+What is the quote about retrospectives?	If you adopt only one agile practice, let it be retrospectives - if you are not doing retrospectives, you are not doing agile at all.
+What is Robert Martin's quote about project speed?	The best way to get a project done faster is to start sooner, and the only way to go fast is to go well.
+What is the quote about staying agile over time?	It doesn't matter how good you are today - if you're not better next month, you are no longer agile.

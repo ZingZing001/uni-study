@@ -1,0 +1,991 @@
+[Auto-generated transcript. Edits may have been applied for clarity.]
+Good morning everyone. I hope you had a great weekend.
+
+Yes or no. Yeah, I assume that some of you might be working as well.
+
+So, um. Either it was a little creative or it was joyful.
+
+All right. So this is going to be the last week with four lectures or two lectures.
+
+Um, this one is going to be about assignment two and, uh, risks involved in your project team work.
+
+So these are the two things that we are going to focus.
+
+You already know that. Assignment two it has a reflection element, um,
+
+where you are asked to reflect on your previous experience rounds of development and apply the knowledge around the AGI and scrum, uh, framework.
+
+Uh, who that experience or kind of relating your current knowledge with your previous experiences and then writing reflections,
+
+um, as your submissions. So, uh, talking about reflection, there are some formal models that you can utilise in order to write your reflections.
+
+You need not do that.
+
+Um, and we are not going to mock you against these models, but here is some knowledge that will definitely help you in writing your reflections.
+
+So this document is available from modules the module one and two under module one and two.
+
+So there are many such models of infection right with this document has been sourced from physiotherapy in New Zealand.
+
+Uh, because really reflection is a kind of topic that is needed in all the fields.
+
+And most of these models are like kind of applicable regardless of those fields.
+
+So here are a few that are more relevant to us, especially the Gibbs and Jones model as well as Coles.
+
+This, uh, fourth one is not that applicable or still, uh,
+
+you would need to dig deeper if you want to gain more knowledge and want to find if it is applicable to your specific situation or not.
+
+So talking about the Gibbs model. So I assume that you already know.
+
+What do you mean by reflection? You, uh, you ought to do it.
+
+And if you are not doing it, then there is a high chance that we won't improve our processes,
+
+whether these are educational processes, your work processes, your US life processes.
+
+So action is very, very important if you want to improve.
+
+And it is also one of the most important principles of agile software development processes too.
+
+Because we keep on focusing on improving our development steps and the overall process.
+
+So when we say reflection, a reflection is a conscious exploration of an experience.
+
+So in the past, what you have gone through, whether it is your personal life or your work life,
+
+and then learning from those experiences and applying them to your future situations, we all generally know about this.
+
+So the target here is to learn from the past.
+
+Then apply your knowledge in the present so that you have a better future.
+
+So the Gibbs reflective cycle. Is all about these steps.
+
+Here we are basically first looking at what has happened.
+
+So for example, if you're ask is, uh, to go home and do some online shopping, you might be doing that shopping.
+
+So what has happened is you have tried to pick an item and you are currently trying to buy it.
+
+You search for it and now you're trying to buy it.
+
+Then your feelings. What were you thinking during that process?
+
+So you might be thinking that I want to grab this specific product online, and or you look for it online and you go to that page and use that order.
+
+And then evaluation what was good and bad about experience.
+
+So you purchase that item, that item arrives and then you evaluate how the item or what what is the quality of that item,
+
+and what was the quality of the process of placing an order.
+
+So your overall experience wasn't good or bad.
+
+What sense can you make of the situation and how you will do your analysis?
+
+For example, you had purchased something from somewhere else last month as well,
+
+so that was your past experience and now you are trying to compare it with your current experience and try to an analysis.
+
+But, uh, in comparison to that previous experience, this experience was better or not.
+
+And then what else could you have done? So any areas of improvements that you want to do?
+
+Maybe you'll say that I won't buy from this site in future.
+
+Or maybe you you want to do it. And then further on you you'll have an action plan for future based on that experience.
+
+So this was a very, um, day to day routine life example where you buy something,
+
+but when you are thinking about software development or you're trying to manufacture something,
+
+build something, then it is going to be a diff, a slightly different approach, because you might be doing that for someone else.
+
+So the ultimate product that you are going to come up with might be for someone else.
+
+And so that someone else might be important in deciding what is good and what is bad.
+
+And that will play a role in what you do in future or how you how you build your product in future.
+
+Now when when we talk about, uh, from the vigil process, mortals, we know that we do reflect a lot.
+
+And one major area, one major event where we do it is sprint retrospective.
+
+After each sprint, the team retrospect about what went right, what went wrong, as well as sprint planning.
+
+So these two events would have that reflection,
+
+but it will certainly be a level reflection where you will be expected to keep on doing individual reflection as you go.
+
+So that must always carry on. So that is the Gibbs reflective cycle.
+
+So the primary goal here is when you reflect have a systematic approach to reflection.
+
+So when you are attempting your assignment two,
+
+you may look at one of these modules and decide to follow one of these modules for writing your reflection submissions.
+
+And if you do that, then and do refer to them in your words on missions that I did follow the specific, uh, reflection or.
+
+Now the key elements of Gibbs reflective cycle as were, are shown here.
+
+Here is a little, uh, description for those, along with some example questions.
+
+For example, for analysis part, I'm picking the most important one here.
+
+What sense can you make of the situation. How do past experience compare with this.
+
+Which is also asked where you are in assignment two?
+
+How does theory or evidence for this? And how did you involve, uh, how did your involvement affect an outcome?
+
+So that analysis part is what is being asked in assignment two.
+
+Right. Of course, you need to include the other elements, because when you go to the past experience, you will also,
+
+for example, talk about the feelings around that past experience and then your evaluation and so on.
+
+I repeat that in assignment two,
+
+you are asked to apply the knowledge that you have gained around the dry land from who your previous project experience.
+
+Uh, similarly, John's model of structured reflection.
+
+Now, uh, you'll then you'll go through these models in your own time.
+
+You'll realise that more or less they are talking about similar aspects, because all the models will have,
+
+uh, a step that will ask you to think about past, and then it will ask you to apply that knowledge in future.
+
+So, for example, John's model, it suggests you to look in words.
+
+That is, consider your own thoughts and feelings. And then look outwards.
+
+So look inwards and look outwards. Like considering the actual incident or situation as uh, things like your actions in the situations and so on.
+
+Often in the in the undergraduate courses. We do not talk much about this factor, but when we get to the higher stages of degrees programs.
+
+It becomes important. And you for the rest of the life you are going to fight in this area within yourself.
+
+No question about it. During your careers, at every stage you are going to have questions which are ethical in nature and the way the world works.
+
+There will be situations when you do not want to do something because it is not ethically correct, but because it is happening.
+
+Everyone is doing that. You, um, you know, got to do it now.
+
+What do you decide in that situation will be very important as a software developer as well.
+
+For example, I'm just giving you a little example because that was part of my, um, I just hosted.
+
+I was supervising like, uh, around eight, nine years back.
+
+It was around the energy efficiency of Earth systems.
+
+When we are coding, we are not thinking about how energy efficient is our code going to be.
+
+Uh, what does that mean? That means how much, uh, CPU our it is going to, um, incur.
+
+And how will it ultimately act?
+
+For example, the carbon footprints. So you need to kind of.
+
+So it is a research that tries to relate the development practices with the energy efficiency and the impact on the planet.
+
+So if you think ethically when you are coding, if you are writing a complex piece of code and you have your team has, um.
+
+Accepted that complex piece of code, or it could be easily simplified.
+
+You need to think some time to think ethically about whether to go with that complex piece or not, or make it simpler.
+
+Now, there are so many factors involved here. From the outset, the biggest factor is time, and you have to go with your team.
+
+You have the next tasks at hand. So whether you you accept that argument that is going within yourself or not, it will be an ethical question.
+
+So this is just one example.
+
+I'm sure you are going to face many others and you'll be working in even, even in your student projects within a team of eight people.
+
+So try to make genuine decisions in those situations.
+
+So it is about John's model is about describe the experience, then reflect and look at the unsung factors.
+
+Think about it. Have been dealt better or not.
+
+And what have you learned? Now, this also means that there needs to be a continuous review of what you are doing all the time.
+
+I'm I'm not. I don't think it is practical in the real life because there are many things that we do daily, but we do not reflect upon them.
+
+Right for example if you. So if you are driving and the light has gone, the traffic light has gone yellow.
+
+The normal observation is like there will be a 5,050% chance that the driver will stop.
+
+Right. So how many of us actually reflect on this aspect after reaching home?
+
+So we do not. Do not think about everything. Right.
+
+At least while developing software applications, because you are working professionally and you are working in a team,
+
+you have responsibilities towards that team and the product.
+
+Make sure that there is a continuous review of your practices, and the whole team will be responsible for that as well.
+
+For example. Do you know? I hope you have heard X.
+
+E extreme programming.
+
+Extreme programming is an agile software development methodology that has that comprises around 10 to 15 good development practices.
+
+Uh, some of them very well-known, you know, about is driven development.
+
+I hope you have at least heard about it. You are programming continuous integration, refactoring.
+
+So all these, uh, practices have actually formally, uh, come from extreme programming.
+
+Now, why is it called extreme programming is interesting because it x it recommends that whatever
+
+good practices are implemented in the traditional software development methodologies.
+
+We use them and we use them in an extreme manner.
+
+For example, if if the traditional development has a good practice of code review, reviewing code, or regularly, or maybe every day,
+
+or after every sprint or every development cycle,
+
+Extreme programming will recommend that use here programming so that the code review can be done continuously all the time.
+
+Because the concept of pure programming is that one of the developer is actually coding, and the other is keeping on reviewing what they are doing.
+
+So that means it is kind of continuous a reflection as well.
+
+Right. So the details of of the steps.
+
+Then the third one is called Learning cycle. This is the last one that I'll take.
+
+You can look at those in your own time. Now, the number of steps that it recommends are just for.
+
+And again, when you look at it, you'll see that more or less these models are very similar.
+
+So. What you can do is you can also pick a few things from this model, a few things from that model, and then apply them as a unique or custom model.
+
+All lifecycle has. It works around making sense.
+
+Of your art experiences and then learning from it.
+
+And then whatever you do in future, then again, of making sense of what you have done and how that is going to impact your overall performance.
+
+But the primary goal, the primary area where it differs from the others, is drawing generalisations.
+
+Which means, for example, if I a you, for example, you went through your software project in a specific way and based on your experiences,
+
+you say that, okay, the requirements are gathered in this specific way.
+
+Now for gathering the requirements.
+
+There are some good experiences and there are some bad experiences that you then not.
+
+You then see that okay, am I good experiences?
+
+If I compare this with my previous project experience, those good experiences were also good experiences in in my previous project.
+
+So that will help you generalise those good experiences.
+
+And you,
+
+you in your mind will think that in my future projects I am again going to apply these practices because in the past these were all experiences.
+
+So generalising or drawing generalisations is a very important part of this model.
+
+Now what may happen when you do the next project,
+
+those good experience or those generalisations may change as we can understand that you the
+
+good experiences might end to bad experiences and so they won't be generalisations anymore.
+
+So we, we take that lead and then decide or make our generalisations for any future projects accordingly.
+
+You know that? Um. Um, the concept of design patterns you have.
+
+You might have gone through design patterns in your previous courses.
+
+Um, so software design patterns is an example of design generalisations.
+
+So people have gone through these experiences of solving design problems in specific ways.
+
+And because they generated good experiences, they have generalised those experiences in the form of design patterns.
+
+Or then there may be projects, there may be design problems where those design patterns are not that applicable.
+
+Which can give you an indication that this generalisation doesn't work in my situation.
+
+So all this will be part of your affection. Right.
+
+So, um, I'll stop here and let you ask any questions that you might have.
+
+It's a very general topic, but, um, normally we do not formalise this, this kind of, uh, thinking.
+
+Or formalising reflection will only help.
+
+So when you are writing a reflection, think about a model.
+
+Maybe I'll use this model this time, and maybe I like better and conclude, uh, better things.
+
+Any questions? Comments? Okay.
+
+If you do not have any questions at this point, it will be good if you spend some time on working on your assignment to similar to the previous week.
+
+I will now give you some time to get started with your assignment two right here.
+
+And then in the second half we will be talking about the project risks.
+
+So spend some time say 20 minutes on at least starting your assignment to, uh, anyone who has already started working on assignment two.
+
+Okay, so give it a go. And let me know if you have any questions.
+
+This document is available from modules at module 102.
+
+So the best place to start would be to think about a previous project development experience number one, and then look at the rubric.
+
+What are the elements that must be there? And then start writing the draft.
+
+There are certain cautions that are put as examples in the description that might help you.
+
+And I'm getting close to.
+
+Or do you want to write? For your information, there is at the end of this document the reflect models.
+
+You'll see that there are relevant references. Might be useful if you want to learn more.
+
+All right. Thank you. Were you able to find something from your own history?
+
+How many of you were able to think and at least start?
+
+And, uh, would one of you like to share, uh, what you are intending to write?
+
+Who has, uh, at least some experience.
+
+Around one of the traditional software development models.
+
+Have you developed software applications using.
+
+Uh, for example. Um, in, in a non-formal way, using no formal model because that is what generally we do.
+
+Did you have any course, any previous course where you were asked to use a specific software development model or developing an application?
+
+Have you gone through a course where these of documented models were not?
+
+Have you heard these models? In which course? For example.
+
+Waterfall model or spiral model? No, really.
+
+Have you so. Is this software development lifecycle?
+
+New to you? No, it shouldn't be. Okay, so, um, even if you are, you have not got any experience, previous experience with a specific formal model.
+
+It it doesn't matter that much for this assignment.
+
+What matters is whether you have had at least some application development on for application development experience or not.
+
+So if you have been a part of a software project development team,
+
+whether a student team or an industry or maybe a freelance work, you may bring that experience into this assignment.
+
+So it is not important that you name a specific process model that you used in your previous experience.
+
+As long as you know that it was different from agile, and even if it was, you have already used as I previously,
+
+maybe you can write some experiences and try to apply what you have learned in the past one week.
+
+Any questions? Comments? Maybe error on the assignment.
+
+Because it is due later this week. Okay, so I'll move to the next bit.
+
+And the next bit is about the teamwork risks and mitigation strategies.
+
+So I'm going to let me download it and then open it separately.
+
+So in in your modules one and two under canvas module.
+
+This document is not visible. And it lists 15 risks that.
+
+I'm sure will be very important to learn about as you proceed with your project development in this course.
+
+Or maybe if you are working in in some other project development experience.
+
+Currently. If you're working with some other sort of project in some other course.
+
+Now, what I know is, um, that you, each one of you now have a team, and each team has now been allotted a project.
+
+So this morning, results sent out, uh, and a canvas announcement informing you about your,
+
+uh, um, project allocation as well as Scrum Masters will be informed about more details.
+
+So that means you are formally now going to work on, on a specific project with your, uh, with the rest of your team.
+
+So these are the risks that you must know about.
+
+I'll quickly go through each one of them and then we'll discuss about the mitigation as well.
+
+The first fact. Uh, the first risk is often the uneven workload distribution.
+
+So whenever you sit in your team, you have your team meetings.
+
+Make sure when you come up with the list.
+
+List of tasks. This should be equally.
+
+Distributed as, uh, or the workload.
+
+And that means deciding about or forcing or estimating the amount of work needed to implement each task is very important.
+
+We have seen in the past and in other courses as well, which are project based,
+
+that often the teams spend less time on workload distribution planning.
+
+And then what happens is one or more members have more workload than the others.
+
+Either they'll start complaining or sometimes if they are absent due to sickness or other reasons,
+
+then it becomes a huge problem for the rest of the team.
+
+So make sure the workload distribution is is good.
+
+Also, sometimes the party members might insist on having more work load themselves because they might think they want to learn more, right?
+
+But at the end, it leads to burnout, which you do not want in your team.
+
+Then what communication?
+
+I I've already indicated right from lecture one, that poor communication has been identified as the most common cause of risks.
+
+Becoming issues. So what you want ideally is if there are risks here, do not become real issues.
+
+So where communication can be avoided by measures like you can decide on using a tool a communication tool.
+
+Then the lack of role clarity. So uh, or communication, um, in, in one of my other courses.
+
+The most common problem that I've heard is that one of the team members.
+
+So if there are, say there's a three member team and two of them are complaining that the third one is not responding at all.
+
+So we have we have been trying to contact them for the last two weeks and they are not responding.
+
+Now, if you apply that situation to your course and the project schedule that you have where the sprint length is just one week,
+
+you simply cannot afford it. Not as a team, not as an individual.
+
+Everyone has to be proactive and always end up with the rest of the team.
+
+So that means whether you are doing your duties is a separate matter or the first thing that you must end, what is that you are in reach.
+
+The next one is for these ones, and the next one is lack of roll clarity.
+
+Do not start working on your bed until you have a clear understanding of what you have been allocated to work on.
+
+If you have doubts, discuss with your team members until you have that clarity.
+
+Sometimes, uh, say, let's say the sprint has started and by the end of the sprint.
+
+There are two members who are claiming that V.
+
+So I was responsible to do the same work as one of the other.
+
+In in that last lecture when we run that aeroplane activity.
+
+So there was one team who simply somehow ignored one of the requirements.
+
+Now that that that reflects poor communication.
+
+That may also reflect lack of role clarity. Maybe one of them was allocated that role and they didn't work on it.
+
+Then conflicting schedules are very important because many of you might be working as well.
+
+Some might prefer to work over the weekends, the others are working somewhere else during weekends.
+
+They have other plans similarly during workdays.
+
+So it is very important that as a part of your planning stage,
+
+the schedules of each member of the team are absolutely clear to the other members of the teams.
+
+It should be very transparent. Sometimes some of the members were to hide some of that information.
+
+Please do not do that. Or sometimes members do not have clarity on their future plans.
+
+For example, what I am going to do on on this week's Thursday um, I'm not yet certain, so I do not know how many hours I have available.
+
+So whatever obstructions restrictions you have, make sure to put that or who your team.
+
+There may be inconsistent skill levels. And this is also where the clarity should be there.
+
+Who is more skilful in this area because that is going to decide the role.
+
+Sometimes.
+
+And, um, I think, as I mentioned in his announcement, that most of the teams have got they bid on what some teams might not have, uh, got that choice.
+
+And especially in those cases. It might not be clear that who will take up which responsibility?
+
+If you haven't got your own, you're the first choice for the second choice.
+
+So we assume that if you given the five choices you actually did discuss in your teams that who is going to handle generally,
+
+who is going to handle what skill required for a specific project that you are bidding on?
+
+Decision making conflicts are very common, or at least that that indicates that everyone is trying to contribute.
+
+They're discussing. They are present. They they know they're each other's schedule there.
+
+They are available for discussions. So that that sounds positive.
+
+But when you are on the table discussing stuff, then there may be conflicts around certain decisions, especially the software design decisions.
+
+What should you do in those situations? You should also discuss about this in your planning.
+
+It is very important to stay to work in a professional manner.
+
+Never take it to the personal level, because that is perhaps one of the most important aspects of a professional life.
+
+Then lack of commitment or motivation.
+
+This is. This has been also very common from a practical perspective.
+
+My experience is that in most of the student projects.
+
+All the members are, like, more or less committed to the work.
+
+But then there will be other cases where one or more members are genuinely.
+
+Not motivated enough and have not committed.
+
+Although they might be telling you that they will be doing their job right.
+
+But internally, they do not want to complete their work and are not motivated enough.
+
+Could be because of any reason, or it is very important to pick that up early in your project development.
+
+And this is not a responsibility of the Scrum Master.
+
+It is the responsibility of everyone to keep identifying the risks within the team.
+
+If you have any, uh, issues that you picked early or example,
+
+if you know that one of the team members is simply not contributing or they are they are not motivated enough.
+
+The first point of action should always be talking to them, or the rest of the team members must talk to them, and then they go on from from there.
+
+So there can be other mitigations will come to that.
+
+Then the version control and code integration issues. There might be team members who are not used to using the version control systems.
+
+It is very important that they spend some time early on in the project and try to acquire that skill as soon as possible,
+
+and the other members also should be proactive in identifying if there are
+
+members in the team who lack basic skills around version control or other tools.
+
+Scope creep. Sometimes some of the team members may get excited enough to add extra features to the software application.
+
+Make sure everyone is keeping a visual on on such acts because everything will be pushing.
+
+Uh, will be. So every member of the team will be pushing the work to the common repo.
+
+So keep a visual on what is being updated.
+
+Then similarly others. Ineffective project planning.
+
+And the most important one is unrealistic estimates.
+
+So generally we should pick an estimate a deadline slightly later than what you would generally think.
+
+That is achievable. So who gives some of who complete that work?
+
+Lack of leadership, although in an agile and scrum that has no leader Mark, still, there should still be a sense of leadership in each member.
+
+There will always be. That said, there will always, always be leadership element for specific tasks that have been allocated to you.
+
+Dependency on key members. And again, a very common factor.
+
+I've already talked about this aspect.
+
+Uh. I'm here. An uneven workload.
+
+Distribution. And cultural clashes.
+
+Inadequate testing and quality assurance.
+
+And finally for documentation. Something documented should be understood by each member of the team at equal levels in the same manner.
+
+Uh, before, um, talking about the mitigation for these risks.
+
+Do you have any comments or questions around the risks and have you had any such experiences previously?
+
+I would really want to know about it. Given these 15 risks, have you actually experienced these becoming issues in in maybe your previous projects?
+
+Any experiences that you might want to share.
+
+Come on. If you have worked in group projects previously, you must have.
+
+Experience at least few of them. Sometimes in the film, we've sort of left the tasting to what's the, uh, we're trying to focus on the development.
+
+Yeah. Things like that. Then suddenly we have the rush of running the tests in a day.
+
+Yeah. And and something fails at the last moment, and then.
+
+Yeah, we are leaving. And from that perspective, when we as driven development is a it's a good approach.
+
+Although that is our written first and and you know that what you want to do something that we
+
+also experienced in last week's aeroplane activity because I gave you the acceptance criteria.
+
+Uh, so did you, did you improve upon that in, in or.
+
+That was the only cycle that, um, it was it was pretty much the only.
+
+Okay. Yeah. We just didn't prioritise it in each of the, uh, sort of meetings that we had with, uh, yeah.
+
+Some kind of sprint planning. Yeah. Uh, little bit of development that just.
+
+We need to get it.
+
+We were still performing user testing while developing, but not make sure that what we did written was working, but, um, writing, uh, automated tests.
+
+Okay. Yeah. Something that that everyone must apply in your scrum cycles.
+
+Because when you're going through these sprints.
+
+The tests are going to be the key because the product owner is going to be critical of whether, uh, your prototypes or the, uh, um,
+
+sprint products, as we call them, whether they are, uh, um, whether they are acceptable from the, the acceptance criteria perspective or not.
+
+And we already know about the difference between what the product to see is and what they need.
+
+So there can be that situation, you know, in in the aeroplane activity, for example, we were acting as the product owner.
+
+And. In sprint two, we mentioned that one of the requirements is that you are we are going to give you a target that that will look like this.
+
+And your planes must hit those targets. What what we said was different from slightly different from what we wanted,
+
+because the things that you didn't know were that I was intending to show the target on the projector.
+
+On the screen. And then that that target would be slightly higher than maybe the line of your sight.
+
+So. Any any other experiences around these risks that you had to go through?
+
+Maybe you had to then mitigate them. I'm in the mitigate the issue.
+
+Not not that risks themselves. So he said at first there are risks.
+
+As long as you have not started things, they are risks,
+
+but then there is a potential that there will be converted into real issues and then you will have to resolve those issues.
+
+So the risks are mitigated and the issues are resolved.
+
+Anyone else who would like to share? Okay.
+
+If not, then I'll be happy to move over the mitigation part.
+
+And here's just some examples of how you can mitigate those risks during your planning phases.
+
+For example, for uneven workload distribution, define the roles early used.
+
+Ask tracking tools. For poor communication.
+
+Set up a regular meeting communication tools like you have already worked with.
+
+If you want to avoid lack of role clarity, that means if you have it documented right from the start, that will do what will help.
+
+And if there are conflicting schedules, use Shared Calendar, which clearly shows everyone's availability during the week.
+
+And we keep focusing on weeks because your sprint is one week, so each sprint is one week long.
+
+Decision making conflicts. Establish voting mechanisms that will always help.
+
+You recall when we went to the aeroplane activity, we asked you about how many story points do your A does your team estimate to complete?
+
+That is how many aeroplane and one way that your team can do it, do that estimation is by using a voting mechanism.
+
+So generally there's a voting mechanism where each team member will have these postcards,
+
+these these flash cards rather containing uh, showing the numbers of points.
+
+So the Scrum Master will gently facilitate this.
+
+So what they'll ask for is how many story points do you think we can complete in this sprint?
+
+So each team member can display their hash card so the display them together.
+
+And then there is a discussion if there is a variation and so on.
+
+They keep on discussing until and uh until they get to one specific estimate.
+
+Then, uh, the lack of commitment or motivation will be better served with your evaluations and also celebrating milestones.
+
+So, for example, throw a party after sprint one is successfully complete, but do not spend the whole next whole week partying.
+
+That will spoil your next sprint. Version control and core integration issues.
+
+Mandatory get training. Delete commands. Scope creep.
+
+Freeze the scope early. Right.
+
+So freezing it early would make it clear to everyone that this is the scope and must not go beyond the scope.
+
+Maintain the change log in effect project planning and support one.
+
+So I won't go through each one of these.
+
+So what I expect you to do now is, number one, go through these risks and look at the possible resolutions, possible mitigation strategies.
+
+There may be many others. Your team might come up with other ideas.
+
+That's up to your team. Here are the severity and other aspects.
+
+And then. Go to the modules.
+
+The module. Module one and two section. And you see that there is.
+
+And let me make it visible to you.
+
+So there is a project risk quiz. I want you to take this quiz now.
+
+It is not a canvas quiz. It has 20 questions that will help you validate what you have learned about risks and mitigation strategies.
+
+It doesn't cover everything that is listed on that document, but [INAUDIBLE].
+
+So please take some time to look at this. How?
+
+So I've just, um, made the questions available on one of the predictors might help, but you can of course work.
+
+On. Your own documents.
+
+And of course, the questions. These questions are the answers to these questions.
+
+Of course, slightly vary depending upon. I mean, given there could be so many other ways to mitigate risks.
+
+But understanding and identifying them is very important.
+
+Of course there are. There are no fault teams present here.
+
+So when you go back and meet your team, do share these risks with your other team members.
+
+Discuss them within your team so that there are less issues later.
+
+So not that these questions, uh, are more of a revision to.
+
+Remember what a specific risk would look like in your team's.
+
+I mean, there would be a tendency to not look at a certain situation as a risk when it is actually a risk.
+
+So this this information should help you at least identifying those situations has risks.
+
+So let me have a look at the first one I'm thinking of or does not.
+
+On this image a small hills. I'll. I'll just switch back here.
+
+Right. Which? Which of the following? I'm just going through the questions quickly for you.
+
+Which of the following best describe scope creep in a student software project?
+
+Should we be adding features beyond the agreed product range?
+
+So that is the scope creep, right? You are going beyond.
+
+You are trying to implement something beyond what was decided in the project scope.
+
+Any questions around that. And the second one, what is the recommended strategy to mitigate uneven workload distribution in a scrum team?
+
+It is great using household use.
+
+For example, many, many of you might prefer Trello. So do use it to track assignments and workloads.
+
+Which risk arises when team members, all of it to maintain frequent and clear messaging.
+
+It is where communication a team has overlapping responsibilities because no, uh, because of no clear because no clear rules are defined.
+
+This is an example of lack of roll clarity. Which tool is most helpful in preventing version control?
+
+You already know about that git and GitHub. Which of these can help a scrum team avoid decision making conflicts?
+
+What do you think? Hard question six. Should be.
+
+What should we do to avoid decision making conflicts? I, uh, did this.
+
+Yep. We. Yep. I did discuss it earlier.
+
+Uh, employ a voting mechanism.
+
+What mitigation strategy addresses the risk of dependency on key members.
+
+What do you think? The last one the.
+
+So cross-training other team members on critical modules.
+
+Which risk is most likely to occur if the team rushes through development and skips testing tasks?
+
+See inadequate quality assurance. What is a common cause of cultural or personality clashes on student projects?
+
+B. B. There should be different works, titles and communication preferences, so do identify different works files within within your team.
+
+There may be members who want to use discord. Others want to use slack or maybe emails or other.
+
+So do decide on one platform then.
+
+Question ten which of the following helps mitigate ineffective project planning in a scrum with Student Project?
+
+Yep. So, uh, so in the first one.
+
+We're having dialysis in weekly sprint sprints with retrospectives.
+
+Question 11 what is suitable? What is this suitable strategy or conflicting should use and scrum project.
+
+It should be. So we want to have shared calendars and agreeing on the fixed weekly sinks.
+
+Lack of documentation typically causes which of the following problems in a team project?
+
+See? See? In fact, that is the only problem that is mentioned here, right?
+
+What risk arises if the team relies on only 1 or 2 members for critical parts of the project?
+
+So that has dependency on the key members. All right.
+
+So I'll leave the rest to you. And, um, I hope you will.
+
+And I think there was one last one that I because this relates to the importance of one of the events.
+
+Or can you tell me what is the answer?
+
+Question 20 would be which scrum event is most effective to reflect on risks like uneven workload and communication gaps?
+
+Yes, it's always remembered that the all the discussions around how the sprint went.
+
+That is about the process of the sprint that has just concluded will be done as a part of the sprint retrospective meeting,
+
+whereas the sprint review will actually have the sprint demo.
+
+So what have you created or built during that sprint will be demonstrated to the product owner, and there will be discussions around what was needed.
+
+That is, what was the product backlog or the sprint backlog and how was it implemented?
+
+Right. So, um, similarly, the rest of the questions are up to you.
+
+You can look at the content that I went through and then try to, uh, answer those questions.
+
+Also, think about the other mitigation strategies that you, you might, um, be good enough to find.
+
+And it all depends upon your team discussions. Each member may contribute with new mitigation strategies that others may agree upon as well.
+
+Okay. Do you know them?
+
+Say, at least not on the faces, right?
+
+Anyone who has seen one of these faces somewhere.
+
+Maybe on on the cover of a book. So the first one is Ken.
+
+Second is Jeff Martin.
+
+And these three are one of the many around 17 inventors of Agile Manifesto, the values and principles that we went through last week.
+
+So you can think of them as the originators of the concept of agile and how it is applicable to agile development.
+
+You can read about them. The first two played an instrumental part and inventing scrum as well.
+
+So the concept of agile and then scrum.
+
+And Martin Fowler. Is.
+
+Have you heard of, uh, Martin Fowler? What have you learned about cold spells?
+
+Refactoring. So those concepts have come from.
+
+They are given by Martin Fowler along with Robert Martin and others.
+
+Do you know them? Not from offices.
+
+If I can pronounce it correctly, I keep. Thank you.
+
+Oh, no. Armstrong Toyota.
+
+And he gave the concept of Kanban in 1950s or even earlier.
+
+And so although that was not how it was defined, uh, to be applicable to the software development scheme, which was later done by David Anderson.
+
+So he actually applied that original Kanban idea to the software development area.
+
+All right. I want you to bring more. More pictures and more names.
+
+But. Yeah, just just didn't get time.
+
+But, you know, these are some of the important people that maybe you should know about.
+
+You should try to. Or it's about their other work and research and try to understand what else they have contributed to the scene,
+
+especially the agile software development. I'll leave you with these quotes.
+
+Today's quotes are related to agile. And scrum with our working product at the end of sprint is of a scrum.
+
+So always remember, by the end of the sprint you must have a working product.
+
+If you adopt only one zile practice, let it be retrospective.
+
+That is the importance of retrospective step.
+
+That makes it agile makes the AI.
+
+So if you are not doing retrospectives, you are not doing it at all.
+
+Continuous improvement is better than delayed perfection.
+
+Agile is an attitude, not a technique, with boundaries. The best way to get a project done faster is to start sewn up.
+
+And another way to make it faster is. To go well.
+
+Although Robert Martin, also known as uncle Bob.
+
+And if you try to search this name, Robert Martin, uncle Bob, uncle Bob is he had, uh,
+
+his Twitter handle where, uh, he keeps on posting around Israel and the relevant factors is.
+
+You'll find a lot of. Have you read the book Clean Code?
+
+So the clean code. So comes from Robert Martin, um, I think and and one other author.
+
+If I so not not fully informed about this.
+
+So clean code lists many code smells and refactoring activities.
+
+The best way to get a project done faster is to start sooner.
+
+And the only way to go fast is to go well. So that means it is very important if number one start early.
+
+And then as you go along, make sure that whatever you are doing, as um,
+
+you mentioned earlier that it decided prove or delay the testing until the end.
+
+So do not do that. The only way to identify whether you are going well or not is by keeping on testing and verifying.
+
+And the last one. It doesn't matter how good you are today, if you're not better next month, you are no longer agile.
+
+I think I have to include the author here.
+
+Right. All right. I think people, uh, not want to leave, so I'll be happy to leave as well.
+
+So, uh, have a great rest of the week in case you have any questions, any comments, feel free to contact me via email.
+
+Or you can also post on Ed if you want to discuss something with me.
+
+Now. You mean. Just one more thing, because I received a question at the start of the lecture.
+
+If you have any questions around your project allocation,
+
+you must talk to Reza because he's actually managing the project work or the project component of the course.
+
+But. Right. Thank you.
+
+And, uh, I'll meet you on Friday, then. Take a look.
+
+Yep. Uh, um, Christine worked with an investigative study.
+
