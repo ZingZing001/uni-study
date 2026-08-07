@@ -1,0 +1,963 @@
+[Auto-generated transcript. Edits may have been applied for clarity.]
+How are we doing today? Are we enjoying the cold weather?
+
+Now? Today we're here to talk about stakeholders at national level.
+
+So what this means is, as problems get more and more complex, how we have to think about our stakeholders gets more and more complex.
+
+And there's extra tools or new tools we could use to help understand what our stakeholders mean.
+
+So if we think about what we really want to understand is understanding the challenge when it comes to stakeholders,
+
+what are different ways we can assess them, as in these complex systems and other tools that we'll use.
+
+And then one of the key things we're going to talk about is what is a critical success factor, and how in the world do we determine those.
+
+Now if we think about where we are on this honeycomb for stakeholder analysis.
+
+It's going to tie into play with your strategic case. It brings the government context in the play.
+
+And it also will come up again in the management case and how we apply this.
+
+So quick refresh from engine 204 and 303.
+
+Remember that stakeholders is just somebody who has a stake in your project.
+
+And it can be somebody who's affected by the project project.
+
+So whether it's a real or perceived effect and that can be positively or negatively.
+
+So it can be positively affected or negatively affected. You're both a stakeholder.
+
+Same thing with if those stakeholders could impact the project, can they change the goals.
+
+Do they have any form of influence on the project. And again that's always positive and negative.
+
+So if we think about stakeholders they all have different roles, interests, influences, impact and needs.
+
+And as we start thinking about stakeholders on the government level, we need to break them down even more so in engine 303.
+
+When we talked about stakeholders, we normally talked about, oh,
+
+there's the national government or the central government, and maybe there was the local government.
+
+Well, now when we think about our stakeholders in terms of just the government, we break it down to the ministries,
+
+we break the local governments down into local councils and even further down.
+
+But our steps for stakeholder analysis are still going to remain the same.
+
+We need to identify all of those stakeholders. We need to really understand their motivational factors and go,
+
+do we need to break this stakeholder down even further based on those motivational factors?
+
+Then we need to look at their power and influence interests, urgency, relevance to this project,
+
+determine what their requirements are, and then ultimately, we want to narrow down the requirements to roughly six key things.
+
+We're going to assess any solutions or options against.
+
+So as we're dealing with greater and greater complex problems,
+
+especially for those problems that are impacting the negative or the national level, we're dealing with systems that are systems within a system.
+
+If you think back to lecture two,
+
+and system thinking allows us to identify specific problems or potentially addressable or solvable problems in that complex system.
+
+And now since this is a complex system and systems feedback on each other,
+
+what if stakeholders are complex and they have dynamic attributes that are going to change throughout the course of a project,
+
+sometimes quite rapidly. And then how are those stakeholders going to adapt to our rapidly changing or rapidly sorry,
+
+how are they going to adapt to the system changing, especially if it's a rapid change or a sudden change.
+
+What happens if we completely get a stakeholder wrong and how we're thinking about it?
+
+How is that going to play a role in our ultimate goal of the problem?
+
+So here is one way to think about a systems problem.
+
+And the first thing we look at is the top circle. So the top circle is how complex the problem is.
+
+The lower left hand circle. This one is how uncertain we are about the problem.
+
+How much knowledge do we have? Do we understand why it's occurring or how we can address it or solve it?
+
+And then the other thing that makes problems is quite complicated, as Juliet covered in lecture three was how's that?
+
+How are the values? The value divergence of the stakeholders. The more complex the problem, the more value divergence we're going to deal with.
+
+So a lot of times we think about systems thinking,
+
+we use it to develop this sort of problem structure and how we're looking at a problem to understand those systems and a system.
+
+Well, we're going to do the same thing with the stakeholders, and we're going to identify those stakeholders and their perspectives.
+
+And we're going to look at things like power interests, um, their influence, their position and attitude towards problems.
+
+We care about their urgency, their responsibility, their accountability.
+
+Um, are they stakeholders that need to be consulted or can they just be informed?
+
+These are all things that we have to consider at this level.
+
+So if we think about stakeholder analysis, we're going to go back to some of these key tools.
+
+So hopefully by now you know how to generate that traditional stakeholder list.
+
+You brainstorm. You look at different models for stakeholder systems.
+
+You use that upward downward outward sideward. So thinking about okay for this problem who is upward?
+
+Normally that's going to be your government's who's downward.
+
+Normally that's going to be the everyday people. Outwards would be businesses you might be consulting with.
+
+And sideboards will be potentially even other countries you can look at for references.
+
+And you may also want to look at that direct indirect and positive negative manner.
+
+So who's directly impacted and who's having some thoughts from the side.
+
+Indirect. Now our models were used to the grid based model.
+
+This is your standard power interest matrix. However there's a few other ones we'll talk about in a few minutes.
+
+We also have a cube based model. A cube based model is nice because now we are looking at three things.
+
+So we can look at in this one it's power, interest and attitude.
+
+We can look at power, interest and urgency. That one in particular.
+
+We can look at power, urgency and legitimacy. This is what's called the salience model.
+
+So we're looking at overlapping concentric circles, figuring out where our stakeholders are going to lie.
+
+And then we can also use what we call the RSI. So who's responsible accountable.
+
+Who's a contributor and who's informed. So where people are going to fall or where stakeholders are going to fall.
+
+So quick reminder about the power interest matrix. Remember power or influences or sometimes see that's the ability to change or stop a project.
+
+Interest is just the size of the overlap between a stakeholders goal in the project's goal, so that the central government's hiring you,
+
+or if the ministry in the central government is hiring hiring you, they probably have high power, high interest.
+
+But how do the local governments feel? How do the people feel?
+
+How do different public sector sector groups feel? Do they have power or do they just have interests or a combination of both?
+
+We have landowners are going to play a huge role when it comes to these type of problems.
+
+And we also have businesses playing a fairly large role. And as today goes on, we'll actually talk about a few examples.
+
+Now the next one are all these grid like or two by two frames.
+
+So normally again power and influence. That's the ability to stop or change a project.
+
+We could have support and opposition. So do you agree or not agree with the project or the problem.
+
+So you don't think this is a problem. You don't think this is a problem we're solving or vice versa?
+
+We can look at importance, influence. We can look at their power and try to identify who our strong supporters versus strong opponents,
+
+weak supporters, weak opponents, and how our stakeholders can be classified.
+
+Now, a lot of times when you're dealing with these level problems,
+
+You want to put stakeholders on multiple grids or multiple of these two by two to try to get an overall picture of what's going on.
+
+Because you could have somebody that is a strong supporter, but maybe they actually have.
+
+Maybe they don't actually have as much power as we think.
+
+So they should be closer here when we look at the power interest. So there's all different ways in how we look at this.
+
+Now the stakeholder cube this is showing us our power our interest.
+
+So that's the normal. If we look at a cross-section our power interest matrix here we're looking at attitude.
+
+So we can think about this as support or not or support our opposition falling on this axis.
+
+This is a quite useful.
+
+One to look at because it allows us to see everything, but it makes it difficult to see the relationships between the stakeholders.
+
+It makes it difficult to see how this might change over time, or where things may be using or and going within a project?
+
+So while this one can be used, it's not used that often.
+
+We don't tend to think of it as cubes. The one we tend to see much more frequently is the salience model.
+
+So the salience model uses power legitimacy and urgency.
+
+So again power that's the ability to stop or change the project. Legitimacy is an interesting one.
+
+So it's the involvement in the project is appropriate. So there could be a stakeholder.
+
+But if they don't actually have legitimacy then should we actually be considering them a stakeholder.
+
+Maybe they are affected by the project, but maybe they have no claim or no legitimate claim for the project and then urgency.
+
+So are things needing immediate attention? And this is nice because you can see overlap where you have power, urgency and legitimacy.
+
+You also can see where you only have two. So these dominant, dangerous and dependent stakeholders and how they fall into play.
+
+The salience model is nice because it has urgency, and urgency is time sensitive.
+
+So this is implying how critical it is for your stakeholder, which allows you to be dynamic.
+
+So you can think about the stakeholder in a two year time frame versus a five year time frame.
+
+Has the urgency changed? If we can delay this project or we can delay addressing this for five years,
+
+do people who maybe not have where this problem, it's not urgent for those stakeholders?
+
+Do they shift into urgent? Does that change our plans going forward?
+
+And then if we think about this in terms of your power interest matrix that manage closely,
+
+if you remember that was that high power, high interest that still falls on here.
+
+Those are stakeholders that have power, legitimacy and urgency are keep satisfied stakeholders, those stakeholders with high power and low interest.
+
+That tends to be the dominant or dangerous stakeholders.
+
+So they either they have power and they either have legitimacy or they have urgency.
+
+And then we have our keep informed stakeholders. So those would be that low power, high interest group.
+
+That's our dependent stakeholders. They have legitimacy and they have urgency, but they actually have no power in this scenario.
+
+And then we have our monitor. So that's when you only have power urgency or legitimacy.
+
+And then if you don't have power or legitimacy or urgency, um,
+
+the salience model will say that's what we call that stakeholder is now a non stakeholder.
+
+It's a stakeholder we shouldn't be paying attention to for the project. So it's a way of sort of helping us eliminate stakeholders from our analysis.
+
+And then the last model we talk about is the RSI framework.
+
+So we're looking for stakeholders who are responsible.
+
+Ultimately what stakeholders are going to be responsible for action and implementation of whatever we're trying to do.
+
+We also are looking for stakeholders that are accountable. So they're the ones who are going to be in charge of making those key decisions.
+
+The contributor. So the stakeholders who are going to be provide those best answers and inform.
+
+So it's the stakeholders who need to know about the decisions.
+
+Now the nice thing about the RSI framework is your stakeholder can only fall into one of these four groupings.
+
+So you can have multiple stakeholders per grouping. But you can only have one one grouping per stakeholder.
+
+So here for a problem that is tackling the building of new energy infrastructure.
+
+We can see that the stakeholder ultimately responsible for action implementation.
+
+That's going to be our energy companies. We can see that the stakeholders responsible for making the key decision, well this requires new land.
+
+So we need to go to the landowners and the iwi to obtain those rights.
+
+They are the ones who ultimately have the power to say yes.
+
+The Prime Minister of Energy or the Prime Minister and the Ministry of Minister of Energy and mBIE and the engineering firms,
+
+they're all going to provide their input. Okay. So they're all contributors and the stakeholders who need to know about what's going on.
+
+Well, that's the users. That's the customers.
+
+So it's another method of breaking down your stakeholders and saying which group they fall into best.
+
+That can help determine who are those key stakeholders.
+
+Who do we want to really pay attention to and key in on for our project now when it comes to doing this?
+
+Normally we're going to use multiple models and look at multiple scenarios.
+
+So we're going to be asking what's that stakeholders role and what's important to them.
+
+We're going to determine what their attitude is and what shifts do we need to
+
+potentially shift the attitude to something that is going to support this project?
+
+If we do that, how does it change, whether it be the salience model, the power interest model.
+
+As we look forward, the RSI model.
+
+Does that shift anything? Not only do we want to know if they have power, but if they do, how do they use it and how do they relate to this project?
+
+And then ultimately, what you're trying to do is key in on your key stakeholders.
+
+So which stakeholders repeatedly are having large impacts on that project?
+
+Those are the ones you want to focus your analysis on for these national level problems.
+
+So how does that change requirements we still have necessary.
+
+Nice to have an aspirational aspirational requirements. So those necessary requirements.
+
+The project can't continue if your necessary requirements are not met.
+
+Nice to have. We want the stakeholders want it. It's going to help us.
+
+But it might not be something we can meet and aspirational those goals.
+
+Or once stakeholders have that realistically we cannot meet in this time frame.
+
+So we want to make sure we know about it, but we're not going to address it.
+
+You want to figure out what are these necessary requirements and hone in on them.
+
+A lot of times it's very easy to lose your brainstorming mistake or.
+
+Sort necessary and nice to have together as you're trying to figure out where to go.
+
+We do a lot of brainstorming for these projects.
+
+If you were actually not during Systems Week or the team project, but if you were actually in industry,
+
+you'd be doing a whole bunch of interviews with the different stakeholder groups surveys.
+
+You won't have that opportunity during team Project and Systems week.
+
+So we're going to encourage you to actually discuss this with your team-mates,
+
+but also look at potentially the use of AI to help generate sources and feelings from
+
+different stakeholder groups that they can cite back to primary source material.
+
+We'll often look for actor linkage linkage matrices.
+
+So seeing how different actors will play, play and relate off of each other, we're going to look at social network analysis.
+
+Yes everything you put online is traceable. We're going to look at the different communication styles.
+
+We need trust and influence and then knowledge and mapping of our stakeholders needs.
+
+All of that will help you brainstorm and generate a list of requirements.
+
+And then you want to begin to sort them into necessary and nice to have.
+
+Now the problem is with these problems with most of these projects there's going to be value divergence okay.
+
+So you're going to have requirements that are conflicting.
+
+So you need to sort of look at what type of conflicts exists between the stakeholder requirements.
+
+Are they tractable or intractable. Are they actual issues.
+
+Is it social systems parties? How do they all tie together?
+
+And from there, what you will normally do is you'll brainstorm with those stakeholders,
+
+try to understand what they need, and can we reach an agreement of what actually needs to be done?
+
+Maybe we can't meet this necessary requirement. Should this requirement that we've identified as a conflict with another one?
+
+Is this actually necessary, or is this nice to have? Try to find those compromises.
+
+If you can't find a compromise. Are there other ways you could address that requirement?
+
+Maybe not initially in your thought process, maybe not initially in how you're thinking about options, but other ways that you could identify.
+
+Maybe you try to do something else. And ultimately, for your requirement list, there's those need to have things that you must meet.
+
+You want to be addressing the conflicts, pointing them out right away.
+
+How did how did you change if you've made changes and then take that requirement
+
+list back to your stakeholders and get buy in from all those key stakeholders.
+
+So it's not just the population that could be the government, that could be the.
+
+The businesses, the iwi, etc..
+
+You have a huge list and now you need to take that list down even further.
+
+So a critical success factor is looking at all of those necessary requirements and trying to hone in
+
+on those roughly six that are requirements for potential solutions that we're going to assess against.
+
+So start looking for overlaps. What necessary requirements are coming up over and over again across your stakeholders?
+
+If it's coming up over and over again across stakeholders, you probably want to make sure you're meeting it.
+
+That's important enough to assess against.
+
+The more complex the problem or potentially the more problem spaces you're trying to address within a problem.
+
+The more critical success factors you may have. There have been projects with 10 to 15 for systems and the team project.
+
+We want you to keep it closer to six. It will make your assessment much easier.
+
+Most importantly, when coming up with critical success factors, it's really easy to over specify.
+
+You may have 30 necessary requirements and you want to assess against everything.
+
+Don't have those requirements make you lose sight of what your overall problem you're trying to address us.
+
+That's the hardest thing to assess against. Make sure you're still meeting whatever those that overall problem statement was.
+
+And then the other thing to remember is that all critical success factors are going to come from those necessary requirements,
+
+but not all of those necessary requirements are our critical success factors.
+
+So you can't assess against everything. You have to pick and choose for your project.
+
+Now I want to show you an example. Before we get from a systems report so you can see roughly what the level is.
+
+And this is one of the examples that was posted on campus.
+
+Mm. That picture is supposed to be hidden. Give me one second.
+
+So last year for Systems Week create a detailed business case describing innovations and
+
+system changes that address plastic pollutions in New Zealand in the next ten years.
+
+So what teams had to do is they had to break down their problem into multiple problem spaces and then come up with a list of
+
+stakeholders And they're going to brainstorm a whole list and they're trying to pull out who are their key stakeholders.
+
+In this case, we have 12 stakeholders that they have identified are showing up repeatedly, showing up in both having power, legitimacy and urgency.
+
+And they've gone through and they've done multiple tools to figure out, okay, who do we need to actually pay attention to.
+
+And we're constantly seeing stakeholder. And so plastic consumer businesses and the households have the lowest amount of power and interest.
+
+They also have a legitimate claim to this stakeholder or legitimacy claim for stakeholders.
+
+But they're not as important. They're actually going to not really use these stakeholders in their analysis.
+
+And again, they have a whole range of stakeholders that initially were on the brainstorm do have some Influence,
+
+impact or are affected by this, but ultimately they don't fall onto this diagram here.
+
+There are those non stakeholders. So therefore they remove them from their power interest matrix.
+
+Okay. What they then try to do is they go through and they looked at a detailed stakeholder requirement list.
+
+They've separated this down to their necessary requirements. They're nice to have and they're aspirational.
+
+And they've gone through and they've done this for every single stakeholder.
+
+Then they've taken this list to identify what are the common requirements they're seeing.
+
+And then what are those conflicting requirements and how are they going to address that.
+
+And ultimately, they narrow down to six requirements that these critical success factors that
+
+were showing up repeatedly for every single or for most of their stakeholders,
+
+and those are the requirements they're going to take forward to actually make any changes or propose any solutions against now.
+
+Juliette, do you want to take over?
+
+So what I'm going to do now is give you a real story of, um, dealing with complex stakeholders at the national level.
+
+And I've deliberately chosen the most difficult one that we handled during my six years as chief science adviser.
+
+So you can use any or all of the tools that Amanda showed you.
+
+But at the end of the day,
+
+all that's doing is giving you a deep sense of the values positions of a lot of people with a vested interest in your project
+
+and maybe a handle on whether there is a scientific technical consensus which might provide an evidence base for change.
+
+So when you get to your team's project and your systems project, I recommend you have a play with all those tools.
+
+But keep the big picture in mind. Whose position do we really need to listen to?
+
+How many of those stakeholders have things in common and where are their points of huge contest?
+
+So I showed you this tool, the consensus quadrant in lecture three, and warned you that in this bottom corner where there was a low values consensus.
+
+So people arguing, people coming from a very different values position, it was going to be hard to provide technical input.
+
+And that that got even harder when the scientific consensus around the topic was low.
+
+And of all the projects that we did, this one on, the future of commercial fishing was easily the most contested.
+
+Um, if you're interested in the full report, I've put a link there buried in the slide.
+
+And if anyone likes shiny reports, feel free to ask me for one, because I've got lots of copies left in my office.
+
+So back to one of the diagrams you've just seen.
+
+If you think about the complexity of the issue, the uncertainty of the issue, and the value divergence for the issue.
+
+This project hits gold on all dimensions.
+
+So trying to define the system as I'll show you in a minute was hugely difficult because commercial fishing includes inshore fisheries,
+
+which is right near our coasts. Deep sea fisheries which is within our economic zone.
+
+Exclusion zone, um, but still within New Zealand's jurisdiction.
+
+And the high sea commercial fishing, where we have no jurisdiction at all.
+
+Indeed nobody does. But there is a treaty which people are lobbying for countries to sign up to.
+
+Some some countries have, some haven't. And the degree to which anything can be enforced in the deep sea that nobody owns is difficult.
+
+And unlike things on land, the ocean is difficult because fish can swim,
+
+so they don't really notice the boundary between inshore deep sea and high sea.
+
+So you have to think about a system outside the jurisdiction of the country that you're in.
+
+There are also impacts from land. So you'll see some aerial photos later.
+
+Um, so lots of things that you do on land impact the oceans, especially the inshore.
+
+So how on earth do you start to define the boundaries of a project which could go all the way out to the middle of the deep ocean?
+
+The knowledge in the ocean is contested and uncertain.
+
+So the team that worked on this project had a little catchphrase to keep themselves,
+
+same as we dealt with difficult stakeholders, which was it's ducked down there.
+
+So how do you know how many fish there are in the sea?
+
+There's all sorts of measurements you can make, but you don't know how it scales.
+
+You don't know how uncertain it is. You don't know what you don't know.
+
+And because it's such a contested space,
+
+people tend to cling to small data sets and call them true and applicable for the whole ocean, when clearly they're not.
+
+So we're going across disciplines which have different frames of reference.
+
+We've got high uncertainty and the data is contested.
+
+And then the stakeholders I've taken a phrase out of the report there suffer from decades old feuds.
+
+So I told you about our plastics project in lecture three.
+
+That was the best example I had of getting a whole bunch of stakeholders together and finding common ground to move forward.
+
+This project was the opposite. So in many cases we would walk into a room full of stakeholders.
+
+Accidentally use a word like abundant, which seemed like a lovely positive word to be using,
+
+but half the room would instantly fold their arms and say, whose side are you on?
+
+You're speaking abundance language and it's like, oh my goodness, step back, step back, step back.
+
+We need to understand all these words, all these values positions so that we know what we're walking into.
+
+So there are commercial fishers versus environmentalists. There are commercial fishers.
+
+There are recreational fishers. There are customary fishers. There are people just going out to get a feed in commercial fishing.
+
+There's a treaty settlement. We have to think about the treaty settlement, because that frames the legislative framework.
+
+And there are a lot of people who are very suspicious of technology.
+
+So when this project was commissioned. The goal was to use research and innovation to get a better idea on how many fish there were,
+
+how many different types of fish there were, where they were moving. Any tech that makes it easier to find fish makes it easier to catch fish,
+
+and so people are deeply suspicious of it, because then the stocks are being depleted.
+
+Even more so, a lot of the environmental lobby are anti tech.
+
+And so coming in as someone who is advocating to use technology to make fishing more sustainable, you've got a lot of work to do to build that trust.
+
+Because once the techs out there, someone might use it to catch more fish than they were able to before.
+
+And that phrase, decades old feuds just came back to haunt us.
+
+So just trying to get a panel together of people with knowledge but no vested interest and no beef
+
+with other stakeholders was very hard because some people just refused to sit in a room together.
+
+So in the scope that was set by the beehive was commercial fisheries.
+
+So we were asked to look at the commercial fishing system, which goodness knows is complicated enough.
+
+We did not need to broaden the scope, but out of scope were all the things that the stakeholders felt strongly about.
+
+So quota ownership, which is how you decide who can catch which fish, crown obligations, which is the treaty settlement that I mentioned.
+
+And what that did was award commercial rights to some iwi, but not others.
+
+So large groups of Maori commercial fishers were very much in the commercial fishing stakeholder camp,
+
+whereas other iwi who were not part of that settlement had no commercial fishing interest, but had a deep care for the ocean.
+
+So they set themselves up as the kayak of the ocean.
+
+They were really interested in preserving the ocean and conservation.
+
+And so the range of views from Meridian was much wider, in my opinion, than from the rest of our stakeholders.
+
+Because of this polarised situation that different iwi sought to gain commercially or gain from the environment,
+
+depending on the history of the iwi and who was in the settlement and who was out.
+
+Aquaculture provides a lot of potential solutions to some of the problems in commercial fisheries, but that was out of scope.
+
+The recreational fishers include a bunch of chartered operations where you can pay someone
+
+with a large boat a lot of money to go out and catch a lot of fish all at the same time.
+
+The commercial fishers thought it was outrageous that those commercial charters were not captured in our scope.
+
+The recreational fishers felt absolutely aggrieved that we weren't talking to
+
+them and the customary fishers just sort of sat around the edges out of scope,
+
+but with huge intelligence that could be shared that wasn't necessarily being heard.
+
+And then finally, the whole framing of our project was commercial fishing.
+
+There was a context of a fisheries act that said, this is how we catch fish.
+
+A lot of people from the environmental lobbies and from academia thought that that shouldn't be the project at all.
+
+What we should be looking at is where you can fish, where you can't fish, and in particular,
+
+recommending marine protection areas where no one could fish, which was completely out of scope.
+
+So we had this boundary issue, which we signalled in earlier lectures,
+
+was always going to be the problem when you're trying to look at a system which is part of a systems of systems.
+
+So everywhere you try and make connections, there is tension and there is drama.
+
+So this sums up what we've got on the previous slide. This is people signing the treaties fishery settlement.
+
+That's Tiffany, Oregon, who we actually talk to as part of the project and huge progress for Bali treaty rights
+
+and a fantastic step forward implemented something called the quota ownership system,
+
+which protected the fish as compared to the baseline that was in place before the treaty settlement.
+
+But a lot of people were lobbying for marine protected areas and a better system than the quota system to preserve more fish stocks.
+
+But to do that, you have to unpack not only legislation, but also a treaty settlement, which is almost impossible.
+
+So this muddy, complicated terrain and where you put all these people in these power interest matrices is really difficult.
+
+But whichever one you use, they cluster in the dangerous category.
+
+So lots of people with a vested interest in derailing the whole project.
+
+This is reflected in the government departments that sit around the system.
+
+So again, just looking at commercial fishing, it's a system within a system of systems.
+
+You can have a look at this in the report if you're interested,
+
+but we're not going to test you on the specific details of the fishing, just the principles.
+
+Um, so these are all the different ministries that we have to engage with.
+
+So FNS is Fisheries New Zealand, which is part of the Ministry for Primary Industries.
+
+These people support primary industries, including commercial fishing.
+
+And their job is to make sure the fish stocks are sustainable for the fishermen.
+
+The Ministry for the environment and the Department of Conservation are there with vested interests
+
+in protecting the environment and the ecosystems within that environment and all the other species,
+
+including the commercial fish that aren't being caught or shouldn't be caught.
+
+The Ministry for business, Innovation and Employment is responsible for health and safety for the commercial fishing people,
+
+research and innovation that underpins a lot of the project and other things that are going on in the ocean,
+
+like oil and gas, and then around the edges, remembering that you've got the land, you see, you've got land information,
+
+New Zealand, all the regional councils, you've got all this land based activity which might be causing problems.
+
+You have got our sea, the easy and then the international waters.
+
+And so around the boundary with the international waters.
+
+You've got customs, fish, you've got to be caught and sent somewhere.
+
+And the Ministry for Foreign Affairs and Trade, huge disputes internationally around fishing.
+
+Everybody fights about it and in fact get very involved in that, as do Maritime New Zealand.
+
+and then there's the Environmental Protection Agency. And I don't want you to remember all those details.
+
+I do want you to remember that that's really complicated.
+
+And when you start thinking about government, which will unpack a little bit more next week,
+
+you want to think which part of government, local government, central government,
+
+which part of central government for whichever problem you have, the stakeholder map within government is likely to be complex,
+
+but hopefully we won't set you one that's quite as complicated as this one.
+
+So we use the same process that we used for the plastics project.
+
+We appointed a panel. We had a real problem finding people that didn't mind sitting in the same room.
+
+So we actually had to eliminate lots of experts because they just weren't able to function in the room,
+
+which may be undermine slightly the legitimacy of some of, um, some opinions of the process, because there are experts that weren't in there.
+
+We had to talk to them separately. Bring their voice into the room without triggering any fistfights.
+
+Almost literally. Um, we had a bunch of analysts and writers who went out to talk to all the stakeholders.
+
+Sometimes they came home very upset, and I had to go myself because people were just so aggressive.
+
+Um, this was the project that triggered the most hostility out of anything,
+
+and we had a wider reference group so that anyone could provide feedback that caused real problems to start with.
+
+So in plastics, we had people brainstorming in the Google doc for this one.
+
+We had people fighting in the Google doc and we had to take everybody's feedback separately.
+
+Um, and when we went out to consult, we let people see the text, but not the recommendations,
+
+because otherwise they got so hung up on their vested interest. So the theory was we had a panel to that stand from Fisheries New Zealand.
+
+These are all our expert panellists. We had mathematical modellers, we had marine biologists, we had fisheries scientists, we had people from NGOs.
+
+So that's Raymond Pitt from the Environmental Defence Society, and we had our team.
+
+So that's Celia and Ellen and Susie and George and Rachel who were all supporting this panel.
+
+We went to see commercial fisheries. We went out to things like the Noises Island, which are very heavily impacted by commercial fishing in the Gulf,
+
+and it was supposed to be just like our plastics project, but it didn't kind of work out quite like that.
+
+So these are some of our stakeholders, and I was going to map them onto one of the diagrams,
+
+but I didn't want to be accused of labelling everybody dangerous.
+
+So you can work that out for yourself. Um, there are stakeholders that do things like forestry and building that create issues with sediment.
+
+So this is an aerial view of an inland fishery and it used to be a scallop bed.
+
+It isn't a scallop bed anymore because it's covered in silt. This is the challenge of commercial fishing.
+
+These are people who are trawling. They are dragging up a lot of fish at once.
+
+You can go onto any YouTube clip and find horrific footage of people out in the deep seas, just pillaging the ocean and taking way too many fish.
+
+Beyond sustainable. So there is a problem to solve.
+
+That said, a lot of commercial fishers are very responsible and it's in their interest to keep the fish stocks so they have a sustainable livelihood.
+
+Then you've got a bunch of NGOs.
+
+One thing we learnt about non-government organisations in this project is they're all passionate and they don't tend to agree.
+
+So you have to consult all of them separately. They're not a block. You have people worried about birds.
+
+So lots of the solutions to trawling involve methods that catch seabirds.
+
+And then you have people who are researching the environment and are deeply,
+
+deeply values driven and just hate commercial fishing and think it should be banned.
+
+And that's a valid values position. But not many people will get fish on chips on Friday if we did that.
+
+So there's some things to balance there. And then just to give you a taster of the technical side of the problem, this is the status quo.
+
+And this looks really nice. This infographic. So this is how you manage a fishery.
+
+So the population of fish will fluctuate partly because of the season, the weather and partly because you keep catching them.
+
+And there is a sustainable level that can live in the ocean.
+
+You can keep catching some, they will keep breathing. And that's what the quota system is designed to do.
+
+You need to keep checking. So you need to send trawlers out to do quick snapshots to get ideas about how many fish there are.
+
+Big error bar. And there's something called the soft limit.
+
+So there's an agreed by Fisheries New Zealand, but not by everybody.
+
+Population of each stock. If it gets to half of that it triggers, um, a soft limit meaning the fishery needs to be rebuilt so the quotas get reduced.
+
+You can't catch as many fish. Uh, the fishermen are not catching that much that year, but hopefully the stock will rebuild then.
+
+Then you can reset the quota at a sustainable level. And then there's a hard limit that says, oops, there are no fish.
+
+We took them all and we need to stop and hope that the fish can rebuild.
+
+In some cases internationally, it never rebuilds. So the way you work all these things out is to estimate this blue line.
+
+Somebody makes a judgement call on how many you can take without crashing the stock,
+
+and if the stock volume drops below half, you press the alarm button.
+
+Then you say, now don't catch any more snapper or whatever the fish is.
+
+One of the ways you do that is to do it as a percentage of the unfinished stock volume.
+
+So if the stock volume drops below 20% of the unfinished stock volume, you trigger some action.
+
+But I'll challenge all of you to work out what the unfinished volume is.
+
+We don't even know what the volume is, so somebody does a calculation to guesstimate what the unfinished stock volume is.
+
+And if you fall to 20% of that, then you have to stop fishing.
+
+So there are so many points of context in there. You don't know what the unfinished volume is.
+
+You don't really know what the sustainable volume is. You don't really know how many fish you've got.
+
+Put all those three in an equation and pull out a number, and you can use it to back up any argument.
+
+So that is the problem that all the stakeholders face.
+
+That means they have two things in common. One is they're all really grumpy and the other is they all really care about the ocean.
+
+And that means they are very passionate. They are all in that urgent spot on the Venn diagram.
+
+So we came up with quite a lot of recommendations. The first problem we had was that there was pushback on the scope.
+
+So we had that boundary issue. We ended up deciding that our critical success factor was broadening the scope.
+
+So we went back and negotiated our terms of reference with the Prime Minister and said,
+
+we need to do more than just commercial fishing or this report is going to land really badly.
+
+So the first three themes of our report were not really asked for, but were our way of providing some context which made the stakeholders feel heard.
+
+We asked for strengthened leadership, a strategic plan, and to have a connected worldview which would resonate with tail Mardi.
+
+We got our way.
+
+So this wasn't really science advice, but the Prime Minister was persuaded to change what used to be the Minister of Fisheries to a new portfolio,
+
+which is the Minister of Oceans and Fisheries. So someone had jurisdiction over all those agencies that that guarded the ocean.
+
+That was super helpful because that meant someone was there and it was on his desk.
+
+Minister Parker, in this case, to do something about the ocean.
+
+And so you can look at all these cabinet papers they all went through under the new portfolio of Minister of Oceans and Fisheries,
+
+including the response to our report. With that out of the way.
+
+The last four themes of our report, and this is a big hat tip to my co-chair, who was a commercial fisher,
+
+Craig Ellison, who brought huge wisdom and helped navigate that complex stakeholder map.
+
+All these things were within our terms of reference and within an act, which is the act about commercial fisheries.
+
+So we needed better regulatory tools, a better data platform.
+
+Something called ecosystem approach to fisheries management is mentioned in the Act, but no one was using it.
+
+So we wanted people to use it. And finally we were actually asked to do, which was to maximise the use of research and innovation.
+
+So the regulatory tools needed to be integrated across all those agencies.
+
+And because we now had one Minister of Fisheries, New Zealand,
+
+Department of Conservation and the Ministry for the environment had to collaborate to meet some of the briefs from the Minister.
+
+We acknowledged that we didn't know much about the ocean.
+
+The data platform was really important and we needed all parties at the table to share the little info.
+
+We did have incompatible formats. This is still a work in progress, but Fisheries New Zealand have made some progress.
+
+We needed to really pull out the fact that it was in commercial fishers interest,
+
+and the small fishers definitely understood this to understand and protect their ecosystem.
+
+So having an ecosystem approach to fisheries management, where you didn't just count fish,
+
+but you worried about the environment the fish were in and whether that was sustainable for future generations was important.
+
+And in particular,
+
+there was one section of the act about protecting habitats of particular significance to fisheries management that had never been used,
+
+but that could be used to protect a lot of the ecosystems that the environmentalists were worried about.
+
+And finally, with all those settings in place, we could start to think about fishing smarter.
+
+To do that, we needed to integrate, optimise and cooperate. But for example, this is a picture from the inside of a modified trawl net.
+
+So this is a technique called precision seafood harvesting. It was invented at Plant and Food.
+
+Now the Bioeconomy Science Institute. And instead of trawling the bottom of the ocean to catch the fish, you trick the fish into your net.
+
+The little ones escaped through the holes and they sit in a nice, comfortable kind of shoal environment and get hold up, which protects the ecosystem.
+
+So once you've come the noise down got the settings right, you can start to make an argument for using better tools.
+
+And we also emphasise that you really needed to look at the whole local environment placed by place.
+
+Maori knowledge was really important for that. It's been going back many more generations than Pakeha knowledge.
+
+You needed to understand all the effects in that local bay. Was it the sediment?
+
+Was it the climate? Was it the problems with the estuary and start to build a shared understanding
+
+of how to restore and protect the environment and allow the fish to thrive?
+
+So I'll do this quickly because it's the disappointing bit. We briefed all the opposition parties.
+
+Things were going well. We got a formal government response. Things were going well.
+
+They agreed to a great deal of what we'd recommended, which was good, and agreed in part to some of the other things that we had suggested.
+
+And they fed all our recommendations into the Fisheries Industry Transformation plan, which I think you can still read.
+
+So it looked like we might have found a way to move the conversation forward.
+
+But then the government changed. So the good news is that the new government kept that.
+
+Minister of Oceans and Fisheries role said there is still someone with that whole portfolio who's in charge of the oceans.
+
+The disappointing news, for me at least, was that the government removed the industry transformation plans as a policy tool in government.
+
+So they've gone all of them, including our fisheries. One. So all that information is a little bit lost.
+
+And I think it would be fair to summarise the values position of David Parker,
+
+the old minister, and Shane Jones, the new minister, is quite different.
+
+So if you've created a portfolio that puts a lot of power in one seat,
+
+you have to accept that depending on who's democratically elected, that power will be used in different ways.
+
+I still think it was good to combine the portfolios, but it does create some risk if there's a flick flack of values,
+
+position and government policy on whether you protect the environment or protect commercial interests.
+
+So to summarise, this is all the stuff that Amanda took you through.
+
+I recommend you do that. The key stakeholders power dangerous manage closely.
+
+And I've given you an example where we have to manage closely a lot of those people.
+
+The necessary critical success factors to be met will be very specific to your project.
+
+Whatever they are, you'll need buy in. And sometimes to get buy in, you have to broaden your scope or be quite flexible with your project plan.
+
+Systems thinking does give you some useful tools to pull out one solvable bit in a larger, complex system.
+
+But beware, every time you draw a boundary, you can create conflict.
+
+So whatever you do, it needs to be iterative, which is what we did when we went back and and renegotiated our terms of reference.
+
+So I'll leave it there. If anyone wants more war stories about fisheries, happy to give you the report or share some.
+
+Otherwise we'll see you next lecture. I think.
+

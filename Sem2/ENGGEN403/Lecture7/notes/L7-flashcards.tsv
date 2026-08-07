@@ -1,0 +1,131 @@
+Give the three-part definition of a stakeholder.	Someone who can be affected by the project, can impact the project, or can influence the project - in each case positively or negatively.
+Why does the definition say "real or perceived"?	Because a stakeholder who believes they are affected is a stakeholder - perception alone generates power, opposition and requirements.
+What five things do stakeholders differ on?	Roles, interests, influences, impacts and needs.
+How does "the government" as a stakeholder change from ENGGEN303 to 403?	It decomposes - central government into individual ministries, local government into individual councils, and further down again.
+Recite the five steps of stakeholder analysis.	Identify all stakeholders; investigate motivation factors; assess their power/influence and interest; determine requirements; develop critical success factors.
+What is step 2, investigating motivation factors, actually used to decide?	Whether a stakeholder group needs to be broken down further.
+Roughly how many critical success factors should you end with?	About six.
+What three things combine to produce wickedness?	Complexity, uncertainty and value divergence.
+What question does the complexity circle answer?	How complex is the problem?
+What question does the uncertainty circle answer?	How much do we know - do we understand why it is occurring or how to address it?
+What question does the value divergence circle answer?	How far apart are the stakeholders' values?
+What is the relationship between problem complexity and value divergence?	The more complex the problem, the more value divergence you will deal with.
+Name the eight stakeholder attributes from Bryson.	Power/influence, interest, position/attitude, urgency, responsibility, accountability, consulted, informed.
+Who wrote "What to do when stakeholders matter"?	John M Bryson, 2004.
+Name the four directions used to generate a stakeholder list.	Upwards, downwards, outwards, sidewards.
+Who sits in the "upwards" direction?	Governments.
+Who sits in the "downwards" direction?	Everyday people.
+Who sits in the "outwards" direction?	Businesses you might consult with.
+Who sits in the "sidewards" direction?	Other countries you can look at for reference.
+What two further splits apply to the stakeholder list?	Direct versus indirect, and positive versus negative.
+Define power or influence in the power-interest matrix.	The ability to change or stop a project.
+Define interest in the power-interest matrix.	The size of the overlap between the stakeholder's goals and the project's goals.
+What is unusual about the lecture's definition of interest?	It is goal overlap, not how much the stakeholder cares.
+Name the four quadrants of the power-interest matrix.	Manage closely, keep satisfied, keep informed, and monitor.
+What two axes does the project frames grid use?	Power/influence, and support and opposition.
+What does the support and opposition axis measure?	Whether stakeholders agree or do not agree with the project - or with the problem.
+Why does "or the problem" matter in the support/opposition axis?	A stakeholder may accept your solution while denying that there is a problem at all.
+Why plot stakeholders on multiple grids?	Because support and power are independent - someone can be a strong supporter with far less power than assumed.
+What three axes does the stakeholder cube use?	Power, interest and attitude.
+What does attitude mean in the stakeholder cube?	Whether a stakeholder will back or block the project.
+What is the stated weakness of the stakeholder cube?	It is difficult to see relationships between stakeholders, and difficult to see how positions change over time.
+What is a cross-section of the stakeholder cube?	The power-interest matrix - the third axis is attitude.
+Name the three attributes in the salience model.	Power, legitimacy and urgency.
+Define power in the salience model.	The authority to change the project.
+Define legitimacy in the salience model.	That the stakeholder's involvement is appropriate.
+Define urgency in the salience model.	That the stakeholder's need requires immediate attention - it is time-sensitive and has criticality.
+Which salience category holds power only?	Dormant.
+Which salience category holds legitimacy only?	Discretionary.
+Which salience category holds urgency only?	Demanding.
+Which salience category holds power and legitimacy?	Dominant.
+Which salience category holds power and urgency?	Dangerous.
+Which salience category holds legitimacy and urgency?	Dependent.
+Which salience category holds all three attributes?	Definitive.
+What is a stakeholder with none of the three attributes?	A non-stakeholder - dropped from the analysis.
+Which salience categories map to "manage closely"?	Definitive.
+Which salience categories map to "keep satisfied"?	Dominant and dangerous.
+Which salience category maps to "keep informed"?	Dependent.
+Which salience categories map to "monitor"?	Dormant, discretionary and demanding.
+What practical job does legitimacy do in the salience model?	It gives you a defensible way to eliminate stakeholders from the analysis.
+Why is the salience model called dynamic?	Because urgency is time-sensitive - re-running the map over a two-year versus five-year horizon moves stakeholders between categories.
+What does RACI stand for in this lecture?	Responsible, Accountable, Contributor, Informed.
+Define Responsible in the RACI framework.	Stakeholders responsible for action and implementation.
+Define Accountable in the RACI framework.	Stakeholders responsible for making key decisions.
+Define Contributor in the RACI framework.	Stakeholders who provide input to make the answer better.
+Define Informed in the RACI framework.	Stakeholders who need to know about decisions.
+What is unusual about the C in this version of RACI?	It is Contributor, not the more common Consulted.
+What is the structural rule of RACI?	A stakeholder can fall into only one grouping, though a grouping can hold multiple stakeholders.
+In the energy infrastructure RACI example, who is accountable and why?	Iwi and landowners - the project needs new land, so they hold the power to say yes.
+In the energy infrastructure RACI example, who is responsible?	The energy companies.
+In the energy infrastructure RACI example, what role does the Minister of Energy hold?	Contributor.
+What does the energy RACI example show that a power-interest grid can miss?	Who actually holds the veto.
+What are the six questions asked of each key stakeholder?	What is their role, what is important to them, what is their attitude, what shifts do we need, how can they use their power, and how do they relate.
+What makes a stakeholder a "key" stakeholder?	They repeatedly have large impacts on the project across multiple models.
+Name the three requirement tiers.	Necessary, nice to have, and aspirational.
+What is the test for a necessary requirement?	The project cannot continue if it is not met.
+What is a nice-to-have requirement?	Something stakeholders want that would help, but that might not be able to be met.
+What is an aspirational requirement?	A stakeholder goal that realistically cannot be met in this timeframe - record it, but do not address it.
+What is the classic error when sorting requirements?	Sorting necessary and nice-to-have together.
+How would requirements be gathered in industry?	Interviews and surveys with each stakeholder group.
+What are Systems Week teams told to use instead of interviews?	Discussion with teammates, and AI to generate stakeholder positions provided it cites back to primary source material.
+Name three analytical techniques for mapping stakeholder relationships.	Actor-linkage matrices, social network analysis, and knowledge mapping.
+What three things does social network analysis look at?	Communication, trust and influence.
+What is the first thing to do with conflicting requirements?	Classify the conflict - is it tractable or intractable, and what kind of conflict is it.
+What are the three moves for resolving conflicting requirements?	Brainstorm with representatives to reach agreement; look for a compromise, including reclassifying whether the requirement is really necessary; and look for another way to meet the requirement.
+What three things must the final requirement list contain?	The need-to-haves, the conflicts explicitly addressed, and buy-in from the key stakeholders.
+Which reading underpins the conflicting-requirements slide?	Head, 2008, "Wicked Problems in Public Policy".
+Define a critical success factor.	A requirement that potential solutions are assessed against.
+How do you find critical success factors?	By looking at overlaps of necessary requirements recurring across stakeholders.
+State the relationship between CSFs and necessary requirements.	All CSFs are necessary requirements, but not all necessary requirements are CSFs.
+What increases the number of CSFs you may need?	A more complex problem, or more problem spaces.
+How many CSFs have some past projects had, and what is the target?	Some have had 10 to 15; the target for Systems Week and the Team Project is closer to six.
+What is the named failure mode when selecting CSFs?	Over-specification - assessing against 30 necessary requirements and losing sight of the overall problem.
+How many key stakeholders did the plastics team identify?	Twelve, all showing power, legitimacy and urgency.
+Why did the plastics team exclude consumer businesses and households?	They had a legitimate claim but the lowest power and interest, so they were not important enough to use in the analysis.
+What does the plastics case show about legitimacy alone?	Legitimacy stops you being a non-stakeholder, but it does not earn a place in the CSFs.
+Where does commercial fishing sit on the consensus quadrant?	Bottom left - low scientific consensus and low values consensus, the worst quadrant.
+Why does commercial fishing "hit gold" on wickedness?	It is maximally complex, maximally uncertain, and has extreme value divergence.
+Name the four parts of the commercial fishing system boundary problem.	Inshore fisheries, deep sea within the exclusive economic zone, high seas with no jurisdiction at all, and impacts from land.
+Why can't fishing boundaries be drawn cleanly?	Fish swim, so they do not notice the boundary between inshore, deep sea and high sea.
+What was the fisheries team's catchphrase about knowledge?	"It's dark down there."
+What do people do with data in a contested space like fisheries?	They cling to small data sets and call them true and applicable for the whole ocean.
+What happened when the word "abundant" was used in a stakeholder room?	Half the room folded their arms and asked whose side you were on - you were speaking abundance language.
+Why are fisheries stakeholders suspicious of technology?	Any technology that makes it easier to find fish makes it easier to catch fish, depleting stocks further.
+What was in scope for the commercial fishing report?	Commercial fisheries only.
+What was out of scope for the commercial fishing report?	Quota ownership and Crown obligations, aquaculture, recreational fishing including catch reporting, customary non-commercial fishing, and marine protection areas.
+What is the one-line problem with the fisheries scope?	Out of scope were all the things the stakeholders felt strongly about.
+Why did the treaty settlement widen the range of Maori views?	It awarded commercial rights to some iwi but not others, so some were firmly commercial while others had no commercial interest and set themselves up as kaitiaki of the ocean.
+Why were commercial fishers angry about recreational fishing being out of scope?	Because it includes chartered operations where people pay to go out and catch a lot of fish at once.
+What did environmental lobbies and academia think the fisheries project should have been about?	Marine protection areas - where you can and cannot fish, rather than how you fish.
+What is the one-line lesson of the fisheries boundary problem?	Looking at one system, in a system of systems, is fraught.
+Which salience category did the fisheries stakeholders cluster in?	Dangerous - power and urgency, with a vested interest in derailing the project.
+Which agencies had to be engaged on commercial fishing?	Fisheries NZ within MPI, the Ministry for the Environment, DOC, MBIE, LINZ, regional councils, Customs, MFAT, Maritime NZ and the EPA.
+What was the point of showing the ten-agency government map?	Not to memorise the agencies, but to remember that the stakeholder map within government is likely to be very complex.
+How did panel selection go wrong in practice?	Experts had to be excluded because they could not function in the same room, which undermined the legitimacy of the process.
+What happened in the fisheries project's shared Google Doc?	People fought in it, so all feedback had to be taken separately.
+Why were recommendations withheld during consultation?	Because stakeholders got so hung up on their vested interests - they saw the text but not the recommendations.
+What did the fisheries panel decide their critical success factor was?	Broadening the scope.
+What did the panel do about the scope problem?	They went back and renegotiated their terms of reference with the Prime Minister.
+Why were themes 1 to 3 included when they were not asked for?	To provide context that made the stakeholders feel heard.
+Name themes 1 to 3 of the fisheries report.	Strengthened leadership; a bold Oceans Strategic Action Plan; and Te ao Maori, a connected worldview in 2040 and beyond.
+What was the key leverage point produced by the fisheries report?	A new portfolio - the Minister of Oceans and Fisheries - giving one person jurisdiction over every agency guarding the ocean.
+Was the Minister of Oceans and Fisheries recommendation science advice?	No - it was an institutional change, and the highest-leverage recommendation in the report.
+What does theme 4 of the fisheries report call for?	A refined set of regulatory tools, requiring Fisheries NZ, DOC and MfE to collaborate across agencies and Acts.
+What does theme 5 of the fisheries report call for?	A data platform enabling informed commercial and environmental decision making - because we know frighteningly little and need to aggregate what we do know in compatible formats.
+What does theme 6 of the fisheries report call for?	That the ecosystem approach to fisheries management be embraced within the current regulatory framework, including the Fisheries Act 1996.
+What was notable about EAFM and the Fisheries Act?	It was already in the Act and nobody was using it - the Minister was already empowered to act.
+Which unused section of the Fisheries Act could protect ecosystems?	Section 9c - habitats of particular significance to fisheries management.
+What does theme 7 of the fisheries report call for?	Maximising research and innovation - innovation can only support oceans if the settings are right, but then there is enormous potential to fish smarter.
+What is precision seafood harvesting?	A modified trawl net invented at Plant and Food that tricks fish into the net, lets small ones escape through holes, and holds the catch in a comfortable shoal environment instead of dragging the ocean floor.
+What does theme 8 of the fisheries report emphasise?	That there is no one-size-fits-all approach - local knowledge and matauranga Maori are vital for place-based action, cumulative effects are crucial, and regional capability needs building.
+What is the soft limit in fisheries management?	An agreed stock population level, set by Fisheries NZ but not agreed by everybody, at half of which quotas are reduced so the fishery can rebuild.
+What is the hard limit in fisheries management?	The point at which the fish are gone and fishing must stop entirely, hoping the stock rebuilds - which internationally it sometimes never does.
+Why can fisheries numbers back up any argument?	Because you do not know the unfished stock volume, you do not really know the sustainable volume, and you do not really know how many fish there are - three unknowns in one equation.
+What two things did all the fisheries stakeholders have in common?	They were all really grumpy, and they all really cared about the ocean - putting them all in the urgent category.
+What happened to the fisheries recommendations initially?	The opposition was briefed, a formal government response was arranged in eight themes, most were agreed or agreed with intent, and the recommendations fed into the Fisheries Industry Transformation Plan.
+What survived the change of government?	The Minister of Oceans and Fisheries portfolio.
+What did not survive the change of government?	Industry transformation plans were removed as a policy tool, so the fisheries plan was lost.
+What lesson does Juliet draw from concentrating power in one portfolio?	That the power will be used differently depending on who is democratically elected - it is leverage that cuts both ways.
+What is the closing warning about boundaries?	Every time you draw a boundary, you can create conflict - so the process must be iterative.
+What sometimes has to happen to get stakeholder buy-in?	You have to broaden your scope or be flexible with your project plan.
+Who delivered ENGGEN403 Lecture 7?	Amanda Di Ienno and Juliet Gerrard.
