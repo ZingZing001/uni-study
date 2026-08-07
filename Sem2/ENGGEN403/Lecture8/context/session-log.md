@@ -23,7 +23,7 @@ Quiz: none. All 12 concepts untested, scheduled 2026-08-08.
 
 **HANDOFF - start here next time:**
 1. `git pull --rebase --autostash`
-2. **ENGGEN403 L1-L8 is now fully ingested: 96 concepts, and not one of them has ever been tested.** This is no longer a gap, it is the whole problem. The next session must be Mode B.
+2. **ENGGEN403 L1-L8 is now fully ingested: 95 concepts, and not one of them has ever been tested.** This is no longer a gap, it is the whole problem. The next session must be Mode B.
 3. When quizzing L8: lead with **C11** (recite the twelve leverage points in order, then state where most interventions cluster and why), **C07** (the iceberg's four levels and the question each asks), **C06** (the nine cells, and what moves a problem right versus up), **C12** (balancing vs reinforcing, then the school-discipline example as an application question).
 4. Interleave L8 with **L2** - they are the same material at different depths, and L2 has never been tested either.
 5. Amanda mentioned a follow-up session walking through past student causal loop examples. Not in this deck; ask whether it exists.
