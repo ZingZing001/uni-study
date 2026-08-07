@@ -1,0 +1,38 @@
+{
+  "course": "SE761",
+  "artefact": "assignment",
+  "assignment": 1,
+  "title": "Rationale Investigation 1 (Speed Rationales)",
+  "weight": "3%",
+  "marked_out_of": 15,
+  "scaled_to": "3%",
+  "word_limit": "~200 words per topic, 3 topics",
+  "due": "2026-07-30T21:00:00+12:00",
+  "submission": "Canvas A1 Quiz",
+  "status": "submitted",
+  "mark_received": null,
+  "resources_seen": {
+    "brief": "A1.pdf",
+    "brief_pages": 4,
+    "required_reading": ["Canvas Modules 1 & 2 / project-rationale"],
+    "taught_in": "Lecture 2 - rationale, purpose, justification"
+  },
+  "rubric": [
+    { "criterion": "Content - 4 marks per topic x 3 topics", "marks": 12, "note": "So what? apparent; Who cares? apparent and convincing; clear flow between bullets; no discussion of the solution." },
+    { "criterion": "ChatGPT reflection - how it was used, where useful and not", "marks": 2 },
+    { "criterion": "Writing - avoids personal or casual tone; grammar, spelling, punctuation", "marks": 1 }
+  ],
+  "gen_ai_policy": "Permitted and encouraged. 2 marks for elaborating how it was used. No penalty regardless of how it was used.",
+  "late_penalties": "10% for 0-12h; 20% for 13-24h; 100% past 24h (Canvas quiz auto-closes)",
+  "marker_feedback": {
+    "reported_in": "Lecture 6 (2026-08-05), to the class during marking",
+    "named_problem": "Some submissions included a bullet point about the solution, despite the brief stating there must be nothing at all about the solution.",
+    "note": "The same content becomes permissible in A3, where 'purpose' may be brought in."
+  },
+  "last_session": "2026-08-07T14:56:00+12:00",
+  "sessions_count": 1,
+  "open_questions": [
+    "Mark not yet returned. Record it here when it arrives, along with any per-topic feedback."
+  ],
+  "next_action": "Nothing outstanding. Record the mark when returned. Use the A1/A2/A3 comparison table in notes/A1-brief.md before starting A3, since the rules invert on format, personal language, Gen AI and research."
+}

@@ -1,0 +1,44 @@
+{
+  "course": "SE761",
+  "artefact": "assignment",
+  "assignment": 2,
+  "title": "Agile Reflection",
+  "weight": "10%",
+  "marked_out_of": 10,
+  "word_limit": "800-900",
+  "due": "2026-08-07T21:00:00+12:00",
+  "submission": "Canvas A2 Quiz",
+  "status": "in_progress",
+  "resources_seen": {
+    "brief": "A2.pdf",
+    "brief_pages": 3,
+    "briefed_verbally_in": ["Lecture4 (end of lecture)", "Lecture5 (reflection models)"],
+    "required_reading": [
+      "Canvas Modules 1 & 2 / agile",
+      "Canvas Modules 1 & 2 / scrum_kanban"
+    ],
+    "supporting": "Lecture5/resources/Models-of-reflection.pdf"
+  },
+  "rubric": [
+    { "criterion": "Agile values and principles applied correctly in context", "marks": 2 },
+    { "criterion": "Scrum - pros/cons of practice in a university environment", "marks": 2 },
+    { "criterion": "Kanban, XP or other - considered, with reasoning", "marks": 1 },
+    { "criterion": "Reflection on previous development experience + Agile counterfactual", "marks": 3, "note": "Largest single block. Requires a real past experience, its actual outcome, and how Agile would have changed it." },
+    { "criterion": "Writing style - structure, flow, grammar, formatting, use of word limit", "marks": 2 }
+  ],
+  "named_traps": [
+    "Reading as a series of general pros and cons - the brief threatens a REDO for this",
+    "Using ChatGPT for content (reversal from A1, which encouraged it and gave 2 marks for declaring it)",
+    "Merely repeating definitions of Agile and Scrum",
+    "Exceeding 900 words (penalties apply) or writing noticeably short"
+  ],
+  "gen_ai_policy": "Should not be used for creating content, because it cannot reflect on your behalf. A declaration section still exists if used. OPPOSITE of A1.",
+  "late_penalties": "10% for 0-12h; 20% for 13-24h; 100% past 24h (Canvas quiz auto-closes)",
+  "last_session": "2026-08-07T14:56:00+12:00",
+  "sessions_count": 1,
+  "open_questions": [
+    "From L4: whether the 'one other practice' must be Kanban/XP specifically. The brief says 'Kanban, Extreme Programming (XP), or other principles', so a named justified alternative should qualify - not confirmed by the lecturer.",
+    "Rubric weightings for the three A2 criteria were never stated aloud in L4; they are taken from the PDF."
+  ],
+  "next_action": "Draft against the Gibbs Analysis spine. Put ~300 of 850 words on the past-experience-plus-counterfactual block; it carries 3 of 8 content marks. Submit via Canvas A2 Quiz before 9pm 2026-08-07."
+}
