@@ -72,7 +72,7 @@ Why are shortlisted options packaged rather than listed singly?	Because one opti
 What are options packages grouped by?	Scope and suitability together, usually ordered by implementation cost.
 Name the common package labels.	Do nothing, do minimum, do medium, do maximum.
 What three interventions made up the plastics do-medium package?	A tax on plastics, a container or plastics return scheme, and a recycling subsidy.
-Why was the plastics do-minimum package rejected despite a positive NPV of $34 m and a BCR of 1.5?	Its benefits relied on consumer behaviour and it left overconsumption, low recovery rates and virgin-plastic reliance unaddressed.
+Why was the plastics do-minimum package rejected despite a positive NPV of $34 m and a BCR of 1.51?	Its benefits relied on consumer behaviour (education, advertising, small-scale bin rollouts) and it left overconsumption, low recovery rates and virgin-plastic reliance largely unaddressed.
 Why was the plastics do-maximum package rejected?	Extremely high upfront and ongoing costs burdening the budget, high taxes on business, and significant implementation risk if costs moved.
 Why was do-medium chosen for plastics?	It balanced minimum and maximum - a lot of benefits though not the most, at a cost that was affordable, giving the best value for money.
 Does a positive NPV and a BCR above 1 mean an option should be chosen?	No - financial metrics are a filter, not the decision.
@@ -90,3 +90,62 @@ Why are multi-decade projects most fragile?	Time value of money - small changes 
 What assumptions were contested in the Waikato medical school business case?	How many doctors it would produce, where those doctors would work, and the capacity of existing medical schools.
 When did Let's Get Wellington Moving start and what was delivered?	It started in 2015 and only pre-works were ever delivered.
 Name four causes of failure in Let's Get Wellington Moving.	Long delivery times, changing government priorities, stakeholder disagreement, and governance complexity between local government, agencies and central government.
+What are the four stated learning outcomes of Lecture 4?	Explain how the Better Business Case framework supports systems-level decision making; generate and evaluate solution options; develop investment packages and justify trade-offs; apply these to structure a systems-level business case.
+What question does the strategic case ask, in the framework's own words?	Is there a compelling case for change?
+What question does the economic case ask, in the framework's own words?	Does the recommended option optimise public value?
+What question does the commercial case ask, in the framework's own words?	Is the proposed deal achievable and attractive in the market place?
+What question does the financial case ask, in the framework's own words?	Is the spending proposal affordable?
+What question does the management case ask, in the framework's own words?	How will the proposal be successfully delivered?
+Against what criterion is the economic case judged?	Public value.
+What three questions does the Indicative Business Case answer?	Why is investment needed, what options are available, and which option should be investigated further.
+What three things does the Detailed Business Case do?	Fully develop the preferred option, confirm costs benefits and risks, and seek approval to deliver the project.
+When was City Rail Link completed?	2026.
+When was the Western Ring Route completed?	2023 - with the Waterview connection in 2017 and the Northern corridor upgrades in 2023.
+Which two projects are still only planned in the Auckland Rapid Transit Plan?	The Northwest Busway and the Waitemata harbour connections.
+Recite the ten-step business case methodology.	Define the problem space and problem statements; identify stakeholders; determine their requirements; select CSFs; generate options; assess against DFV, CSFs and problem statements; package options by scale; carry out economic and societal impact analysis; suggest a preferred way forward; outline an implementation plan.
+Which two steps must come before selecting CSFs?	Identifying the stakeholders, and determining their requirements.
+At which step of the methodology does the social CBA happen?	Step 8 - economic analysis and societal impact of the shortlisted options.
+What relationship type does ENGGEN403 deal with, versus ENGGEN303?	B2G, versus B2C and B2B in 303.
+What are the three stages of the Design Council double diamond as shown in the lecture?	Discover, Define, Develop.
+State plastics problem statement PS1.	New Zealand's plastic waste management infrastructure is underdeveloped, leading to large amounts of plastic waste entering landfills and the environment, resulting in long term disruption to ecosystems.
+State plastics problem statement PS2.	New Zealand's reliance on low grade plastics affect the environment due to their unsustainable production, use, disposal, and difficulty biodegrading.
+What are the three ideation prompts used to test generated options?	What assumptions underpin your guesses; a low-cost test of how valid those assumptions are and whether you address the problem statement; and what success would look like if the problem weren't there.
+What is the guiding question for desirability?	Are we solving the right problem for the right people?
+What is the guiding question for feasibility?	Can this solution realistically be implemented?
+What is the guiding question for viability?	Can this solution deliver long-term value and be sustained?
+Name the five sub-criteria under desirability.	Stakeholder needs and priorities; equity, wellbeing and environmental outcomes; trade-offs between competing group interests; social acceptance and political support; unintended consequences across the system.
+Name the five sub-criteria under feasibility.	Technical capability; infrastructure and existing systems; policy, regulation and governance; organisational capability and collaboration; dependencies between interacting systems.
+Name the five sub-criteria under viability.	Economic sustainability; funding and investment; long-term operating and maintenance costs; scalability and resilience; benefits outweighing costs over the system lifecycle.
+What shape should every DFV table entry have?	A claim plus its qualification - the benefit and the cost or risk that comes with it.
+What is the feasibility entry for a plastic tax, and why is it notable?	Relatively easy to implement through existing taxation systems - notable because feasibility is not always the binding constraint.
+What is the desirability downside of a plastic tax?	It may disproportionately affect low-income households.
+State CSF 1 from the plastics case.	Regulatable through accurate and relevant measurements.
+State CSF 2 from the plastics case.	Long-term waste management operations are affordable and sustainable.
+State CSF 3 from the plastics case.	Does not conflict with iwi cultural values in waste management practices.
+State CSF 4 from the plastics case.	Adjusts economic incentives to promote comprehensive behavioural change.
+State CSF 5 from the plastics case.	Minimise additional financial strain on communities and businesses.
+State CSF 6 from the plastics case.	Reduces the adverse effects of plastic on the environment.
+Name the seven key stakeholder groups in the plastics case.	Ministry for the Environment, Ministry of Foreign Affairs and Trade, plastic regulators, recycling facilities, plastic producers, local iwi and Maori representatives, and other key stakeholders.
+Which CSF traces directly to iwi and Maori representatives?	CSF 3 - does not conflict with iwi cultural values in waste management practices.
+What follows if a stakeholder is missing from your analysis?	The CSF they would have generated is missing too, so an option can pass your matrix and still fail in the world.
+What is the preferred solution usually, rather than a single option?	A package of interventions that work together to address the system as a whole.
+What was the NPV and BCR of the plastics do-minimum package?	NPV $34 million, BCR 1.51.
+What was the NPV and BCR of the plastics do-medium package?	NPV $237 million, BCR 1.74.
+What three interventions made up the plastics do-medium package as costed?	The VPPT, the Incentivised Return Scheme, and 2,400 Reverse Vending Machines.
+Which three long-list options formed the plastics preferred way forward?	Option 3 tax on plastics, option 10 return system, and option 11 recycled plastics subsidy.
+What quantified environmental and health benefits did the do-medium package deliver?	$111 million reduction in CO2-related costs and $48 million in health-related benefits from reduced methane emissions.
+What did the do-maximum package consist of?	Extensive investment in composting and recycling facilities, subsidies for bioplastics, and high taxation on virgin plastics.
+Over what horizon were the plastics packages assessed?	Ten years.
+What are the four moves in the preferred-way-forward argument?	Better than do-minimum on key impacts; avoids do-maximum's prohibitive costs and risks; aligns with broader government strategies; aligns with the CSFs.
+Which broader government strategies did the do-medium package align with?	Waste minimisation, circular economy development, and climate change mitigation.
+Which plastics options were carried forward to the shortlist?	Options 2 recycling and composting infrastructure, 3 tax on plastics, 8 improved labelling, 10 return systems, and 11 recycled plastic subsidies.
+Why were options 6 and 7 kept despite failing CSFs?	Their limitations can be mitigated when paired with options offering stronger regulatory and economic measures, so they serve as complementary components within broader packages.
+Which CSFs did option 6 (public bins) fail?	CSF 1 and CSF 4.
+Which CSF did option 7 (educating the wider community) fail?	CSF 4.
+Why were options 1 and 4 excluded from the plastics shortlist?	They were not viable - costing $100 million to $1 billion and $10 billion to $20 billion over ten years - likely exceeding the budget, raising supply chain and consumer costs and so failing CSF 5.
+Why did eliminating microplastics fail CSF 6?	It only addresses microplastics, a small percentage of plastic leakage, so environmental benefits are limited.
+What makes an exclusion justification good?	Named cost ranges, cited sources, the specific CSF failed, and why it was failed.
+Name the five business case limitations from the slide.	Relies heavily on assumptions and forecasts; cannot capture every social or environmental impact; simplifies complex systems and interactions; may overlook unintended consequences and trade-offs; decision making also involves politics, values and judgement.
+Name the six causes of failure in Let's Get Wellington Moving.	Long delivery timeframes, changing political priorities, governance complexity, stakeholder disagreement, evolving public expectations, and scrutiny around delivery of benefits and project costs.
+When was Let's Get Wellington Moving scrapped?	2023.
+Who delivered ENGGEN403 Lecture 4?	Marc Lewis.

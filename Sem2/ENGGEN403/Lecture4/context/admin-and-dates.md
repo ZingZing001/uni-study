@@ -10,7 +10,7 @@ Quarantined noise. Nothing here is quizzable.
 
 ## Course metadata
 
-- Lecture 4 of ENGGEN403, delivered 28 July 2026 by **Mark** (Juliet delivered L1-L3).
+- Lecture 4 of ENGGEN403, delivered 28 July 2026 by **Marc Lewis** (Juliet delivered L1-L3). Deck: `ENGGEN_403_Lecture_04_2026.pdf`, 34 pages.
 - Referenced the honeycomb/hexagonal course map from Lecture 1 as the "toolkit" framing. No new information.
 
 ## Week structure the lecturer set out
@@ -38,7 +38,15 @@ Quarantined noise. Nothing here is quizzable.
 
 ## Slide / transcript conflicts
 
-- **No slides were supplied**, so no comparison was possible. Everything in the notes is transcript-derived and the precise slide wording is unavailable. This is the single biggest gap in this lecture's notes.
+Slides were supplied after the first ingest pass, and the notes were rewritten against them. Where they differ, the slides win.
+
+- **Do-medium package figures.** The transcript read out only fragments. Slide 28 is authoritative: do-minimum **NPV $34 m, BCR 1.51**; do-medium **NPV $237 m, BCR 1.74**, with $111 m in CO2 cost reduction and $48 m in health benefits, delivered by the **VPPT + Incentivised Return Scheme + 2,400 Reverse Vending Machines**.
+- **The DFV framework.** The transcript's three-way gloss is much looser than slide 23's 5x3 sub-criteria table. Use the slide.
+- **The five cases.** The transcript names them; slide 8 phrases each as a question and strikes out the commercial case with a red prohibition sign.
+- **Slide 20's long list is incomplete** - it shows options 0-5, 7, 8 and 10, but slides 26 and 30 use options 6, 9 and 11. Not a conflict, a gap in the deck.
+- **VPPT** appears unexpanded on slide 28 and is never said aloud in the lecture.
+- Content that exists **only in the transcript** (not on any slide): the Central Interceptor, the Wellington Museum options, both sides of the Auckland Light Rail cancellation argument, the "17 versus 16" critique, and the off-ramp rationale for staging.
+- The slide footers read "July 26" - template chrome, not the delivery date.
 
 ## Transcript artefacts
 

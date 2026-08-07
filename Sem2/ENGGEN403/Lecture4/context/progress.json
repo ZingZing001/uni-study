@@ -4,22 +4,35 @@
   "title": "Business case analysis and options assessment for systems-level change",
   "status": "notes_written_untested",
   "resources_seen": {
-    "slides": [],
-    "slide_pages": null,
-    "slide_text_layer": null,
+    "slides": [
+      "ENGGEN_403_Lecture_04_2026.pdf"
+    ],
+    "slide_pages": 34,
+    "slide_text_layer": true,
     "transcript": "ENGGEN_403_[28_July]_Lecture_4_Business_Case_Analysis_Captions_English_(United_Kingdom).txt",
     "transcript_quality": "good",
-    "figures_extracted": [],
-    "gaps": "SLIDES NOT SUPPLIED. Transcript-only ingest. Missing visuals: five-case Better Business Case diagram; staged indicative/detailed/implementation diagram; plastics long-list table (11 options) with problem-statement alignment; the colour-coded CSF/DFV options matrix that the lecturer critiques; the do-min/med/max package justification text. Request the deck and re-ingest figures."
+    "figures_extracted": [
+      "L4-p08-better-business-case-framework.png",
+      "L4-p12-bbc-mapped-to-enggen403.png",
+      "L4-p17-plastics-causal-loop-and-problem-statements.png",
+      "L4-p19-problem-to-solution.png",
+      "L4-p20-plastics-long-list.png",
+      "L4-p22-csfs-and-key-stakeholders.png",
+      "L4-p25-options-matrix.png",
+      "L4-p26-included-vs-excluded-options.png",
+      "L4-p28-shortlist-package-justifications.png",
+      "L4-p30-preferred-way-forward.png"
+    ],
+    "gaps": "Slides supplied mid-session and notes rewritten against them. Remaining gap: the deck's long-list graphic (slide 20) shows only 9 of the 12 options - options 6, 9 and 11 are referenced on slides 26 and 30 but never named on slide 20."
   },
   "last_session": "2026-08-07T00:00:00+12:00",
-  "sessions_count": 1,
-  "lecturer": "Mark",
+  "sessions_count": 2,
+  "lecturer": "Marc Lewis",
   "concepts": [
     {
       "id": "L4-C01",
       "name": "What a business case does - inform, justify, always include do-nothing",
-      "source": "transcript - opening section",
+      "source": "slides 4-6; transcript",
       "priority": "high",
       "bloom_reached": null,
       "confidence": null,
@@ -28,12 +41,12 @@
       "last_reviewed": null,
       "next_review": "2026-08-08",
       "interval_days": 1,
-      "note": "Untested. Transcript only."
+      "note": "Untested. Central Interceptor and Wellington Museum are transcript-only."
     },
     {
       "id": "L4-C02",
       "name": "ENGGEN303 vs 403 - product level to systems level",
-      "source": "transcript - differences section",
+      "source": "slides 7, 16; transcript",
       "priority": "medium",
       "bloom_reached": null,
       "confidence": null,
@@ -42,12 +55,12 @@
       "last_reviewed": null,
       "next_review": "2026-08-08",
       "interval_days": 1,
-      "note": "Untested. Transcript only."
+      "note": "Untested. B2C/B2B -> B2G, simple-to-complicated -> complex and wicked."
     },
     {
       "id": "L4-C03",
       "name": "Better Business Case framework - the five cases",
-      "source": "transcript - Treasury framework section",
+      "source": "slide 8; transcript",
       "priority": "high",
       "bloom_reached": null,
       "confidence": null,
@@ -56,12 +69,12 @@
       "last_reviewed": null,
       "next_review": "2026-08-08",
       "interval_days": 1,
-      "note": "Untested. Transcript only. Core examinable structure; 403 covers four of five."
+      "note": "Untested. Learn the five cases as their guiding questions; commercial is struck out on the slide."
     },
     {
       "id": "L4-C04",
       "name": "Staged business cases and off-ramps",
-      "source": "transcript - staged process and cancellations",
+      "source": "slides 9-10; transcript",
       "priority": "high",
       "bloom_reached": null,
       "confidence": null,
@@ -70,12 +83,12 @@
       "last_reviewed": null,
       "next_review": "2026-08-08",
       "interval_days": 1,
-      "note": "Untested. Transcript only. Auckland Light Rail and iReX are the worked cases."
+      "note": "Untested. Auckland Light Rail and iReX are the worked cases; both sides of the cancellation argument are transcript-only."
     },
     {
       "id": "L4-C05",
       "name": "Programme business cases and strategic alignment",
-      "source": "transcript - programme business cases",
+      "source": "slide 11; transcript",
       "priority": "medium",
       "bloom_reached": null,
       "confidence": null,
@@ -84,12 +97,12 @@
       "last_reviewed": null,
       "next_review": "2026-08-08",
       "interval_days": 1,
-      "note": "Untested. Transcript only."
+      "note": "Untested. Slide gives exact completion years."
     },
     {
       "id": "L4-C06",
       "name": "Mapping the four cases onto project deliverables and the methodology sequence",
-      "source": "transcript - mapping to 303 terminology",
+      "source": "slides 12-13",
       "priority": "high",
       "bloom_reached": null,
       "confidence": null,
@@ -98,12 +111,12 @@
       "last_reviewed": null,
       "next_review": "2026-08-08",
       "interval_days": 1,
-      "note": "Untested. Transcript only. Directly structures the Systems Week deliverable."
+      "note": "Untested. The ten-step methodology is a recite-in-order item; steps 2-3 must precede 4."
     },
     {
       "id": "L4-C07",
       "name": "Project background vs problem exploration",
-      "source": "transcript - plastics project background",
+      "source": "slide 15; transcript",
       "priority": "medium",
       "bloom_reached": null,
       "confidence": null,
@@ -112,12 +125,12 @@
       "last_reviewed": null,
       "next_review": "2026-08-08",
       "interval_days": 1,
-      "note": "Untested. Transcript only. Lecturer flagged this as a recurring source of confusion."
+      "note": "Untested. Lecturer flagged this as a recurring source of confusion."
     },
     {
       "id": "L4-C08",
       "name": "Long list to shortlist - diverge, converge, and problem-statement alignment first",
-      "source": "transcript - problem to solution, ideation",
+      "source": "slides 17-21; transcript",
       "priority": "high",
       "bloom_reached": null,
       "confidence": null,
@@ -126,12 +139,12 @@
       "last_reviewed": null,
       "next_review": "2026-08-08",
       "interval_days": 1,
-      "note": "Untested. Transcript only."
+      "note": "Untested. PS1/PS2 verbatim on slide 17; three ideation prompts on slide 21."
     },
     {
       "id": "L4-C09",
       "name": "DFV analysis expanded to systems level",
-      "source": "transcript - DFV section, single-use plastics example",
+      "source": "slides 23-24; transcript",
       "priority": "high",
       "bloom_reached": null,
       "confidence": null,
@@ -140,12 +153,12 @@
       "last_reviewed": null,
       "next_review": "2026-08-08",
       "interval_days": 1,
-      "note": "Untested. Transcript only. Feasibility-in-NZ-context is the part most likely to be answered shallowly."
+      "note": "Untested. The 5x3 sub-criteria matrix on slide 23 is the assessed tool - transcript version was much looser."
     },
     {
       "id": "L4-C10",
       "name": "Critical success factors derived from stakeholders' necessary requirements",
-      "source": "transcript - CSF section",
+      "source": "slide 22; transcript",
       "priority": "high",
       "bloom_reached": null,
       "confidence": null,
@@ -154,12 +167,12 @@
       "last_reviewed": null,
       "next_review": "2026-08-08",
       "interval_days": 1,
-      "note": "Untested. Transcript only."
+      "note": "Untested. Six CSFs verbatim and the seven stakeholders they trace to."
     },
     {
       "id": "L4-C11",
       "name": "Option packaging - do nothing / minimum / medium / maximum",
-      "source": "transcript - packaging and plastics package justifications",
+      "source": "slides 27-30; transcript",
       "priority": "high",
       "bloom_reached": null,
       "confidence": null,
@@ -168,12 +181,12 @@
       "last_reviewed": null,
       "next_review": "2026-08-08",
       "interval_days": 1,
-      "note": "Untested. Transcript only. The do-minimum rejection despite NPV +$34m / BCR 1.5 is the key discriminating detail."
+      "note": "Untested. Do-minimum rejected at NPV +$34m / BCR 1.51; do-medium NPV $237m / BCR 1.74."
     },
     {
       "id": "L4-C12",
       "name": "The scoring matrix trap - no right answer, only trade-offs",
-      "source": "transcript - options matrix critique",
+      "source": "slides 25-26; transcript",
       "priority": "high",
       "bloom_reached": null,
       "confidence": null,
@@ -182,12 +195,12 @@
       "last_reviewed": null,
       "next_review": "2026-08-08",
       "interval_days": 1,
-      "note": "Untested. Transcript only. Explicitly marked by the lecturer as what separates a good report from a mediocre one."
+      "note": "Untested. Slide 26 shows the exemplar doing exclusion well and inclusion badly - that contrast is the teaching point."
     },
     {
       "id": "L4-C13",
       "name": "Limitations of business cases - cross-section in time",
-      "source": "transcript - limitations and closing cases",
+      "source": "slides 31-33; transcript",
       "priority": "medium",
       "bloom_reached": null,
       "confidence": null,
@@ -196,14 +209,14 @@
       "last_reviewed": null,
       "next_review": "2026-08-08",
       "interval_days": 1,
-      "note": "Untested. Transcript only."
+      "note": "Untested. Five limitations verbatim on slide 31; six LGWM failure causes on slide 33."
     }
   ],
   "misconceptions": [],
   "open_questions": [
-    "Slide deck for Lecture 4 was never supplied - all note content is transcript-derived and slide wording is unavailable.",
-    "The lecturer promised a Canvas page of external industry business cases. Check whether it exists and whether any are required reading.",
-    "Exact scope of the 'four-case detailed business case' expected for Systems Week - confirm whether the commercial case is genuinely excluded from marking."
+    "Slide 20's long list omits options 6, 9 and 11, which are used on slides 26 and 30. Get the full option list from the source plastics report.",
+    "The lecturer promised a Canvas page of external industry business cases; two 2025 Systems Week reports were later uploaded there. Check what is required reading.",
+    "VPPT is used unexpanded on slide 28 - confirm what it stands for (virgin plastic packaging tax?)."
   ],
-  "next_action": "13 concepts written, none tested. Quiz L4 with emphasis on C12 (justifying trade-offs), C11 (packaging) and C03/C04 (framework and off-ramps)."
+  "next_action": "13 concepts written against slides + transcript, none tested. Quiz L4 leading with C12 (justifying inclusion and exclusion), C11 (packaging and the $34m/1.51 rejection), C09 (the DFV sub-criteria) and C03 (the five cases as questions)."
 }
