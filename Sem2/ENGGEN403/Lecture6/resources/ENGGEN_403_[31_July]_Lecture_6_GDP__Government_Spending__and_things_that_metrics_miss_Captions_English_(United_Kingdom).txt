@@ -1,0 +1,935 @@
+[Auto-generated transcript. Edits may have been applied for clarity.]
+Good afternoon everybody. Oh, that's super loud. Let's turn that down.
+
+All right. Good afternoon, everyone.
+
+Welcome to the final lecture for this week.
+
+Today we're going to be talking about a few financial concepts, economic concepts that really are important.
+
+As you go out and work on some of these systems cases, GDP, government spending,
+
+governments have limited amounts of resources if they need to allocate some resources to projects that you work within.
+
+That may mean they need to take money from somewhere else. For this transport project.
+
+They might need to take some money from health care, from education. They might need to borrow some money.
+
+Increase our debt to cover some of these projects.
+
+So as we talk about systems or systems, concepts like GDP, government spending, these become really important.
+
+And so what we covered yesterday around social cost benefit analysis. Today we're going to talk about other things that those metrics may miss.
+
+Okay. More qualitative wider benefits quick outcomes.
+
+We'll look at GDP how it's measured. Interpret those some more indicators around GDP and how we compare to other countries and other economies.
+
+What are the strengths and limitations of GDP as a measure of a country's performance or a country's success a country's output?
+
+What are alternatives to this? To GDP, to economic development?
+
+Things like wellbeing, things like happiness. How do we consider those things that are harder to measure?
+
+And then we'll look at one wellbeing framework that we sort of soft launch yesterday, the Living Standards framework.
+
+And Juliet will talk a bit more about that. So I'm going to go through GDP some more metrics.
+
+And then this thing we call productivity. What does productivity.
+
+What does it mean. Then Juliette is going to go through some limitations of GDP and introduce the living standards framework
+
+and how we measure things that our social cost benefit analysis might not be able to quantify or monetise.
+
+And then I'll come back, cover a couple of examples of how this has been applied in previous Systems Week projects.
+
+And so today we're mainly looking at things that apply to the economic and financial case generating options,
+
+doing multi-criteria analysis, comparing quantitative and qualitative things.
+
+And how do we make sense of those in our business cases? So GDP.
+
+Who's heard of GDP. Should of all. Yeah yeah we've all heard of GDP gross domestic product.
+
+So really what it is is it's the total value of all the goods or final goods and services produced within a country over a specific period of time.
+
+It measures a country's output total country's output within our borders.
+
+It's the most widely used measure of a country's economic output,
+
+because we can gather all this data compared to other measures, so it's relatively simple to measure.
+
+We can collate those data. Different countries can collate that data and then we can use those to compare.
+
+It provides a simple standardise and internationally comparable measure of activity.
+
+And in New Zealand, stats NZ measures this through various surveys household expenditure surveys,
+
+business expenditure surveys, admin data, government fiscal information.
+
+So, um. Financial information that's held by Treasury using that together to produce those GDP figures.
+
+And so there's three main approaches. We'll mainly look at the most commonly used approach the expenditure method for measuring GDP.
+
+And so we're talking about the total output in an economy. So we measure those at several different points.
+
+The first one is consumption. All the things that you guys spend money on that $5 coffee then you shoes concert tickets,
+
+all of these kinds of things consumption, consumer spending, all the things that you spend, individuals spend money on.
+
+Then we have things like investment, things that businesses buy or assets that businesses buy to become more productive machines, Plant.
+
+Property, plant and equipment. Tractors on the farm again.
+
+What companies or businesses are spending or investing in order to become more productive?
+
+Government spending. So what? The government spends money on hospitals, education, transport, all of the things that governments spend money on.
+
+In lecture ten next week, we're going to look a bit closely at budget government budgets.
+
+We'll introduce it in this lecture today for the 2026 budget came out about almost a month ago
+
+now that lays out the government spending for the next financial year and then net exports.
+
+So what we produce in this country and send overseas things like milk, things like lamb.
+
+Right. All of our exports, we create them here and we send them and sell them overseas.
+
+Those are our exports. And we minus that from what we bring into the country in terms of imports, okay.
+
+In terms of imports, why do we mean us off imports from exports?
+
+We minus off those imports, because those imports are counted in the country that they are produced in.
+
+So it reduces that double counting. So that's not our productivity.
+
+That's another country's productivity. So GDP is measured within the bounds of a country's economy commonly referred to as net exports.
+
+If you heard that term out in the space. Net exports.
+
+So we would minus off things like what we import cars that are manufactured overseas as an example.
+
+And so we add all of those up and that gives us our GDP.
+
+And so New Zealand in 2025 GDP round about 430 billion.
+
+Now 450 billion. So an increase of almost 20 billion over the course of a year.
+
+Compare that to somewhere like the US. Can anyone guess what the US GDP is?
+
+Throw me a number 32. Yeah.
+
+Where did you find that out? Yeah, it's around 30 trillion.
+
+So giving you an idea of the differences between economies like ours.
+
+Of 5 million people versus the US. And there are two other ways that GDP can be measured.
+
+The productivity approach, also known as the output method or output approach.
+
+Which sums all the value added within all of the supply chains within an economy.
+
+And the income approach summing of all the incomes produced by businesses and people.
+
+So rent rates, wages, interests, profits and added those together and they should all be equivalent.
+
+Right. Mass and energy balance. Basically these should all add up to a to the same thing.
+
+So just giving you an idea of when we talk about spending billions of dollars on a transport project that comes out,
+
+or if you're thinking of the size of our economy, our economy is only 400 billion.
+
+So it should give you an idea of the order of magnitude for some of these projects,
+
+some of the benefits that they need to create and therefore what their impacts are on New Zealand's output or economy.
+
+And so it's a real basic measure of a country's success, the total output of a country's population or a country's economy.
+
+So that's GDP. But GDP changes, right.
+
+It's simply the output of an economy. So the US 30 trillion clearly they're way more right.
+
+So are they more successful. We need to bring these back to the same basis.
+
+So if you think back to engineering, think to technical things like wet versus dry basis.
+
+How to compare those things right. We need to put things on the same basis.
+
+So we adjust these figures based on a myriad of things that we're going to have a look at.
+
+One is GDP per capita. So divide GDP by the population.
+
+And that is generally the largest proxy for living standards across the world.
+
+People that earn more, people that have more, they have better lives.
+
+Is the basic analogy. And so where do we stack up?
+
+We stack up 46th globally probably. Maybe not as high as you thought.
+
+Right. We're a reasonably small economy, and we're going to talk about some of the productivity challenges that New Zealand does face.
+
+If we look at what the top sort of few countries. They're quite small, right.
+
+Luxembourg, richest country in the world. Ireland reasonably small.
+
+Switzerland and Singapore also reasonably small. Right.
+
+Why are they so high? It's because they have really productive economies.
+
+They invest. They have industries that are really productive. They create a lot of value.
+
+So for a small population, they create a lot of benefit, a lot of output.
+
+And usually those that are associated with higher standards of living, stronger institutions,
+
+lower taxes potentially in some countries Luxembourg has a reasonably low tax.
+
+Some obviously Scandinavian countries have a little bit higher tax. The main thing is around the the thing around stronger institutions.
+
+So what does that mean? Lower rates of corruption. Little or lower levels of bureaucracy.
+
+It's easy to collaborate within these countries. Easy to collaborate.
+
+Easy to produce outputs. Higher education. People in these countries are highly educated.
+
+What does a highly educated population mean and means that they're more productive.
+
+They go and do things like engineering. They go and do things like create new businesses, create new products.
+
+They create a lot of value. Right. Remember, we know all about value and value propositions from 303 okay.
+
+Whereas in New Zealand we may not be as productive. We may not create such high value products.
+
+What do we do? We produce things like agricultural products, milk, dairy, meat.
+
+Right. Very little in the way of value added to those commodities.
+
+All right. I'm going to talk a little bit about that in a second.
+
+Another measure purchasing power parity.
+
+So adjusting GDP by cost of living by how much things cost.
+
+Right. If you compared New Zealand to Switzerland it might look at first glance,
+
+because Switzerland has such a higher GDP that they're automatically better or substantially better off in Switzerland than us.
+
+Purchasing power parity sort of brings that into alignment. You say, well, in Switzerland things are really expensive.
+
+That dollar that you have will go further in New Zealand than it would in Switzerland.
+
+That dollar would go further, much further in some other Southeast Asian countries, for example.
+
+I was in Vietnam recently. You can buy a plate of food for $1.50.
+
+Right. So that would adjust Vietnam up potentially.
+
+So if we look at purchasing power parity by GDP, China has the largest economy in the world rather than the US.
+
+So another measure another measure there. And if you look when New Zealand stacks up, not the highest.
+
+Not the lowest. Somewhere in the middle. So that's purchasing power parity.
+
+And so that leads us to a big concept that I want to talk about which is productivity.
+
+So this is a quote from Treasury. But productivity is the biggest long run determinant of wages and living standards.
+
+Okay. So we've talked about GDP per capita right.
+
+That's because that talks about productivity.
+
+We also talk about productivity or GDP per hour worked or per person.
+
+And so our capacity to raise our standards of living depends on our ability to raise output per worker.
+
+The amount of goods and services each worker produces and the value that they produce or the value that they add.
+
+And so it measures how efficiently an economy converts inputs to outputs.
+
+So we talk about this as GDP per hour worked. And so what you see is that New Zealand is not the highest in terms of productivity.
+
+It's not because Kiwis are lazy. You guys aren't lazy.
+
+We're all not lazy. But it matters about what we produce, okay.
+
+The things that we produce, the value of the things that we produce.
+
+And so back in the 70s, New Zealand's productivity was on par with the Scandinavian countries.
+
+But one of the problems that happened was that as technology progressed since the 70s,
+
+a lot of those Scandinavian countries invested heavily in those high value industries pharmaceuticals, software, financial, financial institutions.
+
+A lot of those Scandinavian and European countries are hubs for that type of manufacturing in the world.
+
+Meanwhile, New Zealand stayed in these sort of agricultural industries forestry, Dairy meat, right?
+
+Not much productivity added. Not much value added when you sell those goods.
+
+If you think about forestry, right. You cut down the tree, you process the wood and you sell the wood.
+
+Whereas if you think of somewhere like Scandinavia, maybe they chop down that tree,
+
+they turn that tree into a beautiful piece of art, and they sell that art for $1 million or something.
+
+What is an exaggeration, of course, but that's sort of the conundrum we're looking at.
+
+Another thing is that guys up here a bit noisy, please.
+
+Thanks. Another thing around is the sectors that we invest in.
+
+So New Zealand largely. A lot of their investment goes into real estate.
+
+Can anyone tell me what a capital gains tax is? Is a tax on an increase of the value of assets.
+
+Very good. So New Zealand doesn't have that.
+
+One of the only places in the world that doesn't have a capital gains tax.
+
+So what does that mean? It means that prior to 2018, we had heaps of foreign investment heaps.
+
+Everyone was buying houses here because they didn't have to pay tax on the profits for owning their 15th home.
+
+Right. We still don't have it. It's still being discussed. It'll probably be a point in the election this year around a capital gains tax.
+
+What happens when that happens? They come in. They buy up all the houses.
+
+They shoot up the prices of the houses. And you guys can't buy your first house because it's really expensive.
+
+Okay.
+
+Another thing, another problem with real estate is that for real estate, um, the skills or the value is just transferred between sellers and buyers.
+
+If you think about industries like, uh, Are deep tech Start-Ups pharmaceuticals.
+
+They take something, they manufacture it, and then it produces a whole a whole bunch of benefits to society.
+
+But with real estate, all you're doing is that you buy a house for $5 million.
+
+A few years later, you sell that. You're just transferring that wealth from buyers to sellers.
+
+It's a less productive form of transaction.
+
+It also means that some of those industries have this thing called knowledge spill-over, or technology diffusion and transfer.
+
+People that, like yourselves, upskill themselves in software development or engineering.
+
+You could contribute to this industry in pharmaceuticals. You could contribute to the civil industry.
+
+You could contribute to chemical engineering. There's a whole bunch of transferable skills that you guys would have.
+
+There's a lot of spill-over between these high value industries.
+
+That's not potentially the case with things like real estate, with things like farming and agriculture, which are relatively segmented.
+
+And what that means is that because we're lower in productivity, we have less money coming in in the form of taxes, which means we have less money.
+
+The government has less money to invest in other things that can make us more productive.
+
+Right. There's less available to fund our Start-Ups. There's less available to fund the next Rocket Lab or something.
+
+And so there's problems with financing those investments in the medium to long term.
+
+And it ends up in a perpetual cycle.
+
+And that's why low productivity sectors or the sectors that we work on may not be advantageous to the long term outcomes of New Zealand.
+
+And so I won't spend too much time here, but GDP per hour worked as a measure of productivity.
+
+You can see where we stand up here. There's a Productivity Commission, which I believe may have been disbanded, maybe.
+
+Juliet. Correct me if I'm wrong, but they have a lot of this data here.
+
+Okay? A lot of the data of where New Zealand stacks up against both the OECD and against those other countries.
+
+And like I said, we're not at the top. We're sort of below average their.
+
+Revenue per employee. So another measure basically just highlighting that high value firms usually
+
+result in a high revenue per employees as another proxy for high productivity.
+
+And so we're starting to see a little bit more of that. We're starting to see more high value firms come through the chain.
+
+But one thing that happens is that once these companies become large enough, they'll move overseas potentially.
+
+So Rocket Labs not actually based in New Zealand. They're actually based in the US.
+
+So that's another problem. You have this outflow of people of resources from New Zealand's economy because we're far away.
+
+We're expensive to get to. It's hard to get people to come all the way down to the side of the world again, a perpetual cycle of productivity.
+
+And so this highlights just a couple of the challenges that we face.
+
+Um, if you refer to the slides of Further Back, there's a couple of links there, um,
+
+that outline some of the reports that have been done on our productivity challenges.
+
+Again, small market country of 5 million limits the economies of scale limits that competition really hard to scale.
+
+For example, my industry medicinal cannabis, we used to have five large, um, pharmaceutical companies in the space.
+
+Three of those companies have gone under in the last year.
+
+Basically, we only have one of those companies left still going because the market is so small.
+
+Many businesses are small. I saw a stat or something like 87 or 97% of businesses have less than 20 people, right?
+
+So we have a lot of small businesses. What does that mean? Those small businesses don't have much capital to invest in growth.
+
+They're sort of hamstrung by their size. I already mentioned geographic isolation.
+
+I already mentioned property. I've already mentioned the sort of agricultural spaces we've invested in low productivity industries.
+
+And while agriculture is hugely important and all of these sort of industries
+
+like dairy and forestry and primary industries that drive a lot of our GDP.
+
+We need those. But inherently, the nature of those industries means that they are less productive than other high value industries.
+
+And then government debt. So government debt is like our government credit card.
+
+We spend money. What happened here? Someone know a big event that happened in the world?
+
+Yeah. Covid. Yeah. Yeah. We spent a lot of money on Covid.
+
+Blame Juliet. She made us do that. Just kidding. Um, but what does that mean?
+
+If we have high debt as debt increases, the interest that we need to pay on that debt increases.
+
+That's an expenditure of the government.
+
+That means they have less money left over to spend on other things, like investing in other industries, right?
+
+So government debt is not inherently bad. But just understand that when the government takes on debt,
+
+it's a burden on future generations because those interest payments need to be made in the future,
+
+which leaves less money in the kitty to pay for other things.
+
+And so governments need to balance our needs today, right?
+
+We need that new hospital. We need that new bridge, that new tunnel with the fact that we need to pay those back in the future.
+
+And then so just quickly, before we get to Juliet's part.
+
+Government budgets 2026 budget came out. We'll cover this more in lecture ten.
+
+We collect revenue through taxes and other means, and then we spend that money or the government spends that money.
+
+It has a limit. Every dollar spent is a trade off.
+
+If you spend money in hospitals or education then you can't spend it in transport, Right.
+
+So the budget determines how that money is allocated.
+
+And when that expenditure exceeds how much the bringing in in taxes, we borrow money to fund the rest of that expenditure.
+
+And so the 2026 budget spend is 155 billion.
+
+So if you guys come up with your systems project and you're like our solution is going to cost 150 billion, we don't.
+
+That's all of the budget to spend on everything. Everything.
+
+Hospitals again bridges, roads doing our doing everything subsidising universities.
+
+Right. So this should put into perspective where the magnitude of your solutions for your projects should sit.
+
+And that just gives you a little idea around the revenues, the expenditures and what we had to borrow to fund that.
+
+And a little bit of a distribution on where that money is spent, so you can have a look at that in your own time.
+
+Hand it over to Juliet. Thanks, Mark.
+
+I didn't advise on economics in Covid. Just for the avoidance of doubt.
+
+Um, so Mark's given you this whole pile of tools that you're going to use in your assignment,
+
+and I'm just going to cover here some of the tensions that's going to create,
+
+because we are giving you assignments on wicked problems that can't be solved.
+
+And the tools that we've given you can't solve them. So there's there's some tension there.
+
+And that reflects the tension that the Western world in particular has,
+
+trying to reconcile the problems it faces with the tools it's got to deal with them.
+
+So we've just heard about GDP. GDP is the metric that countries compare each other against in terms of performance.
+
+Each year it's the stick with which we beat our governments.
+
+So we complain if our GDP is low because we take that as a reflection of our individual wealth.
+
+And certainly GDP per capita gives you a taste of that.
+
+But as you move beyond thinking about simple traditional economic metrics to solving long term wicked problems,
+
+you should think about the limitations of GDP and also all the tools that you have to address the problems that ultimately attach themselves to GDP,
+
+because they all think about a very narrow short term economic frame.
+
+So GDP lumps together what I've called goods and bads.
+
+So if you look at GDP in New Zealand, you get a major bump in GDP after a disaster.
+
+So I lived in Christchurch for the sequence of earthquakes. Disaster.
+
+Absolutely awful. Everybody's lives were completely upended.
+
+Workplaces, schools, you name it. But the year after GDP look fantastic because we had to spend so much money putting everything back together.
+
+Did the earthquake make us better off? No. Did GDP look good?
+
+Yes. So that's a really simple example of one of its limitations. It certainly doesn't reflect distributional equity.
+
+So it doesn't care how the money is distributed. It's an average figure.
+
+And some of you will care more. And some of you will care less about whether that matters.
+
+Do we want really rich people and incredibly poor people in our country?
+
+To an extent, there's always going to be a distribution.
+
+The ends of that distribution you can disagree on, but we can all agree that GDP will tell you nothing about that whatsoever.
+
+So it's not a good way to make decisions if you are worried about distributional equity.
+
+It measures what was spent and not what we have to show for it.
+
+So you will hear successive governments beat up the previous government for inefficient spending.
+
+So if you spray money everywhere, GDP goes up. GDP doesn't say hold up.
+
+What did you spend that on? You need other measures for that like productivity.
+
+So it's a very crude measure. And you need to when you're using it, look at other measures to give you that spend quality.
+
+And it doesn't capture the stocks of things that relate to well-being.
+
+So as an amusing example, because it's Friday, Mark mentioned shoes.
+
+So if I go out and buy ten pairs of shoes, then I am contributing to GDP.
+
+If I have 50 pairs of shoes in my wardrobe, which I can neither confirm or deny.
+
+That does not show up in GDP. It does relate to my well-being.
+
+I really like shoes. If I give the shoes away, that's probably a good thing to do because I do have too many shoes that doesn't show up in GDP.
+
+If I give them to an up shop, which might help distributional equity, that doesn't help either.
+
+So if my goal is increase GDP, I would just buy an infinite number of shoes.
+
+Dangerous goal for me to have and I try and avoid it.
+
+So let's zoom out a little bit. Let's think about our retiring population.
+
+Let's take a 70 year old that's living on K road. They have nothing, hardly any possessions.
+
+And let's take a 70 year old that's living in one of the fancy apartments above K road.
+
+They have plenty. Um, we can spend money to improve both well-being, and it'll look the same in GDP.
+
+But one will need clothes, shows food, warmth, healthcare and one's probably fine with all those things sitting in their cupboards.
+
+And so we don't pick up anything to do with stocks. Scale that up across the population.
+
+Think, too, about whether we've refurbished our hospitals, our schools. We've mended all the potholes.
+
+All those stocks are not captured in GDP, only what you spent last year.
+
+So it drives all these system behaviours by setting a short term financial goal.
+
+Not a bad thing to do, but you really need to think about it in a measured way when you are tackling long term problems.
+
+And of course, it doesn't consider the inevitable limit to economic growth.
+
+So all these economic metrics assume growth is good, and generally speaking, growth is good.
+
+But you can't keep doing it forever or you will run out of resource.
+
+So this is Kate Raworth who is a professor in Oxford.
+
+And she wrote this book a few years ago, which has subsequently been updated, called Donor Economics.
+
+And what she's trying to do is address some of these issues with current economic metrics, such as GDP.
+
+By thinking about the problem in more than one dimension, and I'll let her speak for herself.
+
+So a few years ago, I tried to draw a picture because I loved drawing pictures.
+
+I tried to draw a picture of the world that we want to live in, and it silly those sounds.
+
+It came out looking like a doughnut American one with a hole in the middle. So imagine a doughnut.
+
+There's the outside, and then there's the inside, and there's that hole in the middle. In the hole in the middle.
+
+That's a space of deprivation, a space of shortfall where people don't have the resources to meet the essentials of life,
+
+like they don't have enough food or education, they don't have access to electricity, enough income.
+
+They don't have decent housing. So it's a space of shortfall. And we want to get people out of that hole in the middle into the doughnut,
+
+but we want to do that for the whole world, making sure that we also don't go beyond the doughnuts out of crust,
+
+because that's a space of ecological overshoot, where humanity puts more pressure on the planet than the planet can take,
+
+and we start causing climate change or massive loss of biodiversity.
+
+We start creating a hole in the ozone layer, or polluting Earth with chemicals that we add to it.
+
+So we need to both get people out of deprivation and poverty,
+
+but also protect Earth and protect these fundamental, life supporting systems that keep us alive.
+
+Those are the two sides of human well-being, the inside and the outside of the donor.
+
+And the 21st century challenge is a unique one. It's to get everybody out of poverty while coming back in at the same time.
+
+That's never been taken on before.
+
+And that's partly why we need to rewrite economics, because it's a completely new way of looking at what human well-being is.
+
+So that's a big, bold goal. And some of those ideas will be useful to you as you think about how clunky the tools that
+
+you've been given are that the world's been given are to solve some of these problems.
+
+So when you are looking at the non-financial aspects of your teams and systems projects, these are some things you might think about.
+
+Um, so I said GDP was an average measure that didn't capture inequity.
+
+Um, locally it's very easy to see what's happening.
+
+So if you start an afternoon stroll down by the waterfront here, these are people's often second homes.
+
+Um, and on the viaduct, it costs tens of thousands of dollars a year to keep your boat here.
+
+Um, you can walk for 2 or 3 minutes to Queen Street, and you will find people living on the street.
+
+Um, you're always going to get some distribution of wealth that is getting a bit extreme for lots of people in New Zealand.
+
+I think even if you think that is fair in a reflection of ability and, um, people deserve what they work for.
+
+Um, you might be concerned about the health consequences of that inequity.
+
+So with inequity in wealth comes inequity in health.
+
+Most people, I think, still in New Zealand, think we should have a universal health system.
+
+The more people slip into poverty, the more social problems they experience, the more pressure there is on the health system, also the justice system.
+
+So when you come up with your solutions to some of these problems and you are thinking about priority of spend,
+
+as Mark said, then health, education, social issues fall on all of us in the current tax system.
+
+The other problem you get with inequity is problems with social cohesion.
+
+So, um, a simple measure of social cohesion.
+
+I live on K road. I can walk down K road. It's a nice, happy, quirky street full of colourful characters.
+
+As more and more people become homeless and as the nights get longer, it gets less and less safe feeling to walk down K road.
+
+And that is a little litmus test locally of whether you are likely to suddenly get a brawl on K road, which you may have seen in the news.
+
+And ultimately, whether you get major protests in New Zealand.
+
+This is from the parliamentary protest against the vaccine mandates.
+
+So lots of research shows that as inequity rises, social cohesion is challenged.
+
+It's harder and harder for leaders to keep the country behind them.
+
+If you've been following the news in Britain, you'll see they've had their seventh prime minister in a few years.
+
+That's unheard of in Britain. They've always had very stable government that is reflecting a challenge to social cohesion.
+
+As GDP drops, you'll see that almost falling out of the top 20 in Marx graph there.
+
+And as GDP drops in equity increases, it's harder and harder for a leader to get the whole country behind them.
+
+It also doesn't tell us about environmental health. So we've talked about plastics.
+
+I introduced the topic marks showing you what happened in the systems projects last year.
+
+Nothing in GDP captures that. So you could really increase GDP by buying lots of single use plastics.
+
+But that wouldn't really do anything for the environment at all.
+
+So how are you going to factor that in? And then there's this really fluffy measure of happiness or well-being.
+
+So some of the poorest countries in the world have some of the most content people.
+
+People do research as to why getting away from that spend spend, spend get GDP.
+
+It may or may not be a factor in that. And of course, all these things are hard to measure If you do want to measure them,
+
+and you may want to measure them depending on the topics for your team and systems work, there are indices of happiness that you can look at.
+
+You'll see in this one, which comes from a few years ago, New Zealand came 12th, which is pretty good really.
+
+So we might not have a very good GDP, but we are a lot cheaper than some of the people with better GDP.
+
+Although I note that there's a high correlation here between the happy people and the high GDP people, I don't know where Ireland is.
+
+I meant to look that up. Anyone recognise this guy?
+
+This is a young Robert Kennedy RFK, who you may have heard about from the Trump administration.
+
+So this is the same dude that's currently in charge of the health system in America and is making America healthy again.
+
+I agree with him on GDP. So it's a good example of very different policy positions that you might have with someone, but shared values.
+
+So RFK in his younger days noted that GDP does not allow for the health of our children, the quality of their education, or the joy of their play.
+
+It measures everything in short, except that which makes life worthwhile.
+
+The counterargument, of course, is that it's easy to worry about these things when you have enough money to buy all the basics,
+
+but he certainly has a point there,
+
+and I think it's interesting that that's the same guy that we see holding some very strident positions on health in America.
+
+If you're interested in Gross National Happiness, there is an index.
+
+You will see these words come up time and time again over the next few slides.
+
+All sorts of different national and international organisations try and capture the essence of non-financial well-being.
+
+So Living Standard which includes a financial element.
+
+But health education, what you do with your time, whether you trust the governance systems, What are your environments like?
+
+Whether people have good mental health, what the community is like and what sort of culture and resilience we have, and you can map those out.
+
+This is 2025. You'll see New Zealand's quite chirpy. Ukraine, understandably, is not very happy in Europe.
+
+And I think the unhappiest country in the world was probably Afghanistan.
+
+And of course, all these measures are going to have a cultural component.
+
+So it's not really an accurate measure, but it gives you another lens to compare countries alongside GDP.
+
+I'm not going to go through them all because you'll see the same thing over and over with different words.
+
+But the OECD Better Life Index might give you some ideas.
+
+Um, here's a couple of national frameworks framed in different ways.
+
+And they're all trying to capture are we ageing well?
+
+Is the education system good? Do people have somewhere to live? Do they have a job?
+
+Is the justice the people care about each other? Can they relax in the environment?
+
+And what about the energy crisis? All these things get folded in somehow to how good people are feeling about the world,
+
+which ultimately feeds into social cohesion and all those other things.
+
+So in New Zealand, we have the Living Standards framework.
+
+This is built on the OECD wellbeing approach and tailored to New Zealand, and it's been going since 2011.
+
+Now you'll see all the information on the Treasury website. Um, that doesn't necessarily mean that it's used in every government decision.
+
+And we'll go into that in lecture ten when we talk about how decisions are made in government, but it is informed by public feedback.
+
+As Mark mentioned earlier in the week, as much research as possible goes into it to give a meaningful measure of non financials.
+
+So you've seen this infographic before. This is the three levels of our Living standard framework.
+
+These are the domains that Mark touched on things like health, engagement, voice, safety.
+
+Do you feel safe in the streets? This subjective well-being of people like chirpy going about their day.
+
+Whether you feel safe in your institutions, that could be your community, your family,
+
+your household, your far now, um, and international connectivity plays into that too.
+
+And then this is the place I suggest you concentrate when you are trying to tackle this in your teams with the four capitals.
+
+So for any problem you might be facing in terms of your assignment,
+
+thinking about the four capitals is a helpful and structured way to enter into the non-financial aspects of cost benefit analysis.
+
+So there's the natural capital, very obvious in a country like New Zealand,
+
+you see debates about the value of natural capital playing out in Parliament with things like the mining and conservation debate.
+
+There's social capital. Um, do I feel safe if there is a brawl on K road?
+
+Will someone come and help me? Um, all those kind of deep things about norms, rules and institutions that keep us safe as we go about our day?
+
+There's human capital. Um, some proposals will improve.
+
+Human capital. Some won't. At the moment, we have a big problem with human capital because of the unemployment problem.
+
+You may have heard news stories last week about the youth unemployment, the graduate unemployment issues.
+
+Of course, that's not going to help our productivity if we invest in people's education.
+
+And then there's no gainful employment. So we need to think about that as we recommend to government.
+
+And then there's the financial and physical capital around us.
+
+So that's a lot of the Metrics that you've covered this week will help inform that one, but you've also got these other three.
+
+How you weight those is a values choice. It will be up to your team how you consider those values as a group.
+
+I don't suggest you spend a lot of time on this one,
+
+unless you are really interested in how Maori worldviews and indigenous worldviews might give you a different lens on some of these problems.
+
+I think it's really valuable, and I think some of the principles are ones that will probably become more important as your careers progress,
+
+because unlike a lot of the Western frameworks, the the Harawira, which captures Maori tikanga and principles, looks at intergenerational prosperity.
+
+And that is the one thing that is missing from a lot of the frameworks that we tend to use in the West and will help us solve the long term Problems.
+
+Um. The reason I don't recommend you use it for your assignments is because it's not as well developed.
+
+You won't find as many exemplars and you won't find instructions on the government websites,
+
+but you might like to keep it in the background to to inform some of your commentary, depending on the problem that you get.
+
+So the Living Standards framework is used in government will do more on that in lecture ten.
+
+It's used by all governments driven by the advice offered by Treasury.
+
+But that's at the policy level. At the political level.
+
+People pay different amounts of attention to it. So in 2019, we were being written up worldwide as having the world's first wellbeing budget.
+
+But in 2025, those wellbeing provisions were stripped from the Public Finance Act.
+
+In many ways, you will find that it's not actually a difference in practice, it's more a difference in rhetoric.
+
+And if you're interested in how Treasury actually does a lot of these things on the ground.
+
+This is Tim Ng. He is from, um, the New Zealand Treasury, or he was.
+
+He's recently left and moved to IRD, and he was one of the people responsible for making sure the Living Standards framework was implemented.
+
+Um, and if you talk to Tim,
+
+he will tell you that the rhetoric that you hear in the Parliament hall is very different from the policy work on the ground.
+
+And those four capitals are always considered. So I'll hand back to Mark.
+
+Oh one more. If you want some tips on how you might go about measuring and monitoring some of the non financials, there's a couple of examples here.
+
+So this one's on child poverty which you often hear about. It's how we measure child poverty.
+
+It's hard but there are measures. And this one will give you some tips on how to monitor environmental health.
+
+Um and there will be equivalent Resources that will be useful for your teams and systems project.
+
+Thanks, Juliette. So finishing off for the day, we're going to have a quick look at some examples of how to apply this right.
+
+So you've seen you've heard a lot of concepts a lot of frameworks today.
+
+How are we going to apply these in our Systems Week projects.
+
+And so multi-criteria analysis is one thing that you can use to compare both quantitative and qualitative impacts.
+
+You'll have to do that for your options assessment. Remember we covered that at the start of the week when we looked at business cases.
+
+How do we assess those options against DFA against our critical success factors.
+
+Similarly, we can use this to compare things in our social CBA and then compare those to the qualitative aspects of the four capitals.
+
+And so a point here that the numbers aren't important, right?
+
+You can come up with whatever scoring for any of your options or for any of the impacts.
+
+You can come up with whatever score. What matters is the justification behind what those numbers mean.
+
+If that option is a 16 for the natural capital, but this one is a 17 for the natural capital, we chose it because it's got 17.
+
+I'll put a big fat zero through your discussion. You need to tell us why.
+
+What are the reasonings behind choosing this one over this one? There are always trade offs, and that's what we're going to look at here.
+
+So if we look at the plastics project and I won't go through all of those.
+
+Feel free in your own time. But there are pros and cons.
+
+There are positive and negative impacts to all four capitals all ways.
+
+Okay. There are trade offs between the different capitals.
+
+You can't just generate new things without considering what the impact is on the other capitals.
+
+So in the past, students have been great at describing what the positive impacts are.
+
+It's a little bit weaker on describing what the net are, what the negative impacts are, or what those trade offs are.
+
+Okay. So if we have a look quickly and a couple, let's say the natural capital,
+
+the good thing about these they're going to reduce plastics going to landfill,
+
+lower those volatile gases or those volatile compounds coming off landfills.
+
+And they'll reduce fossil fuel extraction to produce those.
+
+But the cons are recycling and composting facilities can also have high energy and high water usage.
+
+So that's a negative impact on the natural capital.
+
+So by looking at this and thinking yep we're reducing plastics going into the rivers or reducing plastics going to the landfill.
+
+That's great. Actually you also have a negative impact on that natural capital as well.
+
+So really the point being there is always an impact, both positive and negative, across those four capitals.
+
+Okay, so you can have a look at that in your own time.
+
+A previous different example here, but I like the way that they constructed their multi-criteria analysis here,
+
+actually listing the positive and the negative impacts across those four capitals.
+
+These guys that try to also encompass the out of way order.
+
+Again, up to you guys. You might want to have it in the back pocket to pull it out.
+
+It really does change the lens for how you look at things because rather than the four capitals, it actually has a hierarchy to those capitals.
+
+Why do I spur it in the middle encompassed by Tao, the natural capital, and then the human capital around that?
+
+Anyway, just something to review in your own time, and this one as well.
+
+So outlines across a different. This one was healthcare I believe.
+
+Yes it was around wait. Times a couple years ago. I think you can see again how they laid out before capitals highlighting a point here.
+
+Mobile clinics for decreasing wait times. A cost effective providing early interventions.
+
+But there may be variable demand. Hard to utilise those only that trucks can go in certain places and can only be accessed by certain people.
+
+Okay, so really these two are just for your own.
+
+Review your own revision to see how the context changes may change how you write up these different systems cases.
+
+But you have for the plastics case, you have that full systems report on canvas.
+
+You can have a look at this in your revision and have a look through those full cases.
+
+And to sum up everything that Juliette and I have said GDP, historically a good measure has been used as simple.
+
+Can be done can be comparable and and productivity as a key long term driver of well-being.
+
+But GDP doesn't capture everything. What about environmental costs?
+
+What about social well-being? Governments have limited resources.
+
+Trade offs need to be made. The Living Standards Framework can assess some of those wider benefits that the social CBA cannot capture.
+
+And New Zealand's long term economic challenge is improving productivity through higher value industries and thinking about medium,
+
+short term, long term impacts. You may want to consider those timelines as well.
+
+All right thanks guys. Any questions I'll take those. Otherwise that's it for this week.
+
+We'll catch up with you next week. Have a good weekend guys. GDP per capita divided by Gross National Happiness, then New Zealand.
+
