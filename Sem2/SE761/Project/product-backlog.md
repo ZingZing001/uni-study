@@ -23,12 +23,22 @@ tags: [se761, project, backlog, user-stories, epics]
 
 | Actor | Who | Interacts via |
 |---|---|---|
-| **Healthcare professional** | Doctor, medication specialist | Web portal |
-| **Caregiver** | Family member, or hospital/care staff | Web portal |
+| **Healthcare professional** | Doctor, medication specialist — enters medications and exercises | Web portal |
+| **Caregiver** | Family member, or hospital/care staff — monitors and helps the patient | Web portal |
 | **Admin** | System manager | Web portal |
-| **Patient** | Elderly person or child receiving care | Virtual agent (phone) |
-| **Virtual agent** | Phone/local machine acting as client — one per patient | API |
-| **CARE server** | External shared AI service (visual ID, other models) | API, outbound |
+| **Patient** | Elderly person or child receiving care. **Confirms medication taken / exercise done. Cannot self-register — the account is created for them.** | Phone client |
+| **Virtual agent** | Phone acting as the client, standing in for the future robot — one per patient | API |
+| **CARE server** | External shared AI hub. **Bidirectional:** we call it for visual ID; it retrieves data from us | API, in and out |
+
+> [!abstract] Clarifications confirmed with the PO, 12 Aug
+> - **Client vs portal:** phone client is the patient's confirmation interface; the web app is for professionals (entering medications/exercises) and caregivers (monitoring and assisting).
+> - **Platform:** responsive web app across phone and laptop is sufficient. Native Android only as a stretch, if time allows.
+> - **"Generic" means:** our system becomes part of the CARE ecosystem, and the **CARE hub must be able to retrieve data from our server layer**. See EP-6.
+> - **CARE availability:** provided later in the project. Mock first, always.
+> - **Patient accounts:** created by a caregiver or professional. Patients interact with existing data only.
+> - **Visual ID:** required, but **must have an alternative method** — it cannot be the only way in.
+> - **Exercise** follows the same remind → confirm → history flow as medication.
+> - **Out:** emotion and ageing models. Too advanced for this scope.
 
 ---
 
@@ -101,7 +111,8 @@ Format: `As a <role>, I want <capability> so that <benefit>.`
 
 | ID | Story | Pri | SP |
 |---|---|---|---|
-| **US-06** | As an **admin**, I want to register a new user account with an assigned role, so that only authorised people reach the system. | Must | |
+| **US-06** | As a **caregiver or professional**, I want to register my own account, so that I can start using the portal. | Must | |
+| **US-06a** | As a **caregiver or professional**, I want to create a patient account on the patient's behalf, so that someone who cannot self-register still gets care. | Must | |
 | **US-07** | As a **user of any role**, I want to log in with email and password, so that I can access data belonging to me. | Must | |
 | **US-08** | As a **user**, I want my session to expire and to be able to log out, so that an unattended device does not expose patient data. | Must | |
 | **US-09** | As an **admin**, I want role-based permissions enforced on every endpoint, so that a caregiver cannot read clinical data they have no right to. | Must | |
@@ -195,6 +206,7 @@ Format: `As a <role>, I want <capability> so that <benefit>.`
 | **US-41** | As a **patient**, I want to confirm that I have taken my medication, so that my caregiver knows I'm on track. | Must | |
 | **US-42** | As a **patient**, I want to say that I'm skipping or postponing a dose, so that the record is honest rather than silently empty. | Must | |
 | **US-43** | As a **patient**, I want the agent to check my face before it shows my care information, so that my health data isn't shown to whoever picks up the device. | Must | |
+| **US-43a** | As a **patient**, I want an alternative way to identify myself when the face check doesn't work, so that poor light, a bad camera or an outage never locks me out of my medication. | Must | |
 | **US-44** | As an **agent**, I want to report every interaction back to the server, so that the care team has a complete history. | Must | |
 | **US-45** | As a **patient**, I want reminders spoken aloud as well as shown, so that I don't have to read a small screen. | Should | |
 | **US-46** | As an **agent**, I want to queue reports while offline and send them when the network returns, so that a dropout doesn't lose a medication record. | Should | |
@@ -204,10 +216,13 @@ Format: `As a <role>, I want <capability> so that <benefit>.`
 > [!warning] Do not build verification into this epic
 > The PO chose a **trust-based** model deliberately — the patient self-confirms, and surveillance was rejected because people dislike being watched. The gap is closed socially by the caregiver (EP-7), not technically. A story that "proves" the pill was swallowed is a misunderstanding of the product.
 
-**Acceptance criteria — US-43**
+**Acceptance criteria — US-43 / US-43a**
 - Given a due event, when the agent activates, then it performs a visual ID check before any patient data is displayed.
-- Given the check fails, then no care information is shown and the attempt is logged.
-- Given the CARE service is unavailable, then the agent follows the agreed fallback (see US-50) rather than failing open.
+- Given the check fails or CARE is unavailable, then the patient is offered the alternative method rather than being locked out or let straight in.
+- Given both methods fail, then no care information is shown and the attempt is logged.
+
+> [!important] US-43a and US-50 are the same mechanism
+> The accessibility fallback the PO asked for *is* the outage fallback you need anyway. Build one path, use it for both. It also means no demo can be derailed by CARE being down.
 
 **Acceptance criteria — US-41**
 - Given a reminder is showing, when the patient confirms, then the event is marked taken with a timestamp and synced to the server.
@@ -224,9 +239,15 @@ Format: `As a <role>, I want <capability> so that <benefit>.`
 | **US-51** | As a **developer**, I want to call the real CARE endpoint for visual ID, so that identification uses the group's existing models rather than ours. | Must | |
 | **US-52** | As a **developer**, I want CARE calls logged with timing and outcome, so that we can show integration works and diagnose it when it doesn't. | Should | |
 | **US-53** | As a **developer**, I want the CARE integration covered by tests against the mock, so that our side stays correct regardless of their availability. | Should | |
+| **US-66** | As the **CARE hub**, I want to retrieve patient and adherence data from this system through a documented API, so that this project joins the CARE ecosystem rather than standing alone. | Must | |
+| **US-67** | As a **developer**, I want CARE's inbound access authenticated and scoped, so that an ecosystem integration is not an open door to patient data. | Must | |
+| **US-68** | As a **developer**, I want the outbound API contract published as a spec, so that Jay can build against it before the two systems ever meet. | Should | |
 
 > [!bug] The critical-path risk
 > The CARE server is still under development and owned outside the team. **US-49 must be done before US-51 is even planned.** No demo may depend on CARE being up.
+
+> [!warning] The integration runs both ways
+> US-66 to US-68 exist because "generic" turned out to mean *CARE retrieves data from us*, not just *we call CARE*. That is an inbound public-facing API with authentication, designed for a consumer we cannot see yet. **Ask Jay whether CARE expects a fixed schema or adapts to ours** — if it's fixed and we guess, this is rework late in the project.
 
 ---
 
@@ -304,8 +325,10 @@ State these in the proposal so the boundary is on the record:
 
 - Physical robot hardware integration — the PO replaced it with a phone/local machine
 - Building AI models — CARE provides them
+- **Emotion recognition and ageing models** — available on CARE, but confirmed too advanced for this scope
 - Merging with the group's existing user database — the PO deferred this
 - Any verification that medication was physically consumed — deliberately excluded
+- Patient self-registration — patient accounts are created by a caregiver or professional
 - Native iOS app — Apple approval and registration cost; responsive web accepted by the PO
 - Native Android app — stretch only, if the team has capacity
 
@@ -319,9 +342,14 @@ These stories cannot be finalised, and two of them may change the whole shape of
 |---|---|
 | Real, synthetic or anonymised patient data? Ethics obligations? | EP-2, EP-3, and possibly the entire data model |
 | Who hosts, and who pays? | US-61, US-63 — and these are Must |
-| CARE server interface and availability | US-51, US-52 |
+| Is the project confidential? | Whether Sprint Demos can be public |
+| **How does a reminder actually reach the patient?** In-app only means it fires solely while the page is open — which defeats reminding someone who forgets. Options: installable PWA + Web Push, native Android, or email/SMS delivery | US-39, US-40, US-48 — the core of EP-5 |
+| **Does CARE expect a fixed schema, or adapt to ours?** Ask Jay | US-66, US-68 |
+| CARE server interface and availability date | US-51, US-52, US-66 |
+| **Who approves a healthcare-professional account?** Self-registration plus a role claim is an open door to clinical data | US-06, US-09 |
 | Exactly how the three role views differ | US-28, US-30, US-31 |
 | Missed-dose policy — record only, or alert? | US-55, US-57 |
+| What the alternative to visual ID should be — PIN, caregiver assist, or device trust | US-43a, US-50 |
 
 ---
 
