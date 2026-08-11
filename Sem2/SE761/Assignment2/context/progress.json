@@ -32,7 +32,7 @@
     "Merely repeating definitions of Agile and Scrum",
     "Exceeding 900 words (penalties apply) or writing noticeably short"
   ],
-  "gen_ai_policy": "Should not be used for creating content, because it cannot reflect on your behalf. A declaration section still exists if used. OPPOSITE of A1.",
+  "gen_ai_policy": "Should not be used for creating content, because it cannot reflect on your behalf. Unlike A1 and A3, A2 has NO declaration section - there is no disclosure mechanism. Brief also states the work must be your own and not to pass off ChatGPT content as your reflection. OPPOSITE of A1.",
   "late_penalties": "10% for 0-12h; 20% for 13-24h; 100% past 24h (Canvas quiz auto-closes)",
   "last_session": "2026-08-07T14:56:00+12:00",
   "sessions_count": 1,

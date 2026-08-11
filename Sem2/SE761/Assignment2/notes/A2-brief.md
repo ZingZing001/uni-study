@@ -79,7 +79,7 @@ The core question, in one sentence:
 > [!danger] 2. Using ChatGPT for content — the reversal from A1
 > A1 **encouraged** it and gave **2 marks** for a declared reflection on use. **A2 says you shouldn't use it for creating your content**, because *"ChatGPT doesn't know your personal history and past experiences — therefore it [can't] reflect on your behalf."*
 >
-> There is still a declaration section if you did use it. See [[../../Assignment1/notes/A1-brief|A1]] for the contrast — **do not carry the A1 habit over.**
+> ⚠ **Unlike A1 and A3, A2 has no Gen AI declaration section** — there is no mechanism for disclosing use, because the brief's position is simply don't. See [[../../Assignment1/notes/A1-brief|A1]] for the contrast — **do not carry the A1 habit over.**
 
 > [!danger] 3. Repeating definitions
 > > *"The reader needs to be convinced that you have a deep understanding, and that **you aren't merely repeating definitions of Agile and Scrum**."*
