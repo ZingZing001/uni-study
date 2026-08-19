@@ -89,16 +89,19 @@ Our position, stated in the meeting: we will generate our own data, but we want 
 
 ---
 
-## 6. The scope ambiguity — flag this before writing the Project Proposal
+## 6. Scope — resolved
 
-> [!warning] Two descriptions of the end state, and they are not the same project
-> **Hoseok (11 Aug):** the existing university-hosted system is unreachable from outside, so we build a **new server** the group owns and can deploy freely.
->
-> **Cole (19 Aug):** ideally there would end up being **one central server** that both the robot and our app pull data from.
->
-> These may be the same thing — our new server *becomes* the central one — or they may be two different systems that need to reconcile. If it is the former, the existing robot app is eventually a client of what we build, which is a materially larger claim than "we build a web page and a phone client."
+> [!important] Settled
+> **We build a standalone server.** It must be designed so that it can communicate with the group's central hub **in the future**, but it is not that hub and does not depend on it to function.
 
-This belongs in the next PO conversation. The architecture diagram in the Project Proposal cannot be drawn honestly until it is settled.
+This reconciles the two accounts. Hoseok's "new server" and Cole's "one central server eventually" are the same trajectory seen from different distances: the hub is still under development, so we deliver something that stands on its own now and federates later.
+
+**Design consequences, and these are load-bearing:**
+
+- **Our system must run end to end with the hub absent.** No feature, and no demo, may require CARE or their existing server to be reachable. That includes the visual ID check.
+- **Integration goes behind a boundary.** All outbound calls to CARE or the hub sit behind one adapter with our own interface on our side of it, so their API changing — and it will, since it is being built concurrently — costs us one class rather than a refactor.
+- **Align the data model to theirs one-to-one where we reasonably can.** Future federation is cheap if the entities match and expensive if they do not. This is the real reason to want their schema (§5), independent of mock data.
+- **The Project Proposal architecture diagram** shows our system as self-contained, with the hub drawn as an external system across a clearly marked integration boundary. That is now drawable.
 
 ---
 
@@ -124,7 +127,7 @@ Practical consequence: Cole is a useful **technical** contact for how the existi
 |---|---|---|---|
 | 1 | Contact **Finn and Jay** — CARE server API contract: endpoints, headers, body format, JSON schema, what exists today | TBC | This week |
 | 2 | Request the **existing server's data schema** from Cole or Finn so our mock data matches one-to-one | TBC | This week |
-| 3 | Resolve the **central-server ambiguity** with Hoseok before the architecture diagram is drawn | Jamuna | Before proposal |
+| 3 | ~~Resolve the central-server ambiguity~~ **Resolved: standalone server, hub-compatible in future.** Draw the architecture with the hub as an external system behind an integration boundary | Johnson | Project Proposal |
 | 4 | Ask Hoseok whether a **universal patient ID** exists or is expected | Team | Next PO contact |
 | 5 | Add **missed-dose handling** to the Product Backlog as a candidate story with acceptance criteria | Johnson | Sprint planning |
 | 6 | Reflect the full domain (medication, exercise, appointments, cognitive activities) in the use case diagram, with our scope marked explicitly | Team | Project Proposal |
