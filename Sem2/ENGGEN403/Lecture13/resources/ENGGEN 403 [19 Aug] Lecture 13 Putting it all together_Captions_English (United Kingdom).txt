@@ -1,0 +1,819 @@
+[Auto-generated transcript. Edits may have been applied for clarity.]
+Good to see you all. We've made it to week five. Thanks for coming.
+
+We've got a slight technical hitch with the slides and the lecturer who is going to be here very shortly.
+
+So Peter Ricker is on his way. Um, I'll just talk you through what week five is all about while we're waiting.
+
+So on Friday, if we work backwards, we're going to do the big reveal and tell you what is in the team project, which you will be doing in week six.
+
+That will be Amanda and I will talk you through the project, the brief, and she will talk you through the nuts and bolts and the resources.
+
+One thing we found over the years in this course is that when people get to the team project,
+
+they suddenly discover a few things they wish they'd known before.
+
+One of which is who's in their team, what their names are, who's good at what, and how that team's going to function.
+
+So what we're going to do on Thursday is, um, put you in your teams in a compulsory session.
+
+Some of us will be downstairs, others will be in other rooms. You will need to arrive, find your team, gather, introduce yourself.
+
+And the main point of the exercise is to get you talking to each other and figure out how your team's going to work.
+
+And before we do that, Peter is going to talk you through some tips, some things we've learned from past years,
+
+some ways to get you on the road and ready to do that workshop on Thursday.
+
+So with perfect timing, here's Peter Tato, thank you very much.
+
+Juliet are. Okay.
+
+We just wait for the projector to come up. Uh, first of all, I'm sure everyone will recall I'm Peter.
+
+You would know me from 303. Uh, and so I am back to help out a bit on this course as well.
+
+Uh, so. We'll just get the projectors going.
+
+I've learned we shouldn't mess with it because it kind of does its cycle.
+
+So that's just. Great.
+
+So as Juliet said, we're going to give you kind of some, uh, let's call it pro tips related to the project.
+
+Okay. And this will give you a bit of background in terms of what's worked in the past
+
+and some of the things that will be helpful as you move into the projects.
+
+Um, I won't go through those in detail. Obviously, they're on canvas.
+
+Uh, but what we want to cover today is, um, first of all, the the goals for the project understanding.
+
+Again, just a reminder of what we mean by a wicked problem identifying the team capabilities in scale for the project,
+
+overlaying the problem to the team. That's one of the key things.
+
+And kind of builds on the comment that Juliet was just making of really understanding sort of who's
+
+going to be focussed on what and who can actually bring value to specific aspects of the team project.
+
+Okay. We want to also make sure everyone's clear the difference between systems research.
+
+So you'll actually be undertaking a good understanding of many of the systems that kind of operate
+
+within the context of the problem that you are addressing or the challenge that that you've been given.
+
+Uh, versus scholarly research. Everyone obviously is doing part four projects.
+
+Uh, and so we just want to make sure everyone's clear on on what's a little bit different about these and how to leverage,
+
+uh, each in the right context.
+
+And then some of the goals of the research that you'll be doing around that, the tools that we've taught you throughout the semester thus far.
+
+And I would just kind of wrap up, okay, so in terms of the goals, and if you recall from 3 to 3, I'm not a big fan of just like reading text okay.
+
+So I'm not going to do this. I'm going to pick out a few key aspects of this.
+
+But when we do this project, remember this is called the team project.
+
+And that's called that for a reason. Because the real focus of this project within the course is to help you develop an understanding of how
+
+to apply the resources of a team in the collective wisdom and expertise of a team against a project.
+
+And that's really the main thing that we're doing with this project.
+
+Okay, so what we're what we're kind of wrapping around that are some of the tools that we have been teaching thus far in the semester,
+
+and how those help you to address a so-called systems project?
+
+Okay. We actually used to call this, and I noticed that sometimes in the questions that still comes up, we used to call this the Mini Systems project.
+
+Okay. And because it is a somewhat more limited scale, but it's really important that you think of it as the team project,
+
+because although it does do some of the things that we'll do at larger scale in the week long systems project,
+
+the main thing is to help you to do that as a very large team, 35 or so folks.
+
+And also then to just help you think about this in the context of a wicked problem.
+
+So again. 303 remember this?
+
+This was the thing I left no doubt on this. Okay. The double diamonds thing.
+
+I'm sure you've probably tried to like repress that from your 3 or 3 memories, but it's back because fundamentally,
+
+what we do in this project is, is the same at a high level because we still have a problem space and a solution space.
+
+So our problem space in this case is assigned. You're actually going to get the brief on Friday.
+
+This is the project that you have been asked to undertake and to come up with a recommendation for.
+
+Okay. So that's the key difference in 303, where you identified a problem that you wanted to address.
+
+And then you work through some possible solutions and ultimately all the aspects of of moving that solution into into fruition, into execution.
+
+So we're doing something very similar. It's just that the problem space is far more complex.
+
+Okay. And the solution space is also complex.
+
+But it's even more important than that. You understand the problem.
+
+Okay. So with that context of the double diamonds, the basics that we looked at in 303 last year, we shift gears to this wicked problem.
+
+And this is something that Mark talked about.
+
+So when we talk about a wicked problem is where we're really looking at the complexity uncertainty and and the,
+
+the the difference between what stakeholders are hoping for in terms of outcomes.
+
+There's limited resources. Different stakeholders have different views.
+
+Different stakeholders have different needs. And so when those things collide, that's what gives us a wicked problem.
+
+And that's the key difference in terms of of systems thinking versus the 3003 course we did last year.
+
+Okay. You can also look at this in the context of of this diagram.
+
+And if we look at it and again, if you think about some of the things that some teams did last year and 3 or 3,
+
+you identified a problem, like for instance, um,
+
+managing your studies, you might have looked at a problem around composting,
+
+you might have looked at a problem around trying to find internships, things like that.
+
+Those are all things that that teams worked on, okay. And those who are certainly important and some excellent work came out of that.
+
+But those were relatively we say team problems.
+
+Okay. Pretty clear problem, uh, constrained set of solutions.
+
+You chose one of those solutions and then you executed against that.
+
+So as we move forward on both axes of this diagram, We get to the point of of a very wicked problem, right?
+
+And some are more wicked than others, but all of them are pretty gnarly.
+
+And so the one that will be reviewing with you on Friday is a wicked problem that we're
+
+asking you to really kind of delve into understanding and then to look at recommendations.
+
+Okay. Again, this is from from some of Mark's previous lectures.
+
+So you want to not lose sight of the fact that we're talking about systems of systems okay.
+
+And so the problem will exist in the context of a range of systems that that you have to navigate in terms of developing an understanding.
+
+And ultimately then you will have to understand how each of those systems is set up in terms of looking at your solutions or recommendations.
+
+Also, we use this term solutions. But in fact, particularly when we look at a wicked problem really probably a better.
+
+A better description is to say it's an intervention because we're very unlikely to solve a wicked problem.
+
+We're only able to influence it or to shift it in an attempt to have an impact that's positive.
+
+Okay. So some of the things that we have looked at so far in terms of being able to
+
+better understand systems problem are are tools like these the iceberg model.
+
+I'll flip through some of these here in just a minute.
+
+Uh, so-called levels of thinking, trend maps and systems models, conceptual ones and computational ones.
+
+Okay. And so this list and some of the other things I'm going to review, the intention of these is to create kind of a,
+
+let's call it a compendium or let's call it a resource toolkit of things for you to be able to use as you undertake the team project.
+
+Okay. And so one of the things that Mark emphasised, and I want to reemphasize is that, oh, sorry.
+
+And then and then those bits as well. Uh, and I want to reemphasize is that systems thinking tools are not such that they are purely computational.
+
+So, you know, get in a bunch of data, you plug it in, you take that response, you put it in.
+
+The next thing you do that you do the next step, you do the next step, and out comes the answer.
+
+Not at all like that. Okay. This is something we've been emphasising for the whole semester,
+
+but these are things that you can use to better understand the situation and to contemplate choices.
+
+But but it's not something that's going to give you the answer. That's what.
+
+Your. Your opportunity. What? Your job is within the project itself.
+
+Okay. And and it's where we talk about developing your so-called critical thinking, your systems thinking.
+
+Uh,
+
+and it's really that challenge that we want you to take on by looking at what's going on and then using some of these tools to better understand it.
+
+Okay. And so again, I won't read through this, but um, it's a little bit of a reference sheet.
+
+Comes from one of Mark's, uh, lectures. And these are some of the questions that you should be applying to the brief that will give you.
+
+And then think about what tools might help you to better answer some of these questions.
+
+Okay. Uh, again, that's that's some of, of those tools I want to get to some of these.
+
+Okay. Um, so when we think about the so-called iceberg model, and in some cases this is referred to as the ambulance at the bottom of the cliff.
+
+Right. We see things happening in terms of let's say, for instance, in terms of climate change, we see things happening in our medical system,
+
+we see things happening economically and we think, oh, wow, that's like, we've got to do something about that.
+
+So the iceberg model is really just a way of understanding the various levels at which
+
+things can be operating that are contributing to what we're seeing on the surface.
+
+And so it's those events that we're trying to in some cases,
+
+let's call it reverse engineer to to actually work backwards to figure out why are these happening?
+
+Okay. Similarly, if we look at these, you know, ways of understanding things,
+
+we want to be able to look at the various levels of, um, of interaction in terms of how.
+
+Uh, some of these might be impacting the problem. Okay. So you can refer back to the lectures.
+
+There's actually resource material both in the lectures as well as some that will give you, uh, specific to the project.
+
+But these are the things that, that you want your team members who are going to drill down on this to be using.
+
+Okay. Because these are, for one thing, these are the things that we want to see back in the deliverables.
+
+Uh, to just demonstrate that you've actually thought about it on this level and that you've used some of these tools,
+
+but also importantly, it's these tools that can give you a more sophisticated, a more thought out, a more compelling recommendation.
+
+And in, you know, virtually all of the work that you're likely to do in the future, you'll be faced with these types of things.
+
+This could take place within consultancies.
+
+It could take place within corporations, could take place on a large infrastructure project in a software system.
+
+So all of these are things that you'll see again in.
+
+The goal is obviously to prepare you for those sorts of roles. Uh, one of the things that Mark has reviewed is this so-called leverage points.
+
+And this becomes very important in these projects as you look at possible solutions,
+
+because you can look at how much of a of a impact you might be able to have through a particular recommendation.
+
+So think about how you could apply this and how you can actually come up with
+
+interventions that are likely to have a significant amount of leverage okay.
+
+Similarly the causal loops. And so again it's it's to actually look at a situation and have part of your team create some of these types of diagrams.
+
+Okay. Now there's no again, there's no exact right way.
+
+You want to just. And I've had teams where they literally, you know, have a big piece of paper on the wall and everybody starts,
+
+you know, kind of contributing and then looking at interfaces in between them.
+
+And generally the messier the better.
+
+You know, these things start out really kind of messy.
+
+And you might, over time, uh, kind of recreate a small part of that to use within, within your deliverable.
+
+Or you might actually put it in an appendix. But in the beginning, these tools are intended to be really pretty messy.
+
+There's there's some of the the messiness. Okay.
+
+And so why why do all this Why have we spent the first four weeks of the semester teaching you all these bits?
+
+And there's even been comments of like, oh, hey, is this relevant? Like, am I going to use this?
+
+Okay, well, we think you will. Okay.
+
+And we do have students who have come back after long periods of time and tell us about the way in which all all of the interesting courses,
+
+but 4 or 3 particularly has contributed to the work that they've done out in the field.
+
+So. So we believe there is a significant amount of value to this.
+
+And so think about these tools in terms of understanding the wicked problems.
+
+Uh, also in terms of contributing to systems thinking,
+
+understanding the interconnectivity and really being able to map out the system using some of these tools, identifying stakeholders.
+
+Again, in 303 you identified stakeholders, but it was a fairly straightforward, uh, set of stakeholders.
+
+and and the key stakeholder in the 303 context is the user or the customer.
+
+Okay. There are also situations maybe around regulation.
+
+I had one team that did a kind of a shared driving sort of video, so they had to look at regulation around that.
+
+But the key focus was around the customer was around the business models.
+
+So what we're doing here is the stakeholders will be much, much more complex.
+
+And so it's important to really map those in a way that that captures that complexity.
+
+Okay. And then ultimately, and this is really the key takeaway of these projects is to develop recommendations.
+
+And this is very much, again, the sorts of things you're likely to see in the future.
+
+The government actually just announced yesterday this some somewhat controversial
+
+plan to delay moving forward with a particular solution for the Harbour Bridge.
+
+Okay. And the reason, if you watch the announcement, I'm not sure how many of you watch these things.
+
+Okay. But, uh, the, uh, transportation minister, uh, talked about, uh, that this is a 50 to 100 year decision for New Zealand.
+
+Okay. And will be the largest infrastructure investment in the history of the country.
+
+Okay. So that's a particularly wicked, wicked problem influencing the economy.
+
+And, uh, you know, people's ability to commute, uh, how much economic activity we have.
+
+But any wicked problem that you look at has a subset of those sorts of challenges.
+
+These are things that are going to have a huge impact on how we live and work and really represent our values in terms of New Zealand as a country.
+
+So so that's the type of lens that you want to take to any systems brief that you would receive.
+
+Okay. It's also important not to forget, uh, one of the things that we talked about is why systems work.
+
+And if you, if you read the Meadows material, which were you were meant to read the first couple chapters,
+
+but if you read the whole Meadows thing or even,
+
+you know, go more deeply into that book, one of the interesting things is that she talks about why systems work.
+
+And so, you know, when we think, wow, it's really messed up that, uh, the health care system is, um, just consistently over capacity.
+
+Several of the hospitals have hit all time record.
+
+Uh, um, I was going to say highs,
+
+but I guess you would consider them kind of lows in terms of patient populations presenting at the EDS in the last couple of weeks.
+
+Okay. And so that's what we're seeing. But in fact, the system has built up over time and actually on some level works for some of the people.
+
+And so when we talk about actually making changes, we have to keep in mind that,
+
+in fact, this is the accumulation of things that some people consider to be working.
+
+Some stakeholder groups are actually happy with the outcomes. The patient's not being one of them in that case.
+
+So, uh, don't don't walk into the examination of a system saying, oh, wow, it's a mess and it's broken for everyone.
+
+It's probably only broken for some of its stakeholders.
+
+So that's something that you want to keep in mind because you're trying to change something that is inherently,
+
+uh, um, operating in a way that's been, we say, self-organized.
+
+That's actually sort of the accumulation of things that people have been doing for a very long time.
+
+Okay. Also, Juliet, uh, spent a lot of time talking about the policy process,
+
+because virtually any systems challenge that we're giving you has a policy element to it.
+
+Okay. These are essentially problems that impact the government as well as perhaps some business and society within the country.
+
+Okay. Virtually all systems challenges are going to have that kind of a flavour to them.
+
+And so one aspect of it, a key aspect, is the policy aspect and Juliet spent time on, as she calls it, the machinery of government.
+
+And think about how can your recommendation navigate that system.
+
+Also think about where do you actually collect input to be able to come up with recommendations that are going
+
+to be effective and are going to actually bring the sorts of benefits to stakeholders that you're hoping to.
+
+Okay. So that's a little bit of a kind of, uh, I'll say preamble and review of the things that we've been covering now.
+
+And what I wanted to do there was to just kind of bring back to your thinking, uh, those are the bits that you want to put into practice.
+
+Okay. This course is about teaching you things that you can then put into practice to prepare you for the future.
+
+So those are the things that you want to kind of pick from. That's sort of the cookbook.
+
+Uh, so the type of challenge that we will be, I'll say unveiling on Friday, uh, is,
+
+is along these lines, these are actually, uh, previous team projects, okay, from various years.
+
+And one was actually many people will be aware that, uh, New Zealand actually, uh,
+
+ultimately chose to allow for the America's Cup to be run, uh, in Spain the last time round in Italy for the upcoming one.
+
+even though we were the so-called challenger of record. Even though we won.
+
+In fact, it did not ultimately make sense, particularly economically and on a number of other levels,
+
+for us to defend the America's Cup in New Zealand.
+
+Okay. That's a that's a pretty, um, significant and, uh, in some ways, um,
+
+disappointing outcome for something that New Zealand has actually defended quite successfully for a very long time.
+
+So won the team challenge for that particular year was to, uh,
+
+ask student groups to think about how can we actually bring the America's Cup back to New Zealand?
+
+Okay. And all the teams came up with a whole range of possibilities.
+
+Uh, last year we looked at addressing the invasion of exotic.
+
+I'm saying you're wrong. Okay. So this this is the type of thing that we're going to be giving you.
+
+Okay. And so that's the sort of thing that you should be prepared for also.
+
+And I'll probably get spanked by Amanda for this.
+
+But um, we're giving you just a little preview of what the kind of, uh, brief for this project looks like.
+
+Okay. And so this is the, uh, you know, kind of the table of contents from a previous deliverable.
+
+And so these are the sorts of elements that we're going to ask you to look at in your team, uh, for the challenge that we're going to be assigning.
+
+Okay. And so the intention is to take that, take the, um, wicked problem and understand it,
+
+and then ultimately come up with recommendations that capture each of these areas.
+
+Okay. And and so that's what you'll be doing with your quite large teams over a pretty short amount of time.
+
+The team project is intended to take about eight hours.
+
+And so you'll have to figure out how do you divide up this challenge in a way that will actually be effective?
+
+Okay. And to really limit the scope to the time that you have.
+
+Okay. This is just I think I missed I might have missed a couple of names here.
+
+Apologies for that. Huh. So what what you will need to do I put all kinds of little white things there, but okay,
+
+what you'll what you'll need to do is to think about how do you structure your team, how do you divide up all the things that you need to focus on.
+
+And there's no right way to do this. Well, actually post some other examples, anonymized, of the way people have organised their team.
+
+Okay. And so this is this is just one team.
+
+And they chose to divide it up by the various what we call cases strategic case and economic case.
+
+And then what they call the editorial team. And those are basically people doing the writing, the editing.
+
+So strategic and economic.
+
+Those people are doing a lot of research, and the editorial team is doing a lot of the writing, proofreading, developing diagrams, things like that.
+
+Okay. Now that's just one way that people structure teams.
+
+Literally most years, no two teams are the same.
+
+And we've had teams where people break it up by, say, research and editing and quality control.
+
+So there's no right way to structure your team. But again, this being the team project,
+
+the intention is for you to take take the work that needs to be done and divide it up and you'll have a limited amount of time to do that, of course.
+
+So when you actually meet your team on Thursday, and I know most teams have actually connected digitally prior to now,
+
+but when you meet your team on Thursday, you'll actually work through how you want to set up that structure, okay.
+
+And it's really important that you do that on Thursday so that you don't spend a lot of time on that once you actually get the brief,
+
+and then we'll actually give you some tools and exercises and stuff to help do that.
+
+But don't be constrained by any particular approach to how the team is structured.
+
+I actually I recall student is probably six or so years ago now, and he came to talk to me on assistance program and he said,
+
+you know, I never thought I would be in a situation where I had too much resource.
+
+And he said one of the biggest challenges was figuring out how to properly
+
+divide the work so that you could leverage everyone's expertise and bandwidth,
+
+uh, without actually just counting on a handful of people.
+
+And because, you know, most student projects you all have done up to this point in your academic career are relatively small groups.
+
+Okay. So part of the challenge is how are you going to use all these people effectively?
+
+So that's the thing that you really want to think about together as a team on Thursday.
+
+Okay. And then you'll also want to think about how are you going to communicate things like that.
+
+One thing that can be a little bit of a, um,
+
+I'll say a little bit of a learning experience for students is let's say that you have part of your team working on understanding the problem.
+
+Okay. If you recall, in 303, generally, any time you were looking at something that substantial, the whole team was doing it.
+
+So I was like, okay, hey, we're going to like get on the whiteboard and we're going to look at the problem.
+
+You may not be able to do that with a team this large and a task this big in the amount of time that you have available.
+
+Okay. So you actually may have a subset of your team develop an understanding of the problem.
+
+And you then have to communicate that to the rest of the team.
+
+And, and people will have had perhaps limited opportunity to give their own input to the understanding of the problem.
+
+And by the way, it's not at all uncommon that that would be the case.
+
+In fact, I would say it is common that in the work you will do in the future, you will be doing just one small piece of it,
+
+and you really have to count on a good communication about what other people have done and and what assumptions you're starting with.
+
+So be really clear about how you're going to do that. First, how do you divide things up, but how are you going to communicate it.
+
+And then you pretty much run from what you're given. You don't get to say, oh wait, hey, that's actually kind of lame.
+
+I don't think we should do it that way. No, there's just not enough time for that.
+
+And also, that's not the way these kinds of projects work.
+
+You have to take as a given that your Team-mates have done good work in other parts of the project.
+
+The other thing that can be a learning experience for students is the management of these types of projects.
+
+And so one of the things we're used to doing, not me so much anymore, but as young people are used to both doing the work and managing the work, okay.
+
+Because that's the way things operate when you're doing a group project in a university course.
+
+Uh, that's. That may not be what you want to do in this project.
+
+Okay. Just managing a large group of people is itself a very substantial body of work.
+
+Okay. And so I've seen situations where students try to actually do the work.
+
+Someone's like, well, I'm going to rewrite this. I don't like this.
+
+I'm going to rewrite this. And we've had team leaders actually like, oh, hey, I'm going to stay up.
+
+The one guy actually, he has a really good job with Apple now. And he literally stayed up all night.
+
+And it's like, whoa. Like you didn't need to do that.
+
+You know, leverage your team and and get other people to help you, you know, put in some editing processes.
+
+Now, um, that may be true further down the food chain as well.
+
+So if you're actually dividing up different groups of people with different responsibilities, even the person leading that team.
+
+Uh, May you know that that that may be a significant amount of work,
+
+and they might be limited on what they can contribute personally to the the actual detail of the project.
+
+Okay. So be sure to balance those things. And again, that's a big part of what we want you to take away from this is how can you do those things now?
+
+Um, this rarely happens without some small amount of drama, sometimes big amounts of drama.
+
+Okay. Uh, part partly. What we want you to learn is how to navigate that drama.
+
+And so figuring out, for instance, uh, you know, who's who's going to do how much work and what do you do if someone gets bogged down?
+
+What if you do if someone's unwell? Uh, what if someone thinks they should be leading the team, but they just didn't happen to get that that role.
+
+Everyone has to contribute to something that will be inherently imperfect, and that will be true again pretty much the rest of your life.
+
+Okay, so so you'll want to think about how to navigate through those things.
+
+And and it's good. You know, you will have in 204 and 303 done these team charters.
+
+And it's one of the things that we sometimes get pushback on from students like, oh, well, this is like really boring.
+
+Why are we doing this again? And the answer to that is in part to prepare you for when you get to this point,
+
+uh, within the, um, within the interesting courses that you've actually had,
+
+that structure, that you've determined how you're going to handle any conflict,
+
+how you can actually handle, you know, the effective management of projects like this.
+
+Okay. So very important that you, you set up the the team to do that.
+
+Okay. So once you figured out your team what happens next?
+
+Okay. Again. Remember that double diamonds. So the beginning of that is the discovery and understanding.
+
+The same is true in in a systems based project.
+
+It's just going to be more complex and carried out in a different way.
+
+So the starting point is you want to understand that problem in the systems within it,
+
+within which it sits, so that you can create problem statements.
+
+And again, one of the things that that sometimes happens is people lose, um, the kind of foundation on which 403 is built.
+
+Okay. The foundation created in 204 and 303.
+
+And of course, just your own work that you undertake in other discipline courses using some of these same, uh, lessons that you've been taught.
+
+So don't forget those things. You still want to follow through and, and figure out how you're going to structure things,
+
+and you're going to actually come up with problem statements. Your most people will approach this with a how might we statement.
+
+You want to have a structure for ideation. Remember, what we did in ideation is that we actually taught a similar course in arts this morning.
+
+And we talked about innovation as a team sport. And that's very important when you get to this ideation stage,
+
+what you have to work out is what part of your team is actually going to be involved in the solution.
+
+Diamond. In other words, how are you going to do ideation? Okay.
+
+Now ideally that is done in person.
+
+That may not be possible given the context we're giving you, which is, you know, relatively short amount of time.
+
+A lot of people, we're not giving you any rooms. Hopefully you can find someplace to hang out.
+
+So you might need to use some digital tools,
+
+but you want to figure out who's contributing to potential solutions or interventions because it probably isn't,
+
+or it might be very difficult for it to be everyone. Okay.
+
+Don't get lost by over complicating the process of mixing the problem and solution space.
+
+Again, people can can kind of get into this. These are these are very, um, kind of gnarly, wicked problems.
+
+And so people will be like, oh yeah, maybe we just kind of like that.
+
+Doesn't that kind of go with that?
+
+And and you want to actually figure out what sits where and to actually put that structure and overlay that structure on,
+
+on, on the challenge that we're giving you to really carve out the problem space before getting into solutions.
+
+Okay. I kind of mentioned this already is be sure you've determined who and how within the team the problem will be understood.
+
+Okay. What kind of communications do you have?
+
+Uh, who's going to be responsible for, you know, whether you're doing that on teams or slack or whatever you're using, uh, discord.
+
+How are you actually going to get that information out real time?
+
+Because you have a pretty short amount of time and these things are somewhat sequential.
+
+So you have to figure out, okay, uh, by when is is, uh, one activity finished?
+
+Uh, what gets communicated? You're going to have to have kind of a lockdown, uh, date or time.
+
+You know, you're going to have to be like, okay, well, as of that point, we're not changing that any further.
+
+And therefore we're going to get these folks the next period of time.
+
+Uh, as you do research for this, and we'll actually give you some research resources, okay.
+
+Like everything. And we always emphasise this. Don't just take the list we give you and say, okay, we're good.
+
+Uh, all of you at this point will be pretty experienced as researchers.
+
+You're doing that in your part four projects you're doing it, I'm sure in heaps of courses you're doing things on on gen AI.
+
+You're doing things the old fashioned way.
+
+I doubt it even goes to the library or anything like that anymore, but you can still access the databases and stuff through the library's website.
+
+So think about what tools you're going to use to do this.
+
+Systems mapping okay. And to identify the key components.
+
+I won't I won't beat that up too much. But um, and again, uh, this is something that we've talked about before is these connected circles,
+
+understand kind of what, uh, what's connected to what else?
+
+Uh, I think the key facts here are, uh, to make sure you uncover those interconnected aspects of the wicked problem.
+
+Um, manage the stakeholders with conflicting requirements. Again, we've, uh, Taught these tools both in 303 and in 403.
+
+But think about how you're going to understand the requirements of the various stakeholders, and then to explore existing and potential solutions.
+
+Of course, you don't want to just jump to solutions. You want to look at a range of things.
+
+And we'll look at some examples here. Okay.
+
+Remember that. So when we talk about systems research okay.
+
+That is in terms of understanding how things are organised.
+
+Remember what Marx talked about what a system is.
+
+And so when you're doing systems research you're looking at for instance how is something regulated by a government department?
+
+Uh, what industries are impacted by the wicked problem that's been identified?
+
+Uh, how do those industries operate? How many jobs do they have?
+
+Uh, what kind of exports do they have? Things like that.
+
+So that's very different than scholarly research.
+
+Which is which is more discipline oriented, which is about actually figuring out what what specifically might,
+
+might benefit you in terms of doing things, let's say, the right way.
+
+Okay. You can use AI tools,
+
+but you need to disclose those and obviously do that within the context of the of the policies that we've already outlined in that are on canvas.
+
+Okay. Um, one tool is mind mapping. And again, this is something that you should consider as a starting point to the work within your group.
+
+My mapping is a great way to understand a problem.
+
+Okay. This is actually from a team's previous team's Deliverable and they called this a systems thinking diagram.
+
+Okay. And in this case, what it really does is it integrates some aspects of mind mapping and causal loops.
+
+Okay. All good. Remember the systems thinking tools are for you.
+
+And so what they did here was a little bit non-standard, but it actually helped them to get to the solution.
+
+This team actually did extremely well to uh it helped them to get to where they needed to be.
+
+So don't try to take these tools too much as some absolutes.
+
+You know, the goal is to be able to use them in ways that help what you're doing.
+
+Okay. Uh, hang on here, I think I, uh, yeah.
+
+Same thing. Uh, for instance, this one looked at this balancing a reinforcing loop.
+
+Uh, that's again, the sorts of things you want to do.
+
+But again, thinking back to 303 in terms of coming up with options, okay, just like we did when we did in 303.
+
+We're going to come up with, you know, we tend to refer to it in this course as a long list of options.
+
+Okay. What are what are all the many things that you could do, including the crazy ones.
+
+And so ultimately, once you get that long list, uh, you want to think about, first of all, for the stakeholders, what are their, uh,
+
+what what are their key, uh, drivers, their key, um, outcomes that they're looking for and to look at these in terms of necessary.
+
+Nice to have same. Same as we did in 303. But you're going to actually evaluate those options using the DFV.
+
+And also what we've introduced in this course is the critical success factors.
+
+Okay. And then uh in this case they looked at that against the problem statements that they'd come up with,
+
+and then they determined whether or not it's going to make it to the short list.
+
+Now, this is the methodology they chose, but you want to come up with a methodology that works for you that drives to this outcome.
+
+Okay. Stakeholders. Again, this is actually from one of the reports.
+
+You want to make sure that the stakeholders are captured and you have the appropriate ones.
+
+Uh, a key thing that you wouldn't have been exposed to previously.
+
+Mark has mentioned this a little bit in his lectures is what we call packages.
+
+Okay. Uh, you know, the work that we did in 303. You choose a path forward.
+
+You choose a solution, and you run with that.
+
+Okay. In the case of a systems project, you may come up with a package of solutions.
+
+So in other words, you might use part of what you identified as a good intervention in 1 in 1 space or towards one problem statement.
+
+And then you might identify another part of a separate intervention and you might combine them.
+
+Okay. That's what we mean by packages. So be sure to consider that possibility.
+
+Okay. That was a bit of a whirlwind.
+
+So lots of information. Again the intention of this is one a very quick review of some of the things that we've covered up to now,
+
+and just how to use those as a toolkit on the project.
+
+Uh, as well as kind of some of the key steps you're going to take when you first put your team together and when you get the brief on Friday.
+
+So just to summarise, remember that you want to understand that system, system being the elements, relationships and purpose.
+
+Uh, really important in terms of of taking on the challenge.
+
+Uh, keep in mind that this is this is a problem with a certain amount of complexity and so-called wickedness, uh, that it's not just an algorithm.
+
+You're not just going to go through the steps and be like, oh, yeah, hey, we're done.
+
+Uh, you're going to have to do quite a lot more thinking and, um, and synthesis on the group's part and, uh,
+
+that basically systems thinking is a broader understanding, uh, to support critical, critical thinking and proposing of interventions and solutions.
+
+Okay. Uh, any questions in the few minutes we have left?
+
+No. Like that much information. No one even has one question. Okay, well, if if there are no questions.
+
+And if you do have a question, of course. Come on down and see me. Uh, otherwise, uh, plan to rock up Thursday again.
+
+Thursday is when you'll actually meet in person your groups.
+
+Be sure to check the information in the campus announcement in terms of just you know, who's going where, when.
+
+Because that is a bit of a logistic. You know, there's a lot of you, so be sure you understand where you're meant to go to.
+
+So that will be on Thursday. And then on Friday is when will actually review the brief.
+
+All right. Thanks very much. And we look forward to doing this project with you next week.
+
