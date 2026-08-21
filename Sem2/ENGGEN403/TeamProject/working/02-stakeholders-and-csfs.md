@@ -13,8 +13,9 @@
 **Method:** ☐ Power/interest ☐ Salience (power / legitimacy / urgency) ☐ Both
 
 | Stakeholder | Power | Legitimacy | Urgency | Category | Key? |
-|---|---|---|---|---|---|
-| | | | | | |
+| ----------- | ----- | ---------- | ------- | -------- | ---- |
+|             |       |            |         |          |      |
+|             |       |            |         |          |      |
 
 **Key stakeholders (justify why each is key):**
 
