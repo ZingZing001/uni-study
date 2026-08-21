@@ -1,0 +1,981 @@
+[Auto-generated transcript. Edits may have been applied for clarity.]
+Hello, everyone. Can I have your attention, please? My name is Shaheen.
+
+I am a PhD student of engineering department and I'm doing a research about
+
+engineering students motivation and persistence with a focus on of gender equity.
+
+And we are we're hoping the findings could help to inform strategies to better support
+
+women engineering and also help with women's under-representation in engineering.
+
+Now we are piloting a question now that I really appreciate it.
+
+If you could scan the QR code and complete this survey, regardless of your gender, that your voice,
+
+your participation is valuable for us to continue the research and support the gender equity.
+
+And we also provide a few $100 vouchers as a thank gift and completed and got a chance to win it.
+
+Thank you so much for your assistance, and if you have any questions you can ask me, I'm still in the lecture room before it starts.
+
+Thank you so much. You're welcome.
+
+Welcome, guys. So today we are going to be looking at the machinery of government because lots of the recommendations and suggestions that you
+
+make in your team project and your systems project are going to need at some point to influence government decision making.
+
+And a lot of people think of the government as just a black box.
+
+People like to get grumpy about the government. Some people like to support the government.
+
+But unpicking the different parts of government is really important if you want to influence it.
+
+So you can think of the government as a system. It's certainly a system of systems.
+
+It's got lots of moving parts. It's hard to influence.
+
+There's lots of inputs, lots of outputs, and the connection between the two isn't necessarily clear.
+
+So today I'm going to try and demystify some of that for you, which should be directly helpful for your projects.
+
+And it'll also provide a backdrop to Thursday's lecture where we have our compulsory guest lecture.
+
+And you're really lucky that the chief science adviser to the National Emergency Management Agency is coming in person,
+
+and he's going to talk you through how everything I say today might change in an emergency and give you some examples of emergency,
+
+where he's actually had to provide the technical advice to government in real time.
+
+So the learning outcomes today are to make sure that you're really clear on the difference between central and local government,
+
+and understand just the basics of how decisions are made in government,
+
+because what we don't want is to find teams, projects that say governments should do this.
+
+Government is the stakeholder because government is much, much more complex than that.
+
+You can't just pull one lever mark government.
+
+You have to know which part of which ministry is advising which minister to advocate and cabinet to make which decision,
+
+and how those decisions might impact locally, and how local government might respond to them.
+
+To do that, we'll have a quick look at the policy process,
+
+which is the process that government departments use to provide advice to ministers on how and why you might change policy and after that,
+
+after it's been through the political machine, implement any changes that are approved by cabinet.
+
+It's quite complicated. Some people find it fascinating. Some people think they'd prefer it stayed as a black box.
+
+Either way, it will help you to get through your assessment without puzzling over exactly who you should be advising.
+
+What of when. And finally, we'll have a look at why change happens slowly, whether that's a good or a bad thing.
+
+And that will give you a nice baseline for Thursday, where you'll be in an emergency setting and things need to happen quickly.
+
+So we'll start with a quick look at Central Local. We'll answer the question, how are these decisions even made?
+
+We'll outline the policy process, and then we'll touch on this divide between what happens politically and what happens in the policy landscape,
+
+and how that might impact the pace of change.
+
+So just to put it out there up front, New Zealand has, which most of you will know both local government and central government,
+
+and many of the systems problems that we've been thinking about in this course cut across both.
+
+So if you think about plastics, if you think about food security, both of those,
+
+you need government at the central level to make some decisions, set some broad policy.
+
+But then you need something to happen on the ground.
+
+You need local government to enact those policies, to resource those policies, to do the recycling of the plastic, to resource the food banks,
+
+to make sure that there's food security,
+
+and there's often some tension between what's good for the whole country coming out of Wellington and what's good locally.
+
+So it might be good for central government to say, we've slashed budgets, we're saving money.
+
+It might be good for local government to say we're investing extra in local
+
+amenities like libraries and parks and cinemas or looking after our environment.
+
+And so you will hear if you follow the news.
+
+Often conflict and tension between local government and central government and the interface of those two systems,
+
+that's what you might call a boundary condition,
+
+is one that you have to navigate really carefully with good relationships and find what's good for everybody.
+
+So you'll hear people on the news say, what's good for Auckland is good for the country.
+
+You might agree or disagree with that, but you might find some things that are definitely good for both Auckland in the country.
+
+And it's likely then, that central government settings and local government settings might align.
+
+Now, I've given you a link here to local councils in New Zealand.
+
+It might be useful to look at it for your projects. It is the most confusing scramble, um, that I've ever looked at.
+
+I think in terms of trying to get a big picture impression of how local government works in New Zealand,
+
+you have regional councils, territorial authorities and unitary authorities.
+
+It's all a muddle, and it's a muddle that's in the middle of changing,
+
+because you might have heard that central government is pulling a lever saying, we want to simplify this.
+
+It's too complicated. Please don't worry about the details of those.
+
+I'm just giving you that link so that you're aware that there are lots of different local government structures.
+
+One size doesn't fit all. And while it might look a bit of a mess, it's important that local government fits its locality.
+
+So what you need as a governance structure for a massive city like Auckland is very different to what you might need in Kaipara or Nelson.
+
+And so what's happened is local government structures have evolved to suit their local environment, to serve their local people.
+
+And nationally, you look at it and go, oh my goodness, this is so complicated. Which is why central government is trying to simplify it.
+
+And again, local governments pushing back on that because they think they should decide how they organise themselves.
+
+So don't worry about the details. Just be aware that there are many complex details.
+
+And also be aware that in Auckland we have what's called a unitary authority with an elected mayor and the mayor chairs the council,
+
+and the council is made up of 21 local boards.
+
+So because Auckland is so huge, it's a super city because the parts of Auckland are so different.
+
+So I live in the central city. That's an urban environment.
+
+I spend a lot of time on Great Barrier Island. You could not get more different.
+
+One size doesn't fit all. So there's a local board for central Auckland and different parts of it, and there's a local board for Great Barrier Island.
+
+They advocate for really local issues feed back up to Auckland Council who makes that decision.
+
+So just as a quick one minute summary, this is why Auckland Council think we have a council.
+
+Why do we have a council Auckland Council is made up of people from different backgrounds
+
+who work together to make decisions to maintain and develop our growing city.
+
+We want Auckland to be enjoyed by all and future proofed, a place where everyone is valued.
+
+Our environment is looked after and our communities are supported.
+
+The council works together with the community to improve Auckland through bylaws and policies,
+
+and makes decisions in response to the needs of Aucklanders. It also manages hundreds of air services and facilities such as emergency management,
+
+planning and consents, pools, beaches and parks, public spaces, waste and water quality.
+
+Auckland Council's role is to manage and protect our entire region the city, its suburbs, rural areas, streams and coasts.
+
+The role of central government in Wellington is to make decisions and create laws for all of our terroir.
+
+Find out more at Auckland Council. So you'll see there the mention of central government almost as an afterthought.
+
+So that's from Auckland Council's perspective. The legislative framework they're working in.
+
+But it's all on the ground stuff. And you'll see lots of the things I mentioned, including emergency management.
+
+So in the Auckland floods a couple of years ago in January, you needed two responses.
+
+You needed a national response to liberate resources and get back up for the people on the ground.
+
+But you also needed a council response to get out there,
+
+mobilise the fire service and things like that to start rescuing people and to keep comms with Wellington going.
+
+And there was a lot of friction around that particular incident that you can look at online,
+
+which might be, um, good background for Tom's lecture on Thursday.
+
+Anyone know who this guy is? Yeah, yeah.
+
+Brown. He's obviously got a lot of name recognition. So Wayne Brown is our mayor and he chairs our council in Auckland.
+
+And I'm putting this up to give you a sense of the difference between elected officials and non-elected officials.
+
+So Wayne Brown, you've probably seen as socials, he was elected with a handsome majority.
+
+He's trying to get re-elected. He is there because people in Auckland vote him in.
+
+Only a small number of people bother to vote. But the ones that do voted for Wayne, he would like to be re-elected.
+
+Along with Wayne, 20 other councillors were elected.
+
+Now they don't all come from a particular party. Some form kind of alliances.
+
+Some are sponsored by National or Labour or Greens. Some of the national parties and a lot are independent.
+
+Um, there's no kind of party political structure as such in local government.
+
+So Wayne's job is to find a majority for the things he wants to get through council.
+
+So it's perfectly possible. And it's happened often that a mayor disagrees with all the other counsellors and can't get anything done.
+
+So to get things done in our democratic local governance system, you need to build those relationships and build consensus.
+
+So that's our governing body. Like I said, we have 21 local boards.
+
+That's a lot of people, 150 members. They are feeding in to the council who are making decisions that impact the regions.
+
+Now all of this is supported by the machinery of local government policy, planning and service delivery.
+
+So Auckland Council as an organisation, as opposed to a governing body, as a chief executive and a whole pile of staff,
+
+they're based down the road just off Altair Square and they are there to provide support and advice.
+
+So we might say, I want to build a swimming pool and your swimming pools just don't get built.
+
+What happens is he tells his chief executive, can you give me some advice on building a swimming pool and the advice comes back.
+
+This is where you could put it. This is how much it might cost. This is some surveys we've done to see if people would like it.
+
+And in that case it went through. And we have a pool down by the waterfront, which is great, which was his personal initiative.
+
+But to get it to happen, he needed advice from policy officials and council.
+
+He needed the support of at least half of these guys, and he needed support from the local board for that part of Auckland,
+
+and he needed to get the budget through and all those sorts of things.
+
+If in local elections, Wayne gets booted out and someone else gets voted in, these people tend to stay the same.
+
+So if the next mayor says, you know what, I want a swimming pool. We've got all that institutional knowledge already within the council.
+
+These are not political appointments. They are there to serve the officials of the day.
+
+And there's a subtlety here around council controlled organisations. These are not part of the council but are controlled by the council.
+
+That structure is used in governance to keep something a little bit at arm's length.
+
+That was the structure for Auckland Transport until very recently, and it's currently getting sucked into the council itself again.
+
+More detail, more tension. You don't need to worry about it,
+
+but you might find in your team project and your system project that you are
+
+confused about this being an agency and this being a government department,
+
+and wonder what the relationship is. And it's likely something like this.
+
+So central government, as we've heard, makes laws for the whole country.
+
+And just like the mayor and the people working in Auckland Council, there are two categories of people working in government.
+
+So are the politicians that we elect, exemplified here by Jacinda.
+
+And there are the public servants who we don't elect. Exemplified here by Ashley.
+
+It must have been a bad day because they both look sad.
+
+So lots of people saw Jacinda and Ashley during Covid as one unit called government, but they actually had very different roles.
+
+So Jacinda was the voted in prime minister again.
+
+We all get to vote every three years. More people care about central government, so more people vote.
+
+So it's up to us who we get as prime minister. It's not really up to us who we get as public servants.
+
+So these are the people that lead government departments. In the case of Ashley Bloomfield, it was the Ministry of Health,
+
+and they provide independent advice to politicians and then do the work to implement the law and make changes.
+
+And they play a big role in emergencies. So Ashley was the director general for Jacinda, but also for Chris Hipkins and also for Chris Luxon.
+
+Just checking my timing. If the Prime Minister changes, the director general doesn't necessarily change.
+
+So you might have director generals that serve for 20 years across many different governments.
+
+And that means that we have institutional knowledge, we have independent advice,
+
+and that the politics of the day doesn't completely control the policy.
+
+That said, as new governments come in and as public servants retire,
+
+you do find that governments of the day tend to appoint someone more aligned with their policy position.
+
+So we're not completely immune to political interference in the public service.
+
+But if you look at all the surveys around the world, we score very highly on the independence of our public service.
+
+So when you're giving technical advice to influence policy,
+
+you are genuinely generally aiming at public servants like Ashley, not at political appointments like Jacinda.
+
+That's important when you think about how to frame your recommendations in your assignments.
+
+You saw this slide in lecture three. I've just popped it back up to remind you.
+
+So remember the science, the technical input. The engineering is never the only advice.
+
+There's things it's helpful for and good at. There's things it's not helpful for and not good at.
+
+And we have politicians elected who make decisions in defined timeframes.
+
+And we have policymakers who need to really bridge that divide between the policy,
+
+the politician in a hurry and the people providing evidence, doing it in a careful, considered way.
+
+So here's our central government in New Zealand, and we all want to play cabinet bingo.
+
+Do you recognise anyone? Who's that? Yep.
+
+Good. This one? Yeah. See how far we can get around?
+
+Yep. He's gone, but he's here. Yeah. Same to you. Well done. Yeah.
+
+Oh, you're all very good. Yeah. Well, we got Matt Mitchell this year.
+
+Didn't get it last year. Who's that? Yeah. Yeah.
+
+She's gone too. This is a slightly old photo. Yeah.
+
+Yes. Well done. We're going to get all the way around.
+
+Yes. Also now gone.
+
+Yep. Yep. Yep.
+
+Yep. And that's the trick. That's the cabinet secretary.
+
+Wow. We did the full house. Well done guys. So those are the elected MPs who have made it into cabinet as ministers.
+
+So you have a cabinet? That's the ultimate decision maker. The ministers who make decisions on their individual portfolios and the parliament,
+
+which clears things through the House, which we'll see in a minute. So these are elected.
+
+And then just like in local government, we have all these departments that are not elected.
+
+This is the public service. Marx talked about Treasury a little bit.
+
+That's one of 41 departments.
+
+Do not quote me on that number, because quite a few departments are in the middle of merging or shrinking or disappearing.
+
+So that number tends to change, but it's got the same number of functions.
+
+So there's a lot of different independent units, all there to advise the politicians on what the policy should be,
+
+and then to take the decisions from the cabinet and implement those to make changes to the country.
+
+It is a hugely complex system. As people outside of government tasked with giving advice,
+
+you might like to know what the government is up to in terms of its priorities or its policy work programme.
+
+It can be really hard to figure out what the policy agenda is.
+
+And I think I talked in lecture three about being just ahead of the policy agenda was important.
+
+Pretty hard when you're outside government to see. But you can get some clues.
+
+So before parties get elected they make manifesto commitments.
+
+So you will hear already if you listen to social and you're following any politics,
+
+which it sounds like some of you must be, if you can name the whole cabinet and you'll hear people making promises.
+
+If elected, we will introduce a capital gains tax. If elected, we will raise the levy on GST.
+
+If elected, we will get children out of poverty.
+
+So all those things are promised.
+
+And then what happens is no single party tends to get an overall majority in our mixed member proportional system.
+
+It's happened once in recent memory after Covid, but usually you've got multiple parties who need to come together to form a coalition.
+
+Now, lots of the manifesto commitments don't match, and so what they have to do is nut out an agreement.
+
+And if you are lucky, this doesn't happen every time they will publish those agreements.
+
+Um, these are really helpful if you're interested in knowing what current government policy is.
+
+The start of this government, they published a 100 day plan,
+
+which was even more useful because you knew what the immediate priorities were, but they stopped doing that.
+
+And another place you can look for policy information is what's called the BIM or the briefing for incoming ministers.
+
+And those are documents where advice is sent from departments to new ministers saying, hi, Minister,
+
+if I was the incoming Minister of Social Development or Justice or Business, Innovation and Employment, these are the things I would have on my radar.
+
+Now, the Minister might agree or disagree,
+
+but that's an opportunity for all that institutional knowledge from the departments who are not susceptible to the political winds of change,
+
+to put their opinion forward on the key issues and policy levers that the Minister might pull.
+
+After that, the minister might announce their priorities and they might announce a portfolio of work, or they might not.
+
+And during all this, as you'll learn tomorrow, ministers, cabinet, Parliament need to be flexible enough to respond because emerging issues happen.
+
+One minute the world's peaceful. The next minute there's a war in Iran. One minute.
+
+New Zealand's having a quiet patch in terms of earthquake the next minute.
+
+There's been a whole rash in a few weeks and people are getting nervous and aware about earthquake risk again.
+
+They have to be nimble. So this, in a nutshell, is how change happens.
+
+And the next couple of slides, doc, into what Mark told you about things like the Living Standards framework.
+
+So again, back to providing technical advice to influence decisions.
+
+There's multiple points where politicians or officials may seek advice.
+
+And this is the process for change. And this is the one you need to influence if you need to change the system.
+
+So here are the agencies providing advice. They go to the minister.
+
+Sometimes the ministers are absolutely convinced but cannot convince the cabinet colleagues.
+
+And looking around that table with three different parties in one cabinet, you can see why.
+
+Um, so ministers compete for resource and compete for priority around the cabinet table.
+
+So that's an internal battle.
+
+Once things escape from cabinet and decisions have been made using whatever mechanism, we don't know those meetings are private.
+
+Then those decisions go to Parliament. And if everything's functioning as normal,
+
+cabinet decisions would fly through Parliament because the people in cabinet are in parties that have a majority in Parliament.
+
+And so the decision should be made.
+
+But sometimes, and you've heard this recently, if you're a political junkie, one party won't support a cabinet decision,
+
+and then it might not make it through Parliament without support from another party.
+
+So there's a little bit of negotiation between cabinet and Parliament to actually get to the stage where agencies can implement.
+
+So, for example, the free trade agreement with India. New Zealand first withdrew its support and Labour stepped in.
+
+And that's how it got through Parliament. Unusual, but increasingly not unheard of.
+
+Once all this has happened, somebody has to pay for it. And so there's a separate cycle.
+
+And this is what Mark talked about, which is the budget process.
+
+So all these conversations ideally take place in June to November, so that Cabinet and Parliament have a strategic view of what they need to do.
+
+Then there's some argy bargy to get to a decision phase about what might be funded, what might not.
+
+An awful lot of detail needs to be fleshed out.
+
+All departments have to get Treasury to take an independent look at their beds and say yes or no.
+
+We think this is good value for money. We do not think this is good value for money.
+
+We think this is pretty cool, but we can't afford it at the moment.
+
+Whatever Treasury decides to say and all that is a secret until budget day, which is usually in May.
+
+And that's when all the departments find out if their initiatives got funded.
+
+Some ministers are happy, some ministers are unhappy, and everybody looks at what the priorities of the government are in terms of money.
+
+It's going to spend next year. What about the Living standards framework?
+
+I hear you cry. So we learnt about this in Mark's lecture.
+
+And remember, the Living Standards framework gives you a structure in which to think about the non fiscal costs and benefits of any initiative.
+
+This is the traditional budget process again. The Treasury in the middle assesses initiatives with a focus on value for money and strategic alignment.
+
+At that point, it will consider. Is it good for the other capitals?
+
+Is it good for social cohesion? Is it good for wellbeing in general?
+
+It will have developed the indicators for the year agreed with by the Minister on the budget priorities,
+
+and all the non-financial aspects will be included, probably as trade offs and synergies.
+
+So you might say, yes, Minister, that initiative will save the country $1 billion.
+
+That will be fantastic because we won't be paying interest on $1 billion of borrowing.
+
+The trade off will be 10,000. More children might fall into poverty, according to the agreed indicators.
+
+So you might want to offset that with some investment to make sure that doesn't happen.
+
+Those sorts of things come from the Treasury. It doesn't matter what advice is given.
+
+Ultimately, we're in a democracy. We elect the ministers democratically.
+
+It's their call. So they can make their own decision about trade offs.
+
+They can get their own advice. That is how democracy works.
+
+So this whole system is there, but it's not perfect.
+
+There's many, many occasions with governments of all stripes where advice is signalled.
+
+That might get ministers into trouble later if whatever they decide doesn't go well.
+
+But in the moment, there's nothing to say that they have to take the advice.
+
+So what they call the policy process is what happens next.
+
+So we've got through the budget and there might be a problem or there might be an opportunity.
+
+And this is the sort of situation you'll be in at the beginning of your assignments.
+
+What's the problem? What's the opportunity. There might be some objectives that the government is trying to achieve.
+
+And what's needed is some options, some cost benefit analysis, some idea about implementation and some advice.
+
+And in general, this is the window where officials seek engagement with experts.
+
+So you might imagine in your assignments that you are feeding in here,
+
+focusing the objectives, working out the options and looking at the cost benefit analysis.
+
+Many of us who've been in a role advising government wish there was more expert advice here, figuring out how to measure and monitor.
+
+But that tends to be where advice gets sought.
+
+So just looking at each of those steps in turn, what are the current settings?
+
+What's the problem? What will happen if we don't change the settings?
+
+So Mark and Amanda have said many times one of your options is to do nothing.
+
+That's what will happen if we don't change the settings for anything you propose.
+
+You should always think, how is this better than what we've got now?
+
+How is this better than the status quo? And then you need to think who's most affected in the current settings.
+
+Who's got a problem that needs solving, what's the opportunity they might seize,
+
+and how does that change if you shift in terms of objectives in this case, for policy, it's what the government might be trying to achieve.
+
+In the case of your assignment, it'll be slightly different depending on how the brief is framed.
+
+But you will have a clear audience that you're delivering to. And you should ask, what is that person trying to achieve?
+
+Why are they seeking my advice? As you frame those objectives, it's helpful to think how will we know if it works?
+
+What criteria might we use? Remember when we talked about plastics?
+
+I said it was really hard to know how much plastic went into the ocean. So how would you know if you had improved that problem?
+
+But methods have been developed to address that for any problem or any opportunity you need to think about how you'll know you've succeeded.
+
+And then you're going to need to identify options. You've had lots of support on that.
+
+You need to think about the scale, the scope, something you might roll off the table because it's a crazy idea that might not work,
+
+or because it's way too expensive, because you've looked at the budget. Um, in government,
+
+it's often helpful to understand whether you can just get on with the change you're recommending or whether it would need a regulation change,
+
+which is hard, or a law change, which is even harder because you have to go through very many more steps.
+
+So for our plastics work that I've talked about,
+
+one of the advantages was all the changes we recommended are within the the Waste Management Act of 2008.
+
+So there was a waste minimisation program put in place and we were operating through that.
+
+Similarly, in fisheries, I told you how difficult that was and how we struggled with our scope.
+
+But the recommendations that we made that could be actioned immediately were all within the Fisheries Act.
+
+If you go outside the Act, you have to put in a whole extra saga that can take years to create new legislation and that slows things down.
+
+How other countries solve the problem is also really useful. It's not always translatable to New Zealand, but often it is.
+
+Marx talked you through this in some detail, so I won't go on about it.
+
+This would be the same in government as it would be in business. Look at the options.
+
+Look at the cost benefit. What stacks up? What are those critical success factors?
+
+Are your problem statements and solutions addressing them?
+
+Are you doing the most sensible thing? Are you getting the best bang for your buck?
+
+Does the benefit outweigh the cost? And in a government context, as advice goes up to ministers,
+
+there will be advice on who might deliver this change when realistically it could be implemented.
+
+And again, how we know if it's successful and then off goes.
+
+The advice tends to be short and snappy with a summary process and recommendations tends to be options for the minister to choose between,
+
+with clear outline of the risks and what happens next. And again, that's where the technical information goes in.
+
+I was in a privileged position because I got to put technical information in at the end, advising the Prime Minister or minister directly.
+
+You will, again, if you follow politics, hear complaints by people who believe this is a sacrosanct process,
+
+that ministers shouldn't seek independent advice here. They should rely on expert consultation during the policy process.
+
+But both channels are valid in our democratic system and they both happen.
+
+So once all that policy process has happened, the minister says yay nay to whichever option and sets the direction,
+
+and they can take decisions on anything within budget, within their portfolio.
+
+But generally, if they want to make a big change, like I said, it has to go through cabinet who have to agree.
+
+Um, some ministers are much more successful than others, so you'll see ministers swap around.
+
+A couple of those faces around the cabinet table have changed.
+
+That can be for a variety of reasons, but one is because they've got swapped out for someone who's better at getting things done.
+
+And part of getting things done is convincing cabinet that what they want to do is a priority, pitched against all those other portfolios.
+
+Then cabinet looks at the papers, makes the formal decision if necessary, and we're changing.
+
+The law, proposes laws to Parliament and then through the budget process, makes sure that the funding is available for the change.
+
+So this is a 2025 budget. You have the link to the 2026 budget, which is the one you should use if you need to look at this for your assignments.
+
+But I've left the 2025 one in here because your exemplars and your good and bad examples that you've seen in lectures so far used this one.
+
+So if you want to go through some of the previous systems project and teams project that will post online and you see the numbers,
+
+they will correlate with this budget. Not, um, not the more recent one.
+
+So this was 2025. What I'm focusing on here is new money.
+
+So the budget has two components. One is what they call baseline, which is the stuff that's committed,
+
+multi-year and always assumed will be funding the things that it's funded for the last few years.
+
+Nothing to stop government saying, you know what, we're not funding that program anymore.
+
+We're funding this one and switch the baseline around. But that's difficult.
+
+Complicated tends to involve job losses. So the focus tends to be on new funding.
+
+So all these numbers are new funding. So in 2025, 5.5 billion went to hospitals and specialist services on top of what was already there.
+
+And you will hear politicians spouting these numbers to show that they put extra funding into key areas.
+
+So there's one that gets talked about a lot a billion for additional cancer treatments.
+
+Education got a big chunk. But if you compare those numbers, not nearly as much as health.
+
+So 5.5 billion for health and 646 million for education, much smaller scale.
+
+Some stuff for the Royal Commission inquiry into abuse in care, which was a big headline for the budget in 2025.
+
+Other bits and pieces for social services and a big year for defence.
+
+So health was the big winner, but defence came in, um,
+
+not too far behind because that was the year where the government had campaigned on and delivered on reinforcing our defence force,
+
+because it was seen as a priority in a world that had increasing geopolitical tension.
+
+So all those numbers get vaccinated.
+
+They come from departments, get checked by Treasury, go to the ministers, get knocked around a bit, go to cabinet.
+
+Out comes the annual budget. All those ideas go into Parliament.
+
+And then there's a whole series of committees to actually turn policy into law if law changes needed.
+
+So you sometimes hear talk of first reading, second reading, third reading.
+
+Basically, there's something called a select committee that has politicians from all around
+
+the political spectrum just trying to find holes in any laws that are proposed,
+
+picking up counterfactuals, saying, hold up, you could do that. But what about this?
+
+Change the draft. Send it to through to Parliament.
+
+It'll get voted on a few times.
+
+And in theory, if the whole process is done rigorously, the final law is in really good shape and likely to endure across governments.
+
+But actually in modern democracies, a lot of that gets subverted and sidelined because the politics comes into play.
+
+So I've been talking about cautious, dry, incremental, often policy processes.
+
+And what happens is that it gets to Parliament, and quite rightly,
+
+because we elected parliaments to give us good decisions based on values and choices.
+
+It gets debated, but sometimes in quite a messy way. So I'm going to show you this video.
+
+It's a conversation between three people, the speaker of the House who ensures that all the rules are in play.
+
+The Prime Minister, Christopher Luxon, and the leader of the Green Party, Marama Davidson.
+
+Now, as it goes through, there's a few things to notice.
+
+One is I've taken this off a website that was critiquing Christopher Luxon position.
+
+I'd like to challenge you to do the opposite and critique Davison's position.
+
+Um, so have a think as we go. Um, we won't talk about it, because getting into a political debate in election year is not a good idea.
+
+But I'd like you to have a look at what's coming up on the clip and then think.
+
+All right. If I was coming at this from a right wing blog site, how would I critique Miranda Davison's analysis?
+
+And I'd also like you to think about a few things. One is that they're talking past each other.
+
+They're not saying, here's a long term problem. How can we get together to solve it?
+
+They're having a real feisty debate. And within that there are contested values.
+
+There's contested opinion on what evidence means and what the value of that evidence is to the debate.
+
+And there's contested measures of success. So you'll see on one side they're talking about the economy.
+
+On the other side,
+
+they're talking about child poverty and going right past each other and have a think about how you could do that better in a better system.
+
+And what I want you to get from the video is that political choices set goals for the system and drive behaviours and impact.
+
+So the person in charge, in this case the Prime Minister, is focussed on certain goals.
+
+That's driving the government system.
+
+If you switched and had Marama Davidson as Prime Minister, you would have different goals and the system would respond differently.
+
+So think about those system goals.
+
+And the overall message is that polarisation and short term thinking is really not suited to solving long term problems.
+
+And that's a crisis with Western democracies all over the world. So have a look at this and think how you critique the other side.
+
+And try not to get too despondent about how they talk past each other.
+
+Question number three, the Honourable Barbara Davidson. Thank you, Mr. Speaker, to the Prime Minister here in Nakuru, Yes.
+
+Does he believe his government is doing enough to meet the growing demand for emergency food relief?
+
+And if so, when does he anticipate his tax cuts for the wealthy will start trickling down to
+
+the 1 in 4 children now living in households where food runs out often or sometimes?
+
+Well, look, I'm sorry you got to have to rephrase that question. You can't have a supposition thrown into questions if you want factual answers.
+
+We went through this during the last session. I'm going to be a bit strict on it from this point.
+
+Please have another crack. I will refrains. Does he believe his government is doing enough to meet the growing demand for emergency food relief?
+
+And if so,
+
+when does he anticipate his tax cuts will start trickling down to the 1 in 4 children now living in households where food runs out often or sometimes.
+
+Well, I thank the member for their question.
+
+What this government is doing is we are rebuilding the economy and we are under strong economic management and very uncertain times.
+
+We are making sure that we have got inflation down to 2.2%. It was 7.2% under a Labour Greens government, now 2.22.5.
+
+Interest rates are down 200 basis points. That means for someone with a $500,000 mortgage over 25 years,
+
+that's $300 extra a fortnight freed up to be spent on the economy and to support that family and those individuals.
+
+And for the first time in a long time, our economy is growing again.
+
+Oh, what is his response, then, to the children's Commissioner's statement that the latest annual report on child and youth well-being,
+
+quote, shows a deeply concerning reality for the children of New Zealand.
+
+It shows that on the most basic things, Is like having enough healthy food, safe and healthy housing, and physical health.
+
+We are majorly letting children down. We are going backwards.
+
+Well, I disagree that we're going backwards because our budget 2024 is designed to lift 17,000 children out of poverty.
+
+And unlike the last year of a Labour Greens government that put 23,000 more children into poverty.
+
+So we know we have more work to do, but we are working incredibly hard on all of these issues.
+
+So what does he say to Ember, a mother from Auckland who recently shared with Auckland City Mission that, quote, our cupboard can look so empty.
+
+Some nights I don't eat. I'll make sure the kids have eaten heaps and then I save some for tomorrow night.
+
+End quote. And what is he doing to address food insecurity faced by piano like embers?
+
+Well, what we're doing, as I said before, is we want to grow our economy. We're fit.
+
+You get the idea. You can watch the rest later.
+
+But there are two people with with probably shared values in making sure the country is wealthy and everyone has enough to eat.
+
+Choosing different frames, different political goals, and talking past each other.
+
+So all the policy advice that's been provided on food security has to get channelled through a debate like that.
+
+All of this means that change tends to happen slowly. And the more complex the government system gets, the slower the change.
+
+So this can be a good thing if you don't agree with the changes that are being proposed,
+
+or it can be a bad thing if you really think that urgent and you want to get a wriggle on.
+
+So it's worth questioning yourself as you think how fast things should able to be done in government.
+
+To see if you still believe that if the people in charge don't reflect your point of view.
+
+So when I first got the job as the chief science adviser, I talked to some of the science advisors for Obama,
+
+and they said they spent four years in that office wishing they could do things faster.
+
+And then they were still in their roles when it changed to Trump. And they spent another couple of years saying, thank goodness things go so slowly.
+
+That's an extreme example. But you get lots of examples as you think about drifts in policy direction.
+
+So this is an example, a real example that's just happened where there was a change in immigration settings.
+
+So I'll talk you through it briefly. The problem was there weren't enough people to pick our fruit.
+
+So we grow amazing fruit. We sell it at really good prices.
+
+And the export market that's really good for our GDP. But many in the horticultural industry were complaining that there weren't any fruit pickers.
+
+It was hard to get people locally to pick the fruit because generally we've relied on people coming in from overseas.
+
+So the problem that was raised by the horticultural industry to the ministry and the minister and then by mBIE,
+
+who with the ministry in charge to the ministers in this case, Erica Stanford, was can we fix this?
+
+This is a lose lose. We could be hiring these people and picking the fruit and improving GDP.
+
+And instead we're wasting all this food. We're not even giving it to local people.
+
+Minister Stanford said, yep, that seems like something we could fix. And a good idea doesn't really need any law change.
+
+We might be able to get it done. She convinced her cabinet colleagues that it was a worthy priority.
+
+Parliament passed any laws that were needed,
+
+which in this case I don't think was required and put in place steps to monitor whether this change in policy was working.
+
+And then once all that was decided and it took a lot of work.
+
+So the people working in this team, I know they actually had a very nice work trip all around the Pacific.
+
+Talking to Pacific Islanders, understanding it from the workers perspective.
+
+They talked to all the horticultural growers as about 200 of them.
+
+So representatives of those employers all over New Zealand.
+
+They talk to policy people, they talk to ministers, and they put together what was a good step forward that made it better for everybody.
+
+Again, systems problem probably didn't completely solve it, but moved it in the right direction.
+
+And then the people that have to implement that back in mBIE.
+
+But this is another one of those arm's length organisations, Immigration New Zealand.
+
+What they had to do was implement the policy change, actually operationalise it saying good decisions, but this is how we're going to make it happen.
+
+They had a few it changes that they had to do for anyone that reads the news will gloss over that.
+
+Um, and then they had to actually make sure that the immigration officers on the ground knew the new rules and that one went well.
+
+So that was a really good example of a team going off, getting the evidence,
+
+listening to everybody coming up with options, choosing a sensible option.
+
+And it was really well received. Things that are well received are less newsworthy than things that go wrong,
+
+but you'll find news coverage on the RSC workers scheme was all pretty positive.
+
+All came through on one day, and all the horticultural people whose problem it was were happy that things had moved.
+
+Just to finish, and ahead of Tom's lecture, I want to just reflect on when things can move faster.
+
+To do that, you often need to cut through lots of the layers of government and all the checks and balances that I've talked about,
+
+and that can be really good, or it can be really risky, and it tends only to happen when you get a large consensus across Parliament,
+
+And that is often triggered by what they call never again moments.
+
+So something might happen. It could be an earthquake. It could be a disaster.
+
+In the case I'm going to talk about briefly, it was the shooting in the mosque in Christchurch,
+
+and everyone puts down their political stripes and says, never again.
+
+This can't happen again. How can we make a change for the better?
+
+So most of you will know that there was a horrific incident in mosques in Christchurch,
+
+where a lone shooter killed people at worship and livestreamed the whole thing.
+
+Everyone in New Zealand was horrified across the political spectrum, and Jacinda, then PM,
+
+managed to galvanise support for rapid gun law change in the immediate aftermath.
+
+While everyone was going how can we stop this happening again? Before they'd moved on and started thinking about other things?
+
+So this photograph was taken immediately after the shooting.
+
+That's the PM from the Labour Party. The then leader of the opposition was Simon Bridges.
+
+They were completely on the same team for this. That's local government.
+
+That's Lianne Dalziel, the mayor. That's the local MP, Poto Williams, that's Jenny Cillizza.
+
+Um, representing Pacific communities. I think that's why she was there.
+
+She might have been Minister for Local Government and the deputy prime minister, who was also on the page at that point.
+
+So because there was that broad consensus across the political spectrum, all those steps I've just talked about went super fast.
+
+And it happened in, I think, under three months. So that's just a summary of the mechanics of government, um, that I've talked about today.
+
+You can see just glancing at that infographic that there's an awful lot of steps.
+
+So you're starting here with an idea. You're ending here with something actually changing and happening,
+
+and you've got all these steps to get through in the meantime, in an emergency, which Tom will talk to you about on Thursday.
+
+You can go straight from the problem to the solution.
+
+Avoiding all those checks and balances and making change happen fast.
+
+With good leadership and good decisions, you can get great things happening quickly in an emergency setting.
+
+If you make poor decisions, you may wish that you've gone a little bit slower and invoked some of these checks and balances.
+
+So normally states of emergency, as you'll learn on Thursday, only last for a short amount of time.
+
+So I talked to you briefly about the faculty, White Island eruption and the aftermath.
+
+It was just about a week. We were in a state of emergency for a weather event.
+
+You'll see people pre-emptively declare an emergency to to get the resources to where they're needed
+
+because they're only liberated once the state of emergency has been declared and you'll see it.
+
+It doesn't last that long. A week, month at most. Um, for Covid.
+
+We're in a state of emergency for a long time, and at the beginning it was super helpful all the way through.
+
+It meant we could get things done quickly. But the longer you stay in a state of emergency, the harder it is to justify bypassing all these processes.
+
+So it's worth thinking about when you hear Tom. Well, that looks like a really cool way of making decisions, because it's all nice and fast.
+
+But you do lose the checks and balances, and once you lose the checks and balances, you can start to threaten social cohesion.
+
+So I'll leave it there and I'll see you and everyone online because it's a compulsory lecture on Thursday for Tom on Thursday.
+
+Thank you. Oh.
+
