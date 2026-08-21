@@ -1,0 +1,953 @@
+[Auto-generated transcript. Edits may have been applied for clarity.]
+Can I get everyone's attention quickly, please? Hello, everyone.
+
+Hello? Yo. Um.
+
+We are. My name is Angus. I'm the vocal director for the engineering review.
+
+Um. I'm Stella, I'm this year's assistant producer. Um, and we are here to promote our show.
+
+Um, the theme this year, as you can see, is Star Wars.
+
+Um, that is what our plot is, but we also have a bunch of other really cool departments, such as vocals, which Angus runs.
+
+We have skits. We have dancers. We have really cool props and costumes and the dates.
+
+Yeah, it's it's in two weeks. End of week six is when the show is.
+
+Um, there's probably like 40 part fours, I think, in the show.
+
+Like, if you look around the room, there's going to be wherever you look, there's going to be people involved in the show.
+
+So you're going to know a lot of people. Um, and also the, the quicker you get in get tickets, the better seats you'll get.
+
+Come along and support, um. The show. Yeah, it's in Sky city, so.
+
+Which is pretty cool. Do you want me to say the system thing? Oh.
+
+That's fine. Okay. Yeah. Thank you everyone. Thanks, guys.
+
+I went last year. It was great. Buy a ticket if you haven't got a seat.
+
+There are two options. Well there's three. One is, you could be sad and stand at the back.
+
+There's plenty of seats down the front if you want to come. There's some of the edge if you're shy or there's an overflow room around the corner.
+
+So shuffle down. So welcome everybody.
+
+It's great to see you all here. Today. We have our guest lecture.
+
+I've told Tom that you're always like this queuing to get in.
+
+It's always hard to get a seat.
+
+Tom is as well as the chief science adviser for Nima, the National Emergency Management Agency, also a lecturer at the University of Canterbury.
+
+So he knows how tough it is to get a crowd.
+
+I had the huge privilege, as I mentioned, on lecture three of working with Tom when I was the chief science adviser to the Prime Minister.
+
+Tom is at the pointy end of things. So on Tuesday I told you how government works and how it sometimes doesn't work in a business as usual scenario,
+
+trying to make sensible strategic change for the country. And I just at the very end touched on how things change in an emergency.
+
+Tom sits in that hot seat. He only really gets activated in an emergency.
+
+The rest of the time.
+
+He spends a lot of time thinking about how best to do that, how to get technical information into government when the [INAUDIBLE] hits the fan.
+
+So I'm going to hand over to Tom, also welcome some of his team from Nima.
+
+And the final thing from me is, if you don't want to be on my LinkedIn page,
+
+cover your face in a minute because I'm going to take a picture while you're all here. Okay.
+
+Welcome, Tom. Oh.
+
+Thank you so much, Juliet, for the very warm welcome. And thank you so much, everyone, for coming today.
+
+I understand it was totally under your own choice, and that there was no requirement for you to be here.
+
+Um, it's my huge privilege to to be here, um, presenting to you today.
+
+Um, as Juliet said, I've been the chief science adviser for Nema or the National Emergency Management Agency for the past four years.
+
+Um, I'm the the inaugural or the first, um, chief science advisor for for Nima.
+
+And it really came off the back of a lot of Juliet's amazing work, uh, when she was prime minister's chief science advisor.
+
+And that need for ensuring that we've got good science advice going into governments around big emergencies,
+
+um, particularly at sort of strategic level, which we'll go into a bit today.
+
+Um, what Juliet's asked me to, to cover is a bit around how science and evidence and forms the Emergency Management system in Aotearoa New Zealand.
+
+Recognising some of the challenges of how we approach decision making under quite deep uncertainty at times,
+
+but also in a really compressed time dimension where it can very,
+
+very significant decisions which involve people's lives, wellbeing needed to be made under quite heavy time pressure.
+
+And I wanted to try and explore some of the the relationship between science evidence,
+
+public trust and and emergency response and how that that can play out in real time and explore the role of.
+
+I've I've used the term science advisors, but I'm hoping you guys will identify with that role as being future technical experts
+
+operating in deeply complex systems and how you're applying that technical expertise,
+
+communicating it and, um, creating actionable advice and then spend a little bit of time at the end
+
+reflecting on where some of the emerging risks and future challenges are coming.
+
+Um, just so that we're all on the same page. Risk is often quite a contested term.
+
+So the way that I use risk and the New Zealand Emergency Management System uses risk, um, as we're bringing together hazard,
+
+which might be a process or a phenomena that could potentially cause harm or impact to society,
+
+and we're relating it to what might be exposed, what parts of society, whether it's people, buildings, culture,
+
+um, things that we treasure, our economy and how we relate them together through that notion of of vulnerability.
+
+I've got young kids, so the best metaphor I could think of was like three piggies in the big Bad wolf where the big bad wolf is the hazard,
+
+huffing and puffing, trying to blow houses down. But the three different houses made out of straw sticks and brick.
+
+They've got different vulnerability attributes, and so they can resist the, uh, the hazard or and come through it.
+
+What we get from when we combine all that together is potential impact. And if we've got a probability attached to it, then we have risk.
+
+So risk being a function of of likelihood and and potential consequences in terms of setting the scene R0.
+
+New Zealand is one of the most exposed nations on Earth to natural hazards.
+
+We're often described as being some of the most at risk, but I think that's that's unfair.
+
+We have amazing resilience and natural advantages here, both in terms of our how we operate as a society and what we've done to mitigate those risks.
+
+But we are highly exposed. We sit on the boundary of two large tectonic plates, which are very active.
+
+We have large volcanic fields. We're sitting on an active volcanic field at the moment and here in Auckland, um, and we have, uh,
+
+exposed to ex tropical cyclones coming down from the north and big storm events coming up from the Southern Ocean,
+
+with climate change and other drivers exacerbating some of those risks.
+
+And I think the challenge that we've faced over the last, certainly the last decade and particularly the last five years,
+
+is that we're really seeing the risk from natural hazards compounding and increasing our hazard prone areas,
+
+of which much of New Zealand is, as, uh, is built around.
+
+Um, we see those hazard events often occurring more frequently, particularly energised by that, that.
+
+Much more energetic climate and some of those dimensions and also the choices that we are making of where we choose to build,
+
+how we choose to live and and where we're based, and particularly the intensification of development and some of those hazard prone areas.
+
+We see in some cases the relative vulnerability of people, property and infrastructure and other things that we treasure.
+
+Growing in some some areas and other areas that are becoming more resilient.
+
+But as a general trend, this seems to be what we are facing, particularly with our continued dependence on technology and essential services.
+
+Um, it's, uh, creates challenges when we have a shock or an event which might disrupt them.
+
+Climate change is probably one of the big drivers that we see that we are grappling with in the emergency management system.
+
+We've seen a operational tempo of the New Zealand Emergency management system at an extraordinary, um, uh, state of the last five years.
+
+Um, these greater frequency of events and short succession is leading to a quite a compounding effect.
+
+And if we cast our minds back over the last five years, we think of, um, the Covid 19 pandemic.
+
+Large storm events, um, compounding. And it's been quite a challenging period for New Zealand and New Zealand.
+
+The way that we've often, or at least traditionally managed our natural hazard risks has been through risk transfer.
+
+So we're one of the rare nation state which is heavily reliant on insurance for transferring our risks.
+
+We have the wonderful Natural Hazards Commission, formerly known as Earthquake Commission,
+
+and what we call very high penetration of insurance across um homes and businesses throughout New Zealand.
+
+And there's been quite a heavy reliance on insurance as a way to manage what those risks might be,
+
+so that when we have an event, we've got capital that can come back in and and affect it.
+
+But these compounding events are putting pressure on those traditional mechanisms.
+
+And so there's much greater need perhaps to focus on risk reduction.
+
+And when risk reduction like land use planning controls, building controls or building codes, etc. aren't working as hoped.
+
+As the residual risk gets mopped up by the emergency management system during response and into recovery,
+
+and the nature and pressure of that is has been quite unsustainable. I think of the last decade.
+
+Something like 97% of central government expenditure has been focussed either on response and recovery,
+
+rather than on explicitly on risk reduction initiatives,
+
+which is a skew that simply Treasury and other central government agencies are keen to address.
+
+This is an infographic that Nema has produced.
+
+We may Juliet may have covered this last week or earlier in the week, where government agencies produce briefings for incoming ministers,
+
+which are a wonderful resource of finding out how a particular agency views their their area or their field,
+
+and what some of the issues and challenges and pressures that they're seeing.
+
+So if you're interested in this stuff, check out some of the beams as they call beams briefing for incoming minister.
+
+They're quite, quite a useful resource. But what this plot's showing is the number of states of emergency that have been declared over the last 18
+
+years and has colour coded around what the different causes or reasons for those states of emergencies.
+
+There's two types. There's local states of emergency and then national states of emergency, of which we've only had a couple.
+
+Oh cool. My bit quiet. It's not normally critiqued for that.
+
+Okay, good. How's that? Okay. So what we're seeing here is a much higher frequency of states of emergency declared.
+
+Um, I wanted to ask a question. Of what? What do you think's been the driver of that increase in this?
+
+The number of states of emergency. By climate change?
+
+Yeah, we definitely have seen an increase in some of the storm events that we're seeing.
+
+But as Julie would have said, sometimes is multiple factors which will lead to these.
+
+So that's one. Yep. Maybe we can adjust. We notice them more.
+
+We have better detection. Yep. Better detection. Yeah that's probably a fair fear.
+
+So I'm just gonna unpack that further. Yeah. Population growth.
+
+Yeah. But more more more exposure perhaps more interest around what some of those consequences would be.
+
+What else might be another factor that's leading to a larger number of states of emergency being declared.
+
+Yep. Yeah. Nice.
+
+So it's been some change in how we're perceiving this.
+
+So one of the areas that we've been directed around to look at is to have a much greater readiness and response posture.
+
+So there's been a lot more willingness to declare a state of emergency, to use it as a way to enhance the quality of the response,
+
+to ensure that the resources and different things that government and other agencies can deploy to emergency response.
+
+But they're also really powerful from a social science perspective of motivating communities.
+
+If there's something that's that's occurring, it brings a sort of focusing effect, if you will.
+
+So we've we've seen that increased tempo and the increased activity that's occurring there.
+
+These are some of the main large events which have dominated things across the Canterbury earthquake sequence back in 2011,
+
+with the Kokoda earthquake in 2017. Covid 19 pandemic in 2020, which sort of extended on a bit.
+
+And then the North Island severe weather events where Auckland had the anniversary weekend floods,
+
+and then sort of almost immediately afterwards, the Cyclone Gabrielle, which affected the Upper East part of the North Island.
+
+Within all of this,
+
+there's been a number of reviews and inquiries around how New Zealand's emergency management systems should be positioned and and developed,
+
+so those are significant moments there as well. So to set the scene, what is the New Zealand Emergency Management system?
+
+It's a system set up a number of subsystems. They're all interconnected across things like infrastructure and biosecurity etc.
+
+it all comes together as a unified system which is looking to manage an emergency.
+
+The way we try and frame that is looking at at across what we call the four Rs,
+
+we have risk reduction where we're trying to reduce the um, in a structural sense or a long term sense what the potential risks might be.
+
+Sometimes that's also used with the term resilience. And there's readiness, which is the phase where you might be preparing for emergencies.
+
+This might be things like doing practice evacuation drills for tsunami or understanding what your early warning system might look like.
+
+And then we have response, which is when we're responding to an emergency event, and then we go into the recovery phase.
+
+And then theoretically, the theory here is that they form a continuous cycle of continuously improving and and building resilience across it.
+
+Across all of those different aspects of the four Rs. The system's purpose overall is to increase resilience for you and for New Zealand society.
+
+Um, and that ability to, uh, not just absorb and cope with events, but hopefully to thrive as we know that we are highly exposed to these risks.
+
+Um, the and a huge focus of the emergency management system is to be focussed around empowering communities
+
+and households to be able to cope and support themselves as much as possible without knowing what to do.
+
+Having the means and the knowledge of how to how to approach it. And underpinned by these these perspectives here.
+
+One of the features of the emergency management system is that we have what's called a devolved model,
+
+where much of the actual, uh, activity in terms of emergency management is undertaken at regional and local levels.
+
+We have 16 civil, defence and emergency management groups across the country, or KDM if you like,
+
+and working in partnership with each other and with Nema as the national agency which coordinates and supports that, uh, that um that system.
+
+Iwi Maori really important.
+
+In fact critical partners to the emergency management system in so many ways and lots of connections across into other subsystems and and other areas.
+
+Um, these are some of the subsystems that that, uh, also exist within that wider system.
+
+And the interest for us is not just here in New Zealand, but also out into what are called the the realm countries.
+
+Um, so some of our Pacific Island, um, partners, such as the Cook Islands and then of course, into the wider Pacific environment.
+
+And one of the colleagues here from the Nima international team is really Jose, who's really heavily embedded within that.
+
+But the general mantra here is to have a locally led approach to emergency management, regionally coordinated and nationally enabled.
+
+And so colleagues, myself from Nima, we sit in that national level where we're trying to enable and support as much as possible.
+
+So with that, as a sort of scene setter, I thought it's probably high time to introduce who I am.
+
+So my role as chief science advisor is to provide at a strategic level or sort of right under the lens of, of central government,
+
+as much scientific advice and evidence base for how we should be going approaching our emergency management activities.
+
+And a lot of my role tends to be around understanding risk and what can we do about it,
+
+both in a crisis event or an emergency event and or preparing for it?
+
+Um, one of the the ways that, um, the friendlier colleagues within email to describe me as sometimes a bit like science theory,
+
+where you might be floating around the agency, sprinkling a bit of science dust, um, where it might be necessary.
+
+Um, but I tend to think of myself at times as almost like a plumber where you're trying to work out what's the problem?
+
+Where do we diagnose that in the system? What needs to be connected,
+
+unblocked or rerouted so that that information or knowledge or science advice can be communicated in such a way that it's appropriate?
+
+And maybe there's a translational fact where the that knowledge needs to be transformed.
+
+I'm very keen not to go down the wastewater treatment a metaphor there, but hopefully you can draw some of those conclusions.
+
+And then one of my very cheeky X graduate students, because I'm coming from, uh, as being an academic who is now based in Neiva,
+
+these guys all know Alice Evans is described as a seagull, where sometimes you just fly in to a particular area.
+
+There might be something of interest. Squawk. Flap, defecate and then fly off again and hope for the best.
+
+But of any of those rolls, they do describe a bit of that,
+
+of a lot of what I'm trying to do is provide those connections across the science emergency management system boundary and working at that interface,
+
+but also being in a way where you're communicating with some of the really key officials,
+
+such as the national controller, the chief executive, and often spend a lot of time briefing ministers.
+
+And when it's really bad, sometimes the prime minister.
+
+One of the examples that I wanted to give you for a start, was one of the first major roles that I had when coming into Nema,
+
+which was not to manage a real world crisis or emergency.
+
+But when we were doing work around looking at what might catastrophic planning for RLC or New Zealand look like?
+
+So one of the lessons that we had had from overseas and back in 2022,
+
+when we were coming out of the the Covid pandemic was to think around what if we have an emergency?
+
+And then if we have a disaster where we start to see society or at least parts of society, overwhelmed.
+
+But what if we get to being a catastrophe,
+
+where we start to see the fundamental building blocks or attributes of a functioning government and functioning society,
+
+functioning economy start to collapse? And we've never really experienced that in the last 100 or so years here in New Zealand.
+
+But perhaps analogies would be where you might draw things into failed states,
+
+where often armed conflict might might collapse a nation state and, and cause some of those challenges.
+
+But we're well aware that New Zealand has a number of different risks which could lead to this.
+
+So one of the tasks that Nemo got given in 2022 and looked into was to look at what might catastrophic planning for government look like.
+
+And so we were looking overseas and domestically, but particularly overseas, what others had done,
+
+and the key lessons was the inability or it's really challenging to scale up your
+
+existing arrangements to deal with something that's of catastrophic nature,
+
+and to use that evidence base of where we've seen nation states that we might find ourselves similar to or useful to look to those,
+
+those experiences of what we can draw in. But the key lesson that we had had was that at these types,
+
+planning for these types of events don't be limited by your current thinking or what you can conceptualise.
+
+So ensuring that we had a credible scientific grounding around what is possible in terms of some of the risks that we are faced with,
+
+with one of the areas that I got tasked to have a look at.
+
+So we drew from some of the work across from,
+
+from the United States around the failure of imagination to conceptualise that there could be a terrorist attacks such as nine over 11,
+
+despite there being quite a lot of evidence that that could potentially happen.
+
+And in the case of Hurricane Katrina back in 2005, the failure of an initiative of having a fairly clear understanding of what might be in play,
+
+but not being able to affect the planning or the actual action. So we were very mindful of some of those,
+
+those case studies there where we determined would be a way forward to plan around such a thing like this, is to have a scenario.
+
+Obviously, we've got heaps of different probabilistic options that we could look at of earthquakes and,
+
+um, geopolitical threats that we could look at.
+
+But having a single scenario, which was determined to be a maximum credible event that we could plan around,
+
+was one that was, uh, thought to be quite, quite a useful way to go.
+
+So the question I got asked was was which scenario and what might maximum credible look like?
+
+So we worked with um, convened some of New Zealand's leading, uh, risk scientists, and we determined that the Korangi subduction zone,
+
+um, with its earthquake and consequential tsunami would be a useful, credible event.
+
+Which, um, was not just that. It's probably one of our largest risks in terms of threat to life and impacts the economy and other areas.
+
+But it was also one that at the time was easy or easy for perhaps the planners and some of the other officials to conceptualise,
+
+because there had been a bit of experience with earthquakes in the preceding five or so years before.
+
+But one of the things that we found was really important was to not just understand what the earthquake could be,
+
+but to be able to have a really effective way to communicate what this risk might look like.
+
+So some of these visualisations from Brendan Bradley and the seismic team,
+
+which involved some of the your University of Auckland geotechnical and earthquake engineers,
+
+um, was a really powerful way to visualise what might a magnitude 9.1 earthquake look like on the subduction margin.
+
+So what we have here is a physics based simulation where the seismic waves that are
+
+being generated by this fault and zipping or rupturing are being visualised by this,
+
+this vertical exaggeration, exaggeration of the of the waves.
+
+For those that are many of the officials that were planning for this who were based in Wellington,
+
+so they're sort of seeing what that looks like, but you can start to see what that impact might be around.
+
+Um, uh, across the country as that visualisation of the, of the shaking moves across the North Island,
+
+across the South Island, and you can really get that sense of how the,
+
+the waves stack up as that rupture front progresses, with the seismic waves moving at about the same speed as the as the rupture scenario.
+
+So this was a really good hook. And I can see already within the the lecture theatre, you've all kind of gone a little bit more quiet.
+
+You're sort of having a look at seeing what's going on here.
+
+The other part of the scenario that we were keen to look at was not just the very intense ground shaking that we would likely see from this,
+
+this event across a large portion of the North Island, but also the tsunami that would likely be produced.
+
+And so where we have a subduction earthquake, where we've got the fault rupture happening under sea and we've got displacement of the seafloor,
+
+and is the likelihood that we would see a large tsunami wave being produced.
+
+And so this imagery from Japan in 2011 is really analogous to what we might experience on the Wairarapa,
+
+Hawke's Bay and Tirupati coasts off the east coast of the North Island.
+
+And what was really a useful demonstration here was showing it's not just about the the water and the waves,
+
+but you're seeing the, the long period of the wave that's coming in and the amount of debris that it's picking up,
+
+which makes it so much more understandable as to why there might be high damage and what that,
+
+um, the potential for casualties could be if there's not sufficient evacuations.
+
+So coupled with that was a really neat, um, rapid simulation that, uh,
+
+colleagues from GNS or Natural Sciences did of simulating what that wave would look like.
+
+And for those of you that have got keen eyes, see, in the top right there,
+
+there's a little timestamp of how that wave is progressing as it's produced and how it affects the New Zealand coastline.
+
+Now I'll just go back to the beginning and run it again where we can see the, uh, sorry.
+
+Excuse me. So if we run that again as my computer catches up, what I want you to watch for is the timestamp up in the top right corner here,
+
+and watch just how close or how quickly that wave reaches the eastern coast of the North Island.
+
+We're at ten minutes here. Wellington has just been affected. Wairarapa.
+
+We're at 20 minutes now. And Tai Rafferty, Gisborne just been affected.
+
+And that waves starting to enter into Hawke's Bay and at about 45 to 50 minutes.
+
+Napier and Hastings inundated with a 10 to 12 metre tsunami wave.
+
+We see that wave now wrap around Bay of plenty, Wellington Harbour and coming into Auckland.
+
+So you can start to see that compound or excuse me, that cascading hazard that's starting to be produced.
+
+But what really was able to take that next step in terms of really activating the system
+
+around being able to plan for this was then to use those ground shaking and then what the,
+
+uh, consequential effects in terms of building damage and casualties that might be produced there,
+
+but also if we had different evacuation scenarios for an event like this, what the expected casualty burden could potentially be and appreciate.
+
+These are quite confronting numbers, but a really useful, um,
+
+metric that was used to influence why we should plan for this and to really motivate a lot of not just within Nima,
+
+but many other agencies to support this catastrophic planning process.
+
+And a key lesson from it all really easily or clearly demonstrated with the casualty numbers here was
+
+assuming that we have about 70% evacuation compliance of people being able to move out of evacuation zones.
+
+This was the estimated casualties that would be produced.
+
+That 70% number comes from social science of looking at how many communities or percentage of communities that have evacuated,
+
+um, following recent tsunami warnings across New Zealand.
+
+So we were reasonably comfortable with that number.
+
+But if we drop that number away or assume that no one evacuated from that event and see the injuries increase a little bit,
+
+but the fatalities markedly increase. And that just just really points to how lethal being trapped in tsunami waters potentially can be.
+
+So they said important implications for the health system.
+
+But also if we were seeing successful evacuations, over 400,000 people are in activated tsunami evacuation zones needing to move out.
+
+And after 24 hours, we'd expect over 100,000 people still displaced, with 30,000 residential homes likely to be damaged from this type of event,
+
+bringing into built environments and really high numbers of potential damage to to that area as well.
+
+That's just the the vertical infrastructure from the shaking and tsunami.
+
+So it gave us a bit of a sense of what the what a maximum credible event could look like and what we could be planning around for.
+
+And that led to a lot of curiosity from some of our senior officials, some other chief executives and ministers around.
+
+What are some of the other potential scenarios that we have that we might need to be considering?
+
+So we pulled together this table of different modelled risks of some of our national, nationally significant risks.
+
+And you'll see they're up at the top as the Auckland volcanic field of potential eruption there.
+
+And just the simple table of looking at the relative or the estimated likelihood
+
+and the potential consequences has been a very powerful way to look at how
+
+some of these different scenarios that we might need to be looking for in that
+
+scenario that I just ran you through was I've just highlighted an orange here.
+
+And so just noting that whilst only 1% chance in the next 50 years of occurring,
+
+it's certainly at the upper end of what the potential consequences could be.
+
+Um, and just again, trying to communicate the risk in such a way that can make meaning for, again,
+
+planners or senior officials or ministers, is to relate this back to real world events that we've seen.
+
+So the equivalent of a Cyclone Gabrielle event, the big storm that we saw in 2023,
+
+it's about an 80% chance of occurring if there's no change in climate in the next 50 years.
+
+The Kokoda earthquake and the the day before that earthquake occurred, there was about a 1.7% chance of it occurring in the next 50 years.
+
+And the Canterbury earthquake sequence, the probability of it occurring the day prior to it happening, was less than 1%.
+
+So the point here is that these rare events do happen.
+
+We should be preparing for them, because that's part of what living here in Aotearoa is all about.
+
+And so just nice, simple metrics that can tell a powerful tale have been a really important part of of the journey, at least that I've been part of.
+
+And then I think, just hopefully, to riff off what Juliet point from,
+
+from your last lecture, I'm trying to think of how might this be interesting to a minister?
+
+What if we have a brand new minister of Emergency Management?
+
+Well, of all of these scenarios on this table, what's the cumulative probability of it occurring and the electoral term?
+
+Or what if they get re-elected and they're the minister for two electoral cycles over six years,
+
+and then over the next 50 years, something like this is almost certain.
+
+So again, it was just ways to try and grab the audience and, um, hopefully get them engaged on what might be,
+
+um, some of the key things that they need to be responsible for.
+
+So changing gears a little bit, I want to look at science advice during crisis events.
+
+And I understand my lecture is setting you up for your systems week.
+
+So I've been sworn to secrecy. But do take note of this.
+
+But one of the points that, um, I think, uh, your role when you're going out into the world, when you're a professional engineer or whatever,
+
+it is a career that you're looking to get into is you're going to have an amazing technical ability that very small parts of the population will have,
+
+and being able to communicate that in an effective way to inform other very intelligent,
+
+but maybe non-expert people in your field will be a key skill and attribute that you want to be looking to develop.
+
+And one of the areas that sequential reviews and inquiries into large disasters and emergencies, which haven't gone so well in New Zealand,
+
+has noted that often we've had quite good science input and forecasting and even understanding that a hazard or risk might be there.
+
+But how that then becomes operationalised or translated into a way that's actionable policy or practice that can be done.
+
+And so that's one of the parts I wanted to explore here, particularly in an emergency or a crisis context.
+
+And the best originally when I was trying to conceptualise what this might look like, as I was thinking,
+
+it's almost like a sausage factory where there's a whole bunch of stuff going in and creating a sausage.
+
+But apparently the more politically correct way to do this is to bake a loaf of bread.
+
+So one of the ways we want to think here is you've got data from engineering domain or science domain or whatever it might be,
+
+and then you're analysing it, you're adding value and creating a product which would be trying to help with decision making.
+
+And in this case you might have a loaf of bread. But when we're in that operational context, there might be different things that we need.
+
+We might need a sub or we might need a some toast,
+
+or we might need something where we need a gluten free option for whatever the case might be for making the decision.
+
+And the analogy I've used here is we might need something different for public messaging compared with contingency planning,
+
+compared with national warnings, or even for governance decisions.
+
+So the area that that Juliet and myself and others often occupy is how do we use that,
+
+that loaf of bread or bake a different loaf of bread and pull it with different fillings to make it as useful as possible for making good quality,
+
+evidence based decisions in a manner that's timely and and effective.
+
+So one of the examples I think Juliet touched on was with the faculty.
+
+White Islands Disaster or tragedy in 2019, where Juliet was heavily involved in the crisis response of how to manage that event.
+
+And one of the things I was involved in prior to joining Nema was as part of the New Zealand Volcano Science Advisory Panel,
+
+providing support with media and briefings and things like that.
+
+An event like this creates a huge, um, focusing effect for the government because it's been such a tragic and shocking,
+
+um, and, uh, just awful, um, uh, event that has occurred.
+
+And so there has been a really heightened sense of how we should be managing that risk and a deeply challenging, um,
+
+legislative and, uh, environment with lots of different, um, complexities with it being a privately owned offshore volcanic island.
+
+But one of the areas we've been to work around is supporting the Bay of Plenty Civil Defence and
+
+Emergency management group with leveraging national volcano science advice for their planning,
+
+also for their elected members. And in 2025.
+
+Last year we were looking at should we be returning to the island to reinstall volcanic monitoring equipment,
+
+particularly for the benefit of aviation, maritime, and if there was ever an appetite for resumption of potential touristic activities there?
+
+And so one of the things that I was really heavily involved in was how do we undertake a structured, scientific,
+
+peer of peer reviewed risk assessment of what the likely risks of returning to the island and then the eventual benefits of that?
+
+And I understand you've been doing a lot of work around business cases and cost benefit analysis,
+
+and that was exactly what we were exploring there of the different trade offs that might be in play.
+
+Um, but sadly, because we have a coronial inquiry underway on faculty, I can't speak to much more to that,
+
+but I just want to create a connection to what Julia had covered before.
+
+But I thought one of the other areas that might be of interest is the crisis that you may never have heard about,
+
+which was the 2022 to 2023 Taupo volcanic unrest event.
+
+So Taupo volcano in the central North Island is known as a super volcano.
+
+And this is a imagery or sorry, a visualisation of the um last eruption from Taupo about 1800 years ago.
+
+So I just tried to pull that forward of it. Nope. Sorry.
+
+Sorry. It's not gonna let me do it, but the Taupo volcano is well renowned for having, um, about 29 eruptions over the last 26,000 years.
+
+And two of them were extremely large. One of the really large ones was only 1800 years ago.
+
+It was devastated the central North Island area, and I think there were records and Chinese,
+
+um, uh, um, scriptures or uh, um, uh, histories of seeing a change in the climate and,
+
+uh, seeing a lot of dust and incredible sunsets at the time, which would have probably been,
+
+um, volcanic ash that had been erupted from the Taupo volcano. So one of the things that, uh,
+
+we faced in sort of mid to late 2022 was all of a sudden we saw an increase in earthquake activity underneath Taupo volcano.
+
+And so this plot here that I'm showing you is the number of earthquake events per week on the vertical axis and then time on the horizontal axis.
+
+So during period A of the first part of 2022, um, we had very, very low number of earthquakes under Taupo Volcano.
+
+But then around about May, we started seeing an increase, and the increased earthquakes also were accompanied by uplift,
+
+where we saw the lake rising up and the surrounding land expanding and rifting apart.
+
+And so this is not uncommon for a volcano like Taupo to have these, what are called volcanic unrest periods.
+
+But the socio political context that we were operating in was one we were only 2 or 3 years after the featured eruption.
+
+We had the same government in an office, and there was extremely high sensitivity around volcanic risk,
+
+and particularly if there was any further volcanic crises. So what happened through this period?
+
+Oh, sorry. The other important piece of the puzzle was junior science at the time.
+
+They're now being merged into Earth Sciences New Zealand.
+
+They had had a lot of critique and review around their role and the faculty disaster around what sort of science advice they had provided.
+
+And they were um, uh, had been subject to judicial proceedings.
+
+So it was quite a challenging context with that all all occurring.
+
+So the way that New Zealand manages, uh, these types of events is they have what's called the volcano alert level.
+
+So Taupo is usually at zero. But for the first time ever, Genius Science raised the volcano alert level to one for Taupo volcano.
+
+And there was huge, um, stress and concern around how that might go down,
+
+particularly in the socio political context, because we have a lot of examples from overseas where,
+
+um, in or ineffectively communicating, um, a reawakening volcano has led to, um, some really unfortunate outcomes, like, uh, um, large evacuations.
+
+Um, outrage and frustration around and loss of trust with scientific authorities and emergency management authorities.
+
+So they made the call, particularly after a spike of earthquakes in September, to raise the alert level to one.
+
+They did a really good job of communicating with Nema and other agencies around why they were doing that,
+
+and then somewhat difficult in a difficult manner for,
+
+um, their science agency, as those earthquakes then tailed away and the volcano went, went quiet or much quieter and so much fewer earthquakes.
+
+We had a, um, once we got into late 2022, that there was a magnitude 5.7 earthquake under Taupo and also with 18cm of uplift,
+
+which in a volcano context is quite, quite significant.
+
+So it's a really difficult period for the science agency.
+
+But also, what should government be doing here? Um, we've got this heightened awareness around the volcano and there was a lot of interest
+
+from the Minister of Finance of what that might mean for critical infrastructure.
+
+And the Prime Minister at the time was was certainly very attuned to it as, as well.
+
+So Juliet and I were in pretty frequent contact with us.
+
+And then after that big spike in activity is that we had declining activity again through early 2023 and it all falling away.
+
+But during that time, we had a very challenging environment of being able to communicate.
+
+What did this mean for communities and for the regions around it, and for what should the government be trying to do?
+
+We're also coming out of the Covid 19 pandemic, and so it was a complicated situation.
+
+So there's a lot of desire around what are the national warnings that we should be doing, how much or how little should be being prepared.
+
+The social licence around what governments could be communicating was starting to to fray a little bit after the pandemic experience.
+
+There was a lot of regional impacts, planning that was going on and public communications for for reinsurance.
+
+And so the experience that we had through this time was that we weren't quite getting the
+
+science advice that we really wanted and a format that we could communicate effectively,
+
+particularly with ministers and with other senior officials who were juggling multiple issues as, as I've covered.
+
+So in the end, one of the first things that one of the big calls I first made as chief science
+
+adviser was to commission genius to change the way that they were communicating.
+
+And we ended up asking for much more of a scenario based approach we were exploring
+
+what are the total range of different outcomes that we could see from this event,
+
+with the volcano most likely staying in an unrest state and then at just going back to sleep,
+
+but all the way through to what minor eruptions could be all through to catastrophic eruptions.
+
+We couldn't rule any of them out. Um, the the range of outcomes was was challenging to communicate,
+
+but the conceptualisation that many people had that perhaps weren't expert volcanologists
+
+was it was either going to be a catastrophic eruption or something that they,
+
+um, couldn't, uh, were less familiar with.
+
+So the way we tried to approach it was really explaining what those different
+
+likelihoods of these different scenarios could be of the different types of unrest.
+
+And if there was to be an eruption, just how unlikely it was.
+
+But but not not zero.
+
+And what we should and could be planning for coupled with that was what are the potential consequences that could, uh, could potentially manifest.
+
+And so one of the areas, after quite a difficult couple of weeks of,
+
+of trying to work through this and, and explain it, we came up with this, this table,
+
+and I presented it to the director of Civil Defence and emergency management at the time,
+
+who is a guy called Gary Knowles, who's a real character, great, great guy, but a real character.
+
+And, uh, after all the stress and anxiety of how we're communicating this effectively.
+
+And Gary just said, oh great, Tom, that looks really simple. No dramas.
+
+And I thought at that point, oh, we've, we've, we've probably on the right track here where he was reassured.
+
+He felt like he had a good, good sense of what the problems were and that he was able to digest it and make, make good decisions.
+
+So one of the areas that we've been trying to sort of build a bit of a theme around here is what that science policy boundary might look like.
+
+One of the ways that I've found quite useful to to theorise or conceptualise in my mind is this boundary management theory,
+
+which is a way to think about it. So across on the policy or practice domain, what we're really driving for is access to relevant knowledge.
+
+And so we can make good decisions quickly and often that the demands can be at times quite simple but usually quite applied science or engineering,
+
+usually trying to bring things together.
+
+It's quite demand driven, usually interdisciplinary, but very big pressures around that time demand, and it needs to be in a very timely process.
+
+Whereas perhaps over on the science and, and perhaps more research side of engineering is that usually credibility is the large driver.
+
+That's, that is motivating many people dealing with uncertain and often quite complex information,
+
+which is quite basic science and more supply driven. Um, it usually takes over a much longer term.
+
+And but that hybrid zone demands that what we call legitimacy need to have that balance of both sides, um, having that credibility come in,
+
+but so that it's relevant often that involves a lot of compromise,
+
+thinking around what the inclusive way that we want to bring these things together and ensure that it's highly transparent.
+
+And these are principles that have worked really, really well. Just checking for time how I'm doing.
+
+So the last things I wanted to cover was the the North Ireland severe weather events, which were, um,
+
+a very challenging time for the nation where we saw huge impacts across the northern and eastern parts of and central parts of the North Island.
+
+Um, rather than that type of scene. What I was mostly working on was this scene, which is the National Crisis Management Centre,
+
+which sits underneath the beehive, and a what's affectionately known as the bunker.
+
+So this is where all of the national agencies are coming together to try and coordinate support, to get out into the regions and at local level.
+
+One of the areas that we we really determined from that was the need for a much more structured
+
+approach around how we're providing science advice and technical advice in an emergency context.
+
+So the lessons that came out from that and other events was to stand up a science desk,
+
+which provides a coordination function from the science system into the emergency management system in a transparent and and structured manner,
+
+and to expand the different science advisory panels which we use, which please don't be put off by them.
+
+We called science panels. There's a large number of engineers that sit on these these panels as well.
+
+The idea here is that they provide an efficient and effective mechanism for getting access to the best technical information that we might require,
+
+both in business as usual times and during emergencies.
+
+So the different panels that we have sit in the middle of this diagram here, but I just wanted to show you how these will work in practice.
+
+We're out on the left here.
+
+We have the what we call the natural hazard monitoring and forecasting agencies so that we have GEOnet and the National Geo Hazard Monitoring Centre,
+
+which is telling us I have tsunamis or volcanic eruptions or earthquakes. We have MetService, which is providing those forecasts.
+
+And we also have space weather coming in too. And that's the operational arm of the science coming into our Mars centre, which is the monitoring,
+
+alerting reporting centre and a major event that's coming into the science desk within the CMC.
+
+But we also have these science panels, which provide and slightly slower time deep expert advice,
+
+both during crises but also for longer term resilience activities.
+
+And we draw from different aspects across the system too. So an example here of one of our science panels in action for Space Weather.
+
+We've got different industry experts from Transpower, academics and Nema staff all coming together.
+
+So to bring this all together as sort of some final thoughts.
+
+So one of the areas that really underpins a lot of the work that we do is mindful that disaster risk is increasing with a number of drivers for that.
+
+And some of the decisions that we make are increasing that risk of things that we have choices around.
+
+So I think the key thing is both understanding what our risks might be is critical and all their complexity.
+
+But perhaps most essential going forward is how do we reduce those risks as the key priority across different systems the tools,
+
+knowledge and planning, and how do we engage and influence and empower communities with that right knowledge and
+
+engaging those science and technical partners really key part of that investing in the future.
+
+The final thoughts, perhaps, for you to ruminate on as you proceed with your careers?
+
+You're very exciting time of your lives as to where you're going next,
+
+but that need for rapids and timely access to quality technical information is really,
+
+um, only increasing the emerging challenges that we face around AI and climate myths and disinformation and the reducing trust in institutions is key.
+
+Um, and how we might leverage some of that is important. But if I could leave you with these four points here of the skills for pets,
+
+what I would say is very much needed for, um, coming through to operate in, uh,
+
+the emergency management or whatever particular technical fields you're looking for is
+
+to be comfortable across that hybrid skill set of both using your technical knowledge,
+
+understanding what environment it might be receiving in policy, and being able to be a very strong and effective communicator,
+
+having that institutional independence of where you're able to provide that technical information without being exposed to political or other aspects,
+
+but still, having that access into the decision making areas is important.
+
+Drawing that evidence from across academia, industry, government, really important ability to synthesise and integrate and I guess less in my world.
+
+But I would imagine in yours too, is that capability to operate under high uncertainty and often in an urgent context are good skills to to develop.
+
+And I understand you've got some things coming which will be looking at that.
+
+Thank you so much for your time today. Um, really do appreciate it.
+
+Happy to take any questions. Okay.
+
