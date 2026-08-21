@@ -1,0 +1,1085 @@
+[Auto-generated transcript. Edits may have been applied for clarity.]
+If I could tell Kato. Now my hiding my picking my cake, my dinner.
+
+Kato Katoa cured everyone. My name is Professor Deirdre Brown, and I am the Tamu, the deputy dean of the Faculty of Engineering and Design.
+
+And I've been accorded the great honour today of introducing the session where we have this,
+
+and these are two incredible speakers who will be introduced to you in a moment, Simon Mace and Simon Fenton from the City Rail Link.
+
+But I wanted to acknowledge the generosity of the engine 403 team for not just inviting you here today,
+
+but actually inviting the whole university as well.
+
+So my welcome extends to our students from the faculty, but also students from other faculties, including my son,
+
+who I think is in here somewhere, to to join us today because it was felt that the session was so important.
+
+Um, I'd also like to acknowledge the fact that so many of our graduates have gone on to work on the CRL.
+
+It seems like every second graduate from our faculty has done this.
+
+And and not just within the domains of engineering too, as I'm sure will be spoken about today.
+
+This is an important project for our city, which was nominated over 100 years ago and building started a decade ago,
+
+but has also made a significant change to the urban design of our city, a great improvement on it also.
+
+Architecture. A number I teach architecture,
+
+so a number of our graduates have worked on the CRL and have been leading different parts of it and different stations, and also designed to.
+
+So what we'll hear about today is not just an infrastructure project with significance under the ground,
+
+but also the way that it has opened up our city,
+
+put it on the map, and this has been something that's come through in a lot of the discussion of this,
+
+actually put our city on the map internationally. We'll get us moving around, we'll bring jobs to places, we'll meet new houses,
+
+which some of you will be living in in the city, but also, you know, has turned our city into a vibrant, exciting place.
+
+And so I'm very pleased to be here to hear this lecture.
+
+And I will turn now over to Mark for the introductions. Thank you.
+
+Thank you. Deirdre. I'd just like to welcome him and give her a big no.
+
+My Heidi. My. To those outside of the engine for a three course.
+
+Who attended today? Um, just a bit of background.
+
+Our students are fourth year engineering students, learning a lot of the tools that they'll need to really apply in their careers.
+
+Learning about things like business cases, learning about what the reality of these engineering projects really look like.
+
+And so we're really happy to welcome Simon Fenton and Simon Mace to talk to you a little bit about what they've
+
+done over the few over the years that they've been through this project and some of the things that they've faced.
+
+So please give them a warm welcome to Simon Fenton. Simon. Mace. Chiara.
+
+Couto. Katoa. Core. Simon. Mace. Tokugawa. Hello and welcome.
+
+My name is Simon Mace. A little bit of introduction on myself.
+
+I did Mechanical Engineering and a master of Engineering Management at the University of Canterbury.
+
+I'm a chartered mechanical engineer in the United Kingdom.
+
+I've got 25 years experience working in New Zealand, Australia and the United Kingdom, and that includes 17 years in the rail sector.
+
+Most of my roles have been in client organisations and mainly in the design management area.
+
+Some of my project highlights and with a few photos. City Rail link obviously what we're here to talk about today.
+
+The North End rail upgrade that was with KiwiRail. We can see a brick line tunnel there.
+
+Bottom right Auckland light rail. I did a stint on before coming back to City Rail Link and also High Speed two in the United Kingdom,
+
+which is the long viaduct that you can see in the top right there.
+
+I'll just hand over to Simon. Okay. So Simon, Fenton.
+
+So I'm I'm the Aecom transport group leader.
+
+So I run the Aecom transport business, but also I was the Link Alliance CPS manager and try not to get acronyms.
+
+So CPS is construction phase services and we'll get into a little bit about that later.
+
+So I graduated to Newcastle University in the UK with a master's in civil and structural engineering,
+
+and we've got 17 years experience working in the UK,
+
+New Zealand and the Pacific Islands, which has been exciting and I've got experience in both the contracting and consulting world.
+
+So I started life as a contractor, but moved into the consulting world later on in my career.
+
+And I've got a background in roading, rail, energy, water, buildings.
+
+I'm a bit of a generalist. So yeah, so I've got a very vast range of experience.
+
+Um, but yeah, not an expert in anything. Um, so highlight projects for me.
+
+Um, city Rowlings. I've been on the project for six and a half years.
+
+Um, I was the design manager and delivery manager of Southern Corridor Improvements,
+
+which is a large portion of State Highway one, widening works from manicured and stacking in.
+
+Um, I did a really exciting two years over in Fiji doing utility upgrades and new roading.
+
+So if anybody's been to Fiji and driven a general. You'll have driven on my roads, which is cool.
+
+Um, I did a stint in Christchurch as part of the earthquake recovery,
+
+so I was seconded into Christchurch City Council to support their building consents team as they went through.
+
+Um, a vast amount of buildings and applications post recovery. Um, I was a contractor, projects engineer on Manchester Energy from waste,
+
+which was turning, um, uh, recycled and waste materials into energy and production.
+
+And I started off life in rail, so I've done a bit of a full circle. And my first job was Kings Cross Eastern Range.
+
+So it was a new platform at King's Cross station in London, along with a big heritage upgrade.
+
+So yeah, some cool projects. Oh, I should call that as well.
+
+My four loves of my life. I've put them in the bottom corner. That's my fiance, my daughter, my dog and my football team.
+
+Bradford. If anybody knows that. So I should shout out to the four loves of my life.
+
+You're good to go. Yeah. So, um, today's journey, because we've talked on the train, we're going to go on a journey.
+
+Um, so yeah, so we're going to go into a little bit of what is CRL, the history of the project, and we're going to touch upon the business case.
+
+So what we intended on doing and then what we ended up delivering.
+
+And then I'm going to start talking a little bit about construction phase services, which is something I'm really passionate about.
+
+It's where it's what I've been doing on my career for the last sort of ten years,
+
+and that is a middle ground between the contractor and the consultant.
+
+So a really cool space. And within that we're going to go through stuff like quality assurance.
+
+We're going to go through some communication techniques, how we manage change really a bit about engineering judgement.
+
+So thinking outside of just our design codes, um, and then we're going to do some cool things.
+
+We're going to look into some of the, the photos of the finished products.
+
+And Simon and I are going to talk you through really about the scale of this job. So yeah.
+
+Exciting. Radio.
+
+The project City Rail link, uh, such an exciting project.
+
+It's really, really important and close to my heart. Um, 11 years ago, I came back from a long stint overseas to work on the City Rail Link.
+
+At the time, I had a young family, so it was quite a big decision. But here we are 11 years later, about to open the project in 30 days time.
+
+It's a really exciting time to be in Auckland. Cut a few of the headline figures.
+
+3.45km of twin underground tunnels, four new and upgraded stations, a total project cost of 5.5 billion NZD,
+
+doubling Auckland's rail capacity to 54,000 passengers per hour and the peak time deepest point below the city 45m.
+
+And yeah, as I said, opening date. Get this one burned in your mind.
+
+13th of September. Right?
+
+An overview. How does it. How does it fit together? Well, as you can see in grey is the existing rail network.
+
+And so that the City Rail Link quite simply fills in that gap.
+
+But it does so much more than just filling in the gap. New stations, new locations that are served by rapid transit.
+
+Um, the ability to run nine car trains in the future.
+
+At the moment, all trains that run on the Auckland network are either 3 or 6 car,
+
+but with future proofed the City Rail link to be able to run 50% longer trains than we run already 100 year asset life.
+
+Obviously planning for the long term and one more time opening the 13th of September, right?
+
+A bit of a different view. Uh, view towards the east.
+
+Um, showing down down at Waitemata. Uh, cut and cover tunnels up, up Albert Street to Te two, then into twin bore tunnels, 2 to 2 to Mong Fu.
+
+And also there are some sections of mined caverns. So they were at Karanga, a happier station, and also caverns up at Mong Fu.
+
+Uh, I made a note turnouts underground among fo in those caverns.
+
+That's particularly important. That turnouts is something you would never normally put underground,
+
+but due to the layout and how the how it has to work, we were forced to put turnouts underground.
+
+So that's quite a unique thing in New Zealand.
+
+Vertical profile obviously an exaggerated scale down at Waitemata all the way up to Monga for maximum rail gradient of 3.5%.
+
+That's actually 1% steeper than the normal network maximum of 2.5%.
+
+Obviously that's set by the topography of the existing land watch Mata being lower,
+
+mofo being higher, and the fact that at stations flat or 0% track grade is an absolute must.
+
+We cannot have we do not have track on a slope.
+
+So what that does in between those sections where the stations are is drives the overall gradient even steeper.
+
+It will take approximately three minutes to travel between each of the CRL stations.
+
+Right. The benefits. It unlocks Auckland's rail network.
+
+Obviously doubling that about that rail capacity. Train at least every ten minutes.
+
+Cuts outer suburb commute times and also serves the new locations.
+
+Doubles the number of people living within 30 minutes. Public transport commute of Auckland city centre.
+
+It's easy to say, but think about that doubling the number of people.
+
+So that's really important in the in the wider sense.
+
+Up to 2000 people were employed on site during construction.
+
+It's an attractive alternative to the car to car travel, award winning, world class station designs,
+
+and a lasting social legacy in the upskilling of workers who have worked on the project.
+
+A little bit about the contract strategy and how it was delivered in terms of the different contracts.
+
+There are three early works contracts contract one,
+
+which was done at White Matter the Downtown Shopping Centre, commercial Bay, Early Works and Contract two.
+
+Next was contract three.
+
+So that's the Link Alliance works stations, tunnels and rail systems, which is by far the largest and that is Link Alliance as well.
+
+Myself and Simon have been working as part of and there were also C8, C6 and C9 which were supporting wider network works.
+
+Partnership has been a key part of the project, so when you get to visit the stations,
+
+you'll see the Maori creation story depicted in the station designs.
+
+The names for the stations are.
+
+You've probably heard them many times, but Mong Pho Toyota to Karanga are happy, and Waitemata, which was formerly known as Britomart.
+
+The names reflect the cultural narrative of the areas of these stations they will serve, and they are also mirrored in architectural design.
+
+A little bit more detail on each section of the route down at the station, formerly known as Britomart,
+
+was turned from a terminus to a through station and renamed to Waitemata, the chief Post Office.
+
+So that's the heritage listed building under contract one had tunnels built underneath that heritage building.
+
+Tunnels under lower Queen Street were built, and the existing lower Queen Street was converted from a road to the public.
+
+Tongue Square downtown shopping centre, which was demolished in 2016,
+
+has the has twin CRL tunnels through the basement and contract two as the cut and cover up Albert Street to Wyndham Street.
+
+A couple of photos just from those contracts I've just talked about.
+
+Photo on the left is standing sort of with your back to commercial Bay looking up at the CPO at Britomart.
+
+So those are the tunnels across a lower Queen Street.
+
+And then obviously on the right is the the finished product.
+
+Very complicated civil works under the sensitive heritage listed building, which is that buildings over 100 years old opened in 1912.
+
+The building was first supported on a temporary structure, with the excavation for the tunnels occurring underneath.
+
+Tunnel structures were built and then the tunnel, and then the building was lowered back onto the new support.
+
+So really, really complicated stuff. Lower Queen Street was cut and cover construction, as I said, creation of a square.
+
+And I recommend if anyone has not looked at the paving that is in that square on an aerial view on Google from above.
+
+Have a look. It really does look amazing. Right.
+
+The commercial Bay or precinct properties section you may have seen on the left.
+
+That's the sparkling new PwC tower. What you may not know is on the right hand side is that building was being built.
+
+You can see it maybe a little bit hard, but in the middle of that photo on the right hand side, you can see the CRL tunnels taking shape.
+
+So at the same time the building was being built, that is when the tunnels were built.
+
+The timing of that construction through commercial Bay was really important,
+
+because it was the one opportunity to utilise the route up to Albert Street.
+
+If we didn't build those tunnels at that time, we could never come back and do those runs later.
+
+So that was really important contract to that.
+
+This photo is looking south, I say up at Upper Albert Street.
+
+It's a bit odd saying south and up. I know.
+
+Cut and cover construction piled, retaining on both sides of the open trench excavation down to the below future track level.
+
+Temporary propping to support the retaining with a reinforced concrete.
+
+Tunnel cells were built in sections at the bottom of that trench using a reusable formwork, and then the tunnels were backfilled on top.
+
+And then the Albert Street, as you see now, was reinstated on top.
+
+Right. Tier two station set to be New Zealand's busiest station.
+
+It's the key to Mid Town's regeneration. The name D2 relates to the stream which still runs underneath Queen Street.
+
+There will be two. There is two entrances to the station at Wellesley Street and at Victoria Street.
+
+There's also a subsurface full length concourse between Wellesley and Victoria, which is free to use if it's raining.
+
+So if you find yourself at one end and want to get to the other, use your hopper, your pay wave card tagging at one end tag out at the other end.
+
+You get 20 minutes and then you can stay dry.
+
+Top down construction diaphragm walls from street level excavations down to pouring roof and floor slabs and excavation underneath those slabs,
+
+and then repeating down the number of levels.
+
+Point to note is the heritage bluestone wall, deconstructed block by block and then rebuilt after the station blocks had been built.
+
+So that's an amazing sort of heritage piece that's been reinstated. It's a great location for university students because I have checked in.
+
+The distance from the Wellesley Street entrance is about 900m to where we are now,
+
+so depending on how fast you walk, that'll be under ten minutes from a rail station.
+
+Karangahape two entrances, one at Mercury Lane, next to the Mercury Theatre and one at Beresford Square.
+
+Passengers will descend the 33m at Beresford Square using New Zealand's longest escalator.
+
+There's a bit of a story to it. It was going to be longest in the southern hemisphere before one was, I think, installed at Martin Place in Sydney.
+
+So blame the Australians for that. Um, the the number the name Karanga are happy is a grammatical correction of the charanga happy as we know it.
+
+Um station technique. Um, due to the depth below ground level, it was mined.
+
+Construction complex, underground construction and services packaging were required to fit into the underground spaces.
+
+Right. Mongo station is on the same site as the original Mount Eden station.
+
+So now we have four platforms there, so two on the North Auckland Line and two on CRL.
+
+The CRL platforms are subsurface in a trench, so if you've used new line or somewhere like that,
+
+it'll be a similar type of thing down into the ground but not covered. The east facing connections are underground,
+
+so they connect from the CRL tunnels to the North Auckland Line and the Grafton direction, but you won't see any of that underground.
+
+Several platforms continue on towards Kingsland. Put a note three grade separated junctions in one of those underground.
+
+That's really complex in its own right. And yeah, some of it you just don't.
+
+Don't even see there's an extra three storey building on site, which is the ventilation building.
+
+So that houses tunnel ventilation fans and rail systems equipment.
+
+The site was used as the main construction site for CRL, so that supported the tunnel boring machines.
+
+Two drives which both went from this site from from Mong Fo northbound to Toyota two.
+
+There's large development potential on the land around the station,
+
+so when the station opens it might seem a bit bare, but over time, with development that will that will fill up.
+
+Right onto the business case. I absolutely say out front I am not a transport economist or a a business case expert.
+
+So what you're getting is the sort of engineer's view of, of a business case.
+
+Um, my contributions to business cases over the years normally mean managing option development through to a preliminary engineering design.
+
+So that is enough engineering design to inform a cost estimate.
+
+But I did go back to the 2015 business case for City of Burlington that was based on the New Zealand government better business cases model.
+
+So that's a standard model. Turns out it's actually five different cases.
+
+There's the strategic case, which is the case for change. Why why do we why would you do it.
+
+So obviously the what was used in the business case of the same, um, same objectives that we are delivering now.
+
+So the same list. So that's that's reassuring. The other cases, the economic case that's identifying the best value option.
+
+So options including a preferred demand forecast economic appraisal what including wider economic benefits.
+
+I had to remind myself what's a wider economic benefit.
+
+So that's something you put a dollar value to and it takes into account additional economic output created because of better
+
+businesses ability to recruit better staff workers having more opportunities and businesses becoming more productive.
+
+There's also the commercial case. That's how a how the project would be delivered.
+
+So procurement and contract strategy and potential providers.
+
+There's the financial case. So that's benefits and costs. Much talked about thing that often comes out of business cases benefit cost ratio BCR.
+
+And then there's also the management case which is the proposal for how you would manage and deliver the project.
+
+So the kind of internal project planning and that I will hand over to Simon.
+
+Awesome. Really interesting stuff. So yeah we're going to go on to contract through now, which is what my background is.
+
+Um, so yeah, I'm going to just do a brief intro. It's what I'm going to talk about is really consultancy engineering doesn't end with a drawing.
+
+So my life is sitting between design and construction.
+
+Um, so whilst you usually end of a consultancy services is delivery of a drawing for someone to go build it, there's actually life after that.
+
+So hopefully I can share some of the uh some cool stories from that.
+
+So really learning outcomes I'm going to talk today is really understanding engineering consultants role during construction.
+
+Um how do we apply quality assurance principles during construction?
+
+Um, a little about our communication skills and how help in providing clear technical clarifications.
+
+Um, how do we navigate change in a project like this? Change happens.
+
+It's inevitable. So how do we how do we do that in a in a structured manner?
+
+Um, and really about how do we apply engineering judgements in very complex and dynamic environments.
+
+Um, just on the right hand side, this is a really cool photo.
+
+This was when the the first TBM breakthrough was, um, just a great shot showing the number of nationalities as well.
+
+I think there was 13 different nationalities just in that one shot alone,
+
+but beyond the project, far more so you can spot me with my England flag right in the middle.
+
+So a little bit about the, the, um, the contract.
+
+So, um, this is an alliance contract. So, um, an alliance contract is a is a relationship style arrangement.
+
+Um, it really it brings together the client, the contractor and the consultant team together to deliver the project.
+
+And in doing that, we share all the risks and we share all the rewards. So it's one where we come together.
+
+So it's different to like a design and construct where the constructor goes away.
+
+They provide a lump sum and they have to deliver within that budget or a traditional when we would sit on the client side.
+
+So the story I'm going to tell you today is really around, um, how do we work with an alliance model?
+
+A lot of the skills I'll talk about are transferable, but it does it.
+
+If you're in a D and C or a traditional, I'll add a different contract mechanism in terms of managing variation and price.
+
+So um yeah. Alliance hats on today please.
+
+So the Link Alliance is a is a group consisting of City Rail Link who is our end client?
+
+It's got three construction teams in Vinci Grand, Project Downer and Solar Batch.
+
+And the three consultants are Tonkin Taylor, Aecom and WSP.
+
+So that makes up the Link Alliance. There was also a number of other consultants or sub consultants that were included in that.
+
+For example, we had Grimshaw who were architects. We had Jacobs who were doing earthing and bonding specialisms, and we had a number of others.
+
+There's a, there's a, there's a range. Um, so yeah, construction phase services or CPS if you haven't heard of that.
+
+So yeah, we're um, we're part of a puzzle. So we're the middleman between the design team and the construction team.
+
+So the design team is focussed on getting those drawings ready, getting it out, getting it consented and over to the contractor.
+
+And the construction team takes it, they start building it.
+
+And then what we do is we help navigate that interface between the design team and the construction team.
+
+So a really, really important job and something that people don't necessarily understand.
+
+They think when you're a consultant, you just do drawings. And when you're a contractor, you build.
+
+But there's actually a really cool middle ground, which I love, which sits right in between the two of them.
+
+So we're in construction based services.
+
+We've got three pillars and we've got quality, which is about the sharing and work, assurance of work and protection of the design intent.
+
+We've got technical clarifications, which is our RFCs. And how do we yeah, give additional information that's needed from the construction team.
+
+We also help manage change. So when we want to do something differently um, it's.
+
+Yeah. How do we how do we support the, the team to do that? So why do we need us?
+
+Um, there's always going to be unknowns and unknowns such as utilities or ground conditions.
+
+That means that we have to navigate. Um, we we support the change process when things need to do differently.
+
+We support re sequencing and interface changes and material supply availability.
+
+It's not always especially when we're going through a Covid environment, which we'll touch upon later,
+
+and we contribute to safety and well-being, as everyone does within the within the industry.
+
+It's really important that none of us wear the ownership of that.
+
+We all do. We all do. It's not one. It's not one group. We also drive performance and quality.
+
+So a little bit of a starting point for in terms of a sign off process.
+
+If anybody doesn't understand the building consent process, um, there's the reason we got these things called producer statements.
+
+And that's what gives counsel the confidence that what is being designed and constructed is, is safe and is performs in a, in a functional manner.
+
+So where we sit so we PS1 designed by the design team based on the drawings.
+
+You then get an independent checker depending on the scale of the project.
+
+So that would be another design consultant who would check those drawings to make sure they're correct.
+
+It then goes over and to get built and the construction team sounds a PS3 to say,
+
+yeah, we've built what's on the drawings and what we do is sign a PS4,
+
+which basically saying through the observation that we've seen,
+
+we believe that the construction team have done a really good job, and we're happy to say that that's good to go.
+
+In the meantime, as well, CRL also runs a parallel process of sign off.
+
+So whilst the producer statements are focussed on the building consent sign off, the design certificate process is very, very similar.
+
+It's DC ones to DC force, but that's about the project requirements, the client requirements.
+
+So very similar process where the design teams say, hey, I've met the requirements.
+
+The construction team says, yep, we've built it as per the requirements. And then we come in and say, yeah, great, looks fantastic.
+
+We're happy.
+
+So just to note as well, for anybody who wants to sign a producer statement, especially for the design team, you do have to be a chartered engineer.
+
+So that will be a process that majority of you will end up going through in your career.
+
+So that's part of Engineering New Zealand. And that is a fundamental requirement of being able to sign off a design produce statement.
+
+So when design meets reality. So drawings are great, right?
+
+But there's always things that occur on site and there's always things that change, which means that we may have to deviate from the drawings.
+
+So when the drawing says, for example,
+
+in our project that the ground is East Coast Bay formation sandstone stilts zone consistent, we think easy TBM brilliant.
+
+It's just going to go straight through. What actually happens is that we get pressure changes.
+
+We're working underneath live motorways, which causes vibrations and issues.
+
+We're going past heritage buildings, sometimes metres away from heritage building foundations.
+
+In some cases we had temporary works from foundations of buildings.
+
+So the Aotea Centre, um, it had some old steel strands which we used in temporary works to build the foundations.
+
+Our machine had to go through those, so we had to find ways that we could de-stress those.
+
+And then that allowed them in a place that wasn't going to clog up the TBM and damage it.
+
+So. Sounds simple. Never is. That is just a consistent story that you guys are going to find in your careers.
+
+So, um, yeah. Also utilities, we always say that utilities in the right place.
+
+Utilities are never in the right place. Right? They're never in the right place.
+
+They've always been put in, never been as bill correctly.
+
+And you'll consistently find surprises, especially when we're in the city centre of Auckland.
+
+It is a bird's nest of of utilities. It's crazy how busy it is.
+
+One trade may finish. We always think that one trade is going to cleanly finish for the next,
+
+so we think there's a nice programming stage and now one trade is going to get delayed.
+
+And then we've got to find ways to navigate the next trade to get a move in.
+
+And that may require change. We assume that materials are going to arrive exactly on program.
+
+And then we go into a global pandemic and there's lockdowns and supply chains.
+
+They don't care about our program. So we've got to find ways about how do we get materials in to keep the project moving.
+
+Other thing is like cable specs, we base cable specs around assumed as electrical equipment are in design,
+
+and once again we might have to change that. Materials may to change those those equipment those equipment may draw more power.
+
+Which means that we've then got to go back and change our cable sizes to cater for the new power.
+
+It's just a constant process, and that's why it's so important to have this interface. The paperwork behind every project.
+
+So this is an inspection test plan. This is a start to finish guide for how do we show that we're meeting the quality expectations of the project.
+
+So each one of these will be based on a certain work and function.
+
+So this one is about in-situ cast concrete for the mounted and civil tunnels.
+
+So the construction team will put this together. They'll base this on the specification that's provided for the designer of what we expect.
+
+So there'll be things like concrete strength. There'll be things about the mix of it.
+
+There'll be things about the post port checks. There's a range of checks that we'll end up doing through this.
+
+And part of CPS job is to work with the constructor to make sure that the whole
+
+points and witness points that have been assigned to us are being ticked off.
+
+The quality evidence has been gathered,
+
+and this effectively becomes our consolidated lump of information that allows us to sign a PS4 at the end of the day.
+
+So inspections and monitoring. So I just mentioned that during the day as part of the ITP, we've got whole points and witness points.
+
+So the whole point is a mandatory stop of works until the CPS team has come along and had a look at it and said they're okay.
+
+So we'll go out and do inspections. So inspections might be for steel reinforcement cages before you pour concrete.
+
+It might be to make sure that cable trays have been fitted properly before we start putting cables on them.
+
+So it's a whole point to say, hey, we're just going to stop now and have a look because there's a point of no return.
+
+Once the concrete has been poured, once we've pulled all these kilometres of cable, it's very difficult to go back in time.
+
+So we have a start point. We also have witness points. And those witness points are things that we may want to attend.
+
+It's based on confidence. If we see that the constructor is doing a really good job, we might pull back on some of the witness points.
+
+If we feel that they're maybe struggling or it needs a little bit more, um, maybe it will look over.
+
+Then we may increase the number of witness points that we look at. So all this is really based on relationships.
+
+So once we're in this we're usually based in the office on a smaller project you might
+
+find we're back at your design office and you'll get a call from the contract saying,
+
+hey, I've got a pour tomorrow. Can you come down to site and have a look at it from me?
+
+So it's all about communication, those relationships. And we'll talk about that a bit later on.
+
+What we're doing is we're checking compliance. We're signing check sheets, we're taking photos, we're releasing whole points.
+
+And effectively all that information in the ITP then goes into a quality pack and that gets that gets reviewed and signed off.
+
+So an example of some of the inspections that I've been doing over my time on City Rail links.
+
+This is um. This is a diaphragm wall construction. This is basically how we built the underground stations at Arthur and K road.
+
+So we use diaphragm walls as a way of doing top down construction.
+
+So what you've got is you've got this big, cool bit of kit called a hydro freeze and with a big drill bit on the end of it.
+
+And that effectively drills from the surface down. And at K road it drove to 43m.
+
+We then fill the the excavation with a liquid called bentonite, which is a sort of clay based material.
+
+Um, and then we drop in a cage. So this cage, I think that you can see in the bottom, that was the longest cage for K road.
+
+It was. Yeah, I think it was 30 odd metres when we can splice them together as well.
+
+So you drop that in and then what you do is you um, you add concrete, it's trimmed from the bottom that displaces the bentonite out of the top.
+
+And then you effectively had this big concrete wall cast in the ground. And you do this over and over again.
+
+And so you've got the foundations of the building and then you dig it out.
+
+So that's why it's called top down construction. So that's a bit of insight into that.
+
+But really what my job was was, you know, I was checking the method statement. I was making sure that, you know, they were set up to, to to do it.
+
+Right. I'm checking the reinforcement of the cages to make sure that's that's all correct.
+
+We're checking that the bentonite has got the right consistency so that it's going to retain the ground.
+
+Remember, we're in a city centre environment. We're two metres away from building some high, high rise building foundations.
+
+It's nerve wracking stuff when you start digging out ground right in front of a skyscraper.
+
+Um, so we're making sure all that's right, we're checking the depth of the cup, the cleanliness of the base poor.
+
+We're checking the concrete mix and the strengths.
+
+And then once it's poured, once it's excavated, we go back, we look at it, we make sure the wall is looking good.
+
+And at the end of the day, we get all the information in the ITP and we sign it off.
+
+So this is a very not normal process, I guess, for the level of input that will do into a construction job.
+
+Now it will depend on the level of construction monitoring different complexity jobs will require more CPS input than others,
+
+so obviously this was a really high risk one. I think it's CM five monitoring, which means that we're there full time.
+
+But you may find on some of the smaller jobs that you may work on in the future, that it may be less input on that.
+
+But generally in CM five is that we're there to see everything so things don't go right.
+
+And that's a given. Um, we use a thing called non conformance reports which basically if something goes wrong how do we fix it.
+
+So there's a few examples there. We've got some um some matting on a concrete diaphragm wall.
+
+We've got a damaged lift door and we've got an overloaded cable tray.
+
+Um so what the non conformance report does is it allows us to go cool.
+
+Something's gone wrong. How do we fix it and how do we learn from that.
+
+So what you find is usually the constructor will hate these because they'll think it's just go having a go at their workmanship.
+
+But it's really, really important in making sure that we are learning so we don't repeat the same mistakes twice.
+
+So we identify what the problem is. We record where it is. We assign the responsibility of who's going to fix it.
+
+We agree what the corrective action is and what went wrong.
+
+And what it does is it provides an audit trail and a record so that we capture the what goes, what's gone wrong.
+
+And it's captured in our as builds. It's captured in change management.
+
+And it then it goes in on the in the handover documentation.
+
+So I just really wanted to focus a bit on communication for a while.
+
+Like as engineers we always just focus on how to design, how to build, you know, all the very techie stuff.
+
+But actually at the heart of good engineering is communication, is good communication.
+
+And whilst a lot of people see it as a soft skill, I don't I see it as a hard skill.
+
+It's something that you, you'll find will help you in your career.
+
+Been able to communicate effectively is going to help you create stronger relationships,
+
+which is going to help you both internally in your business, but also on your projects.
+
+Um, there's so many projects that have issues which are just down to poor communication and poor relationships,
+
+not because of someone's technical ability.
+
+So it's just something I really want to touch base on because it is it is something that I think we sometimes lose track of.
+
+It's a skill. You can learn it. It isn't just about, hey, I'm, I'm a nice person or I'm a bit of a meanie.
+
+It is a skill that you can learn. So, um, yeah. So there's room to the room to change.
+
+Um, so. Yeah. Um, but obviously communication comes in all ways, you know, on a site, you know,
+
+we have meetings, we have phone calls, we have teams calls, and we send WhatsApp messages.
+
+I think I've sent a couple of Facebook Messenger messages to our to site engineers before when I couldn't get hold of them.
+
+Um, but what the formal line of communication on projects is usually we use these things called requests for information.
+
+Ah, so all the softer forms of communication is great.
+
+And that's about understanding, you know, where we're going to meet you. Where's the meeting going to be?
+
+You know, can we have a chat about this? But what the most important thing is that decisions are captured formally and that way.
+
+Can we have them as an audit trail? So we use there's usually a number of systems that we can use.
+
+I think we if anybody knows there's one of the systems that we use, it's a document management system,
+
+but it records the communication, it records drawings, and it's a one stop shop to make sure everything's together.
+
+And so yeah, so once we've had all the software conversations we then formalise it.
+
+So we raise an RFI, someone reviews it, we respond the changes then implemented and then someone confirms that,
+
+yeah, it's been implemented and I'm happy. So it's really important that yeah, we're making sure that all decisions are captured.
+
+And I just put a bit of a golden rule here like good good responses explained design intent.
+
+So rather than so for a good example, um,
+
+we had an example on site where there was a construction team wanted to put a temporary box out into one of the slabs.
+
+Right. So he said, hey,
+
+I want to move some reinforcement bars and put a box out on the underside of one of our slabs so I can give access to put some cables in later.
+
+And and so a poor response would just be no.
+
+Right. A good response is to say, hey, look, there's a lot of tension in that area.
+
+So all those bars that are in there are actually carrying a lot of tensile loads.
+
+Moving the bars is going to put a lot of strain on the underside of the concrete beam, and it could lead to risk of failure.
+
+I know if I was a contractor which one I'd want to hear, and it would probably be the latter one.
+
+So it's really important that we're making sure that design intent is explained.
+
+So try and explain the why, not just the outcome, not just the what?
+
+Um, the other thing. Yeah, this one here is about engineering judgement as well.
+
+Um, so that within the construction industry, like balanced decisions need to be made to take into account all of the following aspects.
+
+So it isn't just about meeting code all the time. That is one part of being an engineer is meeting code.
+
+What you've got to also work around is is it safe? Can we afford it?
+
+Is that Is that design going to fit within our program? What's the quality we expect and what does the client want?
+
+At the end of the day. So it's making sure that we are considering all of these.
+
+And what what's easier when you're in a design office.
+
+And that's why we're seeing a lot more models like early contractor involvement models like this.
+
+That's why we've seen a lot more sort of DNC and alliances where the contractors involved.
+
+So that's helping to make design design decisions as we as we move forward.
+
+But we've got a lot of time in that space where we don't have time is when we're on site and something's happened and something needs to change,
+
+and they need an answer now. So engineering judgement needs to come in.
+
+So whilst we use our engineering knowledge, we use our codes of standard, our practice, our maths as the basis for all decisions that we make.
+
+We also need to take into consideration a vast amount of other criteria to make sure that we're going to be okay.
+
+So access is a big thing when you when you're working in City Rail Link at the
+
+minute there is there might be some architectural issues that we need to sort. Some scratches, some dense panels.
+
+So someone's got that number today. Got some dents over there. We need to fix it. It's usually the architects.
+
+There's no architects in the room, is there? Oh, God. Okay, I'll be careful what I say then.
+
+Um, so the architects and the architects will basically want to do some damage when we actually go to site and we look at it,
+
+we go, well, we're gonna have to get some scaffold up here, and how are we going to get the scaffold in?
+
+And then we're going to put a guy up there with now a 20 metre drop beneath him.
+
+And we're going to it's going to be a load of cost. And we've got the risk of damaging something else.
+
+And we've got the station opening next week. So there's all these things that we start considering.
+
+And then suddenly the outcome of fixing the damage panel sometimes falls away.
+
+And the architect was actually maybe, maybe that's not the best idea,
+
+but it's about having this perspective to understand the other risks associated with, um, yeah, making change or changing things on the fly.
+
+So I've just put a little note there. So a good good I know we like our calculation.
+
+So experience plus evidence plus common sense equals good engineering judgement.
+
+That's a good thing to remember. So when the design has to change, what change is inevitable on a project?
+
+It just happens. As I spoke to you before, what we think is going to be on the drawings is never always the case when we get on to site.
+
+So change is something that we need to navigate, but we have to navigate it in a structured way.
+
+Like when we're designing, we have to be structured with our reviews. We have to restrict our consenting.
+
+We have to be structured about everything that we do. When we're on site and we're making change, we still have to follow the same process.
+
+It's really easy for me just to go on site and say, oh, it'd be fine, just do that.
+
+But actually I need to make sure I'm doing my due diligence and make need to make sure that we're following that change process properly.
+
+So generally across the board, this is the process that we follow. So we'll start off where we'll identify a change that needs to happen.
+
+We'll assess it. What are the risks. What are the impacts. Can we get access. Is it safe.
+
+How much is it going to cost? Um, we then develop options and recommendations for how we do it.
+
+We then go for an approval process. And this is like any other design.
+
+We go for an approval process. If it's a minor change, you might need a minor review.
+
+If it's a bigger change, you might have to go back to an independent certifier to check it.
+
+So it depends on the scale of the project of the change. We then issue it.
+
+So we issue a thing called the BSR, which is a design site.
+
+Instruction captures the change and that will be done through our document management system.
+
+And next that we spoke to. And then we take that change and we construct it.
+
+And the construction team comes back and says, I've done it. And we go, brilliant.
+
+Let me have a look at it. So the paper project now, all the sort of sexy stuff is in the big buildings and the construction,
+
+but actually there's a mammoth pyramid of paper project paperwork that needs to be done, the background of this mega project.
+
+So I'll pick up a couple of highlights. We've got 25,630 as built drawings on CRL.
+
+That's a lot of drawings. We've got just over 20,000 requirements that we've got to make to the client.
+
+So 20,000 single lines. Then you must do this.
+
+You must do this 20,000 of them that we've incorporated into our designs.
+
+We've got 109 PS4 sets. We've got 20, what, 74 building consents, 42 engineering plan approvals.
+
+It starts to build a big pyramid, and the top of that pyramid is a practical completion, which we got to the June 30th of June.
+
+We got that. So the the it's all the things I was talking about, like the IPS and all the check sheets and all the evidence contributes to this.
+
+And if you don't get that right, you don't get project sign off.
+
+And it's very, very difficult if you don't get it right at the start to achieve it at the end, you can't make it up.
+
+You can't find photos that were never taken. It's very, very difficult.
+
+So that just gives you a little bit of a snapshot as to the the scale of the paperwork behind us.
+
+Now we can get into some cool stuff. Um, so really, really proud to sort of share some of the final photos.
+
+You've probably already seen these online, but obviously it'll give us an opportunity to start talking through them.
+
+Um, the other thing I'll just highlight as well is that, um,
+
+the what the photos I'm going to be sharing with you, I've compared them to the BIM model.
+
+Um, graphics. So this is what we thought it was going to look like. And then this is what ended up coming out.
+
+So, um, a bit about the BIM before I go into it.
+
+Uh, we ended up achieving, uh, Lod 500 if anybody knows.
+
+BIM. So that's the highest level of Lod that you can get within the BIM.
+
+So it's a fully certified, verified checked model reflects everything, plus all the maintenance requirements as well.
+
+So I tried to take the photos that were aligned with the I tried to align them as much as possible so you can see how close it came.
+
+And this is where. This is where you've gone from.
+
+This is where the importance of a BIM model and the visualisations in achieving what you're actually going to get.
+
+It looks exactly the same, which is just incredible. And some highlights really from the station science touch base and a few of them.
+
+Um, I think one of the favourite parts is probably the art piece in the middle.
+
+This is a beautiful car that was designed by a 21 year old artist who'd never done a piece like that before.
+
+So that was just incredible. He was a 21 year old, so that's amazing if you go see that.
+
+Um, appreciate the, um, the mayor didn't like gold plated.
+
+So right outside the council building, we've got a gold ceiling. Um, so, um.
+
+Yeah. So I'm not sure. I'm not sure how much he appreciates that. I found it quite amusing, though.
+
+Um, anything else you want to pick up on? I thought I might just mention about the use of them.
+
+So back in the, um. You know, when I came back to the project ten years ago, the the.
+
+So bim being building information modelling.
+
+So the 3D, um, you know, digital creation of what was going to be built, it was really useful and in terms of a tool with stakeholders.
+
+So whether it was money groups or I lost count of how many politicians came through the design office.
+
+And you know, the first thing. Show them, show people drawings and it's it's useful.
+
+But you know, the three I think ten years ago when VR was goggles and that kind of thing,
+
+and it was really good in terms of achieving people's buy into the project.
+
+So it's not just a design tool. It was like a stakeholder management tool as well.
+
+Absolutely. No. It helped us navigate a few complex, um, yeah.
+
+Comms issues. Um, can I get happy?
+
+Um, yeah. Like, uh, like Simon said, we were beaten to the, uh, the longest escalator in Southern hemisphere, which I was devastated about.
+
+I think they were two metres longer as well. And I was thinking, can we just stitch something on just to get it a little bit longer?
+
+But it was it was too late, unfortunately. So, um, but yeah, You see, once again, some of the art pieces, the, um.
+
+Yeah, it's, um, it's really, really impressive. So we're super stoked to be getting you guys going down on the 13 for September.
+
+Hopefully you're all going to ride it on the first day. Yeah. Or even open days or even the open days.
+
+Uh, tomorrow for the public. Can I go happy? You do need to have tickets. So.
+
+So it's free, but you need to book tickets or till I order two next Saturday if you if you get a chance.
+
+So. Yeah. Book those tickets. Absolutely. And this is Manga Force Station, once again, a really beautiful station.
+
+It's not an underground station. Um, but, yeah, some amazing features, like the water wall you'll see on the right hand side.
+
+Um, it's a really stunning, um, bit of artwork, artwork which you'll, you'll see.
+
+Um, but yeah, it's got some, got some really cool features.
+
+And I think it is, it is very complex with engineering which you won't, you won't recognise.
+
+What I would say is when you go onto the CRL platform, go down to the western end and look up and what you'll see is our train line,
+
+a train line going above you and then a pedestrian footbridge above that.
+
+So you can actually stand up and you can see three layers of construction.
+
+So you might not get that view very often, but you have a have a recommend, go and have a look and it'll just show you the complexity.
+
+And when manga was getting constructed, we actually had to constantly maintain a single line running train.
+
+And so working within close vicinity and maintaining a functional rail was was really, really complex.
+
+So it might not get the same sort of attention as the underground stations.
+
+But manga was super, super complex. And yeah, just not really not to forget as well that the rail systems,
+
+you'll see like a really cool snapshot of a junction of incidents between MC 20 MC 30 tunnels.
+
+Um, it shows you the the track and all the systems that goes into that.
+
+Um, I really like this photo on the left, which is during dynamic testing of the trains rather than filling it loads of people.
+
+We thought it was sandbags to mimic the weight of people, so I thought that was that was really, really cool.
+
+Um, and then, yeah, there's traction cabins, there's, uh, overhead, um, live wires.
+
+Yeah. Raft. The rail system. So super complex. Um, and then just thought I'd give you some wow facts, which was great.
+
+So pick up on a few of my favourites. Uh, 244,000 cubes of concrete poured 70,000 tons of steel reinforcement.
+
+There were 24,000,000 hours worked on the project.
+
+Uh, 2056km of cables.
+
+So, yeah, it's a lot.
+
+Um, from a sustainability perspective, we had some amazing sustainability initiatives which we won't have time to talk about today,
+
+but it saved around 20,000 tonnes of CO2. Um, from a safety perspective.
+
+We had a we had a process called yellow cards and people on site could issue a little yellow cards.
+
+And that was to say, whether something was unsafe or when something was safe.
+
+And it showed the contribution to that. There was 29,234 yellow cards submitted from a safety perspective, which is just incredible.
+
+Um, so yeah, that's that's quite cool stats, I thought. It just shows the how big this how big this project is.
+
+And then really just to close and these are sort of my key takeaways. Um look consultancy engineering.
+
+That's a terrible typo. Consultancy engineering doesn't stop at a delivery of drawings.
+
+Um, communication documentation and decision making are core engineering skills.
+
+They're not admin. Please learn how to communicate well.
+
+Develop relationships, I can assure you. Or make your, um.
+
+It'll make your careers go a lot further.
+
+Um, change in a project is inevitable, and teams need to be agile to work closely with design and construction.
+
+Um, and for anybody who was interested, there is a career path that sits between consultancy and construction.
+
+I love it. It's great. You get the best of both worlds. So yeah, if anybody's interested, I'm happy to talk about that further as well.
+
+If you want to connect with me on LinkedIn, I'm happy to provide any more guidance.
+
+But, um, just to finish, really. So with one of my favourites phrases is here are my new oto tangata, tangata,
+
+tangata and basically translates to what's the most important thing in the world? It is people, it is people, it is people.
+
+And at the heart of City Link is the people.
+
+Um, we've had over 20 or 15,000 people have gone through the project, 15,000 people, um, which is just incredible.
+
+So, um, that's us. We are at time, but we've probably got time for one question.
+
