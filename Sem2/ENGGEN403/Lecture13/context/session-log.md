@@ -27,4 +27,4 @@ Quiz: none. All 11 concepts untested, scheduled 2026-08-08.
 1. `git pull --rebase --autostash`
 2. **Fetch the Team Project brief** (released the Friday after this lecture) and confirm the deliverable structure against slide 20's exemplar - the slide is a past report, not a template.
 3. When quizzing L13: lead with **C08** (all five systems/scholarly contrasts), **C11** (a persistent system works for someone - then connect it to L9's canvas), **C06** (trust at scale and lockdown points), **C05** (doing vs managing). C02 and C03 are largely revision of L8/L9 - interleave rather than repeat.
-4. **ENGGEN403 is now fully ingested, L1-L13, 152 concepts, and not one has ever been tested.** Every handoff in this course has said the same thing for thirteen lectures. Mode B.
+4. **ENGGEN403 is now fully ingested, L1-L13, 151 concepts, and not one has ever been tested.** Every handoff in this course has said the same thing for thirteen lectures. Mode B.

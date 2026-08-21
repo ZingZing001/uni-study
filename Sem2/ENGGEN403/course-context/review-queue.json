@@ -763,6 +763,459 @@
       "name": "Causal and feedback loops - balancing vs reinforcing, and finding the dominant loop",
       "priority": "high",
       "status": "never_tested"
+    },
+    {
+      "date": "2026-08-08",
+      "lecture": 9,
+      "concept": "L9-C01",
+      "name": "Understand the problem before you solve it",
+      "priority": "high",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-08-08",
+      "lecture": 9,
+      "concept": "L9-C02",
+      "name": "Diverge and converge, twice; 5 whys feed the causal loop",
+      "priority": "medium",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-08-08",
+      "lecture": 9,
+      "concept": "L9-C03",
+      "name": "Mind maps are an inventory, causal loops are a model",
+      "priority": "medium",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-08-08",
+      "lecture": 9,
+      "concept": "L9-C04",
+      "name": "Causal loop anatomy and neutral, specific node naming",
+      "priority": "high",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-08-08",
+      "lecture": 9,
+      "concept": "L9-C05",
+      "name": "The sign rule (polarity, not direction) and the parity rule",
+      "priority": "high",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-08-08",
+      "lecture": 9,
+      "concept": "L9-C06",
+      "name": "The five-step causal loop procedure",
+      "priority": "high",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-08-08",
+      "lecture": 9,
+      "concept": "L9-C07",
+      "name": "Identifying leverage points, and the Band-Aid test",
+      "priority": "high",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-08-08",
+      "lecture": 9,
+      "concept": "L9-C08",
+      "name": "The four-part problem statement template",
+      "priority": "high",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-08-08",
+      "lecture": 9,
+      "concept": "L9-C09",
+      "name": "The 2024 food-prices exemplar and the live activity loops",
+      "priority": "high",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-08-08",
+      "lecture": 9,
+      "concept": "L9-C10",
+      "name": "One problem statement, one leverage point; the problem framing canvas",
+      "priority": "high",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-08-08",
+      "lecture": 10,
+      "concept": "L10-C01",
+      "name": "Central vs local government, and the boundary between them",
+      "priority": "high",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-08-08",
+      "lecture": 10,
+      "concept": "L10-C02",
+      "name": "Local government in Auckland - mayor, councillors, local boards, CCOs",
+      "priority": "medium",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-08-08",
+      "lecture": 10,
+      "concept": "L10-C03",
+      "name": "Elected politicians vs appointed public servants",
+      "priority": "high",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-08-08",
+      "lecture": 10,
+      "concept": "L10-C04",
+      "name": "Aim technical advice at officials, not politicians",
+      "priority": "high",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-08-08",
+      "lecture": 10,
+      "concept": "L10-C05",
+      "name": "Central government structure and finding the policy agenda",
+      "priority": "high",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-08-08",
+      "lecture": 10,
+      "concept": "L10-C06",
+      "name": "How change happens - the five-stage advice chain and where it breaks",
+      "priority": "high",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-08-08",
+      "lecture": 10,
+      "concept": "L10-C07",
+      "name": "The budget cycle, and baseline vs new funding",
+      "priority": "high",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-08-08",
+      "lecture": 10,
+      "concept": "L10-C08",
+      "name": "The Living Standards Framework inside the budget process",
+      "priority": "medium",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-08-08",
+      "lecture": 10,
+      "concept": "L10-C09",
+      "name": "The policy process - six stages, and the regulation ladder",
+      "priority": "high",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-08-08",
+      "lecture": 10,
+      "concept": "L10-C10",
+      "name": "Where technical advice enters, and the second channel",
+      "priority": "high",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-08-08",
+      "lecture": 10,
+      "concept": "L10-C11",
+      "name": "Cabinet, Parliament and the legislative pipeline",
+      "priority": "medium",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-08-08",
+      "lecture": 10,
+      "concept": "L10-C12",
+      "name": "Why change is slow, and the two ways it goes fast",
+      "priority": "high",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-08-08",
+      "lecture": 11,
+      "concept": "L11-C01",
+      "name": "Risk = hazard x exposure x vulnerability",
+      "priority": "high",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-08-08",
+      "lecture": 11,
+      "concept": "L11-C02",
+      "name": "New Zealand's exposure, compounding risk, and the 97% figure",
+      "priority": "high",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-08-08",
+      "lecture": 11,
+      "concept": "L11-C03",
+      "name": "The emergency management system and the four Rs",
+      "priority": "high",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-08-08",
+      "lecture": 11,
+      "concept": "L11-C04",
+      "name": "Locally led, regionally coordinated, nationally enabled",
+      "priority": "high",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-08-08",
+      "lecture": 11,
+      "concept": "L11-C05",
+      "name": "What a Chief Science Advisor does - the plumber metaphor",
+      "priority": "medium",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-08-08",
+      "lecture": 11,
+      "concept": "L11-C06",
+      "name": "Catastrophic planning and the maximum credible event",
+      "priority": "high",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-08-08",
+      "lecture": 11,
+      "concept": "L11-C07",
+      "name": "Communicating risk to non-experts - visualisation and rescaled probability",
+      "priority": "high",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-08-08",
+      "lecture": 11,
+      "concept": "L11-C08",
+      "name": "The bread analogy - data to actionable advice",
+      "priority": "high",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-08-08",
+      "lecture": 11,
+      "concept": "L11-C09",
+      "name": "Taupo - scenarios instead of predictions",
+      "priority": "high",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-08-08",
+      "lecture": 11,
+      "concept": "L11-C10",
+      "name": "The science/policy boundary - relevance, legitimacy, credibility",
+      "priority": "high",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-08-08",
+      "lecture": 11,
+      "concept": "L11-C11",
+      "name": "The Science Desk and the Science Advisory Panels",
+      "priority": "medium",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-08-08",
+      "lecture": 11,
+      "concept": "L11-C12",
+      "name": "Emerging risks and the four skills for the next generation",
+      "priority": "medium",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-08-08",
+      "lecture": 12,
+      "concept": "L12-C01",
+      "name": "The project and its numbers",
+      "priority": "medium",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-08-08",
+      "lecture": 12,
+      "concept": "L12-C02",
+      "name": "Benefits and the network effect",
+      "priority": "high",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-08-08",
+      "lecture": 12,
+      "concept": "L12-C03",
+      "name": "Contract packaging and partnership",
+      "priority": "medium",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-08-08",
+      "lecture": 12,
+      "concept": "L12-C04",
+      "name": "The alliance model",
+      "priority": "high",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-08-08",
+      "lecture": 12,
+      "concept": "L12-C05",
+      "name": "The 2015 business case revisited from the inside",
+      "priority": "high",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-08-08",
+      "lecture": 12,
+      "concept": "L12-C06",
+      "name": "Construction Phase Services - the middle ground",
+      "priority": "high",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-08-08",
+      "lecture": 12,
+      "concept": "L12-C07",
+      "name": "Quality assurance, producer statements, hold and witness points",
+      "priority": "high",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-08-08",
+      "lecture": 12,
+      "concept": "L12-C08",
+      "name": "When design meets reality",
+      "priority": "high",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-08-08",
+      "lecture": 12,
+      "concept": "L12-C09",
+      "name": "Communication is a hard skill",
+      "priority": "high",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-08-08",
+      "lecture": 12,
+      "concept": "L12-C10",
+      "name": "Engineering judgement",
+      "priority": "high",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-08-08",
+      "lecture": 12,
+      "concept": "L12-C11",
+      "name": "Change management and the paper pyramid",
+      "priority": "high",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-08-08",
+      "lecture": 13,
+      "concept": "L13-C01",
+      "name": "What the Team Project is for - team size, duration, assigned problem",
+      "priority": "high",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-08-08",
+      "lecture": 13,
+      "concept": "L13-C02",
+      "name": "The double diamond at scale - what carries over from 303",
+      "priority": "medium",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-08-08",
+      "lecture": 13,
+      "concept": "L13-C03",
+      "name": "Interventions not solutions; tools are not a pathway to an answer",
+      "priority": "high",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-08-08",
+      "lecture": 13,
+      "concept": "L13-C04",
+      "name": "Team structure - four examples, none correct",
+      "priority": "high",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-08-08",
+      "lecture": 13,
+      "concept": "L13-C05",
+      "name": "Doing the work vs managing the work",
+      "priority": "high",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-08-08",
+      "lecture": 13,
+      "concept": "L13-C06",
+      "name": "Communication, trust at scale, and lockdown points",
+      "priority": "high",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-08-08",
+      "lecture": 13,
+      "concept": "L13-C07",
+      "name": "Discovery, problem statements, and not mixing the spaces",
+      "priority": "high",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-08-08",
+      "lecture": 13,
+      "concept": "L13-C08",
+      "name": "Systems research vs scholarly research",
+      "priority": "high",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-08-08",
+      "lecture": 13,
+      "concept": "L13-C09",
+      "name": "Mapping tools - cluster maps and interconnected circle maps",
+      "priority": "medium",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-08-08",
+      "lecture": 13,
+      "concept": "L13-C10",
+      "name": "Options assessment, CSF/DFV and packages",
+      "priority": "high",
+      "status": "never_tested"
+    },
+    {
+      "date": "2026-08-08",
+      "lecture": 13,
+      "concept": "L13-C11",
+      "name": "Why systems work - and who they work for",
+      "priority": "high",
+      "status": "never_tested"
     }
-  ]
+  ],
+  "summary": {
+    "total_concepts": 151,
+    "never_tested": 151,
+    "note": "ENGGEN403 is fully ingested, L1-L13. Nothing has ever been quizzed. Highest-value first round: the tools that recur across lectures - the problem statement template (L9-C08), leverage points (L8-C11 / L9-C07), the justification rule (L4-C12 / L6-C13), and the four capitals (L6-C12)."
+  }
 }
