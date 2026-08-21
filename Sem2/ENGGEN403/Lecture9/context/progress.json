@@ -1,0 +1,179 @@
+{
+  "course": "ENGGEN403",
+  "lecture": 9,
+  "title": "Defining and scoping your wicked problem - causal loops to problem statements",
+  "status": "notes_written_untested",
+  "resources_seen": {
+    "slides": [
+      "ENGGEN 403 Lecture 09.pdf"
+    ],
+    "slide_pages": 20,
+    "slide_text_layer": true,
+    "transcript": "ENGGEN 403 [07 Aug] Lecutre 09 Defining and scoping your wicked problem_Captions_English (United Kingdom).txt",
+    "transcript_quality": "good for framed segments, patchy through the live activity",
+    "supplementary": [
+      "Systems Report Example 1.pdf (49pp)",
+      "Systems Report Example 2.pdf (56pp)"
+    ],
+    "figures_extracted": [
+      "L9-p09-mindmap-to-causal-loop.png",
+      "L9-p10-causal-loop-legend.png",
+      "L9-p12-identifying-leverage-points.png",
+      "L9-p14-causal-loop-to-problem-statement.png",
+      "L9-p17-problem-framing-canvas.png"
+    ],
+    "gaps": "Deck footer numbering jumps 16 -> 23, so about six slides are missing. The casualty is the annotated 2024 food-prices causal loop with its highlighted leverage points and two problem statements, which the transcript covers in detail. The parity rule for classifying loops is also absent from the deck - the lecturer said so on the recording."
+  },
+  "last_session": "2026-08-07T00:00:00+12:00",
+  "sessions_count": 1,
+  "lecturer": "Marc Lewis and Amanda Di Ienno",
+  "concepts": [
+    {
+      "id": "L9-C01",
+      "name": "Understand the problem before you solve it",
+      "source": "slides 5-6; transcript",
+      "priority": "high",
+      "bloom_reached": null,
+      "confidence": null,
+      "attempts": 0,
+      "correct": 0,
+      "last_reviewed": null,
+      "next_review": "2026-08-08",
+      "interval_days": 1,
+      "note": "Untested."
+    },
+    {
+      "id": "L9-C02",
+      "name": "Diverge and converge, twice; 5 whys feed the causal loop",
+      "source": "slides 6-8; transcript",
+      "priority": "medium",
+      "bloom_reached": null,
+      "confidence": null,
+      "attempts": 0,
+      "correct": 0,
+      "last_reviewed": null,
+      "next_review": "2026-08-08",
+      "interval_days": 1,
+      "note": "Untested."
+    },
+    {
+      "id": "L9-C03",
+      "name": "Mind maps are an inventory, causal loops are a model",
+      "source": "slides 9-10; transcript",
+      "priority": "medium",
+      "bloom_reached": null,
+      "confidence": null,
+      "attempts": 0,
+      "correct": 0,
+      "last_reviewed": null,
+      "next_review": "2026-08-08",
+      "interval_days": 1,
+      "note": "Untested."
+    },
+    {
+      "id": "L9-C04",
+      "name": "Causal loop anatomy and neutral, specific node naming",
+      "source": "slide 11; transcript",
+      "priority": "high",
+      "bloom_reached": null,
+      "confidence": null,
+      "attempts": 0,
+      "correct": 0,
+      "last_reviewed": null,
+      "next_review": "2026-08-08",
+      "interval_days": 1,
+      "note": "Untested."
+    },
+    {
+      "id": "L9-C05",
+      "name": "The sign rule (polarity, not direction) and the parity rule",
+      "source": "transcript only - not on any slide",
+      "priority": "high",
+      "bloom_reached": null,
+      "confidence": null,
+      "attempts": 0,
+      "correct": 0,
+      "last_reviewed": null,
+      "next_review": "2026-08-08",
+      "interval_days": 1,
+      "note": "Untested."
+    },
+    {
+      "id": "L9-C06",
+      "name": "The five-step causal loop procedure",
+      "source": "slide 12",
+      "priority": "high",
+      "bloom_reached": null,
+      "confidence": null,
+      "attempts": 0,
+      "correct": 0,
+      "last_reviewed": null,
+      "next_review": "2026-08-08",
+      "interval_days": 1,
+      "note": "Untested."
+    },
+    {
+      "id": "L9-C07",
+      "name": "Identifying leverage points, and the Band-Aid test",
+      "source": "slide 13; transcript",
+      "priority": "high",
+      "bloom_reached": null,
+      "confidence": null,
+      "attempts": 0,
+      "correct": 0,
+      "last_reviewed": null,
+      "next_review": "2026-08-08",
+      "interval_days": 1,
+      "note": "Untested."
+    },
+    {
+      "id": "L9-C08",
+      "name": "The four-part problem statement template",
+      "source": "slides 14-15; transcript",
+      "priority": "high",
+      "bloom_reached": null,
+      "confidence": null,
+      "attempts": 0,
+      "correct": 0,
+      "last_reviewed": null,
+      "next_review": "2026-08-08",
+      "interval_days": 1,
+      "note": "Untested."
+    },
+    {
+      "id": "L9-C09",
+      "name": "The 2024 food-prices exemplar and the live activity loops",
+      "source": "transcript - slide missing from deck",
+      "priority": "high",
+      "bloom_reached": null,
+      "confidence": null,
+      "attempts": 0,
+      "correct": 0,
+      "last_reviewed": null,
+      "next_review": "2026-08-08",
+      "interval_days": 1,
+      "note": "Untested."
+    },
+    {
+      "id": "L9-C10",
+      "name": "One problem statement, one leverage point; the problem framing canvas",
+      "source": "slides 16-17; transcript",
+      "priority": "high",
+      "bloom_reached": null,
+      "confidence": null,
+      "attempts": 0,
+      "correct": 0,
+      "last_reviewed": null,
+      "next_review": "2026-08-08",
+      "interval_days": 1,
+      "note": "Untested."
+    }
+  ],
+  "misconceptions": [],
+  "open_questions": [
+    "The annotated 2024 food-prices causal loop slide is missing from the deck. Ask for it - it is the only worked example of leverage-point selection in the course.",
+    "The two Systems Report exemplars in resources/ were never walked through in a lecture. Worth reading against the L4 business case structure to see how a finished report is organised.",
+    "Exact wording of the second 2024 problem statement (transport and logistics) was never read out."
+  ],
+  "next_action": "10 concepts written, none tested. Quiz L9 leading with C08 (write the template from memory), C05 (polarity vs direction, and the parity rule), C10 (one statement one leverage point), C07 (the Band-Aid test)."
+}

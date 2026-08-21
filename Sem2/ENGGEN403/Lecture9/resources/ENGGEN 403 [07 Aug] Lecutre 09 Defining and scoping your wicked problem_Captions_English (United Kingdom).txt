@@ -1,0 +1,613 @@
+[Auto-generated transcript. Edits may have been applied for clarity.]
+Today what we're going to be doing. Is running through how we define and scope.
+
+These sort of wicked problems that a man and Juliet talked about yesterday.
+
+So who's starting to understand this kind of systems thinking lens.
+
+Yeah. Simon makes sense. Right. We have all these trade offs.
+
+We have all these unintended consequences that could happen.
+
+So you need to kind of take what can be quite a messy, hard to think about problem and make some sort of sense out of it.
+
+And so that's what we're going to walk through today. How do we look at that?
+
+So we've been building the hexagons this week. Sorry.
+
+Today strategic case looking at the problem analysis.
+
+How do we analyse these wicked problems. Remember those problems that don't necessarily have a solution but just have ways to reduce said problem.
+
+And so this is the first thing that you're going to do when you come to systems.
+
+Where can you come to the team project is looking at these problems and spending the first couple of days really understanding that problem?
+
+Remember, we have to understand the problem before we can even think about coming to solutions.
+
+And that's what we're going to talk about today. So we'll look at problem statements causal loops Amanda introduced those yesterday.
+
+We're going to go through what these causal loops are and how we can use them to make
+
+sense of these systems level problems and draw out problem statements that we can attack,
+
+that we can address with these systems level solutions.
+
+So we'll go through a few examples and some tools that you can use to do that.
+
+So problem statements will define those components similar to in 303.
+
+Right. You have a problem. You have an impact.
+
+You have people that are affected by that impact. Those stakeholders that again we covered this week.
+
+And so how do we frame those. How do we start to think about framing these problem statements.
+
+And so yesterday Juliet talked about complex or wicked and wicked problems.
+
+So we need to think about exploring this space understanding what are all the interconnected parts.
+
+Remember these systems when Meadows talks about systems we talk about them being interconnected, right.
+
+There's relationships between different Factors of said system.
+
+There are stakeholder interests. There are potentially root causes that may affect different parts of the system.
+
+There are different value judgements held by those stakeholders.
+
+And so again doing something in one area has an effect on another.
+
+There are trade offs when we implement solutions to these wicked problems.
+
+And so recapping some ideas from 303.
+
+This idea of diversion and convergent thinking. And we're going to do exactly that today in the activity.
+
+We need to explore the problem the problem spaces the different facets of that problem.
+
+We'll reiterate you will need to reiterate often a thing that happens during systems week is that teams rush through the first day,
+
+and by the end of the first day, they already have their problem statements. They get to Wednesday and they're like, oh [INAUDIBLE].
+
+We need to go back and redo our problem statements because they've understood more about the system.
+
+They've understood more about how the system behaves, about what those trade offs may be.
+
+You gain this intuition right, about that problem.
+
+And so again,
+
+going back and reiterating is a good thing and a natural thing that happens with these levels of problems and something that you'll need to do.
+
+So don't be afraid if you have to revisit those assumptions, if you have to revisit those problem statements.
+
+That's a natural part of the process, but we are exploring that problem.
+
+Divergent thinking, brainstorming all of these causes, all of these variables,
+
+and then converging on a problem statement that we are going to use to focus our solutions.
+
+Again, go back out divergent thinking space, brainstorming all of the different solutions we could bring,
+
+and then converging onto a final short list by using all of the tools that we've talked about throughout the first few weeks of this course,
+
+recapping again, the five whys, asking questions.
+
+If this is the course, why is that the course? And if that's the cause, why again, why does that happen?
+
+Eventually that will lead you to something that you can provide an intervention for.
+
+So you will do that again today. And when you brainstorm these problems or these facets of the problem.
+
+And so that's why we have that in 303. So you can practice in a controlled environment.
+
+Because then when we chuck you out into the very complex and wicked world of these problems,
+
+you at least have a basis to start asking some of these questions and start fact finding or finding what these causes are.
+
+And so we'll build on what we learned about 3 or 3 by understanding causal loops, cause and effect,
+
+and identifying loops or leverage points as a mandolin over yesterday for us to address in our systems problems.
+
+So going through system sorry last week's last year's systems week problem around plastics, rethinking plastics.
+
+What new innovations can be developed to tackle the plastic problem in New Zealand over the next ten years?
+
+This actually comes from is that my pointer? This comes from the Rethinking Waste Rethinking Plastics report that Juliet spearheaded that work.
+
+And as you can see, it's a complicated system right.
+
+So how do these interplay how are these interconnected. That's what last year's students had to figure out.
+
+And so just to touch on this idea, you would have all seen mind maps before, right?
+
+Yes. Mind maps are just a brainstorm. And they're great.
+
+They're great for identifying all of the different variables.
+
+This is not very good. All of the different variables that may come into play with a particular problem.
+
+However, what it doesn't show you is the interconnectedness of all of these variables.
+
+How do they play into one another? What is their relationship? If I increase, um, something on one side, what happens on the other side?
+
+What are those cause and effect relationships. What is that interconnectedness.
+
+And so we want to go we want to strive for something like a causal loop.
+
+It shows us the interconnectedness between all of the different facets, all of the different variables.
+
+So causal loops are what we're going to focus on today. And so what is causal loops were covered by Amanda yesterday.
+
+But just diving in a little bit more into the detail and how you'll use these.
+
+So first off you need to identify all of the variables or the nodes within the causal loop diagram.
+
+These are the factors that can change within a system.
+
+These are factors that can change within a system, and there will be cause and effect relationships between the different variables.
+
+Right. And the arrows show that cause and effect.
+
+So if we look at for example recycling,
+
+if we increase recycling now that means that there will be more lower grade plastics available to be used in recycling,
+
+which also means that there will be more waste and more recycling that's needed.
+
+So it reinforces sorry, sorry.
+
+So there will be more recovered materials which will require more recycling.
+
+And so they they reinforce the change.
+
+amplified. Whereas if we think about a balancing loop, balancing counteracts change.
+
+Let's think about, um, if you just ate McDonald's every night, right?
+
+If you didn't go to the gym, you may gain some weight, right?
+
+That would be a reinforcing loop. If you just kept eating and eating and doing nothing.
+
+You're probably going to gain some weight. But let's say we want to go to the gym and so you're burning some calories.
+
+And so you may not potentially gain as much weight.
+
+So it's balancing you going back to an equilibrium. So it counteracts that change.
+
+What I want to talk about is also these pluses and minuses. So that shows what the cause and effect is.
+
+And so the plus means that the relationship between two nodes Goes in the same direction.
+
+If I increase one. The other one will increase. If I decrease one, the other one will decrease.
+
+Those both mean you should have a positive sign on that arrow. It doesn't refer to whether it is increasing or decreasing.
+
+It refers to the polarity or the direction of change between the two nodes.
+
+If the variables move in opposite directions, then that would be a negative sign.
+
+That would be a negative sign. And so when we're drawing our feedback loops I don't have it on here, which I wish I did.
+
+If you have a odd number of negative signs in a particular loop, that means that it's balancing because they're in opposite directions.
+
+If you have an even number of minuses in a particular loop, or none at all, including zero, then that would be a reinforcing.
+
+So it amplifies that change. And so leverage points are interventions for where we want to focus our attention to create change.
+
+We want to make a small change to the system to create a disproportionately larger change on the system.
+
+And problem statements allow us to form those leverage points into a statement that we can then address with our solutions.
+
+So the first thing we want to do, and the first thing we're going to do today is identify those variables.
+
+What makes up these different nodes. When we label those nodes, we want to label them neutrally as then we don't want to say,
+
+for example, we wouldn't say increasing bioplastics, the node would just be bioplastics.
+
+Bioplastics can increase or decrease, right? So a neutral name.
+
+Be clear on what you mean when you're labelling these. And I'll show you a couple examples of where that naming can lead to a little bit of ambiguity.
+
+We determine the relationships between those variables. So the pluses and minuses right.
+
+If I increase one does it follow the same trajectory or does it follow the opposite trajectory?
+
+We identify the feedback loops by counting the amount of negative relationships in the loop.
+
+Identify leverage points based on where we think we can make the greatest change, and develop a problem statement based on those.
+
+So when we think about leverage points, you're really thinking about all we all we're doing here is we're mapping the system behaviour.
+
+Right. We're just mapping the way the system behaves. That allows us to identify where we think we can make the greatest change.
+
+Okay. That intuition will come as you look more at the problem, as you look more at the problem,
+
+you might find that it doesn't matter what we do within, for example, environmental changes.
+
+Those might just be Band-Aids upon a problem that really exists, for example, in the production sector.
+
+We can't. There's no point trying to if there's.
+
+Let's say that someone is polluting a like, and they're just pumping a whole lot of stuff on the lake.
+
+We can treat the lake, but that's ultimately not going to matter if we don't stop the pollution going into the lake.
+
+All right. So identifying these leverage points can be a little tricky,
+
+but we'll come as you work your way through the problem and understand what those system behaviours are.
+
+Recapping problem statements.
+
+So once you've done this causal loop identified some leverage points you need to bring out the problem statement you would have seen.
+
+How might we statements in the past. These are a good simple tool to identify what you need to do.
+
+Who the stakeholder or who the problem is for and what that impact is, right?
+
+That gives us our problem statement. If the systems level problem statements are written more like a statement like this, they cover four key points.
+
+A brief description of what the problem is, who it affects, the stakeholders infected, why that problem exists and what those impacts are.
+
+And so you want to end up ultimately with something a statement that covers all four points.
+
+So if we're looking about thinking about plastics,
+
+New Zealand's plastic waste management infrastructure was underdeveloped a fitting communities and the environment.
+
+The Who was impacted because limited recycling capacity reduces plastic recovery, leading to increasing environmental pollution and long term damage.
+
+So that's something that you might pull out of your causal loop diagram.
+
+Okay. Into the activity. So what we're going to do is we're going to think about food prices.
+
+We know about food prices. And what you're going to do is you're going to start drawing this causal loop using these papers in front of you.
+
+So high food prices are a complex system with no single cause.
+
+There are interactions between production and transport, retail consumers and government.
+
+As you can see, you've got four diagram, four quadrants in front of you that help you to start off.
+
+First up we're going to spend five minutes in your groups.
+
+Brainstorm 8 to 10 really as many variables as you want contributing to the problem of food.
+
+That should say food costs. Sorry, not food waste, food cost or high food prices on those sheets in front of you.
+
+We've got a couple examples to get you going on that and where they fall onto those quadrants.
+
+But what I want you to do now is spend five minutes discussing amongst yourselves in your groups and writing down what those nodes are,
+
+or what those variables are that have a play in the system.
+
+Okay. Okay. Get going on that.
+
+We'll walk around. If you have any questions, ask us, but start discussing that.
+
+Yeah. Everyone's got a paper.
+
+You throw out the back. They do?
+
+Yeah. Should we go to 30?
+
+30? Listen to yourself. Yeah. All right.
+
+Right now. That's awesome.
+
+Are we putting it in the quadrants now? Yeah. Put them in the quadrants, if you like.
+
+Yeah. Yeah.
+
+Get them in the quadrants. See what you like.
+
+If you can start to think about some cause and effect relationships already, feel free to put those down.
+
+So what contributes to high food prices. Right.
+
+What have we got. Like bad, bad bad stuff.
+
+Right. Sorry. So are you guys working on 1 or 2?
+
+All right. Great job everybody. We'll bring it back. So the reason we've got you doing this is because that's the hard part.
+
+It's the it's the doing this I could lecture to you all day about this is what a good problem statement looks like.
+
+And these are what causes look like. But you don't understand until you do it.
+
+So in previous years, students go straight out the bat on day one and they do exactly what you're doing.
+
+They're storming. They're trying to find all these causes, but by sort of.
+
+And they think they have it by Monday, but then they have to revisit it by Wednesday.
+
+Right. So getting you to practice this now is going to reinforce that behaviour.
+
+So hopefully what you've been seeing is that these interrelate as you're writing them down.
+
+Taxes have an effect on pricing which has an effect on the amount of supply that are that are production facility might make.
+
+Right. Um, do you want to do this one first?
+
+Yeah. So now hopefully what you've seen is that these are having some relationships.
+
+I want you to start drawing some arrows between those variables and start determining what those cause and effect relationships are.
+
+Ask yourselves if this variable increases, what happens to this variable over here,
+
+and then add a plus if it's reinforcing or if it's opposite direction.
+
+Add the minus. So spend another five minutes here drawing those arrows and drawing those cause effect relationships.
+
+So if you think of any more known variables that will be going in and.
+
+Out. So things are going to be.
+
+They're going to be arrows everywhere. Things are going to connect between different nodes.
+
+That's okay. Just draw them as best as you can. So what's the relationships?
+
+What connects to what. And what's the relationship. Increasing.
+
+Increasing. Increasing. Increasing. Decreasing. Any questions for a handout at least.
+
+Yeah I want to see very complicated diagrams. Very complex, very messy.
+
+And usually they can go both ways. All right.
+
+Good work so far. Now I'm on the wrong page here.
+
+Now, we'll just leave a couple minutes here. Oh. So now what we want to do is just have a go at Labelling.
+
+One feedback loop. One reinforcing or balancing loop.
+
+So remember, an even number of negative relationships, including zero creates a reinforcing loop,
+
+while an odd number, um, creates a balancing loop, right?
+
+Because they're opposite. If you have two, right.
+
+If you have two negative ones. Right. It flips you one way and it flips you back. So that's why an even number creates a reinforcing loop.
+
+And a negative number creates a balancing loop. Okay. So have a quick go.
+
+We'll be here for a few minutes. Have a go at labelling a feedback or balancing loop.
+
+And what we're going to do next is you're going to feed back each of you one or your best loop.
+
+So we can build our causal loop diagram together. Okay. Here for another five.
+
+I'm not. Going to write it.
+
+Okay. Everyone's got a loop. So I come to you first.
+
+Yeah. Hahaha. All right, everyone, we'll go through.
+
+What we're going to do is just feed back to Amanda, your one feedback loop.
+
+Tell us each node where the arrow goes, the sign of the arrow.
+
+And yeah, just explain that one loop. So also tell me where to start.
+
+Also tell Amanda is that I'm going to give you this box. It is a microphone.
+
+You can talk into it. It's yeah. You can hear me okay. Uh, and.
+
+Yeah. Any volunteers who wants to go first? I'm gonna pick one.
+
+Hey, hey. Done. Front. Excellent. Come on over.
+
+Watch out! Ready? Uh, New Zealand is far away from everyone else.
+
+Uh, distribution and logistics. Nice.
+
+That makes it hard to export things. Um, which can increase the price of food.
+
+We also have a low population density, which, um.
+
+Kind of means we have low. Economies of scale in New Zealand.
+
+This impacts, um, how much automation we have in our factories, which can increase the price of food.
+
+So population, um, decrease economies of scale. So let's come to this one.
+
+Is that a plus or minus increasing or decrease in population.
+
+Does what uh. It's positive.
+
+Right. That's positive. Yeah. Cool.
+
+All good. Yep. It's had a loop. I don't know what kind of loop is that?
+
+I didn't work that out. Yeah. So they're all. They're all puzzles.
+
+Are they all plus balance. Right. Plus plus plus plus.
+
+Yeah. Reinforcing. Excellent. Who's up next? I'm just going to pop it in front of someone.
+
+Yeah, yeah. Good work. Good work, good work. Be loud.
+
+You might have, uh, congestion. Indirectly and directly increases the travel distance you take for your logistics,
+
+which increases your fuel consumption, which increases your fuel costs, which are then tied to the cost of food.
+
+So what's our signs? So congestion increases. They're all increasing. They're all increasing.
+
+So it's positive along the whole thing. So what is the feedback loop again?
+
+Reinforce. Reinforce. Very good. Cool it out.
+
+All right. We'll go over here. What about this team? Can we do some.
+
+Got one. Yeah. Give it a go. Okay.
+
+Um. Fuel cost? Would increase taxes.
+
+Is it their. Taxes would increase the utility cost.
+
+Um, utility would then increase the cost of labour. And labour increase.
+
+Increasing the cost of labour would increase the. Sorry. Decrease.
+
+Food purchasing. Decrease. Yeah. Decrease food purchasing.
+
+So decrease demand is. Actually negative?
+
+Yes. Yes. Um.
+
+So that's it. That's the end of the loop. Um, no. Um, you want to go?
+
+Um, decreasing food purchasing would, um, decrease competition?
+
+And decrease in competition would means that fewer companies can hire labour.
+
+So it would, um, it would.
+
+Yeah. It would, uh, reduce the, um, employability, I guess, like Job loss.
+
+And that would reduce the cost of labour.
+
+Okay. Yeah. And then so that's the cause of labour? Yeah. Yes.
+
+So you've got, I think one of those that top line would be, would be a plus because it was the same.
+
+Right. Yes. Yeah. That's. Yeah. Yeah. So what's our what's our feedback loop.
+
+How many are just one. One. Yeah. Yeah.
+
+So it's a really reinforce other one.
+
+Um. Balance balancing. Yes. Good. Thank you very much. I'll grab that off for you.
+
+All right. I think we'll leave it there. As you can see, a few things that might be highlighted to you.
+
+Are that one. That's really tough, right?
+
+As you're saying, difficult to understand these complex systems.
+
+So that's why you spend so much time understanding the complexities of the problem.
+
+Really think about what you mean by those names of those nodes, the names of those nodes.
+
+The names of those variables really do matter. Okay. So if you say wages or if you say waste, what do you mean production waste?
+
+Retail waste. If you're saying utilities right.
+
+Is that utilities in general. Is that specifically fuel.
+
+Right. So we want to be specific about what we're talking about here.
+
+Try not to use vague terms like condition or like um,
+
+just vague words where you can't understand what it actually means because you need to try and draw that cause and effect relationship.
+
+So this was actually the 2024 Systems project back in the day.
+
+And this is one of the causal loops that one of the teams were able to pull out, and so they were able to pull out two problem statements from that.
+
+And hopefully you're seeing some of the nodes, maybe some of those nodes are similar to what you had.
+
+Maybe some of them are not. All right. As you can see, they've drawn their pluses and minuses.
+
+They've drawn they're balancing or reinforcing. And they've we've highlighted the areas in which they were focusing on the leverage points.
+
+How did they choose those leverage points? They chose those leverage points by understanding the complex behaviour of the system.
+
+So it's not going to just spit out at you what your problem statement should be.
+
+By carrying out this activity, you understand where those leverage points are.
+
+And so this team pulled out problem statement one retail competition.
+
+Right. It doesn't matter what we do in the production space.
+
+If the supermarkets are always just going to charge a high price anyway, if there's no competition,
+
+as some of you mentioned, right, there's no incentive to lower the prices.
+
+Right. So any other interventions that we do are not going to have much of an impact.
+
+And again, you develop that intuition by completing a causal loop diagram.
+
+So retail competition high grocery prices affect New Zealand consumers because limited
+
+market competition reduces downward pressure on prices leading the higher living costs.
+
+And similarly, you can't do anything if your transport system is going to be inefficient anyway.
+
+And so the other problem statement was around the transport and logistics network.
+
+So in your own time, feel free to review this. Come up against your what you've said.
+
+And I'll hand over to Amanda to finish off the lecture for today. But good work everybody on that activity.
+
+All right. So you caught up with your causal loop. And the question is how do we pull out the problem Statement.
+
+Sometimes you can see it right away. Other times you need to sort of look at everything put together.
+
+So we do link to this problem framing canvas. This is just the way to sort of help you pull out the problem statement.
+
+And really you've seen everything on here before. So if we take a look you are drawing out the problem, drawing out the problem.
+
+Hopefully you'll be getting your causal loops. You'll be able to see some potential leverage points from those loops.
+
+Um, frame the problem three different ways. Think about the systems of thinking or the iceberg.
+
+Did we miss something and how we were approaching this? We always have our five whys and who, what, where.
+
+When, how? Those type of questions from back in 303.
+
+Some teams actually go all the way back to the how might we statement to get a very simplified version of a problem,
+
+to sort of help them start to figure out, okay, what is the overall problem? How do we figure out who this is actually impacting.
+
+What's the cause going on? Um, obviously use all the stakeholder tools.
+
+Look at the stakeholders different ways. These are just the way to gather your thoughts as you're working on crafting that problem statement.
+
+We already covered that. Make sure or try to attempt to complete that problem after or the activity afterwards.
+
+But then really to summarise, remember causal loops are visualising cause and effect relationships and system behaviours over time.
+
+We want to try to find those leverage points, places where small change can create the large system wide impact.
+
+The closer the leverage point is to the system itself, the smaller the impact, but the easier it is to think about how to design and implement that,
+
+and use causal loop diagrams to develop those clear, clear systems problem statements.
+
+There's going to be back and forth and make sure you get to a problem statement before you start thinking about the solutions.
+
+So really stay in that problem, stay in that system, come to understand it.
+
+One of the things that teams, as Mark said, struggle with is they jump to the end.
+
+They get to their problem statements. They even hit the solution phase Monday afternoon, Monday evening.
+
+And they do all this work on the solution phase, and they start their financial analysis.
+
+And then Tuesday night, Wednesday morning, they go, oh, this isn't a problem.
+
+This isn't something we can have any impact in. And they have to go all the way back to the beginning.
+
+You are going to have to iterate. You are going to have to recycle. But make sure you understand the system before you start that.
+
+Just a final point before we let you guys go. You can't address everything in the system with one problem statement.
+
+You need to prioritise and pick that leverage point.
+
+So a common issue teams had last year is that they were trying to address too much of the system in a single problem statement.
+
+So make sure you're prioritising. You're addressing one either loop or one leverage point.
+
+Not trying to address multiple things in one problem statement. You're never going to get anywhere.
+
+So this is a way to really focus that thinking and prioritise which parts of the system are you going to intervene in?
+
+Okay, I'll leave you there. Um, Amanda, any final words?
+
+That's it. And when you're crafting your problem statements, come see the clinic. We'll be there.
+
+We give lots and lots of feedback on those statements. Have a good weekend.
+
+Thank you guys.
+

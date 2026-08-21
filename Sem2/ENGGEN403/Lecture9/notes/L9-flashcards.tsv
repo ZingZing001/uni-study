@@ -1,0 +1,59 @@
+What are the two stated learning outcomes of Lecture 9?	Define the components of a problem statement, and frame system-level problems using systems thinking tools to identify problem statements addressing one or multiple aspects of the problem space.
+How long should problem analysis take at the start of Systems Week?	The first couple of days - you must understand the problem before thinking about solutions.
+What is the named failure mode for Systems Week teams?	Rushing to problem statements on day one, reaching the solution phase and financial analysis by Monday evening, then realising on Wednesday it is not a problem they can affect and going back to the beginning.
+Is revisiting your problem statement a sign of failure?	No - iterating is a good and natural part of working on this level of problem; what matters is understanding the system before building solutions on it.
+Quote David Gurteen on complex challenges.	There are no solutions to complex challenges, only an endless series of adaptive responses.
+Name the four stages of the double diamond as used in Lecture 9.	Discover, define, develop, deliver.
+How do the five whys connect to causal loops?	The five whys reveal the variables that drive system behaviour; the causal loop connects those variables to find feedback loops and leverage points.
+What are mind maps good at?	Identifying all the different variables that may come into play in a problem.
+What can a mind map not show?	The interconnectedness of the variables - how they relate, and what happens elsewhere if you increase one.
+Give the one-line contrast between a mind map and a causal loop.	A mind map is an inventory; a causal loop is a model.
+What do variables or nodes represent in a causal loop diagram?	The key factors within a system.
+What do arrows show in a causal loop diagram?	Cause and effect.
+What does a plus sign on a causal loop arrow mean?	The two variables move in the same direction.
+What does a minus sign on a causal loop arrow mean?	The two variables move in opposite directions.
+Does a plus sign mean a variable is increasing?	No - it refers to polarity, the direction of change between two nodes. Two variables falling together also take a plus.
+What does a reinforcing loop do?	Amplifies change.
+What does a balancing loop do?	Counteracts change.
+State the parity rule for classifying a feedback loop.	An even number of minus signs, including zero, gives a reinforcing loop; an odd number gives a balancing loop.
+Why does an even number of negatives create a reinforcing loop?	Because two negatives flip you one way and then flip you back, restoring the original direction.
+Was the parity rule on the slides?	No - the lecturer noted it was missing from the deck; it exists only in the transcript.
+Give the gym example of reinforcing versus balancing.	Eating McDonald's nightly with no exercise is reinforcing - weight keeps climbing. Adding the gym burns calories and counteracts the change, balancing back toward equilibrium.
+How should causal loop nodes be named?	Neutrally - bioplastics rather than increasing bioplastics, because the arrow carries the direction.
+Why must node names be specific?	Because you cannot sign a cause-and-effect arrow between two vague nodes - waste could mean production waste or retail waste, utilities could mean fuel.
+Give an example of vague node naming to avoid.	Terms like condition, wages, waste or utilities without specifying which.
+Recite the five steps of causal loop analysis.	Identify variables; determine relationships between them; identify feedback loops that explain why the problem persists; identify leverage points; develop a systems problem statement.
+What is step three of causal loop analysis specifically for?	Identifying the feedback loops that explain why the problem persists - not just any loops.
+What are you actually doing when you build a causal loop?	Mapping the system behaviour, which lets you identify where you can make the greatest change.
+Define a leverage point.	A place in a system where a small change can create a disproportionately large change throughout the entire system.
+What three properties should a candidate leverage point have?	It is highly connected across multiple feedback loops, it affects many other variables, and it can realistically be changed through an intervention.
+Which leverage point property eliminates the most candidates?	Whether it can realistically be changed - a hub variable you cannot move is not a leverage point.
+State the proximity trade-off for leverage points.	The closer the leverage point is to the system itself, the smaller the impact but the easier it is to design and implement.
+Explain the lake example.	You can treat a polluted lake, but it will not matter if you do not stop the pollution entering it - some interventions are Band-Aids on a problem generated elsewhere.
+What test does the lake example give you?	Whether your intervention is upstream or downstream of the thing that keeps regenerating the problem.
+Write the systems problem statement template.	The problem is [briefly describe the problem], which affects [who is impacted], because [why the problem exists], leading to [what negative consequences exist].
+Name the four components of a systems problem statement.	The problem, who is affected, why it exists, and its consequences.
+Give the plastics worked problem statement.	New Zealand's plastic waste management infrastructure is underdeveloped, affecting communities and the environment, because limited recycling capacity reduces plastic recovery, leading to increased environmental pollution and long-term ecosystem damage.
+What are the three parts of a B2C How Might We statement?	Intended action, potential user, and desired outcome.
+How does a How Might We statement differ from a systems problem statement?	How Might We frames an opportunity; the systems statement is a diagnosis and contains why the problem persists.
+Why might a team still use a How Might We statement in 403?	To get a very simplified version of the problem as a starting point before crafting the full systems statement.
+What was the 2024 retail competition problem statement?	High grocery prices affect New Zealand consumers because limited market competition reduces downward pressure on prices, leading to higher living costs.
+What was the argument for retail competition being the leverage point?	It does not matter what you do in the production space if supermarkets charge high prices anyway - with no competition there is no incentive to lower prices, so other interventions have little impact.
+What was the second 2024 food prices problem statement about?	The transport and logistics network - you cannot do anything if the transport system is inefficient anyway.
+What shape do both 2024 food-price arguments share?	Whatever else you fix, this bottleneck will re-impose the problem - the Band-Aid test used to choose between leverage points.
+How did the 2024 team choose their leverage points?	By understanding the complex behaviour of the system through building the causal loop - the diagram does not spit out the answer.
+Give the geography loop from the food prices activity.	New Zealand being far away increases distribution and logistics difficulty and food price; low population density reduces economies of scale, reducing factory automation and increasing food price. All positive, so reinforcing.
+Give the congestion loop from the food prices activity.	Congestion increases travel distance for logistics, which increases fuel consumption, which increases fuel costs, which increases the cost of food. Reinforcing.
+Give the demand collapse loop from the food prices activity.	Fuel cost raises taxes, which raise utility costs, which raise labour costs, which decrease food purchasing, which decreases competition, causing job losses, which decrease labour cost. An odd number of negatives, so balancing.
+What does the demand collapse loop demonstrate about the parity rule?	That the rule classifies loops intuition cannot - the team counted minus signs to identify it as balancing.
+Why did the lecturers run a live causal loop activity?	Because you do not understand what a good problem statement or cause looks like until you do it yourself.
+What is the most common problem statement mistake teams made last year?	Trying to address too much of the system in a single problem statement.
+State the rule about scope of a single problem statement.	One problem statement addresses one loop or one leverage point - you cannot address everything in the system at once.
+How many problem statements does a systems business case need?	Two to three, so material parked out of one statement has somewhere to go.
+What Einstein quote heads the problem framing canvas?	If I had an hour to solve a problem I'd spend 55 minutes thinking about the problem and five minutes thinking about solutions.
+Name four panels of the problem framing canvas.	First-cut problem statement; is there a problem behind the problem; How Might We; what type of problem is this; rich picture; frame it three ways; who cares enough to act; does anyone benefit from the problem as a problem.
+Which framework classifies problem type on the problem framing canvas?	Cynefin - complex, complicated, chaotic, clear.
+Which canvas question is asked nowhere else in the course?	Does anyone benefit from the problem as a problem - a question about vested interests.
+Where can you get feedback on a draft problem statement?	The clinic - the lecturers give extensive feedback on problem statements there.
+What three points does the Lecture 9 summary slide make?	Causal loop diagrams visualise cause-and-effect relationships and system behaviour over time; leverage points are where small changes create large system-wide impacts; use causal loops to develop a clear systems problem statement before considering solutions.
+Who delivered ENGGEN403 Lecture 9?	Marc Lewis and Amanda Di Ienno.
